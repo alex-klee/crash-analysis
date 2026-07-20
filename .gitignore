@@ -4,8 +4,11 @@
 *.csv
 export_*.csv
 
-# ...but DO keep the small analysis result tables under output/.
+# ...but DO keep the small compiled dataset and result tables.
+# (Population is fetched live from the Census API, not stored.)
+!crash_counts_by_town.csv
 !output/
 !output/*.csv
+!output/*.png
 
 # Tracked intentionally: crash-analysis.R, exportdescription_*.txt, "Mark Instructions"

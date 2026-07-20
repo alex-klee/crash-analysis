@@ -9,6 +9,7 @@ Bridgeport,2021,Driver/Passenger,5858,4,1595
 Bridgeport,2022,Driver/Passenger,5577,7,1563
 Bridgeport,2023,Driver/Passenger,5328,4,1474
 Bridgeport,2024,Driver/Passenger,5413,7,1471
+Bridgeport,2025,Driver/Passenger,5374,7,1355
 Bridgeport,2015,Pedestrian/Cyclist/Other,171,1,157
 Bridgeport,2016,Pedestrian/Cyclist/Other,231,6,192
 Bridgeport,2017,Pedestrian/Cyclist/Other,241,7,204
@@ -19,6 +20,7 @@ Bridgeport,2021,Pedestrian/Cyclist/Other,120,3,108
 Bridgeport,2022,Pedestrian/Cyclist/Other,154,4,143
 Bridgeport,2023,Pedestrian/Cyclist/Other,129,3,117
 Bridgeport,2024,Pedestrian/Cyclist/Other,176,5,155
+Bridgeport,2025,Pedestrian/Cyclist/Other,165,2,140
 Connecticut (statewide),2015,Driver/Passenger,109259,203,24408
 Connecticut (statewide),2016,Driver/Passenger,113699,223,26140
 Connecticut (statewide),2017,Driver/Passenger,113499,207,25751
@@ -29,6 +31,7 @@ Connecticut (statewide),2021,Driver/Passenger,99593,238,23689
 Connecticut (statewide),2022,Driver/Passenger,101088,261,23769
 Connecticut (statewide),2023,Driver/Passenger,98704,231,23119
 Connecticut (statewide),2024,Driver/Passenger,102262,226,22900
+Connecticut (statewide),2025,Driver/Passenger,101598,172,22092
 Connecticut (statewide),2015,Pedestrian/Cyclist/Other,1910,50,1667
 Connecticut (statewide),2016,Pedestrian/Cyclist/Other,2236,74,1906
 Connecticut (statewide),2017,Pedestrian/Cyclist/Other,2149,57,1817
@@ -39,6 +42,7 @@ Connecticut (statewide),2021,Pedestrian/Cyclist/Other,1566,56,1380
 Connecticut (statewide),2022,Pedestrian/Cyclist/Other,1714,77,1532
 Connecticut (statewide),2023,Pedestrian/Cyclist/Other,1733,59,1498
 Connecticut (statewide),2024,Pedestrian/Cyclist/Other,1998,65,1718
+Connecticut (statewide),2025,Pedestrian/Cyclist/Other,1836,60,1583
 Hartford,2015,Driver/Passenger,6580,5,1592
 Hartford,2016,Driver/Passenger,7401,8,1862
 Hartford,2017,Driver/Passenger,6795,9,1657
@@ -49,6 +53,7 @@ Hartford,2021,Driver/Passenger,5343,12,1445
 Hartford,2022,Driver/Passenger,5227,8,1391
 Hartford,2023,Driver/Passenger,5368,5,1439
 Hartford,2024,Driver/Passenger,5915,9,1398
+Hartford,2025,Driver/Passenger,6233,10,1428
 Hartford,2015,Pedestrian/Cyclist/Other,186,4,167
 Hartford,2016,Pedestrian/Cyclist/Other,235,2,217
 Hartford,2017,Pedestrian/Cyclist/Other,209,1,193
@@ -59,6 +64,7 @@ Hartford,2021,Pedestrian/Cyclist/Other,99,5,95
 Hartford,2022,Pedestrian/Cyclist/Other,115,7,106
 Hartford,2023,Pedestrian/Cyclist/Other,146,6,130
 Hartford,2024,Pedestrian/Cyclist/Other,191,7,163
+Hartford,2025,Pedestrian/Cyclist/Other,189,5,164
 New Haven,2015,Driver/Passenger,6298,7,1401
 New Haven,2016,Driver/Passenger,6106,12,1519
 New Haven,2017,Driver/Passenger,5917,8,1625
@@ -69,6 +75,7 @@ New Haven,2021,Driver/Passenger,6600,12,1621
 New Haven,2022,Driver/Passenger,6737,13,1573
 New Haven,2023,Driver/Passenger,6617,8,1477
 New Haven,2024,Driver/Passenger,6406,9,1413
+New Haven,2025,Driver/Passenger,6604,5,1261
 New Haven,2015,Pedestrian/Cyclist/Other,165,0,141
 New Haven,2016,Pedestrian/Cyclist/Other,212,3,189
 New Haven,2017,Pedestrian/Cyclist/Other,254,3,215
@@ -79,6 +86,7 @@ New Haven,2021,Pedestrian/Cyclist/Other,181,11,159
 New Haven,2022,Pedestrian/Cyclist/Other,210,5,189
 New Haven,2023,Pedestrian/Cyclist/Other,202,7,179
 New Haven,2024,Pedestrian/Cyclist/Other,213,5,178
+New Haven,2025,Pedestrian/Cyclist/Other,193,6,168
 Stamford,2015,Driver/Passenger,5248,1,870
 Stamford,2016,Driver/Passenger,5305,1,869
 Stamford,2017,Driver/Passenger,4613,6,705
@@ -89,6 +97,7 @@ Stamford,2021,Driver/Passenger,4008,3,731
 Stamford,2022,Driver/Passenger,4074,5,731
 Stamford,2023,Driver/Passenger,3833,5,723
 Stamford,2024,Driver/Passenger,3855,5,715
+Stamford,2025,Driver/Passenger,3792,0,731
 Stamford,2015,Pedestrian/Cyclist/Other,124,2,114
 Stamford,2016,Pedestrian/Cyclist/Other,143,4,137
 Stamford,2017,Pedestrian/Cyclist/Other,106,2,97
@@ -99,6 +108,7 @@ Stamford,2021,Pedestrian/Cyclist/Other,119,0,112
 Stamford,2022,Pedestrian/Cyclist/Other,121,4,115
 Stamford,2023,Pedestrian/Cyclist/Other,119,4,102
 Stamford,2024,Pedestrian/Cyclist/Other,110,1,100
+Stamford,2025,Pedestrian/Cyclist/Other,122,1,118
 Waterbury,2015,Driver/Passenger,5067,12,1250
 Waterbury,2016,Driver/Passenger,5552,9,1428
 Waterbury,2017,Driver/Passenger,5928,10,1500
@@ -109,6 +119,7 @@ Waterbury,2021,Driver/Passenger,5179,6,1408
 Waterbury,2022,Driver/Passenger,4806,15,1342
 Waterbury,2023,Driver/Passenger,4630,12,1211
 Waterbury,2024,Driver/Passenger,4401,10,1127
+Waterbury,2025,Driver/Passenger,4439,6,1068
 Waterbury,2015,Pedestrian/Cyclist/Other,114,4,99
 Waterbury,2016,Pedestrian/Cyclist/Other,112,3,99
 Waterbury,2017,Pedestrian/Cyclist/Other,133,6,114
@@ -119,3 +130,4 @@ Waterbury,2021,Pedestrian/Cyclist/Other,112,1,98
 Waterbury,2022,Pedestrian/Cyclist/Other,111,6,97
 Waterbury,2023,Pedestrian/Cyclist/Other,96,3,82
 Waterbury,2024,Pedestrian/Cyclist/Other,135,6,117
+Waterbury,2025,Pedestrian/Cyclist/Other,101,1,88
