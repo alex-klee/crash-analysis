@@ -13,11 +13,10 @@ library(jsonlite)   # live Census API calls for population denominators
 
 # Compile-once analysis dataset
 
-# The raw exports total ~2.9 GB and are git-ignored. This script compiles them
-# ONCE into a small crash_counts_by_town.csv -- counts of the three metrics by
-# town x year x road-user group (a few thousand rows, ~200 KB) -- which IS
-# committed to git, so the whole analysis is reproducible without the raw data.
-# Delete crash_counts_by_town.csv (or when the raw files change) to rebuild.
+# The raw csv exports total are too big to uplaod to git
+# This compiles them into a small crash_counts_by_town.csv that only includes the 
+# three metrics by town x year x road-user group which is committed to git
+# Delete crash_counts_by_town.csv (or when the raw files change) to rebuild
 compiled_file <- "crash_counts_by_town.csv"
 
 build_town_counts <- function() {
@@ -35,8 +34,8 @@ build_town_counts <- function() {
       call. = FALSE
     )
   }
-  # The crash file has 107 columns with several repeated names (CrashId appears
-  # 3x, etc.), so select by stable POSITION rather than name:
+  # The crash file has 107 columns with several repeated names (CrashId appears 3x, etc.)
+  # -> select by stable POSITION rather than name:
   #  1 CrashId, 9 Town Name, 14 Year, 23 Crash Severity, 28 Number Of Non-Motorist
   crash_cols <- c(crash_id = 1L, town = 9L, year = 14L,
                   severity = 23L, n_nonmotor = 28L)
@@ -60,8 +59,7 @@ build_town_counts <- function() {
       is_injury_fatal = severity %in% c("A", "K")   # anything not "O"
     ) |>
     # Query date-ranges overlap on boundary days (2020/2022/2025-01-01), so a
-    # crash can appear in two exports -> de-duplicate on the crash id. The 2025
-    # export (188524) completes the series, so keep 2015 through 2025.
+    # crash can appear in two exports -> de-duplicate on the crash id
     distinct(crash_id, .keep_all = TRUE) |>
     filter(!is.na(year), year >= 2015L, year <= 2025L) |>
     group_by(town, year, group) |>
@@ -148,14 +146,11 @@ walk(c("New Haven", "Waterbury", "Connecticut (statewide)"), print_geo)
 
 # Per-capita rates + time-series graph
 
-# Population denominators are fetched LIVE from the U.S. Census Bureau API each
-# run -- nothing is stored, and every figure is an official Census value (no
-# interpolation or extrapolation on our part):
+# Population denominators are fetched from Census API each run
 #   2015-2019, 2021-2024 : ACS 1-year estimates (B01003_001E)
 #   2020                 : 2020 Decennial Census (P1_001N); ACS 1-yr not released
-# Years with no published Census figure yet (e.g. 2025 until the ACS 1-year
-# release in late 2026) simply have no denominator -> their per-capita rates
-# are left out of the graph rather than estimated.
+# 2025 has no published figure yet; it is handled just below by carrying the
+# 2024 value forward (see that block).
 # Requires CENSUS_API_KEY in the environment (e.g. ~/.Renviron).
 fetch_census_population <- function() {
   key <- Sys.getenv("CENSUS_API_KEY")
@@ -229,18 +224,9 @@ rates_long <- indicators_long |>
                     labels = metric_labels)
   )
 
-# Years present in the crash data but with no published Census population yet
-# (e.g. 2025) get NA rates -- we omit them from the graph rather than estimate.
-missing_pop_years <- rates_long |>
-  filter(is.na(population)) |> distinct(year) |> pull(year) |> sort()
-if (length(missing_pop_years))
-  message("No published Census population for: ",
-          str_c(missing_pop_years, collapse = ", "),
-          " -> per-capita rates omitted for those years (counts still reported).")
+write_csv(rates_long, "output/crash_rates_per_100k.csv")
 
-write_csv(rates_long, "output/crash_rates_per_100k.csv")  # NA rates kept, transparent
-
-# Plot only years with an official denominator.
+# Plot only years that have a denominator
 rate_data <- rates_long |> filter(!is.na(rate_per_100k))
 rate_span <- range(rate_data$year)
 
