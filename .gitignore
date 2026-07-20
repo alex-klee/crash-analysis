@@ -1,0 +1,7 @@
+# Crash data exports — too large for GitHub (100 MB/file limit), kept local only.
+# Data is reproducible from the CT Crash Data Repository (query URLs are in the
+# first line of each CSV and summarized in the exportdescription_*.txt files).
+*.csv
+export_*.csv
+
+# Tracked intentionally: crash-analysis.R, exportdescription_*.txt, "Mark Instructions"
