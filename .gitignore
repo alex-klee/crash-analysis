@@ -4,4 +4,8 @@
 *.csv
 export_*.csv
 
+# ...but DO keep the small analysis result tables under output/.
+!output/
+!output/*.csv
+
 # Tracked intentionally: crash-analysis.R, exportdescription_*.txt, "Mark Instructions"
