@@ -91,24 +91,103 @@ if (file.exists(compiled_file)) {
           min(town_counts$year), "-", max(town_counts$year), ").")
 }
 
+# Compile-once fatalities dataset (PERSONS KILLED)
+
+# Fatal CRASHES (above) count crashes with >=1 death. Actual FATALITIES count
+# people killed, which can exceed fatal crashes (multi-death crashes) and is the
+# SS4A-style quantity. Persons killed live in the person-level _2 files
+# (Injury Status K), classified by Person Type, joined to the crash _0 files for
+# town/year. Compiled once to a small fatalities_by_town.csv (committed to git).
+fatalities_file <- "fatalities_by_town.csv"
+
+build_fatalities <- function() {
+  raw_dir <- "raw_data"
+  person_files <- list.files(raw_dir, pattern = "^export_\\d+_2\\.csv$",
+                             full.names = TRUE)
+  crash_files  <- list.files(raw_dir, pattern = "^export_\\d+_0\\.csv$",
+                             full.names = TRUE)
+  if (length(person_files) == 0 || length(crash_files) == 0)
+    stop("'", fatalities_file, "' is missing and the raw _0/_2 exports were not ",
+         "found in raw_data/. Restore the compiled file or the raw data.",
+         call. = FALSE)
+
+  read_raw <- function(path, sel)
+    read_csv(path, skip = 1, col_select = all_of(sel),
+             col_types = cols(.default = col_character()),
+             locale = locale(encoding = "Windows-1252"),
+             name_repair = "minimal", show_col_types = FALSE)
+
+  # CrashId -> town, year (dedup: same crash appears across boundary exports).
+  message("Building fatalities: reading crash files for town/year ...")
+  crash_map <- map(crash_files, ~read_raw(.x, c(crash_id = 1L, town = 9L,
+                                                year = 14L))) |>
+    list_rbind() |>
+    mutate(year = as.integer(year)) |>
+    distinct(crash_id, .keep_all = TRUE)
+
+  # Persons killed (Injury Status K), classified by Person Type. Motorists =
+  # driver/passenger/occupant (1,2,7); non-motorists = ped/cyclist/other
+  # (3,4,5,6,8); anything else (witness/unknown) kept as Other so it still
+  # counts toward the all-road-users total.
+  motorist <- c("1", "2", "7")
+  nonmotor <- c("3", "4", "5", "6", "8")
+  message("Building fatalities: reading person files (Injury Status K) ...")
+  map(person_files, ~read_raw(.x, c(crash_id = 1L, person_id = 3L,
+                                    ptype = 9L, injury = 11L))) |>
+    list_rbind() |>
+    filter(injury == "K") |>
+    distinct(crash_id, person_id, .keep_all = TRUE) |>   # dedup boundary overlaps
+    mutate(group = case_when(ptype %in% motorist ~ "Driver/Passenger",
+                             ptype %in% nonmotor ~ "Pedestrian/Cyclist/Other",
+                             TRUE               ~ "Other/Unknown")) |>
+    inner_join(crash_map, by = "crash_id") |>
+    filter(!is.na(year), year >= 2015L, year <= 2025L) |>
+    group_by(town, year, group) |>
+    summarise(deaths = n(), .groups = "drop")
+}
+
+if (file.exists(fatalities_file)) {
+  message("Using existing ", fatalities_file, " (delete it to rebuild from raw).")
+  fatal_counts <- read_csv(fatalities_file, show_col_types = FALSE,
+    col_types = cols(town = "c", year = "i", group = "c", deaths = "i"))
+} else {
+  fatal_counts <- build_fatalities()
+  write_csv(fatal_counts, fatalities_file)
+  message("Wrote ", fatalities_file, " (", nrow(fatal_counts), " rows, ",
+          sum(fatal_counts$deaths), " deaths ",
+          min(fatal_counts$year), "-", max(fatal_counts$year), ").")
+}
+
 # Geographies of interest
 
-# Focus on New Haven and Waterbury + comparison cities; plus a statewide total
+# Focus on New Haven and Waterbury + comparison cities. report_towns are also
+# the five most populous CT cities. Two aggregate benchmark lines are added:
+# the five largest cities combined, and the statewide total.
 focus_towns <- c("New Haven", "Waterbury")
 comparison_towns <- c("Hartford", "Stamford", "Bridgeport")
-report_towns <- c(focus_towns, comparison_towns)
+report_towns <- c(focus_towns, comparison_towns)   # = the 5 largest CT cities
+big5_label   <- "Five largest cities"
+state_label  <- "Connecticut (statewide)"
+aggregates   <- c(big5_label, state_label)          # emphasized benchmark lines
 
 # Per-town counts are already at town x year x group grain
 by_town <- town_counts |> rename(geography = town)
 
-# Statewide ("Connecticut") totals: sum every town within each year x group
+# Statewide total: sum every town within each year x group
 by_state <- town_counts |>
-  group_by(geography = "Connecticut (statewide)", year, group) |>
+  group_by(geography = state_label, year, group) |>
+  summarise(across(ends_with("_crashes"), sum), .groups = "drop")
+
+# Five largest cities combined: sum just the report towns (pooled -> less noisy
+# than any single city, especially for the sparse pedestrian/fatal counts)
+by_big5 <- town_counts |>
+  filter(town %in% report_towns) |>
+  group_by(geography = big5_label, year, group) |>
   summarise(across(ends_with("_crashes"), sum), .groups = "drop")
 
 # Long tidy table: one row per geography x year x group, three metric columns
-indicators_long <- bind_rows(by_town, by_state) |>
-  filter(geography %in% c(report_towns, "Connecticut (statewide)")) |>
+indicators_long <- bind_rows(by_town, by_state, by_big5) |>
+  filter(geography %in% c(report_towns, aggregates)) |>
   arrange(geography, group, year)
 
 # Six indicators by year
@@ -147,7 +226,7 @@ print_geo <- function(geo) {
     arrange(year) |>
     print(n = Inf, width = Inf)
 }
-walk(c("New Haven", "Waterbury", "Connecticut (statewide)"), print_geo)
+walk(c("New Haven", "Waterbury", big5_label, state_label), print_geo)
 
 # Per-capita rates + time-series graph
 
@@ -200,6 +279,15 @@ fetch_census_population <- function() {
 
 population <- fetch_census_population()
 
+# Combined denominator for the "Five largest cities" line = sum of their populations
+population <- population |>
+  bind_rows(
+    population |> filter(geography %in% report_towns) |>
+      group_by(year) |>
+      summarise(population = sum(population), .groups = "drop") |>
+      mutate(geography = big5_label)
+  )
+
 # 2025 has no published Census figure yet so carried 2024 ACS value forward as the 2025 denominator for the per-capita graph
 population <- population |>
   bind_rows(population |> filter(year == 2024L) |> mutate(year = 2025L))
@@ -232,17 +320,19 @@ rate_span <- range(rate_data$year)
 # facet_wrap gives every panel its OWN y-scale, so the small fatal-crash rates
 # stay legible instead of being flattened by the much larger total-crash rates
 rate_plot <- rate_data |>
+  mutate(kind = if_else(geography %in% aggregates, "aggregate", "city")) |>
   ggplot(aes(year, rate_per_100k, colour = geography)) +
-  geom_line(linewidth = 0.7) +
+  geom_line(aes(linewidth = kind)) +
   geom_point(size = 1.1) +
   facet_wrap(vars(group, metric), scales = "free_y", nrow = 2,
              labeller = labeller(.multi_line = FALSE)) +
   scale_x_continuous(breaks = seq(rate_span[1], rate_span[2], 2)) +
   scale_colour_brewer(palette = "Dark2") +
+  scale_linewidth_manual(values = c(city = 0.6, aggregate = 1.4), guide = "none") +
   labs(
     title    = sprintf("Connecticut crash indicators per 100,000 residents, %d-%d",
                        rate_span[1], rate_span[2]),
-    subtitle = "By road-user group; New Haven & Waterbury vs. comparison cities and the state",
+    subtitle = "By road-user group; individual cities (thin) vs. five-largest-cities and statewide benchmarks (thick)",
     x = NULL, y = "Crashes per 100,000 residents", colour = NULL,
     caption  = "Sources: CT Crash Data Repository (ctcrash.uconn.edu); population from U.S. Census ACS 1-year estimates (2020: Decennial Census; 2025: 2024 ACS carried forward)."
   ) +
@@ -252,12 +342,141 @@ rate_plot <- rate_data |>
         plot.title = element_text(face = "bold"))
 
 ggsave("output/crash_rates_per_100k.png", rate_plot,
-       width = 11, height = 6.5, dpi = 150)
+       width = 11, height = 6.5, dpi = 300, device = ragg::agg_png)
 
 # Draw it to the Plots pane too (in addition to the saved PNG)
 print(rate_plot)
 
+# Fatal-crash share + graph
+
+# Share of crashes that are fatal (fatal / total, as a %). This is a proportion,
+# not a per-capita rate, so it needs no population and covers ALL years (incl.
+# 2025). Same geographic breakdown as the rates graph, faceted by road-user
+# group plus an "All road users" panel (= fatal crashes out of all crashes).
+# Fatal shares differ hugely between groups (pedestrian/cyclist crashes are far
+# likelier to be fatal), so panels use free y-scales.
+fatal_share <- indicators_long |>
+  bind_rows(
+    indicators_long |>
+      group_by(geography, year) |>
+      summarise(across(ends_with("_crashes"), sum), .groups = "drop") |>
+      mutate(group = "All road users")
+  ) |>
+  mutate(
+    fatal_pct = fatal_crashes / total_crashes * 100,
+    group = factor(group, levels = c("All road users", "Driver/Passenger",
+                                     "Pedestrian/Cyclist/Other"))
+  ) |>
+  arrange(geography, group, year)
+
+write_csv(
+  fatal_share |> select(geography, year, group, total_crashes, fatal_crashes,
+                        fatal_pct),
+  "output/fatal_share.csv"
+)
+
+fatal_span <- range(fatal_share$year)
+fatal_plot <- fatal_share |>
+  mutate(kind = if_else(geography %in% aggregates, "aggregate", "city")) |>
+  ggplot(aes(year, fatal_pct, colour = geography)) +
+  geom_line(aes(linewidth = kind)) +
+  geom_point(size = 1.1) +
+  facet_wrap(vars(group), scales = "free_y", nrow = 1) +
+  scale_x_continuous(breaks = seq(fatal_span[1], fatal_span[2], 2)) +
+  scale_colour_brewer(palette = "Dark2") +
+  scale_linewidth_manual(values = c(city = 0.6, aggregate = 1.4), guide = "none") +
+  scale_y_continuous(labels = scales::label_percent(scale = 1)) +
+  labs(
+    title    = sprintf("Share of Connecticut crashes that are fatal, %d-%d",
+                       fatal_span[1], fatal_span[2]),
+    subtitle = "Fatal crashes as a percent of all crashes; individual cities (thin) vs. five-largest-cities and statewide benchmarks (thick)",
+    x = NULL, y = "Fatal crashes (% of crashes)", colour = NULL,
+    caption  = "Source: CT Crash Data Repository (ctcrash.uconn.edu). Crash severity K = fatal."
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(legend.position = "bottom",
+        panel.grid.minor = element_blank(),
+        plot.title = element_text(face = "bold"))
+
+ggsave("output/fatal_share.png", fatal_plot,
+       width = 11, height = 4.8, dpi = 300, device = ragg::agg_png)
+print(fatal_plot)
+
+# Fatalities (persons killed) per capita + graph
+
+# "Pure" fatalities: PERSONS KILLED per 100,000 residents (SS4A-style), from the
+# person-level fatalities_by_town.csv. Same geographies + benchmark lines as the
+# rates graph, faceted by victim type plus "All road users" (= every person
+# killed). Uses the same population denominators, so like the rates graph it
+# carries 2024 population forward for 2025.
+fatal_geo <- bind_rows(
+  fatal_counts |> rename(geography = town),
+  fatal_counts |> group_by(geography = state_label, year, group) |>
+    summarise(deaths = sum(deaths), .groups = "drop"),
+  fatal_counts |> filter(town %in% report_towns) |>
+    group_by(geography = big5_label, year, group) |>
+    summarise(deaths = sum(deaths), .groups = "drop")
+) |>
+  filter(geography %in% c(report_towns, aggregates))
+
+# All road users = every person killed (incl. Other/Unknown victim types).
+deaths_display <- bind_rows(
+  fatal_geo,
+  fatal_geo |> group_by(geography, year) |>
+    summarise(deaths = sum(deaths), group = "All road users", .groups = "drop")
+) |>
+  filter(group %in% c("All road users", "Driver/Passenger",
+                      "Pedestrian/Cyclist/Other")) |>
+  # Years with zero deaths in a cell are absent -> fill 0 so lines don't gap.
+  complete(nesting(geography), year = 2015:2025,
+           group = c("All road users", "Driver/Passenger",
+                     "Pedestrian/Cyclist/Other"),
+           fill = list(deaths = 0)) |>
+  left_join(population, by = c("geography", "year")) |>
+  mutate(
+    deaths_per_100k = deaths / population * 1e5,
+    group = factor(group, levels = c("All road users", "Driver/Passenger",
+                                     "Pedestrian/Cyclist/Other"))
+  )
+
+write_csv(
+  deaths_display |> select(geography, year, group, deaths, population,
+                           deaths_per_100k),
+  "output/fatalities_per_100k.csv"
+)
+
+deaths_plotdata <- deaths_display |> filter(!is.na(deaths_per_100k))
+deaths_span <- range(deaths_plotdata$year)
+deaths_plot <- deaths_plotdata |>
+  mutate(kind = if_else(geography %in% aggregates, "aggregate", "city")) |>
+  ggplot(aes(year, deaths_per_100k, colour = geography)) +
+  geom_line(aes(linewidth = kind)) +
+  geom_point(size = 1.1) +
+  facet_wrap(vars(group), scales = "free_y", nrow = 1) +
+  scale_x_continuous(breaks = seq(deaths_span[1], deaths_span[2], 2)) +
+  scale_colour_brewer(palette = "Dark2") +
+  scale_linewidth_manual(values = c(city = 0.6, aggregate = 1.4), guide = "none") +
+  labs(
+    title    = sprintf("Connecticut traffic fatalities per 100,000 residents, %d-%d",
+                       deaths_span[1], deaths_span[2]),
+    subtitle = "Persons killed (not fatal crashes), by victim type; individual cities (thin) vs. five-largest-cities and statewide benchmarks (thick)",
+    x = NULL, y = "Persons killed per 100,000 residents", colour = NULL,
+    caption  = "Source: CT Crash Data Repository (ctcrash.uconn.edu), person-level Injury Status K. Population: U.S. Census ACS 1-year (2020: Decennial; 2025: 2024 carried forward)."
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(legend.position = "bottom",
+        panel.grid.minor = element_blank(),
+        plot.title = element_text(face = "bold"))
+
+ggsave("output/fatalities_per_100k.png", deaths_plot,
+       width = 11, height = 4.8, dpi = 300, device = ragg::agg_png)
+print(deaths_plot)
+
 message("\nWrote:\n  output/crash_indicators_long.csv       (tidy: geography x year x group)",
         "\n  output/crash_indicators_by_year_wide.csv (six indicators by year)",
         "\n  output/crash_rates_per_100k.csv          (per-capita rates, tidy)",
-        "\n  output/crash_rates_per_100k.png          (per-capita time-series graph)")
+        "\n  output/crash_rates_per_100k.png          (per-capita time-series graph)",
+        "\n  output/fatal_share.csv                   (fatal % of crashes, tidy)",
+        "\n  output/fatal_share.png                   (fatal-share time-series graph)",
+        "\n  output/fatalities_per_100k.csv           (persons killed per 100k, tidy)",
+        "\n  output/fatalities_per_100k.png           (fatalities per-capita graph)")

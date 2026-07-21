@@ -7,6 +7,7 @@ raw_data/*.csv
 # ...but DO keep the small compiled dataset and result tables.
 # (Population is fetched live from the Census API, not stored.)
 !crash_counts_by_town.csv
+!fatalities_by_town.csv
 !output/
 !output/*.csv
 !output/*.png

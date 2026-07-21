@@ -1,0 +1,232 @@
+geography,year,group,total_crashes,fatal_crashes,fatal_pct
+Bridgeport,2015,All road users,5535,2,0.03613369467028004
+Bridgeport,2016,All road users,6777,14,0.20658108307510697
+Bridgeport,2017,All road users,6635,10,0.15071590052750566
+Bridgeport,2018,All road users,6276,11,0.1752708731676227
+Bridgeport,2019,All road users,6324,3,0.04743833017077799
+Bridgeport,2020,All road users,5195,16,0.30798845043310874
+Bridgeport,2021,All road users,5978,7,0.117096018735363
+Bridgeport,2022,All road users,5731,11,0.19193857965451055
+Bridgeport,2023,All road users,5457,7,0.12827560930914422
+Bridgeport,2024,All road users,5589,12,0.2147074610842727
+Bridgeport,2025,All road users,5539,9,0.16248420292471566
+Bridgeport,2015,Driver/Passenger,5364,1,0.018642803877703205
+Bridgeport,2016,Driver/Passenger,6546,8,0.12221203788573175
+Bridgeport,2017,Driver/Passenger,6394,3,0.046918986549890525
+Bridgeport,2018,Driver/Passenger,6090,7,0.11494252873563218
+Bridgeport,2019,Driver/Passenger,6139,0,0
+Bridgeport,2020,Driver/Passenger,5075,13,0.25615763546798026
+Bridgeport,2021,Driver/Passenger,5858,4,0.06828269033799932
+Bridgeport,2022,Driver/Passenger,5577,7,0.12551551013089476
+Bridgeport,2023,Driver/Passenger,5328,4,0.07507507507507508
+Bridgeport,2024,Driver/Passenger,5413,7,0.12931830777757253
+Bridgeport,2025,Driver/Passenger,5374,7,0.13025679196129514
+Bridgeport,2015,Pedestrian/Cyclist/Other,171,1,0.5847953216374269
+Bridgeport,2016,Pedestrian/Cyclist/Other,231,6,2.5974025974025974
+Bridgeport,2017,Pedestrian/Cyclist/Other,241,7,2.904564315352697
+Bridgeport,2018,Pedestrian/Cyclist/Other,186,4,2.1505376344086025
+Bridgeport,2019,Pedestrian/Cyclist/Other,185,3,1.6216216216216217
+Bridgeport,2020,Pedestrian/Cyclist/Other,120,3,2.5
+Bridgeport,2021,Pedestrian/Cyclist/Other,120,3,2.5
+Bridgeport,2022,Pedestrian/Cyclist/Other,154,4,2.5974025974025974
+Bridgeport,2023,Pedestrian/Cyclist/Other,129,3,2.3255813953488373
+Bridgeport,2024,Pedestrian/Cyclist/Other,176,5,2.840909090909091
+Bridgeport,2025,Pedestrian/Cyclist/Other,165,2,1.2121212121212122
+Connecticut (statewide),2015,All road users,111169,253,0.22758143007493098
+Connecticut (statewide),2016,All road users,115935,297,0.25617803079311685
+Connecticut (statewide),2017,All road users,115648,264,0.22827891532927502
+Connecticut (statewide),2018,All road users,114156,281,0.24615438522723293
+Connecticut (statewide),2019,All road users,112611,238,0.21134702648941936
+Connecticut (statewide),2020,All road users,83791,285,0.3401319950830041
+Connecticut (statewide),2021,All road users,101159,294,0.2906315799879398
+Connecticut (statewide),2022,All road users,102802,338,0.3287873776774771
+Connecticut (statewide),2023,All road users,100437,290,0.288738214004799
+Connecticut (statewide),2024,All road users,104260,291,0.27910991751390757
+Connecticut (statewide),2025,All road users,103434,232,0.22429761973819054
+Connecticut (statewide),2015,Driver/Passenger,109259,203,0.18579705104384994
+Connecticut (statewide),2016,Driver/Passenger,113699,223,0.19613189210107387
+Connecticut (statewide),2017,Driver/Passenger,113499,207,0.18238046150186346
+Connecticut (statewide),2018,Driver/Passenger,112199,217,0.19340635834543982
+Connecticut (statewide),2019,Driver/Passenger,110511,181,0.1637846006279918
+Connecticut (statewide),2020,Driver/Passenger,82201,218,0.2652035863310665
+Connecticut (statewide),2021,Driver/Passenger,99593,238,0.23897261855752913
+Connecticut (statewide),2022,Driver/Passenger,101088,261,0.2581908831908832
+Connecticut (statewide),2023,Driver/Passenger,98704,231,0.2340330685686497
+Connecticut (statewide),2024,Driver/Passenger,102262,226,0.22100095832273964
+Connecticut (statewide),2025,Driver/Passenger,101598,172,0.16929467115494398
+Connecticut (statewide),2015,Pedestrian/Cyclist/Other,1910,50,2.6178010471204187
+Connecticut (statewide),2016,Pedestrian/Cyclist/Other,2236,74,3.309481216457961
+Connecticut (statewide),2017,Pedestrian/Cyclist/Other,2149,57,2.652396463471382
+Connecticut (statewide),2018,Pedestrian/Cyclist/Other,1957,64,3.2703117015840575
+Connecticut (statewide),2019,Pedestrian/Cyclist/Other,2100,57,2.7142857142857144
+Connecticut (statewide),2020,Pedestrian/Cyclist/Other,1590,67,4.213836477987421
+Connecticut (statewide),2021,Pedestrian/Cyclist/Other,1566,56,3.5759897828863343
+Connecticut (statewide),2022,Pedestrian/Cyclist/Other,1714,77,4.492415402567095
+Connecticut (statewide),2023,Pedestrian/Cyclist/Other,1733,59,3.4045008655510673
+Connecticut (statewide),2024,Pedestrian/Cyclist/Other,1998,65,3.2532532532532534
+Connecticut (statewide),2025,Pedestrian/Cyclist/Other,1836,60,3.2679738562091507
+Five largest cities,2015,All road users,29317,37,0.12620663778694954
+Five largest cities,2016,All road users,31843,56,0.17586282699494393
+Five largest cities,2017,All road users,30590,55,0.17979731938542007
+Five largest cities,2018,All road users,31930,66,0.2067021609771375
+Five largest cities,2019,All road users,31559,49,0.15526474222884123
+Five largest cities,2020,All road users,24724,65,0.26290244297039317
+Five largest cities,2021,All road users,27619,57,0.20637966617183826
+Five largest cities,2022,All road users,27132,74,0.2727406752174554
+Five largest cities,2023,All road users,26468,57,0.21535439020704247
+Five largest cities,2024,All road users,26815,64,0.2386723848592206
+Five largest cities,2025,All road users,27212,43,0.15801852124062912
+Five largest cities,2015,Driver/Passenger,28557,26,0.0910459782190006
+Five largest cities,2016,Driver/Passenger,30910,38,0.1229375606599806
+Five largest cities,2017,Driver/Passenger,29647,36,0.12142881235875469
+Five largest cities,2018,Driver/Passenger,31092,45,0.14473176379776148
+Five largest cities,2019,Driver/Passenger,30618,30,0.09798157946306094
+Five largest cities,2020,Driver/Passenger,24049,39,0.16216890515198137
+Five largest cities,2021,Driver/Passenger,26988,37,0.13709796946791167
+Five largest cities,2022,Driver/Passenger,26421,48,0.18167366867264675
+Five largest cities,2023,Driver/Passenger,25776,34,0.1319056486654252
+Five largest cities,2024,Driver/Passenger,25990,40,0.15390534821085033
+Five largest cities,2025,Driver/Passenger,26442,28,0.10589214129037139
+Five largest cities,2015,Pedestrian/Cyclist/Other,760,11,1.4473684210526316
+Five largest cities,2016,Pedestrian/Cyclist/Other,933,18,1.929260450160772
+Five largest cities,2017,Pedestrian/Cyclist/Other,943,19,2.014846235418876
+Five largest cities,2018,Pedestrian/Cyclist/Other,838,21,2.5059665871121717
+Five largest cities,2019,Pedestrian/Cyclist/Other,941,19,2.0191285866099893
+Five largest cities,2020,Pedestrian/Cyclist/Other,675,26,3.851851851851852
+Five largest cities,2021,Pedestrian/Cyclist/Other,631,20,3.1695721077654517
+Five largest cities,2022,Pedestrian/Cyclist/Other,711,26,3.6568213783403656
+Five largest cities,2023,Pedestrian/Cyclist/Other,692,23,3.3236994219653178
+Five largest cities,2024,Pedestrian/Cyclist/Other,825,24,2.909090909090909
+Five largest cities,2025,Pedestrian/Cyclist/Other,770,15,1.948051948051948
+Hartford,2015,All road users,6766,9,0.13301803133313625
+Hartford,2016,All road users,7636,10,0.13095861707700368
+Hartford,2017,All road users,7004,10,0.1427755568246716
+Hartford,2018,All road users,6988,21,0.3005151688609044
+Hartford,2019,All road users,7127,15,0.21046723726673217
+Hartford,2020,All road users,5525,17,0.3076923076923077
+Hartford,2021,All road users,5442,17,0.31238515251745685
+Hartford,2022,All road users,5342,15,0.28079371022089106
+Hartford,2023,All road users,5514,11,0.19949220166848025
+Hartford,2024,All road users,6106,16,0.26203734032099574
+Hartford,2025,All road users,6422,15,0.23357209592027406
+Hartford,2015,Driver/Passenger,6580,5,0.07598784194528875
+Hartford,2016,Driver/Passenger,7401,8,0.1080935008782597
+Hartford,2017,Driver/Passenger,6795,9,0.13245033112582782
+Hartford,2018,Driver/Passenger,6795,12,0.17660044150110377
+Hartford,2019,Driver/Passenger,6924,12,0.17331022530329288
+Hartford,2020,Driver/Passenger,5374,13,0.24190547078526237
+Hartford,2021,Driver/Passenger,5343,12,0.22459292532285235
+Hartford,2022,Driver/Passenger,5227,8,0.15305146355462024
+Hartford,2023,Driver/Passenger,5368,5,0.09314456035767511
+Hartford,2024,Driver/Passenger,5915,9,0.1521555367709214
+Hartford,2025,Driver/Passenger,6233,10,0.16043638697256538
+Hartford,2015,Pedestrian/Cyclist/Other,186,4,2.1505376344086025
+Hartford,2016,Pedestrian/Cyclist/Other,235,2,0.851063829787234
+Hartford,2017,Pedestrian/Cyclist/Other,209,1,0.4784688995215311
+Hartford,2018,Pedestrian/Cyclist/Other,193,9,4.66321243523316
+Hartford,2019,Pedestrian/Cyclist/Other,203,3,1.477832512315271
+Hartford,2020,Pedestrian/Cyclist/Other,151,4,2.6490066225165565
+Hartford,2021,Pedestrian/Cyclist/Other,99,5,5.05050505050505
+Hartford,2022,Pedestrian/Cyclist/Other,115,7,6.086956521739131
+Hartford,2023,Pedestrian/Cyclist/Other,146,6,4.10958904109589
+Hartford,2024,Pedestrian/Cyclist/Other,191,7,3.664921465968586
+Hartford,2025,Pedestrian/Cyclist/Other,189,5,2.6455026455026456
+New Haven,2015,All road users,6463,7,0.10830883490639022
+New Haven,2016,All road users,6318,15,0.23741690408357075
+New Haven,2017,All road users,6171,11,0.17825311942959002
+New Haven,2018,All road users,7369,19,0.25783688424480933
+New Haven,2019,All road users,7556,17,0.2249867654843833
+New Haven,2020,All road users,5739,17,0.29621885345879073
+New Haven,2021,All road users,6781,23,0.33918301135525736
+New Haven,2022,All road users,6947,18,0.25910464948898804
+New Haven,2023,All road users,6819,15,0.21997360316761988
+New Haven,2024,All road users,6619,14,0.21151231303822327
+New Haven,2025,All road users,6797,11,0.16183610416360159
+New Haven,2015,Driver/Passenger,6298,7,0.11114639568116863
+New Haven,2016,Driver/Passenger,6106,12,0.1965280052407468
+New Haven,2017,Driver/Passenger,5917,8,0.13520365049856345
+New Haven,2018,Driver/Passenger,7147,16,0.22387015530992024
+New Haven,2019,Driver/Passenger,7269,9,0.12381345439537762
+New Haven,2020,Driver/Passenger,5545,6,0.10820559062218214
+New Haven,2021,Driver/Passenger,6600,12,0.18181818181818182
+New Haven,2022,Driver/Passenger,6737,13,0.19296422740092029
+New Haven,2023,Driver/Passenger,6617,8,0.12090071029167296
+New Haven,2024,Driver/Passenger,6406,9,0.1404932875429285
+New Haven,2025,Driver/Passenger,6604,5,0.07571168988491823
+New Haven,2015,Pedestrian/Cyclist/Other,165,0,0
+New Haven,2016,Pedestrian/Cyclist/Other,212,3,1.4150943396226416
+New Haven,2017,Pedestrian/Cyclist/Other,254,3,1.1811023622047243
+New Haven,2018,Pedestrian/Cyclist/Other,222,3,1.3513513513513513
+New Haven,2019,Pedestrian/Cyclist/Other,287,8,2.7874564459930316
+New Haven,2020,Pedestrian/Cyclist/Other,194,11,5.670103092783505
+New Haven,2021,Pedestrian/Cyclist/Other,181,11,6.077348066298343
+New Haven,2022,Pedestrian/Cyclist/Other,210,5,2.380952380952381
+New Haven,2023,Pedestrian/Cyclist/Other,202,7,3.4653465346534658
+New Haven,2024,Pedestrian/Cyclist/Other,213,5,2.3474178403755865
+New Haven,2025,Pedestrian/Cyclist/Other,193,6,3.1088082901554404
+Stamford,2015,All road users,5372,3,0.05584512285927029
+Stamford,2016,All road users,5448,5,0.09177679882525697
+Stamford,2017,All road users,4719,8,0.169527442254715
+Stamford,2018,All road users,5169,6,0.11607661056297155
+Stamford,2019,All road users,4695,2,0.042598509052183174
+Stamford,2020,All road users,3428,3,0.08751458576429405
+Stamford,2021,All road users,4127,3,0.0726920281075842
+Stamford,2022,All road users,4195,9,0.21454112038140644
+Stamford,2023,All road users,3952,9,0.2277327935222672
+Stamford,2024,All road users,3965,6,0.15132408575031525
+Stamford,2025,All road users,3914,1,0.02554931016862545
+Stamford,2015,Driver/Passenger,5248,1,0.019054878048780487
+Stamford,2016,Driver/Passenger,5305,1,0.018850141376060323
+Stamford,2017,Driver/Passenger,4613,6,0.13006720138738348
+Stamford,2018,Driver/Passenger,5061,4,0.07903576368306658
+Stamford,2019,Driver/Passenger,4580,1,0.021834061135371178
+Stamford,2020,Driver/Passenger,3331,1,0.03002101471029721
+Stamford,2021,Driver/Passenger,4008,3,0.07485029940119761
+Stamford,2022,Driver/Passenger,4074,5,0.12272950417280314
+Stamford,2023,Driver/Passenger,3833,5,0.1304461257500652
+Stamford,2024,Driver/Passenger,3855,5,0.12970168612191957
+Stamford,2025,Driver/Passenger,3792,0,0
+Stamford,2015,Pedestrian/Cyclist/Other,124,2,1.6129032258064515
+Stamford,2016,Pedestrian/Cyclist/Other,143,4,2.797202797202797
+Stamford,2017,Pedestrian/Cyclist/Other,106,2,1.8867924528301887
+Stamford,2018,Pedestrian/Cyclist/Other,108,2,1.8518518518518516
+Stamford,2019,Pedestrian/Cyclist/Other,115,1,0.8695652173913043
+Stamford,2020,Pedestrian/Cyclist/Other,97,2,2.0618556701030926
+Stamford,2021,Pedestrian/Cyclist/Other,119,0,0
+Stamford,2022,Pedestrian/Cyclist/Other,121,4,3.3057851239669422
+Stamford,2023,Pedestrian/Cyclist/Other,119,4,3.361344537815126
+Stamford,2024,Pedestrian/Cyclist/Other,110,1,0.9090909090909091
+Stamford,2025,Pedestrian/Cyclist/Other,122,1,0.819672131147541
+Waterbury,2015,All road users,5181,16,0.30882069098629605
+Waterbury,2016,All road users,5664,12,0.211864406779661
+Waterbury,2017,All road users,6061,16,0.2639828411153275
+Waterbury,2018,All road users,6128,9,0.14686684073107048
+Waterbury,2019,All road users,5857,12,0.20488304592794948
+Waterbury,2020,All road users,4837,12,0.24808765763903248
+Waterbury,2021,All road users,5291,7,0.1323001323001323
+Waterbury,2022,All road users,4917,21,0.4270896888346553
+Waterbury,2023,All road users,4726,15,0.31739314430808296
+Waterbury,2024,All road users,4536,16,0.3527336860670194
+Waterbury,2025,All road users,4540,7,0.15418502202643172
+Waterbury,2015,Driver/Passenger,5067,12,0.2368265245707519
+Waterbury,2016,Driver/Passenger,5552,9,0.16210374639769454
+Waterbury,2017,Driver/Passenger,5928,10,0.16869095816464239
+Waterbury,2018,Driver/Passenger,5999,6,0.10001666944490749
+Waterbury,2019,Driver/Passenger,5706,8,0.14020329477742727
+Waterbury,2020,Driver/Passenger,4724,6,0.12701100762066045
+Waterbury,2021,Driver/Passenger,5179,6,0.11585248117397182
+Waterbury,2022,Driver/Passenger,4806,15,0.3121098626716604
+Waterbury,2023,Driver/Passenger,4630,12,0.2591792656587473
+Waterbury,2024,Driver/Passenger,4401,10,0.22722108611679162
+Waterbury,2025,Driver/Passenger,4439,6,0.13516557783284522
+Waterbury,2015,Pedestrian/Cyclist/Other,114,4,3.508771929824561
+Waterbury,2016,Pedestrian/Cyclist/Other,112,3,2.6785714285714284
+Waterbury,2017,Pedestrian/Cyclist/Other,133,6,4.511278195488721
+Waterbury,2018,Pedestrian/Cyclist/Other,129,3,2.3255813953488373
+Waterbury,2019,Pedestrian/Cyclist/Other,151,4,2.6490066225165565
+Waterbury,2020,Pedestrian/Cyclist/Other,113,6,5.3097345132743365
+Waterbury,2021,Pedestrian/Cyclist/Other,112,1,0.8928571428571428
+Waterbury,2022,Pedestrian/Cyclist/Other,111,6,5.405405405405405
+Waterbury,2023,Pedestrian/Cyclist/Other,96,3,3.125
+Waterbury,2024,Pedestrian/Cyclist/Other,135,6,4.444444444444445
+Waterbury,2025,Pedestrian/Cyclist/Other,101,1,0.9900990099009901
