@@ -1,463 +1,463 @@
 geography,year,group,population,metric,count,rate_per_100k
-Bridgeport,2015,Driver/Passenger,147619,Total crashes,5364,3633.6785915092228
-Bridgeport,2015,Driver/Passenger,147619,Injury or fatal crashes,1233,835.2583339543012
-Bridgeport,2015,Driver/Passenger,147619,Fatal crashes,1,0.6774195733611528
-Bridgeport,2016,Driver/Passenger,145934,Total crashes,6546,4485.589376019297
-Bridgeport,2016,Driver/Passenger,145934,Injury or fatal crashes,1678,1149.834856853098
-Bridgeport,2016,Driver/Passenger,145934,Fatal crashes,8,5.481930187619061
-Bridgeport,2017,Driver/Passenger,146582,Total crashes,6394,4362.063554870311
-Bridgeport,2017,Driver/Passenger,146582,Injury or fatal crashes,1585,1081.3060266608452
-Bridgeport,2017,Driver/Passenger,146582,Fatal crashes,3,2.046636012607278
-Bridgeport,2018,Driver/Passenger,144898,Total crashes,6090,4202.956562547447
-Bridgeport,2018,Driver/Passenger,144898,Injury or fatal crashes,1630,1124.9292605833068
-Bridgeport,2018,Driver/Passenger,144898,Fatal crashes,7,4.830984554652238
-Bridgeport,2019,Driver/Passenger,144365,Total crashes,6139,4252.41575174038
-Bridgeport,2019,Driver/Passenger,144365,Injury or fatal crashes,1642,1137.3947979080801
-Bridgeport,2019,Driver/Passenger,144365,Fatal crashes,0,0
+Bridgeport,2015,Driver/Passenger,148654,Total crashes,5364,3608.3791892582776
+Bridgeport,2015,Driver/Passenger,148654,Injury or fatal crashes,1233,829.4428673295034
+Bridgeport,2015,Driver/Passenger,148654,Fatal crashes,1,0.6727030554172777
+Bridgeport,2016,Driver/Passenger,148654,Total crashes,6546,4403.5142007614995
+Bridgeport,2016,Driver/Passenger,148654,Injury or fatal crashes,1678,1128.795726990192
+Bridgeport,2016,Driver/Passenger,148654,Fatal crashes,8,5.381624443338222
+Bridgeport,2017,Driver/Passenger,148654,Total crashes,6394,4301.263336338074
+Bridgeport,2017,Driver/Passenger,148654,Injury or fatal crashes,1585,1066.2343428363852
+Bridgeport,2017,Driver/Passenger,148654,Fatal crashes,3,2.018109166251833
+Bridgeport,2018,Driver/Passenger,148654,Total crashes,6090,4096.761607491221
+Bridgeport,2018,Driver/Passenger,148654,Injury or fatal crashes,1630,1096.5059803301626
+Bridgeport,2018,Driver/Passenger,148654,Fatal crashes,7,4.7089213879209435
+Bridgeport,2019,Driver/Passenger,148654,Total crashes,6139,4129.724057206668
+Bridgeport,2019,Driver/Passenger,148654,Injury or fatal crashes,1642,1104.57841699517
+Bridgeport,2019,Driver/Passenger,148654,Fatal crashes,0,0
 Bridgeport,2020,Driver/Passenger,148654,Total crashes,5075,3413.968006242684
 Bridgeport,2020,Driver/Passenger,148654,Injury or fatal crashes,1359,914.2034523120803
 Bridgeport,2020,Driver/Passenger,148654,Fatal crashes,13,8.74513972042461
-Bridgeport,2021,Driver/Passenger,148345,Total crashes,5858,3948.9028952779
-Bridgeport,2021,Driver/Passenger,148345,Injury or fatal crashes,1595,1075.1963328726954
-Bridgeport,2021,Driver/Passenger,148345,Fatal crashes,4,2.6964171357308975
-Bridgeport,2022,Driver/Passenger,148365,Total crashes,5577,3758.972803558791
-Bridgeport,2022,Driver/Passenger,148365,Injury or fatal crashes,1563,1053.4829643109897
-Bridgeport,2022,Driver/Passenger,148365,Fatal crashes,7,4.718093890068412
-Bridgeport,2023,Driver/Passenger,148006,Total crashes,5328,3599.854059970542
-Bridgeport,2023,Driver/Passenger,148006,Injury or fatal crashes,1474,995.9055713957542
-Bridgeport,2023,Driver/Passenger,148006,Fatal crashes,4,2.7025931381160224
-Bridgeport,2024,Driver/Passenger,151616,Total crashes,5413,3570.2036724356267
-Bridgeport,2024,Driver/Passenger,151616,Injury or fatal crashes,1471,970.2142254115661
-Bridgeport,2024,Driver/Passenger,151616,Fatal crashes,7,4.616926973406501
-Bridgeport,2025,Driver/Passenger,151616,Total crashes,5374,3544.4807935837907
-Bridgeport,2025,Driver/Passenger,151616,Injury or fatal crashes,1355,893.7051498522584
-Bridgeport,2025,Driver/Passenger,151616,Fatal crashes,7,4.616926973406501
-Bridgeport,2015,Pedestrian/Cyclist/Other,147619,Total crashes,171,115.83874704475711
-Bridgeport,2015,Pedestrian/Cyclist/Other,147619,Injury or fatal crashes,157,106.35487301770097
-Bridgeport,2015,Pedestrian/Cyclist/Other,147619,Fatal crashes,1,0.6774195733611528
-Bridgeport,2016,Pedestrian/Cyclist/Other,145934,Total crashes,231,158.29073416750037
-Bridgeport,2016,Pedestrian/Cyclist/Other,145934,Injury or fatal crashes,192,131.56632450285747
-Bridgeport,2016,Pedestrian/Cyclist/Other,145934,Fatal crashes,6,4.111447640714296
-Bridgeport,2017,Pedestrian/Cyclist/Other,146582,Total crashes,241,164.41309301278466
-Bridgeport,2017,Pedestrian/Cyclist/Other,146582,Injury or fatal crashes,204,139.17124885729487
-Bridgeport,2017,Pedestrian/Cyclist/Other,146582,Fatal crashes,7,4.775484029416981
-Bridgeport,2018,Pedestrian/Cyclist/Other,144898,Total crashes,186,128.3661610236166
-Bridgeport,2018,Pedestrian/Cyclist/Other,144898,Injury or fatal crashes,168,115.94362931165371
-Bridgeport,2018,Pedestrian/Cyclist/Other,144898,Fatal crashes,4,2.7605626026584216
-Bridgeport,2019,Pedestrian/Cyclist/Other,144365,Total crashes,185,128.14740414920516
-Bridgeport,2019,Pedestrian/Cyclist/Other,144365,Injury or fatal crashes,166,114.98631939874623
-Bridgeport,2019,Pedestrian/Cyclist/Other,144365,Fatal crashes,3,2.078066013230354
+Bridgeport,2021,Driver/Passenger,148654,Total crashes,5858,3940.694498634413
+Bridgeport,2021,Driver/Passenger,148654,Injury or fatal crashes,1595,1072.961373390558
+Bridgeport,2021,Driver/Passenger,148654,Fatal crashes,4,2.690812221669111
+Bridgeport,2022,Driver/Passenger,148654,Total crashes,5577,3751.6649400621577
+Bridgeport,2022,Driver/Passenger,148654,Injury or fatal crashes,1563,1051.434875617205
+Bridgeport,2022,Driver/Passenger,148654,Fatal crashes,7,4.7089213879209435
+Bridgeport,2023,Driver/Passenger,148654,Total crashes,5328,3584.1618792632557
+Bridgeport,2023,Driver/Passenger,148654,Injury or fatal crashes,1474,991.5643036850673
+Bridgeport,2023,Driver/Passenger,148654,Fatal crashes,4,2.690812221669111
+Bridgeport,2024,Driver/Passenger,148654,Total crashes,5413,3641.341638973724
+Bridgeport,2024,Driver/Passenger,148654,Injury or fatal crashes,1471,989.5461945188155
+Bridgeport,2024,Driver/Passenger,148654,Fatal crashes,7,4.7089213879209435
+Bridgeport,2025,Driver/Passenger,148654,Total crashes,5374,3615.10621981245
+Bridgeport,2025,Driver/Passenger,148654,Injury or fatal crashes,1355,911.5126400904113
+Bridgeport,2025,Driver/Passenger,148654,Fatal crashes,7,4.7089213879209435
+Bridgeport,2015,Pedestrian/Cyclist/Other,148654,Total crashes,171,115.03222247635449
+Bridgeport,2015,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,157,105.6143797005126
+Bridgeport,2015,Pedestrian/Cyclist/Other,148654,Fatal crashes,1,0.6727030554172777
+Bridgeport,2016,Pedestrian/Cyclist/Other,148654,Total crashes,231,155.39440580139114
+Bridgeport,2016,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,192,129.15898664011732
+Bridgeport,2016,Pedestrian/Cyclist/Other,148654,Fatal crashes,6,4.036218332503666
+Bridgeport,2017,Pedestrian/Cyclist/Other,148654,Total crashes,241,162.12143635556393
+Bridgeport,2017,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,204,137.23142330512465
+Bridgeport,2017,Pedestrian/Cyclist/Other,148654,Fatal crashes,7,4.7089213879209435
+Bridgeport,2018,Pedestrian/Cyclist/Other,148654,Total crashes,186,125.12276830761365
+Bridgeport,2018,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,168,113.01411331010266
+Bridgeport,2018,Pedestrian/Cyclist/Other,148654,Fatal crashes,4,2.690812221669111
+Bridgeport,2019,Pedestrian/Cyclist/Other,148654,Total crashes,185,124.45006525219637
+Bridgeport,2019,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,166,111.6687071992681
+Bridgeport,2019,Pedestrian/Cyclist/Other,148654,Fatal crashes,3,2.018109166251833
 Bridgeport,2020,Pedestrian/Cyclist/Other,148654,Total crashes,120,80.72436665007332
 Bridgeport,2020,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,111,74.67003915131782
 Bridgeport,2020,Pedestrian/Cyclist/Other,148654,Fatal crashes,3,2.018109166251833
-Bridgeport,2021,Pedestrian/Cyclist/Other,148345,Total crashes,120,80.89251407192693
-Bridgeport,2021,Pedestrian/Cyclist/Other,148345,Injury or fatal crashes,108,72.80326266473423
-Bridgeport,2021,Pedestrian/Cyclist/Other,148345,Fatal crashes,3,2.022312851798173
-Bridgeport,2022,Pedestrian/Cyclist/Other,148365,Total crashes,154,103.79806558150507
-Bridgeport,2022,Pedestrian/Cyclist/Other,148365,Injury or fatal crashes,143,96.38391803996899
-Bridgeport,2022,Pedestrian/Cyclist/Other,148365,Fatal crashes,4,2.6960536514676643
-Bridgeport,2023,Pedestrian/Cyclist/Other,148006,Total crashes,129,87.15862870424172
-Bridgeport,2023,Pedestrian/Cyclist/Other,148006,Injury or fatal crashes,117,79.05084928989365
-Bridgeport,2023,Pedestrian/Cyclist/Other,148006,Fatal crashes,3,2.0269448535870165
-Bridgeport,2024,Pedestrian/Cyclist/Other,151616,Total crashes,176,116.08273533136345
-Bridgeport,2024,Pedestrian/Cyclist/Other,151616,Injury or fatal crashes,155,102.23195441114393
-Bridgeport,2024,Pedestrian/Cyclist/Other,151616,Fatal crashes,5,3.2978049810046435
-Bridgeport,2025,Pedestrian/Cyclist/Other,151616,Total crashes,165,108.82756437315324
-Bridgeport,2025,Pedestrian/Cyclist/Other,151616,Injury or fatal crashes,140,92.33853946813001
-Bridgeport,2025,Pedestrian/Cyclist/Other,151616,Fatal crashes,2,1.3191219924018573
-Connecticut (statewide),2015,Driver/Passenger,3590886,Total crashes,109259,3042.6752617599113
-Connecticut (statewide),2015,Driver/Passenger,3590886,Injury or fatal crashes,24408,679.7208265592392
-Connecticut (statewide),2015,Driver/Passenger,3590886,Fatal crashes,203,5.653200909190656
-Connecticut (statewide),2016,Driver/Passenger,3576452,Total crashes,113699,3179.1004045349973
-Connecticut (statewide),2016,Driver/Passenger,3576452,Injury or fatal crashes,26140,730.8919566095113
-Connecticut (statewide),2016,Driver/Passenger,3576452,Fatal crashes,223,6.235229775207384
-Connecticut (statewide),2017,Driver/Passenger,3588184,Total crashes,113499,3163.1321024785793
-Connecticut (statewide),2017,Driver/Passenger,3588184,Injury or fatal crashes,25751,717.6610786960758
-Connecticut (statewide),2017,Driver/Passenger,3588184,Fatal crashes,207,5.768934926414031
-Connecticut (statewide),2018,Driver/Passenger,3572665,Total crashes,112199,3140.484764174643
-Connecticut (statewide),2018,Driver/Passenger,3572665,Injury or fatal crashes,25718,719.8547862729922
-Connecticut (statewide),2018,Driver/Passenger,3572665,Fatal crashes,217,6.07389721678355
-Connecticut (statewide),2019,Driver/Passenger,3565287,Total crashes,110511,3099.638261940764
-Connecticut (statewide),2019,Driver/Passenger,3565287,Injury or fatal crashes,25553,716.716494352348
-Connecticut (statewide),2019,Driver/Passenger,3565287,Fatal crashes,181,5.076730148232106
+Bridgeport,2021,Pedestrian/Cyclist/Other,148654,Total crashes,120,80.72436665007332
+Bridgeport,2021,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,108,72.65192998506599
+Bridgeport,2021,Pedestrian/Cyclist/Other,148654,Fatal crashes,3,2.018109166251833
+Bridgeport,2022,Pedestrian/Cyclist/Other,148654,Total crashes,154,103.59627053426078
+Bridgeport,2022,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,143,96.19653692467071
+Bridgeport,2022,Pedestrian/Cyclist/Other,148654,Fatal crashes,4,2.690812221669111
+Bridgeport,2023,Pedestrian/Cyclist/Other,148654,Total crashes,129,86.77869414882882
+Bridgeport,2023,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,117,78.70625748382149
+Bridgeport,2023,Pedestrian/Cyclist/Other,148654,Fatal crashes,3,2.018109166251833
+Bridgeport,2024,Pedestrian/Cyclist/Other,148654,Total crashes,176,118.39573775344087
+Bridgeport,2024,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,155,104.26897358967804
+Bridgeport,2024,Pedestrian/Cyclist/Other,148654,Fatal crashes,5,3.3635152770863885
+Bridgeport,2025,Pedestrian/Cyclist/Other,148654,Total crashes,165,110.99600414385081
+Bridgeport,2025,Pedestrian/Cyclist/Other,148654,Injury or fatal crashes,140,94.17842775841888
+Bridgeport,2025,Pedestrian/Cyclist/Other,148654,Fatal crashes,2,1.3454061108345554
+Connecticut (statewide),2015,Driver/Passenger,3605944,Total crashes,109259,3029.9694060695338
+Connecticut (statewide),2015,Driver/Passenger,3605944,Injury or fatal crashes,24408,676.8823919617165
+Connecticut (statewide),2015,Driver/Passenger,3605944,Fatal crashes,203,5.629593804008049
+Connecticut (statewide),2016,Driver/Passenger,3605944,Total crashes,113699,3153.099438038971
+Connecticut (statewide),2016,Driver/Passenger,3605944,Injury or fatal crashes,26140,724.9141972254699
+Connecticut (statewide),2016,Driver/Passenger,3605944,Fatal crashes,223,6.1842335876541625
+Connecticut (statewide),2017,Driver/Passenger,3605944,Total crashes,113499,3147.55304020251
+Connecticut (statewide),2017,Driver/Passenger,3605944,Injury or fatal crashes,25751,714.126453433553
+Connecticut (statewide),2017,Driver/Passenger,3605944,Fatal crashes,207,5.740521760737272
+Connecticut (statewide),2018,Driver/Passenger,3605944,Total crashes,112199,3111.5014542655126
+Connecticut (statewide),2018,Driver/Passenger,3605944,Injury or fatal crashes,25718,713.211297790537
+Connecticut (statewide),2018,Driver/Passenger,3605944,Fatal crashes,217,6.017841652560328
+Connecticut (statewide),2019,Driver/Passenger,3605944,Total crashes,110511,3064.6898565257807
+Connecticut (statewide),2019,Driver/Passenger,3605944,Injury or fatal crashes,25553,708.6355195754566
+Connecticut (statewide),2019,Driver/Passenger,3605944,Fatal crashes,181,5.019490041997324
 Connecticut (statewide),2020,Driver/Passenger,3605944,Total crashes,82201,2279.5972427747074
 Connecticut (statewide),2020,Driver/Passenger,3605944,Injury or fatal crashes,20181,559.6592736881105
 Connecticut (statewide),2020,Driver/Passenger,3605944,Fatal crashes,218,6.045573641742633
-Connecticut (statewide),2021,Driver/Passenger,3605597,Total crashes,99593,2762.1778030101536
-Connecticut (statewide),2021,Driver/Passenger,3605597,Injury or fatal crashes,23689,657.0063154589933
-Connecticut (statewide),2021,Driver/Passenger,3605597,Fatal crashes,238,6.600848625068193
-Connecticut (statewide),2022,Driver/Passenger,3626205,Total crashes,101088,2787.7078102313576
-Connecticut (statewide),2022,Driver/Passenger,3626205,Injury or fatal crashes,23769,655.4786615759451
-Connecticut (statewide),2022,Driver/Passenger,3626205,Fatal crashes,261,7.197607416017573
-Connecticut (statewide),2023,Driver/Passenger,3617176,Total crashes,98704,2728.7585674570437
-Connecticut (statewide),2023,Driver/Passenger,3617176,Injury or fatal crashes,23119,639.1450125733445
-Connecticut (statewide),2023,Driver/Passenger,3617176,Fatal crashes,231,6.386197409249646
-Connecticut (statewide),2024,Driver/Passenger,3675069,Total crashes,102262,2782.5872112877337
-Connecticut (statewide),2024,Driver/Passenger,3675069,Injury or fatal crashes,22900,623.1175523507178
-Connecticut (statewide),2024,Driver/Passenger,3675069,Fatal crashes,226,6.1495444031118875
-Connecticut (statewide),2025,Driver/Passenger,3675069,Total crashes,101598,2764.5195233069094
-Connecticut (statewide),2025,Driver/Passenger,3675069,Injury or fatal crashes,22092,601.1315705909195
-Connecticut (statewide),2025,Driver/Passenger,3675069,Fatal crashes,172,4.6801842359966574
-Connecticut (statewide),2015,Pedestrian/Cyclist/Other,3590886,Total crashes,1910,53.190215451005685
-Connecticut (statewide),2015,Pedestrian/Cyclist/Other,3590886,Injury or fatal crashes,1667,46.423083328181406
-Connecticut (statewide),2015,Pedestrian/Cyclist/Other,3590886,Fatal crashes,50,1.3924140170420336
-Connecticut (statewide),2016,Pedestrian/Cyclist/Other,3576452,Total crashes,2236,62.520061781900054
-Connecticut (statewide),2016,Pedestrian/Cyclist/Other,3576452,Injury or fatal crashes,1906,53.293040141458626
-Connecticut (statewide),2016,Pedestrian/Cyclist/Other,3576452,Fatal crashes,74,2.069089701189894
-Connecticut (statewide),2017,Pedestrian/Cyclist/Other,3588184,Total crashes,2149,59.891020081467396
-Connecticut (statewide),2017,Pedestrian/Cyclist/Other,3588184,Injury or fatal crashes,1817,50.63842879852315
-Connecticut (statewide),2017,Pedestrian/Cyclist/Other,3588184,Fatal crashes,57,1.5885472985777762
-Connecticut (statewide),2018,Pedestrian/Cyclist/Other,3572665,Total crashes,1957,54.777036190070994
-Connecticut (statewide),2018,Pedestrian/Cyclist/Other,3572665,Injury or fatal crashes,1683,47.10769131726596
-Connecticut (statewide),2018,Pedestrian/Cyclist/Other,3572665,Fatal crashes,64,1.7913798243048256
-Connecticut (statewide),2019,Pedestrian/Cyclist/Other,3565287,Total crashes,2100,58.90128901263769
-Connecticut (statewide),2019,Pedestrian/Cyclist/Other,3565287,Injury or fatal crashes,1812,50.82339794804738
-Connecticut (statewide),2019,Pedestrian/Cyclist/Other,3565287,Fatal crashes,57,1.5987492732001658
+Connecticut (statewide),2021,Driver/Passenger,3605944,Total crashes,99593,2761.9119986333676
+Connecticut (statewide),2021,Driver/Passenger,3605944,Injury or fatal crashes,23689,656.9430917396387
+Connecticut (statewide),2021,Driver/Passenger,3605944,Fatal crashes,238,6.6002134253887474
+Connecticut (statewide),2022,Driver/Passenger,3605944,Total crashes,101088,2803.3713224609146
+Connecticut (statewide),2022,Driver/Passenger,3605944,Injury or fatal crashes,23769,659.1616508742233
+Connecticut (statewide),2022,Driver/Passenger,3605944,Fatal crashes,261,7.238049176581777
+Connecticut (statewide),2023,Driver/Passenger,3605944,Total crashes,98704,2737.2582602502976
+Connecticut (statewide),2023,Driver/Passenger,3605944,Injury or fatal crashes,23119,641.1358579057246
+Connecticut (statewide),2023,Driver/Passenger,3605944,Fatal crashes,231,6.406089501112608
+Connecticut (statewide),2024,Driver/Passenger,3605944,Total crashes,102262,2835.9286777609414
+Connecticut (statewide),2024,Driver/Passenger,3605944,Injury or fatal crashes,22900,635.0625522747996
+Connecticut (statewide),2024,Driver/Passenger,3605944,Fatal crashes,226,6.26742955520108
+Connecticut (statewide),2025,Driver/Passenger,3605944,Total crashes,101598,2817.5146369438903
+Connecticut (statewide),2025,Driver/Passenger,3605944,Injury or fatal crashes,22092,612.6551050154966
+Connecticut (statewide),2025,Driver/Passenger,3605944,Fatal crashes,172,4.7699021393565735
+Connecticut (statewide),2015,Pedestrian/Cyclist/Other,3605944,Total crashes,1910,52.968099338203814
+Connecticut (statewide),2015,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1667,46.229225966903535
+Connecticut (statewide),2015,Pedestrian/Cyclist/Other,3605944,Fatal crashes,50,1.386599459115283
+Connecticut (statewide),2016,Pedestrian/Cyclist/Other,3605944,Total crashes,2236,62.00872781163545
+Connecticut (statewide),2016,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1906,52.857171381474586
+Connecticut (statewide),2016,Pedestrian/Cyclist/Other,3605944,Fatal crashes,74,2.052167199490619
+Connecticut (statewide),2017,Pedestrian/Cyclist/Other,3605944,Total crashes,2149,59.596044752774866
+Connecticut (statewide),2017,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1817,50.38902434424938
+Connecticut (statewide),2017,Pedestrian/Cyclist/Other,3605944,Fatal crashes,57,1.5807233833914227
+Connecticut (statewide),2018,Pedestrian/Cyclist/Other,3605944,Total crashes,1957,54.271502829772174
+Connecticut (statewide),2018,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1683,46.672937793820424
+Connecticut (statewide),2018,Pedestrian/Cyclist/Other,3605944,Fatal crashes,64,1.7748473076675622
+Connecticut (statewide),2019,Pedestrian/Cyclist/Other,3605944,Total crashes,2100,58.237177282841884
+Connecticut (statewide),2019,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1812,50.25036439833785
+Connecticut (statewide),2019,Pedestrian/Cyclist/Other,3605944,Fatal crashes,57,1.5807233833914227
 Connecticut (statewide),2020,Pedestrian/Cyclist/Other,3605944,Total crashes,1590,44.093862799866
 Connecticut (statewide),2020,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1370,37.99282517975875
 Connecticut (statewide),2020,Pedestrian/Cyclist/Other,3605944,Fatal crashes,67,1.8580432752144793
-Connecticut (statewide),2021,Pedestrian/Cyclist/Other,3605597,Total crashes,1566,43.43247456662517
-Connecticut (statewide),2021,Pedestrian/Cyclist/Other,3605597,Injury or fatal crashes,1380,38.27382816216011
-Connecticut (statewide),2021,Pedestrian/Cyclist/Other,3605597,Fatal crashes,56,1.553140852957222
-Connecticut (statewide),2022,Pedestrian/Cyclist/Other,3626205,Total crashes,1714,47.2670464025062
-Connecticut (statewide),2022,Pedestrian/Cyclist/Other,3626205,Injury or fatal crashes,1532,42.24802513922958
-Connecticut (statewide),2022,Pedestrian/Cyclist/Other,3626205,Fatal crashes,77,2.1234320729247247
-Connecticut (statewide),2023,Pedestrian/Cyclist/Other,3617176,Total crashes,1733,47.91030350748761
-Connecticut (statewide),2023,Pedestrian/Cyclist/Other,3617176,Injury or fatal crashes,1498,41.41352259331589
-Connecticut (statewide),2023,Pedestrian/Cyclist/Other,3617176,Fatal crashes,59,1.631106697600559
-Connecticut (statewide),2024,Pedestrian/Cyclist/Other,3675069,Total crashes,1998,54.3663261832635
-Connecticut (statewide),2024,Pedestrian/Cyclist/Other,3675069,Injury or fatal crashes,1718,46.74742161303638
-Connecticut (statewide),2024,Pedestrian/Cyclist/Other,3675069,Fatal crashes,65,1.768674275231295
-Connecticut (statewide),2025,Pedestrian/Cyclist/Other,3675069,Total crashes,1836,49.95824568191781
-Connecticut (statewide),2025,Pedestrian/Cyclist/Other,3675069,Injury or fatal crashes,1583,43.07402119524831
-Connecticut (statewide),2025,Pedestrian/Cyclist/Other,3675069,Fatal crashes,60,1.6326224079058107
-Five largest cities,2015,Driver/Passenger,639627,Total crashes,28557,4464.633294091713
-Five largest cities,2015,Driver/Passenger,639627,Injury or fatal crashes,6346,992.1407320203806
-Five largest cities,2015,Driver/Passenger,639627,Fatal crashes,26,4.064869056496989
-Five largest cities,2016,Driver/Passenger,636534,Total crashes,30910,4855.985697543258
-Five largest cities,2016,Driver/Passenger,636534,Injury or fatal crashes,7356,1155.633477551867
-Five largest cities,2016,Driver/Passenger,636534,Fatal crashes,38,5.969830362557224
-Five largest cities,2017,Driver/Passenger,640484,Total crashes,29647,4628.843187339574
-Five largest cities,2017,Driver/Passenger,640484,Injury or fatal crashes,7072,1104.1649752374767
-Five largest cities,2017,Driver/Passenger,640484,Fatal crashes,36,5.620749308335571
-Five largest cities,2018,Driver/Passenger,635752,Total crashes,31092,4890.586266342851
-Five largest cities,2018,Driver/Passenger,635752,Injury or fatal crashes,7423,1167.5936528709308
-Five largest cities,2018,Driver/Passenger,635752,Fatal crashes,45,7.0782317633290965
-Five largest cities,2019,Driver/Passenger,633942,Total crashes,30618,4829.779380448053
-Five largest cities,2019,Driver/Passenger,633942,Injury or fatal crashes,7396,1166.6682440980405
-Five largest cities,2019,Driver/Passenger,633942,Fatal crashes,30,4.732294121544243
+Connecticut (statewide),2021,Pedestrian/Cyclist/Other,3605944,Total crashes,1566,43.428295059490665
+Connecticut (statewide),2021,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1380,38.270145071581815
+Connecticut (statewide),2021,Pedestrian/Cyclist/Other,3605944,Fatal crashes,56,1.552991394209117
+Connecticut (statewide),2022,Pedestrian/Cyclist/Other,3605944,Total crashes,1714,47.5326294584719
+Connecticut (statewide),2022,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1532,42.48540742729227
+Connecticut (statewide),2022,Pedestrian/Cyclist/Other,3605944,Fatal crashes,77,2.1353631670375357
+Connecticut (statewide),2023,Pedestrian/Cyclist/Other,3605944,Total crashes,1733,48.059537252935705
+Connecticut (statewide),2023,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1498,41.542519795093874
+Connecticut (statewide),2023,Pedestrian/Cyclist/Other,3605944,Fatal crashes,59,1.636187361756034
+Connecticut (statewide),2024,Pedestrian/Cyclist/Other,3605944,Total crashes,1998,55.4085143862467
+Connecticut (statewide),2024,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1718,47.64355741520112
+Connecticut (statewide),2024,Pedestrian/Cyclist/Other,3605944,Fatal crashes,65,1.802579296849868
+Connecticut (statewide),2025,Pedestrian/Cyclist/Other,3605944,Total crashes,1836,50.91593213871319
+Connecticut (statewide),2025,Pedestrian/Cyclist/Other,3605944,Injury or fatal crashes,1583,43.89973887558986
+Connecticut (statewide),2025,Pedestrian/Cyclist/Other,3605944,Fatal crashes,60,1.6639193509383396
+Five largest cities,2015,Driver/Passenger,653604,Total crashes,28557,4369.159307470579
+Five largest cities,2015,Driver/Passenger,653604,Injury or fatal crashes,6346,970.9242905490174
+Five largest cities,2015,Driver/Passenger,653604,Fatal crashes,26,3.9779438314331004
+Five largest cities,2016,Driver/Passenger,653604,Total crashes,30910,4729.163224215275
+Five largest cities,2016,Driver/Passenger,653604,Injury or fatal crashes,7356,1125.4521086162263
+Five largest cities,2016,Driver/Passenger,653604,Fatal crashes,38,5.813917907479146
+Five largest cities,2017,Driver/Passenger,653604,Total crashes,29647,4535.9269527114275
+Five largest cities,2017,Driver/Passenger,653604,Injury or fatal crashes,7072,1082.0007221498033
+Five largest cities,2017,Driver/Passenger,653604,Fatal crashes,36,5.507922228138139
+Five largest cities,2018,Driver/Passenger,653604,Total crashes,31092,4757.008831035306
+Five largest cities,2018,Driver/Passenger,653604,Injury or fatal crashes,7423,1135.70296387415
+Five largest cities,2018,Driver/Passenger,653604,Fatal crashes,45,6.884902785172674
+Five largest cities,2019,Driver/Passenger,653604,Total crashes,30618,4684.487855031487
+Five largest cities,2019,Driver/Passenger,653604,Injury or fatal crashes,7396,1131.5720222030466
+Five largest cities,2019,Driver/Passenger,653604,Fatal crashes,30,4.589935190115116
 Five largest cities,2020,Driver/Passenger,653604,Total crashes,24049,3679.445046235947
 Five largest cities,2020,Driver/Passenger,653604,Injury or fatal crashes,6202,948.892601636465
 Five largest cities,2020,Driver/Passenger,653604,Fatal crashes,39,5.96691574714965
-Five largest cities,2021,Driver/Passenger,654146,Total crashes,26988,4125.684480223069
-Five largest cities,2021,Driver/Passenger,654146,Injury or fatal crashes,6800,1039.5232868503363
-Five largest cities,2021,Driver/Passenger,654146,Fatal crashes,37,5.656229649038594
-Five largest cities,2022,Driver/Passenger,659162,Total crashes,26421,4008.2711078611937
-Five largest cities,2022,Driver/Passenger,659162,Injury or fatal crashes,6600,1001.2713111496112
-Five largest cities,2022,Driver/Passenger,659162,Fatal crashes,48,7.281973171997172
-Five largest cities,2023,Driver/Passenger,654193,Total crashes,25776,3940.121646058579
-Five largest cities,2023,Driver/Passenger,654193,Injury or fatal crashes,6324,966.687200871914
-Five largest cities,2023,Driver/Passenger,654193,Fatal crashes,34,5.197243015440398
-Five largest cities,2024,Driver/Passenger,666322,Total crashes,25990,3900.516567065173
-Five largest cities,2024,Driver/Passenger,666322,Injury or fatal crashes,6124,919.0751618586809
-Five largest cities,2024,Driver/Passenger,666322,Fatal crashes,40,6.0031036045635595
-Five largest cities,2025,Driver/Passenger,666322,Total crashes,26442,3968.3516377967408
-Five largest cities,2025,Driver/Passenger,666322,Injury or fatal crashes,5843,876.903359036622
-Five largest cities,2025,Driver/Passenger,666322,Fatal crashes,28,4.202172523194491
-Five largest cities,2015,Pedestrian/Cyclist/Other,639627,Total crashes,760,118.81924934375816
-Five largest cities,2015,Pedestrian/Cyclist/Other,639627,Injury or fatal crashes,678,105.99927770403687
-Five largest cities,2015,Pedestrian/Cyclist/Other,639627,Fatal crashes,11,1.7197522931333415
-Five largest cities,2016,Pedestrian/Cyclist/Other,636534,Total crashes,933,146.57504548068133
-Five largest cities,2016,Pedestrian/Cyclist/Other,636534,Injury or fatal crashes,834,131.0220663782296
-Five largest cities,2016,Pedestrian/Cyclist/Other,636534,Fatal crashes,18,2.827814382263948
-Five largest cities,2017,Pedestrian/Cyclist/Other,640484,Total crashes,943,147.23240549334565
-Five largest cities,2017,Pedestrian/Cyclist/Other,640484,Injury or fatal crashes,823,128.49657446556043
-Five largest cities,2017,Pedestrian/Cyclist/Other,640484,Fatal crashes,19,2.9665065793993293
-Five largest cities,2018,Pedestrian/Cyclist/Other,635752,Total crashes,838,131.8124048371063
-Five largest cities,2018,Pedestrian/Cyclist/Other,635752,Injury or fatal crashes,751,118.12782342800338
-Five largest cities,2018,Pedestrian/Cyclist/Other,635752,Fatal crashes,21,3.3031748228869118
-Five largest cities,2019,Pedestrian/Cyclist/Other,633942,Total crashes,941,148.4362922791044
-Five largest cities,2019,Pedestrian/Cyclist/Other,633942,Injury or fatal crashes,846,133.45069422754761
-Five largest cities,2019,Pedestrian/Cyclist/Other,633942,Fatal crashes,19,2.997119610311353
+Five largest cities,2021,Driver/Passenger,653604,Total crashes,26988,4129.105697027559
+Five largest cities,2021,Driver/Passenger,653604,Injury or fatal crashes,6800,1040.3853097594263
+Five largest cities,2021,Driver/Passenger,653604,Fatal crashes,37,5.660920067808642
+Five largest cities,2022,Driver/Passenger,653604,Total crashes,26421,4042.3559219343824
+Five largest cities,2022,Driver/Passenger,653604,Injury or fatal crashes,6600,1009.7857418253255
+Five largest cities,2022,Driver/Passenger,653604,Fatal crashes,48,7.343896304184185
+Five largest cities,2023,Driver/Passenger,653604,Total crashes,25776,3943.672315346907
+Five largest cities,2023,Driver/Passenger,653604,Injury or fatal crashes,6324,967.5583380762664
+Five largest cities,2023,Driver/Passenger,653604,Fatal crashes,34,5.201926548797132
+Five largest cities,2024,Driver/Passenger,653604,Total crashes,25990,3976.4138530363953
+Five largest cities,2024,Driver/Passenger,653604,Injury or fatal crashes,6124,936.9587701421656
+Five largest cities,2024,Driver/Passenger,653604,Fatal crashes,40,6.119913586820155
+Five largest cities,2025,Driver/Passenger,653604,Total crashes,26442,4045.568876567463
+Five largest cities,2025,Driver/Passenger,653604,Injury or fatal crashes,5843,893.9663771947539
+Five largest cities,2025,Driver/Passenger,653604,Fatal crashes,28,4.2839395107741085
+Five largest cities,2015,Pedestrian/Cyclist/Other,653604,Total crashes,760,116.27835814958293
+Five largest cities,2015,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,678,103.73253529660163
+Five largest cities,2015,Pedestrian/Cyclist/Other,653604,Fatal crashes,11,1.6829762363755425
+Five largest cities,2016,Pedestrian/Cyclist/Other,653604,Total crashes,933,142.7469844125801
+Five largest cities,2016,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,834,127.60019828520022
+Five largest cities,2016,Pedestrian/Cyclist/Other,653604,Fatal crashes,18,2.7539611140690696
+Five largest cities,2017,Pedestrian/Cyclist/Other,653604,Total crashes,943,144.27696280928515
+Five largest cities,2017,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,823,125.91722204882466
+Five largest cities,2017,Pedestrian/Cyclist/Other,653604,Fatal crashes,19,2.906958953739573
+Five largest cities,2018,Pedestrian/Cyclist/Other,653604,Total crashes,838,128.21218964388223
+Five largest cities,2018,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,751,114.9013775925484
+Five largest cities,2018,Pedestrian/Cyclist/Other,653604,Fatal crashes,21,3.2129546330805807
+Five largest cities,2019,Pedestrian/Cyclist/Other,653604,Total crashes,941,143.97096712994414
+Five largest cities,2019,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,846,129.43617236124626
+Five largest cities,2019,Pedestrian/Cyclist/Other,653604,Fatal crashes,19,2.906958953739573
 Five largest cities,2020,Pedestrian/Cyclist/Other,653604,Total crashes,675,103.2735417775901
 Five largest cities,2020,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,600,91.79870380230231
 Five largest cities,2020,Pedestrian/Cyclist/Other,653604,Fatal crashes,26,3.9779438314331004
-Five largest cities,2021,Pedestrian/Cyclist/Other,654146,Total crashes,631,96.46164617684737
-Five largest cities,2021,Pedestrian/Cyclist/Other,654146,Injury or fatal crashes,572,87.44225295270475
-Five largest cities,2021,Pedestrian/Cyclist/Other,654146,Fatal crashes,20,3.0574214319127533
-Five largest cities,2022,Pedestrian/Cyclist/Other,659162,Total crashes,711,107.86422761020812
-Five largest cities,2022,Pedestrian/Cyclist/Other,659162,Injury or fatal crashes,650,98.61005337079504
-Five largest cities,2022,Pedestrian/Cyclist/Other,659162,Fatal crashes,26,3.9444021348318015
-Five largest cities,2023,Pedestrian/Cyclist/Other,654193,Total crashes,692,105.77918137308103
-Five largest cities,2023,Pedestrian/Cyclist/Other,654193,Injury or fatal crashes,610,93.24465410054832
-Five largest cities,2023,Pedestrian/Cyclist/Other,654193,Fatal crashes,23,3.5157820398567394
-Five largest cities,2024,Pedestrian/Cyclist/Other,666322,Total crashes,825,123.8140118441234
-Five largest cities,2024,Pedestrian/Cyclist/Other,666322,Injury or fatal crashes,713,107.00532175134543
-Five largest cities,2024,Pedestrian/Cyclist/Other,666322,Fatal crashes,24,3.601862162738136
-Five largest cities,2025,Pedestrian/Cyclist/Other,666322,Total crashes,770,115.55974438784851
-Five largest cities,2025,Pedestrian/Cyclist/Other,666322,Injury or fatal crashes,678,101.75260609735233
-Five largest cities,2025,Pedestrian/Cyclist/Other,666322,Fatal crashes,15,2.251163851711335
-Hartford,2015,Driver/Passenger,124014,Total crashes,6580,5305.85256503298
-Hartford,2015,Driver/Passenger,124014,Injury or fatal crashes,1592,1283.7260309319915
-Hartford,2015,Driver/Passenger,124014,Fatal crashes,5,4.03180286096731
-Hartford,2016,Driver/Passenger,123287,Total crashes,7401,6003.066016692757
-Hartford,2016,Driver/Passenger,123287,Injury or fatal crashes,1862,1510.2971116176077
-Hartford,2016,Driver/Passenger,123287,Fatal crashes,8,6.488924217476295
-Hartford,2017,Driver/Passenger,123420,Total crashes,6795,5505.590666018474
-Hartford,2017,Driver/Passenger,123420,Injury or fatal crashes,1657,1342.570085885594
-Hartford,2017,Driver/Passenger,123420,Fatal crashes,9,7.292173067574137
-Hartford,2018,Driver/Passenger,122591,Total crashes,6795,5542.821251152205
-Hartford,2018,Driver/Passenger,122591,Injury or fatal crashes,1693,1381.014919529166
-Hartford,2018,Driver/Passenger,122591,Fatal crashes,12,9.788646801151797
-Hartford,2019,Driver/Passenger,122107,Total crashes,6924,5670.436584307206
-Hartford,2019,Driver/Passenger,122107,Injury or fatal crashes,1642,1344.7222517955563
-Hartford,2019,Driver/Passenger,122107,Fatal crashes,12,9.827446419943165
+Five largest cities,2021,Pedestrian/Cyclist/Other,653604,Total crashes,631,96.54163683208793
+Five largest cities,2021,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,572,87.51476429152821
+Five largest cities,2021,Pedestrian/Cyclist/Other,653604,Fatal crashes,20,3.0599567934100773
+Five largest cities,2022,Pedestrian/Cyclist/Other,653604,Total crashes,711,108.78146400572824
+Five largest cities,2022,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,650,99.44859578582752
+Five largest cities,2022,Pedestrian/Cyclist/Other,653604,Fatal crashes,26,3.9779438314331004
+Five largest cities,2023,Pedestrian/Cyclist/Other,653604,Total crashes,692,105.87450505198868
+Five largest cities,2023,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,610,93.32868219900735
+Five largest cities,2023,Pedestrian/Cyclist/Other,653604,Fatal crashes,23,3.5189503124215884
+Five largest cities,2024,Pedestrian/Cyclist/Other,653604,Total crashes,825,126.2232177281657
+Five largest cities,2024,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,713,109.08745968506925
+Five largest cities,2024,Pedestrian/Cyclist/Other,653604,Fatal crashes,24,3.6719481520920927
+Five largest cities,2025,Pedestrian/Cyclist/Other,653604,Total crashes,770,117.80833654628798
+Five largest cities,2025,Pedestrian/Cyclist/Other,653604,Injury or fatal crashes,678,103.73253529660163
+Five largest cities,2025,Pedestrian/Cyclist/Other,653604,Fatal crashes,15,2.294967595057558
+Hartford,2015,Driver/Passenger,121054,Total crashes,6580,5435.590728104812
+Hartford,2015,Driver/Passenger,121054,Injury or fatal crashes,1592,1315.1155682587935
+Hartford,2015,Driver/Passenger,121054,Fatal crashes,5,4.130388091265055
+Hartford,2016,Driver/Passenger,121054,Total crashes,7401,6113.800452690535
+Hartford,2016,Driver/Passenger,121054,Injury or fatal crashes,1862,1538.1565251871066
+Hartford,2016,Driver/Passenger,121054,Fatal crashes,8,6.6086209460240894
+Hartford,2017,Driver/Passenger,121054,Total crashes,6795,5613.19741602921
+Hartford,2017,Driver/Passenger,121054,Injury or fatal crashes,1657,1368.8106134452394
+Hartford,2017,Driver/Passenger,121054,Fatal crashes,9,7.4346985642771
+Hartford,2018,Driver/Passenger,121054,Total crashes,6795,5613.19741602921
+Hartford,2018,Driver/Passenger,121054,Injury or fatal crashes,1693,1398.5494077023477
+Hartford,2018,Driver/Passenger,121054,Fatal crashes,12,9.912931419036132
+Hartford,2019,Driver/Passenger,121054,Total crashes,6924,5719.761428783849
+Hartford,2019,Driver/Passenger,121054,Injury or fatal crashes,1642,1356.419449171444
+Hartford,2019,Driver/Passenger,121054,Fatal crashes,12,9.912931419036132
 Hartford,2020,Driver/Passenger,121054,Total crashes,5374,4439.341120491681
 Hartford,2020,Driver/Passenger,121054,Injury or fatal crashes,1510,1247.3772035620468
 Hartford,2020,Driver/Passenger,121054,Fatal crashes,13,10.739009037289144
-Hartford,2021,Driver/Passenger,120593,Total crashes,5343,4430.6054248588225
-Hartford,2021,Driver/Passenger,120593,Injury or fatal crashes,1445,1198.2453376232452
-Hartford,2021,Driver/Passenger,120593,Fatal crashes,12,9.95082633320342
-Hartford,2022,Driver/Passenger,120682,Total crashes,5227,4331.217580086508
-Hartford,2022,Driver/Passenger,120682,Injury or fatal crashes,1391,1152.6159659269817
-Hartford,2022,Driver/Passenger,120682,Fatal crashes,8,6.628991896057407
-Hartford,2023,Driver/Passenger,119674,Total crashes,5368,4485.518993265037
-Hartford,2023,Driver/Passenger,119674,Injury or fatal crashes,1439,1202.4332770693718
-Hartford,2023,Driver/Passenger,119674,Fatal crashes,5,4.178016946036733
-Hartford,2024,Driver/Passenger,122136,Total crashes,5915,4842.961944062356
-Hartford,2024,Driver/Passenger,122136,Injury or fatal crashes,1398,1144.6256631951267
-Hartford,2024,Driver/Passenger,122136,Fatal crashes,9,7.368834741599528
-Hartford,2025,Driver/Passenger,122136,Total crashes,6233,5103.32743826554
-Hartford,2025,Driver/Passenger,122136,Injury or fatal crashes,1428,1169.1884456671253
-Hartford,2025,Driver/Passenger,122136,Fatal crashes,10,8.187594157332809
-Hartford,2015,Pedestrian/Cyclist/Other,124014,Total crashes,186,149.98306642798394
-Hartford,2015,Pedestrian/Cyclist/Other,124014,Injury or fatal crashes,167,134.66221555630815
-Hartford,2015,Pedestrian/Cyclist/Other,124014,Fatal crashes,4,3.2254422887738476
-Hartford,2016,Pedestrian/Cyclist/Other,123287,Total crashes,235,190.61214888836616
-Hartford,2016,Pedestrian/Cyclist/Other,123287,Injury or fatal crashes,217,176.0120693990445
-Hartford,2016,Pedestrian/Cyclist/Other,123287,Fatal crashes,2,1.6222310543690737
-Hartford,2017,Pedestrian/Cyclist/Other,123420,Total crashes,209,169.34046345811052
-Hartford,2017,Pedestrian/Cyclist/Other,123420,Injury or fatal crashes,193,156.3766002268676
-Hartford,2017,Pedestrian/Cyclist/Other,123420,Fatal crashes,1,0.8102414519526818
-Hartford,2018,Pedestrian/Cyclist/Other,122591,Total crashes,193,157.4340693851914
-Hartford,2018,Pedestrian/Cyclist/Other,122591,Injury or fatal crashes,176,143.56681975022636
-Hartford,2018,Pedestrian/Cyclist/Other,122591,Fatal crashes,9,7.3414851008638475
-Hartford,2019,Pedestrian/Cyclist/Other,122107,Total crashes,203,166.2476352707052
-Hartford,2019,Pedestrian/Cyclist/Other,122107,Injury or fatal crashes,186,152.32541950911906
-Hartford,2019,Pedestrian/Cyclist/Other,122107,Fatal crashes,3,2.456861604985791
+Hartford,2021,Driver/Passenger,121054,Total crashes,5343,4413.732714325838
+Hartford,2021,Driver/Passenger,121054,Injury or fatal crashes,1445,1193.682158375601
+Hartford,2021,Driver/Passenger,121054,Fatal crashes,12,9.912931419036132
+Hartford,2022,Driver/Passenger,121054,Total crashes,5227,4317.907710608489
+Hartford,2022,Driver/Passenger,121054,Injury or fatal crashes,1391,1149.0739669899383
+Hartford,2022,Driver/Passenger,121054,Fatal crashes,8,6.6086209460240894
+Hartford,2023,Driver/Passenger,121054,Total crashes,5368,4434.384654782163
+Hartford,2023,Driver/Passenger,121054,Injury or fatal crashes,1439,1188.7256926660828
+Hartford,2023,Driver/Passenger,121054,Fatal crashes,5,4.130388091265055
+Hartford,2024,Driver/Passenger,121054,Total crashes,5915,4886.24911196656
+Hartford,2024,Driver/Passenger,121054,Injury or fatal crashes,1398,1154.8565103177093
+Hartford,2024,Driver/Passenger,121054,Fatal crashes,9,7.4346985642771
+Hartford,2025,Driver/Passenger,121054,Total crashes,6233,5148.941794571018
+Hartford,2025,Driver/Passenger,121054,Injury or fatal crashes,1428,1179.6388388653
+Hartford,2025,Driver/Passenger,121054,Fatal crashes,10,8.26077618253011
+Hartford,2015,Pedestrian/Cyclist/Other,121054,Total crashes,186,153.65043699506006
+Hartford,2015,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,167,137.95496224825285
+Hartford,2015,Pedestrian/Cyclist/Other,121054,Fatal crashes,4,3.3043104730120447
+Hartford,2016,Pedestrian/Cyclist/Other,121054,Total crashes,235,194.12824028945758
+Hartford,2016,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,217,179.2588431609034
+Hartford,2016,Pedestrian/Cyclist/Other,121054,Fatal crashes,2,1.6521552365060224
+Hartford,2017,Pedestrian/Cyclist/Other,121054,Total crashes,209,172.6502222148793
+Hartford,2017,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,193,159.43298032283113
+Hartford,2017,Pedestrian/Cyclist/Other,121054,Fatal crashes,1,0.8260776182530112
+Hartford,2018,Pedestrian/Cyclist/Other,121054,Total crashes,193,159.43298032283113
+Hartford,2018,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,176,145.38966081252997
+Hartford,2018,Pedestrian/Cyclist/Other,121054,Fatal crashes,9,7.4346985642771
+Hartford,2019,Pedestrian/Cyclist/Other,121054,Total crashes,203,167.69375650536125
+Hartford,2019,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,186,153.65043699506006
+Hartford,2019,Pedestrian/Cyclist/Other,121054,Fatal crashes,3,2.478232854759033
 Hartford,2020,Pedestrian/Cyclist/Other,121054,Total crashes,151,124.73772035620466
 Hartford,2020,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,136,112.34655608240949
 Hartford,2020,Pedestrian/Cyclist/Other,121054,Fatal crashes,4,3.3043104730120447
-Hartford,2021,Pedestrian/Cyclist/Other,120593,Total crashes,99,82.09431724892822
-Hartford,2021,Pedestrian/Cyclist/Other,120593,Injury or fatal crashes,95,78.7773751378604
-Hartford,2021,Pedestrian/Cyclist/Other,120593,Fatal crashes,5,4.146177638834758
-Hartford,2022,Pedestrian/Cyclist/Other,120682,Total crashes,115,95.29175850582523
-Hartford,2022,Pedestrian/Cyclist/Other,120682,Injury or fatal crashes,106,87.83414262276064
-Hartford,2022,Pedestrian/Cyclist/Other,120682,Fatal crashes,7,5.800367909050231
-Hartford,2023,Pedestrian/Cyclist/Other,119674,Total crashes,146,121.99809482427261
-Hartford,2023,Pedestrian/Cyclist/Other,119674,Injury or fatal crashes,130,108.62844059695506
-Hartford,2023,Pedestrian/Cyclist/Other,119674,Fatal crashes,6,5.01362033524408
-Hartford,2024,Pedestrian/Cyclist/Other,122136,Total crashes,191,156.38304840505666
-Hartford,2024,Pedestrian/Cyclist/Other,122136,Injury or fatal crashes,163,133.45778476452477
-Hartford,2024,Pedestrian/Cyclist/Other,122136,Fatal crashes,7,5.731315910132967
-Hartford,2025,Pedestrian/Cyclist/Other,122136,Total crashes,189,154.7455295735901
-Hartford,2025,Pedestrian/Cyclist/Other,122136,Injury or fatal crashes,164,134.27654418025807
-Hartford,2025,Pedestrian/Cyclist/Other,122136,Fatal crashes,5,4.093797078666404
-New Haven,2015,Driver/Passenger,130310,Total crashes,6298,4833.090323075742
-New Haven,2015,Driver/Passenger,130310,Injury or fatal crashes,1401,1075.128539636252
-New Haven,2015,Driver/Passenger,130310,Fatal crashes,7,5.371805694114036
-New Haven,2016,Driver/Passenger,129939,Total crashes,6106,4699.128052393815
-New Haven,2016,Driver/Passenger,129939,Injury or fatal crashes,1519,1169.0100739577802
-New Haven,2016,Driver/Passenger,129939,Fatal crashes,12,9.235102625077921
-New Haven,2017,Driver/Passenger,131005,Total crashes,5917,4516.621502996069
-New Haven,2017,Driver/Passenger,131005,Injury or fatal crashes,1625,1240.4106713484218
-New Haven,2017,Driver/Passenger,131005,Fatal crashes,8,6.10663715125377
-New Haven,2018,Driver/Passenger,130407,Total crashes,7147,5480.534020413014
-New Haven,2018,Driver/Passenger,130407,Injury or fatal crashes,1820,1395.6306026516982
-New Haven,2018,Driver/Passenger,130407,Fatal crashes,16,12.269280023311632
-New Haven,2019,Driver/Passenger,130257,Total crashes,7269,5580.506229991478
-New Haven,2019,Driver/Passenger,130257,Injury or fatal crashes,1858,1426.4108646752188
-New Haven,2019,Driver/Passenger,130257,Fatal crashes,9,6.9094175361017065
+Hartford,2021,Pedestrian/Cyclist/Other,121054,Total crashes,99,81.78168420704809
+Hartford,2021,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,95,78.47737373403605
+Hartford,2021,Pedestrian/Cyclist/Other,121054,Fatal crashes,5,4.130388091265055
+Hartford,2022,Pedestrian/Cyclist/Other,121054,Total crashes,115,94.99892609909627
+Hartford,2022,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,106,87.56422753481917
+Hartford,2022,Pedestrian/Cyclist/Other,121054,Fatal crashes,7,5.782543327771077
+Hartford,2023,Pedestrian/Cyclist/Other,121054,Total crashes,146,120.60733226493961
+Hartford,2023,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,130,107.39009037289145
+Hartford,2023,Pedestrian/Cyclist/Other,121054,Fatal crashes,6,4.956465709518066
+Hartford,2024,Pedestrian/Cyclist/Other,121054,Total crashes,191,157.7808250863251
+Hartford,2024,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,163,134.6506517752408
+Hartford,2024,Pedestrian/Cyclist/Other,121054,Fatal crashes,7,5.782543327771077
+Hartford,2025,Pedestrian/Cyclist/Other,121054,Total crashes,189,156.1286698498191
+Hartford,2025,Pedestrian/Cyclist/Other,121054,Injury or fatal crashes,164,135.47672939349383
+Hartford,2025,Pedestrian/Cyclist/Other,121054,Fatal crashes,5,4.130388091265055
+New Haven,2015,Driver/Passenger,134023,Total crashes,6298,4699.193422024578
+New Haven,2015,Driver/Passenger,134023,Injury or fatal crashes,1401,1045.3429635211867
+New Haven,2015,Driver/Passenger,134023,Fatal crashes,7,5.222984114666885
+New Haven,2016,Driver/Passenger,134023,Total crashes,6106,4555.934429165143
+New Haven,2016,Driver/Passenger,134023,Injury or fatal crashes,1519,1133.387552882714
+New Haven,2016,Driver/Passenger,134023,Fatal crashes,12,8.95368705371466
+New Haven,2017,Driver/Passenger,134023,Total crashes,5917,4414.913858069138
+New Haven,2017,Driver/Passenger,134023,Injury or fatal crashes,1625,1212.478455190527
+New Haven,2017,Driver/Passenger,134023,Fatal crashes,8,5.9691247024764404
+New Haven,2018,Driver/Passenger,134023,Total crashes,7147,5332.66678107489
+New Haven,2018,Driver/Passenger,134023,Injury or fatal crashes,1820,1357.9758698133903
+New Haven,2018,Driver/Passenger,134023,Fatal crashes,16,11.938249404952881
+New Haven,2019,Driver/Passenger,134023,Total crashes,7269,5423.695932787656
+New Haven,2019,Driver/Passenger,134023,Injury or fatal crashes,1858,1386.3292121501534
+New Haven,2019,Driver/Passenger,134023,Fatal crashes,9,6.715265290285996
 New Haven,2020,Driver/Passenger,134023,Total crashes,5545,4137.349559403982
 New Haven,2020,Driver/Passenger,134023,Injury or fatal crashes,1471,1097.5728046678555
 New Haven,2020,Driver/Passenger,134023,Fatal crashes,6,4.47684352685733
-New Haven,2021,Driver/Passenger,135076,Total crashes,6600,4886.138174064971
-New Haven,2021,Driver/Passenger,135076,Injury or fatal crashes,1621,1200.0651485089875
-New Haven,2021,Driver/Passenger,135076,Fatal crashes,12,8.883887589209037
-New Haven,2022,Driver/Passenger,138909,Total crashes,6737,4849.937729016839
-New Haven,2022,Driver/Passenger,138909,Injury or fatal crashes,1573,1132.3960290549928
-New Haven,2022,Driver/Passenger,138909,Fatal crashes,13,9.358644868223081
-New Haven,2023,Driver/Passenger,135307,Total crashes,6617,4890.360439592926
-New Haven,2023,Driver/Passenger,135307,Injury or fatal crashes,1477,1091.591713658569
-New Haven,2023,Driver/Passenger,135307,Fatal crashes,8,5.9124805072908275
-New Haven,2024,Driver/Passenger,137556,Total crashes,6406,4657.012416761174
-New Haven,2024,Driver/Passenger,137556,Injury or fatal crashes,1413,1027.218005757655
-New Haven,2024,Driver/Passenger,137556,Fatal crashes,9,6.542789845590159
-New Haven,2025,Driver/Passenger,137556,Total crashes,6604,4800.953793364157
-New Haven,2025,Driver/Passenger,137556,Injury or fatal crashes,1261,916.7175550321323
-New Haven,2025,Driver/Passenger,137556,Fatal crashes,5,3.6348832475500887
-New Haven,2015,Pedestrian/Cyclist/Other,130310,Total crashes,165,126.62113421840228
-New Haven,2015,Pedestrian/Cyclist/Other,130310,Injury or fatal crashes,141,108.20351469572557
-New Haven,2015,Pedestrian/Cyclist/Other,130310,Fatal crashes,0,0
-New Haven,2016,Pedestrian/Cyclist/Other,129939,Total crashes,212,163.15347970970996
-New Haven,2016,Pedestrian/Cyclist/Other,129939,Injury or fatal crashes,189,145.45286634497725
-New Haven,2016,Pedestrian/Cyclist/Other,129939,Fatal crashes,3,2.3087756562694803
-New Haven,2017,Pedestrian/Cyclist/Other,131005,Total crashes,254,193.88572955230717
-New Haven,2017,Pedestrian/Cyclist/Other,131005,Injury or fatal crashes,215,164.11587343994503
-New Haven,2017,Pedestrian/Cyclist/Other,131005,Fatal crashes,3,2.2899889317201634
-New Haven,2018,Pedestrian/Cyclist/Other,130407,Total crashes,222,170.23626032344887
-New Haven,2018,Pedestrian/Cyclist/Other,130407,Injury or fatal crashes,191,146.4645302782826
-New Haven,2018,Pedestrian/Cyclist/Other,130407,Fatal crashes,3,2.300490004370931
-New Haven,2019,Pedestrian/Cyclist/Other,130257,Total crashes,287,220.33364809568775
-New Haven,2019,Pedestrian/Cyclist/Other,130257,Injury or fatal crashes,254,194.9991171299815
-New Haven,2019,Pedestrian/Cyclist/Other,130257,Fatal crashes,8,6.1417044765348505
+New Haven,2021,Driver/Passenger,134023,Total crashes,6600,4924.527879543063
+New Haven,2021,Driver/Passenger,134023,Injury or fatal crashes,1621,1209.4938928392887
+New Haven,2021,Driver/Passenger,134023,Fatal crashes,12,8.95368705371466
+New Haven,2022,Driver/Passenger,134023,Total crashes,6737,5026.749140072972
+New Haven,2022,Driver/Passenger,134023,Injury or fatal crashes,1573,1173.6791446244301
+New Haven,2022,Driver/Passenger,134023,Fatal crashes,13,9.699827641524216
+New Haven,2023,Driver/Passenger,134023,Total crashes,6617,4937.212269535826
+New Haven,2023,Driver/Passenger,134023,Injury or fatal crashes,1477,1102.049648194713
+New Haven,2023,Driver/Passenger,134023,Fatal crashes,8,5.9691247024764404
+New Haven,2024,Driver/Passenger,134023,Total crashes,6406,4779.77660550801
+New Haven,2024,Driver/Passenger,134023,Injury or fatal crashes,1413,1054.2966505749014
+New Haven,2024,Driver/Passenger,134023,Fatal crashes,9,6.715265290285996
+New Haven,2025,Driver/Passenger,134023,Total crashes,6604,4927.512441894301
+New Haven,2025,Driver/Passenger,134023,Injury or fatal crashes,1261,940.883281227849
+New Haven,2025,Driver/Passenger,134023,Fatal crashes,5,3.7307029390477755
+New Haven,2015,Pedestrian/Cyclist/Other,134023,Total crashes,165,123.11319698857658
+New Haven,2015,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,141,105.20582288114726
+New Haven,2015,Pedestrian/Cyclist/Other,134023,Fatal crashes,0,0
+New Haven,2016,Pedestrian/Cyclist/Other,134023,Total crashes,212,158.18180461562568
+New Haven,2016,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,189,141.0205710960059
+New Haven,2016,Pedestrian/Cyclist/Other,134023,Fatal crashes,3,2.238421763428665
+New Haven,2017,Pedestrian/Cyclist/Other,134023,Total crashes,254,189.51970930362697
+New Haven,2017,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,215,160.42022637905433
+New Haven,2017,Pedestrian/Cyclist/Other,134023,Fatal crashes,3,2.238421763428665
+New Haven,2018,Pedestrian/Cyclist/Other,134023,Total crashes,222,165.64321049372123
+New Haven,2018,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,191,142.512852271625
+New Haven,2018,Pedestrian/Cyclist/Other,134023,Fatal crashes,3,2.238421763428665
+New Haven,2019,Pedestrian/Cyclist/Other,134023,Total crashes,287,214.14234870134231
+New Haven,2019,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,254,189.51970930362697
+New Haven,2019,Pedestrian/Cyclist/Other,134023,Fatal crashes,8,5.9691247024764404
 New Haven,2020,Pedestrian/Cyclist/Other,134023,Total crashes,194,144.75127403505368
 New Haven,2020,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,173,129.08232169105304
 New Haven,2020,Pedestrian/Cyclist/Other,134023,Fatal crashes,11,8.207546465905105
-New Haven,2021,Pedestrian/Cyclist/Other,135076,Total crashes,181,133.998637803903
-New Haven,2021,Pedestrian/Cyclist/Other,135076,Injury or fatal crashes,159,117.71151055701976
-New Haven,2021,Pedestrian/Cyclist/Other,135076,Fatal crashes,11,8.143563623441619
-New Haven,2022,Pedestrian/Cyclist/Other,138909,Total crashes,210,151.17810940975747
-New Haven,2022,Pedestrian/Cyclist/Other,138909,Injury or fatal crashes,189,136.06029846878172
-New Haven,2022,Pedestrian/Cyclist/Other,138909,Fatal crashes,5,3.5994787954704157
-New Haven,2023,Pedestrian/Cyclist/Other,135307,Total crashes,202,149.2901328090934
-New Haven,2023,Pedestrian/Cyclist/Other,135307,Injury or fatal crashes,179,132.29175135063227
-New Haven,2023,Pedestrian/Cyclist/Other,135307,Fatal crashes,7,5.173420443879474
-New Haven,2024,Pedestrian/Cyclist/Other,137556,Total crashes,213,154.84602634563376
-New Haven,2024,Pedestrian/Cyclist/Other,137556,Injury or fatal crashes,178,129.40184361278315
-New Haven,2024,Pedestrian/Cyclist/Other,137556,Fatal crashes,5,3.6348832475500887
-New Haven,2025,Pedestrian/Cyclist/Other,137556,Total crashes,193,140.30649335543342
-New Haven,2025,Pedestrian/Cyclist/Other,137556,Injury or fatal crashes,168,122.13207711768298
-New Haven,2025,Pedestrian/Cyclist/Other,137556,Fatal crashes,6,4.361859897060106
-Stamford,2015,Driver/Passenger,128877,Total crashes,5248,4072.0997540290355
-Stamford,2015,Driver/Passenger,128877,Injury or fatal crashes,870,675.0622686747829
-Stamford,2015,Driver/Passenger,128877,Fatal crashes,1,0.7759336421549228
-Stamford,2016,Driver/Passenger,129105,Total crashes,5305,4109.058518260331
-Stamford,2016,Driver/Passenger,129105,Injury or fatal crashes,869,673.0955423879788
-Stamford,2016,Driver/Passenger,129105,Fatal crashes,1,0.7745633399171217
-Stamford,2017,Driver/Passenger,130835,Total crashes,4613,3525.814957771239
-Stamford,2017,Driver/Passenger,130835,Injury or fatal crashes,705,538.8466388963199
-Stamford,2017,Driver/Passenger,130835,Fatal crashes,6,4.585928841670807
-Stamford,2018,Driver/Passenger,129770,Total crashes,5061,3899.976882176158
-Stamford,2018,Driver/Passenger,129770,Injury or fatal crashes,809,623.41064961085
-Stamford,2018,Driver/Passenger,129770,Fatal crashes,4,3.0823765122909763
-Stamford,2019,Driver/Passenger,129636,Total crashes,4580,3532.969236940356
-Stamford,2019,Driver/Passenger,129636,Injury or fatal crashes,845,651.8251103088649
-Stamford,2019,Driver/Passenger,129636,Fatal crashes,1,0.7713906630874139
+New Haven,2021,Pedestrian/Cyclist/Other,134023,Total crashes,181,135.05144639352946
+New Haven,2021,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,159,118.63635346171925
+New Haven,2021,Pedestrian/Cyclist/Other,134023,Fatal crashes,11,8.207546465905105
+New Haven,2022,Pedestrian/Cyclist/Other,134023,Total crashes,210,156.68952344000655
+New Haven,2022,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,189,141.0205710960059
+New Haven,2022,Pedestrian/Cyclist/Other,134023,Fatal crashes,5,3.7307029390477755
+New Haven,2023,Pedestrian/Cyclist/Other,134023,Total crashes,202,150.72039873753013
+New Haven,2023,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,179,133.55916521791036
+New Haven,2023,Pedestrian/Cyclist/Other,134023,Fatal crashes,7,5.222984114666885
+New Haven,2024,Pedestrian/Cyclist/Other,134023,Total crashes,213,158.92794520343523
+New Haven,2024,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,178,132.8130246301008
+New Haven,2024,Pedestrian/Cyclist/Other,134023,Fatal crashes,5,3.7307029390477755
+New Haven,2025,Pedestrian/Cyclist/Other,134023,Total crashes,193,144.0051334472441
+New Haven,2025,Pedestrian/Cyclist/Other,134023,Injury or fatal crashes,168,125.35161875200525
+New Haven,2025,Pedestrian/Cyclist/Other,134023,Fatal crashes,6,4.47684352685733
+Stamford,2015,Driver/Passenger,135470,Total crashes,5248,3873.9204251863885
+Stamford,2015,Driver/Passenger,135470,Injury or fatal crashes,870,642.2086070716764
+Stamford,2015,Driver/Passenger,135470,Fatal crashes,1,0.7381708127260649
+Stamford,2016,Driver/Passenger,135470,Total crashes,5305,3915.996161511774
+Stamford,2016,Driver/Passenger,135470,Injury or fatal crashes,869,641.4704362589503
+Stamford,2016,Driver/Passenger,135470,Fatal crashes,1,0.7381708127260649
+Stamford,2017,Driver/Passenger,135470,Total crashes,4613,3405.181959105337
+Stamford,2017,Driver/Passenger,135470,Injury or fatal crashes,705,520.4104229718757
+Stamford,2017,Driver/Passenger,135470,Fatal crashes,6,4.429024876356389
+Stamford,2018,Driver/Passenger,135470,Total crashes,5061,3735.882483206614
+Stamford,2018,Driver/Passenger,135470,Injury or fatal crashes,809,597.1801874953865
+Stamford,2018,Driver/Passenger,135470,Fatal crashes,4,2.9526832509042595
+Stamford,2019,Driver/Passenger,135470,Total crashes,4580,3380.8223222853767
+Stamford,2019,Driver/Passenger,135470,Injury or fatal crashes,845,623.7543367535247
+Stamford,2019,Driver/Passenger,135470,Fatal crashes,1,0.7381708127260649
 Stamford,2020,Driver/Passenger,135470,Total crashes,3331,2458.846977190522
 Stamford,2020,Driver/Passenger,135470,Injury or fatal crashes,589,434.7826086956522
 Stamford,2020,Driver/Passenger,135470,Fatal crashes,1,0.7381708127260649
-Stamford,2021,Driver/Passenger,136312,Total crashes,4008,2940.313398673631
-Stamford,2021,Driver/Passenger,136312,Injury or fatal crashes,731,536.2697341393274
-Stamford,2021,Driver/Passenger,136312,Fatal crashes,3,2.2008333822407415
-Stamford,2022,Driver/Passenger,136197,Total crashes,4074,2991.2553139937004
-Stamford,2022,Driver/Passenger,136197,Injury or fatal crashes,731,536.7225416125171
-Stamford,2022,Driver/Passenger,136197,Fatal crashes,5,3.671152815407094
-Stamford,2023,Driver/Passenger,136212,Total crashes,3833,2813.99583002966
-Stamford,2023,Driver/Passenger,136212,Injury or fatal crashes,723,530.790238745485
-Stamford,2023,Driver/Passenger,136212,Fatal crashes,5,3.6707485390420818
-Stamford,2024,Driver/Passenger,139112,Total crashes,3855,2771.1484271665995
-Stamford,2024,Driver/Passenger,139112,Injury or fatal crashes,715,513.9743516015872
-Stamford,2024,Driver/Passenger,139112,Fatal crashes,5,3.5942262349761345
-Stamford,2025,Driver/Passenger,139112,Total crashes,3792,2725.8611766059003
-Stamford,2025,Driver/Passenger,139112,Injury or fatal crashes,731,525.4758755535108
-Stamford,2025,Driver/Passenger,139112,Fatal crashes,0,0
-Stamford,2015,Pedestrian/Cyclist/Other,128877,Total crashes,124,96.21577162721044
-Stamford,2015,Pedestrian/Cyclist/Other,128877,Injury or fatal crashes,114,88.45643520566122
-Stamford,2015,Pedestrian/Cyclist/Other,128877,Fatal crashes,2,1.5518672843098456
-Stamford,2016,Pedestrian/Cyclist/Other,129105,Total crashes,143,110.7625576081484
-Stamford,2016,Pedestrian/Cyclist/Other,129105,Injury or fatal crashes,137,106.11517756864566
-Stamford,2016,Pedestrian/Cyclist/Other,129105,Fatal crashes,4,3.0982533596684867
-Stamford,2017,Pedestrian/Cyclist/Other,130835,Total crashes,106,81.01807620285092
-Stamford,2017,Pedestrian/Cyclist/Other,130835,Injury or fatal crashes,97,74.13918294034471
-Stamford,2017,Pedestrian/Cyclist/Other,130835,Fatal crashes,2,1.5286429472236023
-Stamford,2018,Pedestrian/Cyclist/Other,129770,Total crashes,108,83.22416583185635
-Stamford,2018,Pedestrian/Cyclist/Other,129770,Injury or fatal crashes,102,78.60060106341989
-Stamford,2018,Pedestrian/Cyclist/Other,129770,Fatal crashes,2,1.5411882561454882
-Stamford,2019,Pedestrian/Cyclist/Other,129636,Total crashes,115,88.70992625505261
-Stamford,2019,Pedestrian/Cyclist/Other,129636,Injury or fatal crashes,105,80.99601962417847
-Stamford,2019,Pedestrian/Cyclist/Other,129636,Fatal crashes,1,0.7713906630874139
+Stamford,2021,Driver/Passenger,135470,Total crashes,4008,2958.588617406068
+Stamford,2021,Driver/Passenger,135470,Injury or fatal crashes,731,539.6028641027534
+Stamford,2021,Driver/Passenger,135470,Fatal crashes,3,2.2145124381781947
+Stamford,2022,Driver/Passenger,135470,Total crashes,4074,3007.307891045988
+Stamford,2022,Driver/Passenger,135470,Injury or fatal crashes,731,539.6028641027534
+Stamford,2022,Driver/Passenger,135470,Fatal crashes,5,3.6908540636303244
+Stamford,2023,Driver/Passenger,135470,Total crashes,3833,2829.4087251790065
+Stamford,2023,Driver/Passenger,135470,Injury or fatal crashes,723,533.6974976009449
+Stamford,2023,Driver/Passenger,135470,Fatal crashes,5,3.6908540636303244
+Stamford,2024,Driver/Passenger,135470,Total crashes,3855,2845.6484830589798
+Stamford,2024,Driver/Passenger,135470,Injury or fatal crashes,715,527.7921310991363
+Stamford,2024,Driver/Passenger,135470,Fatal crashes,5,3.6908540636303244
+Stamford,2025,Driver/Passenger,135470,Total crashes,3792,2799.143721857238
+Stamford,2025,Driver/Passenger,135470,Injury or fatal crashes,731,539.6028641027534
+Stamford,2025,Driver/Passenger,135470,Fatal crashes,0,0
+Stamford,2015,Pedestrian/Cyclist/Other,135470,Total crashes,124,91.53318077803205
+Stamford,2015,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,114,84.1514726507714
+Stamford,2015,Pedestrian/Cyclist/Other,135470,Fatal crashes,2,1.4763416254521298
+Stamford,2016,Pedestrian/Cyclist/Other,135470,Total crashes,143,105.55842621982727
+Stamford,2016,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,137,101.12940134347089
+Stamford,2016,Pedestrian/Cyclist/Other,135470,Fatal crashes,4,2.9526832509042595
+Stamford,2017,Pedestrian/Cyclist/Other,135470,Total crashes,106,78.24610614896288
+Stamford,2017,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,97,71.60256883442828
+Stamford,2017,Pedestrian/Cyclist/Other,135470,Fatal crashes,2,1.4763416254521298
+Stamford,2018,Pedestrian/Cyclist/Other,135470,Total crashes,108,79.722447774415
+Stamford,2018,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,102,75.29342289805861
+Stamford,2018,Pedestrian/Cyclist/Other,135470,Fatal crashes,2,1.4763416254521298
+Stamford,2019,Pedestrian/Cyclist/Other,135470,Total crashes,115,84.88964346349745
+Stamford,2019,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,105,77.5079353362368
+Stamford,2019,Pedestrian/Cyclist/Other,135470,Fatal crashes,1,0.7381708127260649
 Stamford,2020,Pedestrian/Cyclist/Other,135470,Total crashes,97,71.60256883442828
 Stamford,2020,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,87,64.22086070716763
 Stamford,2020,Pedestrian/Cyclist/Other,135470,Fatal crashes,2,1.4763416254521298
-Stamford,2021,Pedestrian/Cyclist/Other,136312,Total crashes,119,87.2997241622161
-Stamford,2021,Pedestrian/Cyclist/Other,136312,Injury or fatal crashes,112,82.16444627032102
-Stamford,2021,Pedestrian/Cyclist/Other,136312,Fatal crashes,0,0
-Stamford,2022,Pedestrian/Cyclist/Other,136197,Total crashes,121,88.84189813285168
-Stamford,2022,Pedestrian/Cyclist/Other,136197,Injury or fatal crashes,115,84.43651475436316
-Stamford,2022,Pedestrian/Cyclist/Other,136197,Fatal crashes,4,2.9369222523256755
-Stamford,2023,Pedestrian/Cyclist/Other,136212,Total crashes,119,87.36381522920153
-Stamford,2023,Pedestrian/Cyclist/Other,136212,Injury or fatal crashes,102,74.88327019645845
-Stamford,2023,Pedestrian/Cyclist/Other,136212,Fatal crashes,4,2.936598831233665
-Stamford,2024,Pedestrian/Cyclist/Other,139112,Total crashes,110,79.07297716947495
-Stamford,2024,Pedestrian/Cyclist/Other,139112,Injury or fatal crashes,100,71.88452469952269
-Stamford,2024,Pedestrian/Cyclist/Other,139112,Fatal crashes,1,0.7188452469952269
-Stamford,2025,Pedestrian/Cyclist/Other,139112,Total crashes,122,87.69912013341768
-Stamford,2025,Pedestrian/Cyclist/Other,139112,Injury or fatal crashes,118,84.82373914543676
-Stamford,2025,Pedestrian/Cyclist/Other,139112,Fatal crashes,1,0.7188452469952269
-Waterbury,2015,Driver/Passenger,108807,Total crashes,5067,4656.869502881249
-Waterbury,2015,Driver/Passenger,108807,Injury or fatal crashes,1250,1148.8231455696784
-Waterbury,2015,Driver/Passenger,108807,Fatal crashes,12,11.028702197468913
-Waterbury,2016,Driver/Passenger,108269,Total crashes,5552,5127.968301175775
-Waterbury,2016,Driver/Passenger,108269,Injury or fatal crashes,1428,1318.93709187302
-Waterbury,2016,Driver/Passenger,108269,Fatal crashes,9,8.312628730292143
-Waterbury,2017,Driver/Passenger,108642,Total crashes,5928,5456.4533053515215
-Waterbury,2017,Driver/Passenger,108642,Injury or fatal crashes,1500,1380.6815043905672
-Waterbury,2017,Driver/Passenger,108642,Fatal crashes,10,9.204543362603781
-Waterbury,2018,Driver/Passenger,108086,Total crashes,5999,5550.210017948671
-Waterbury,2018,Driver/Passenger,108086,Injury or fatal crashes,1471,1360.953314952908
-Waterbury,2018,Driver/Passenger,108086,Fatal crashes,6,5.551135207149862
-Waterbury,2019,Driver/Passenger,107577,Total crashes,5706,5304.107755375219
-Waterbury,2019,Driver/Passenger,107577,Injury or fatal crashes,1409,1309.7595210872212
-Waterbury,2019,Driver/Passenger,107577,Fatal crashes,8,7.436533831581101
+Stamford,2021,Pedestrian/Cyclist/Other,135470,Total crashes,119,87.84232671440171
+Stamford,2021,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,112,82.67513102531926
+Stamford,2021,Pedestrian/Cyclist/Other,135470,Fatal crashes,0,0
+Stamford,2022,Pedestrian/Cyclist/Other,135470,Total crashes,121,89.31866833985384
+Stamford,2022,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,115,84.88964346349745
+Stamford,2022,Pedestrian/Cyclist/Other,135470,Fatal crashes,4,2.9526832509042595
+Stamford,2023,Pedestrian/Cyclist/Other,135470,Total crashes,119,87.84232671440171
+Stamford,2023,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,102,75.29342289805861
+Stamford,2023,Pedestrian/Cyclist/Other,135470,Fatal crashes,4,2.9526832509042595
+Stamford,2024,Pedestrian/Cyclist/Other,135470,Total crashes,110,81.19878939986714
+Stamford,2024,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,100,73.81708127260649
+Stamford,2024,Pedestrian/Cyclist/Other,135470,Fatal crashes,1,0.7381708127260649
+Stamford,2025,Pedestrian/Cyclist/Other,135470,Total crashes,122,90.05683915257991
+Stamford,2025,Pedestrian/Cyclist/Other,135470,Injury or fatal crashes,118,87.10415590167565
+Stamford,2025,Pedestrian/Cyclist/Other,135470,Fatal crashes,1,0.7381708127260649
+Waterbury,2015,Driver/Passenger,114403,Total crashes,5067,4429.079657002002
+Waterbury,2015,Driver/Passenger,114403,Injury or fatal crashes,1250,1092.6286898070855
+Waterbury,2015,Driver/Passenger,114403,Fatal crashes,12,10.48923542214802
+Waterbury,2016,Driver/Passenger,114403,Total crashes,5552,4853.01958864715
+Waterbury,2016,Driver/Passenger,114403,Injury or fatal crashes,1428,1248.2190152356145
+Waterbury,2016,Driver/Passenger,114403,Fatal crashes,9,7.866926566611015
+Waterbury,2017,Driver/Passenger,114403,Total crashes,5928,5181.682298541123
+Waterbury,2017,Driver/Passenger,114403,Injury or fatal crashes,1500,1311.1544277685025
+Waterbury,2017,Driver/Passenger,114403,Fatal crashes,10,8.741029518456685
+Waterbury,2018,Driver/Passenger,114403,Total crashes,5999,5243.743608122164
+Waterbury,2018,Driver/Passenger,114403,Injury or fatal crashes,1471,1285.805442164978
+Waterbury,2018,Driver/Passenger,114403,Fatal crashes,6,5.24461771107401
+Waterbury,2019,Driver/Passenger,114403,Total crashes,5706,4987.631443231384
+Waterbury,2019,Driver/Passenger,114403,Injury or fatal crashes,1409,1231.6110591505467
+Waterbury,2019,Driver/Passenger,114403,Fatal crashes,8,6.9928236147653475
 Waterbury,2020,Driver/Passenger,114403,Total crashes,4724,4129.262344518937
 Waterbury,2020,Driver/Passenger,114403,Injury or fatal crashes,1273,1112.733057699536
 Waterbury,2020,Driver/Passenger,114403,Fatal crashes,6,5.24461771107401
-Waterbury,2021,Driver/Passenger,113820,Total crashes,5179,4550.166930240731
-Waterbury,2021,Driver/Passenger,113820,Injury or fatal crashes,1408,1237.0409418379897
-Waterbury,2021,Driver/Passenger,113820,Fatal crashes,6,5.271481286241434
-Waterbury,2022,Driver/Passenger,115009,Total crashes,4806,4178.80339799494
-Waterbury,2022,Driver/Passenger,115009,Injury or fatal crashes,1342,1166.865201853768
-Waterbury,2022,Driver/Passenger,115009,Fatal crashes,15,13.042457546800685
-Waterbury,2023,Driver/Passenger,114994,Total crashes,4630,4026.297024192567
-Waterbury,2023,Driver/Passenger,114994,Injury or fatal crashes,1211,1053.0984225263928
-Waterbury,2023,Driver/Passenger,114994,Fatal crashes,12,10.43532706054229
-Waterbury,2024,Driver/Passenger,115902,Total crashes,4401,3797.1734741419473
-Waterbury,2024,Driver/Passenger,115902,Injury or fatal crashes,1127,972.3732118513916
-Waterbury,2024,Driver/Passenger,115902,Fatal crashes,10,8.627978809684043
-Waterbury,2025,Driver/Passenger,115902,Total crashes,4439,3829.9597936187465
-Waterbury,2025,Driver/Passenger,115902,Injury or fatal crashes,1068,921.4681368742558
-Waterbury,2025,Driver/Passenger,115902,Fatal crashes,6,5.176787285810426
-Waterbury,2015,Pedestrian/Cyclist/Other,108807,Total crashes,114,104.77267087595466
-Waterbury,2015,Pedestrian/Cyclist/Other,108807,Injury or fatal crashes,99,90.98679312911852
-Waterbury,2015,Pedestrian/Cyclist/Other,108807,Fatal crashes,4,3.676234065822971
-Waterbury,2016,Pedestrian/Cyclist/Other,108269,Total crashes,112,103.44604642141333
-Waterbury,2016,Pedestrian/Cyclist/Other,108269,Injury or fatal crashes,99,91.43891603321357
-Waterbury,2016,Pedestrian/Cyclist/Other,108269,Fatal crashes,3,2.770876243430714
-Waterbury,2017,Pedestrian/Cyclist/Other,108642,Total crashes,133,122.4204267226303
-Waterbury,2017,Pedestrian/Cyclist/Other,108642,Injury or fatal crashes,114,104.93179433368311
-Waterbury,2017,Pedestrian/Cyclist/Other,108642,Fatal crashes,6,5.5227260175622686
-Waterbury,2018,Pedestrian/Cyclist/Other,108086,Total crashes,129,119.34940695372204
-Waterbury,2018,Pedestrian/Cyclist/Other,108086,Injury or fatal crashes,114,105.47156893584739
-Waterbury,2018,Pedestrian/Cyclist/Other,108086,Fatal crashes,3,2.775567603574931
-Waterbury,2019,Pedestrian/Cyclist/Other,107577,Total crashes,151,140.36457607109327
-Waterbury,2019,Pedestrian/Cyclist/Other,107577,Injury or fatal crashes,135,125.49150840793106
-Waterbury,2019,Pedestrian/Cyclist/Other,107577,Fatal crashes,4,3.7182669157905504
+Waterbury,2021,Driver/Passenger,114403,Total crashes,5179,4526.9791876087165
+Waterbury,2021,Driver/Passenger,114403,Injury or fatal crashes,1408,1230.7369561987011
+Waterbury,2021,Driver/Passenger,114403,Fatal crashes,6,5.24461771107401
+Waterbury,2022,Driver/Passenger,114403,Total crashes,4806,4200.938786570282
+Waterbury,2022,Driver/Passenger,114403,Injury or fatal crashes,1342,1173.046161376887
+Waterbury,2022,Driver/Passenger,114403,Fatal crashes,15,13.111544277685027
+Waterbury,2023,Driver/Passenger,114403,Total crashes,4630,4047.0966670454445
+Waterbury,2023,Driver/Passenger,114403,Injury or fatal crashes,1211,1058.5386746851043
+Waterbury,2023,Driver/Passenger,114403,Fatal crashes,12,10.48923542214802
+Waterbury,2024,Driver/Passenger,114403,Total crashes,4401,3846.927091072787
+Waterbury,2024,Driver/Passenger,114403,Injury or fatal crashes,1127,985.1140267300683
+Waterbury,2024,Driver/Passenger,114403,Fatal crashes,10,8.741029518456685
+Waterbury,2025,Driver/Passenger,114403,Total crashes,4439,3880.1430032429216
+Waterbury,2025,Driver/Passenger,114403,Injury or fatal crashes,1068,933.5419525711739
+Waterbury,2025,Driver/Passenger,114403,Fatal crashes,6,5.24461771107401
+Waterbury,2015,Pedestrian/Cyclist/Other,114403,Total crashes,114,99.64773651040619
+Waterbury,2015,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,99,86.53619223272118
+Waterbury,2015,Pedestrian/Cyclist/Other,114403,Fatal crashes,4,3.4964118073826738
+Waterbury,2016,Pedestrian/Cyclist/Other,114403,Total crashes,112,97.89953060671485
+Waterbury,2016,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,99,86.53619223272118
+Waterbury,2016,Pedestrian/Cyclist/Other,114403,Fatal crashes,3,2.622308855537005
+Waterbury,2017,Pedestrian/Cyclist/Other,114403,Total crashes,133,116.2556925954739
+Waterbury,2017,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,114,99.64773651040619
+Waterbury,2017,Pedestrian/Cyclist/Other,114403,Fatal crashes,6,5.24461771107401
+Waterbury,2018,Pedestrian/Cyclist/Other,114403,Total crashes,129,112.75928078809123
+Waterbury,2018,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,114,99.64773651040619
+Waterbury,2018,Pedestrian/Cyclist/Other,114403,Fatal crashes,3,2.622308855537005
+Waterbury,2019,Pedestrian/Cyclist/Other,114403,Total crashes,151,131.98954572869593
+Waterbury,2019,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,135,118.00389849916523
+Waterbury,2019,Pedestrian/Cyclist/Other,114403,Fatal crashes,4,3.4964118073826738
 Waterbury,2020,Pedestrian/Cyclist/Other,114403,Total crashes,113,98.77363355856052
 Waterbury,2020,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,93,81.29157452164716
 Waterbury,2020,Pedestrian/Cyclist/Other,114403,Fatal crashes,6,5.24461771107401
-Waterbury,2021,Pedestrian/Cyclist/Other,113820,Total crashes,112,98.40098400984009
-Waterbury,2021,Pedestrian/Cyclist/Other,113820,Injury or fatal crashes,98,86.1008610086101
-Waterbury,2021,Pedestrian/Cyclist/Other,113820,Fatal crashes,1,0.8785802143735724
-Waterbury,2022,Pedestrian/Cyclist/Other,115009,Total crashes,111,96.51418584632506
-Waterbury,2022,Pedestrian/Cyclist/Other,115009,Injury or fatal crashes,97,84.3412254693111
-Waterbury,2022,Pedestrian/Cyclist/Other,115009,Fatal crashes,6,5.216983018720274
-Waterbury,2023,Pedestrian/Cyclist/Other,114994,Total crashes,96,83.48261648433832
-Waterbury,2023,Pedestrian/Cyclist/Other,114994,Injury or fatal crashes,82,71.30806824703897
-Waterbury,2023,Pedestrian/Cyclist/Other,114994,Fatal crashes,3,2.6088317651355726
-Waterbury,2024,Pedestrian/Cyclist/Other,115902,Total crashes,135,116.4777139307346
-Waterbury,2024,Pedestrian/Cyclist/Other,115902,Injury or fatal crashes,117,100.94735207330332
-Waterbury,2024,Pedestrian/Cyclist/Other,115902,Fatal crashes,6,5.176787285810426
-Waterbury,2025,Pedestrian/Cyclist/Other,115902,Total crashes,101,87.14258597780884
-Waterbury,2025,Pedestrian/Cyclist/Other,115902,Injury or fatal crashes,88,75.92621352521958
-Waterbury,2025,Pedestrian/Cyclist/Other,115902,Fatal crashes,1,0.8627978809684044
+Waterbury,2021,Pedestrian/Cyclist/Other,114403,Total crashes,112,97.89953060671485
+Waterbury,2021,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,98,85.66208928087549
+Waterbury,2021,Pedestrian/Cyclist/Other,114403,Fatal crashes,1,0.8741029518456684
+Waterbury,2022,Pedestrian/Cyclist/Other,114403,Total crashes,111,97.02542765486919
+Waterbury,2022,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,97,84.78798632902983
+Waterbury,2022,Pedestrian/Cyclist/Other,114403,Fatal crashes,6,5.24461771107401
+Waterbury,2023,Pedestrian/Cyclist/Other,114403,Total crashes,96,83.91388337718416
+Waterbury,2023,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,82,71.67644205134481
+Waterbury,2023,Pedestrian/Cyclist/Other,114403,Fatal crashes,3,2.622308855537005
+Waterbury,2024,Pedestrian/Cyclist/Other,114403,Total crashes,135,118.00389849916523
+Waterbury,2024,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,117,102.27004536594319
+Waterbury,2024,Pedestrian/Cyclist/Other,114403,Fatal crashes,6,5.24461771107401
+Waterbury,2025,Pedestrian/Cyclist/Other,114403,Total crashes,101,88.2843981364125
+Waterbury,2025,Pedestrian/Cyclist/Other,114403,Injury or fatal crashes,88,76.92105976241882
+Waterbury,2025,Pedestrian/Cyclist/Other,114403,Fatal crashes,1,0.8741029518456684

@@ -230,6 +230,10 @@ walk(c("New Haven", "Waterbury", big5_label, state_label), print_geo)
 
 # Per-capita rates + time-series graph
 
+# A SINGLE fixed denominator per geography: the 2020 Decennial Census count,
+# applied to every year. This isolates crash-count trends from population change
+# and matches the SS4A convention of a fixed 2020 population. (No per-year ACS,
+# so no 2025 carry-forward is needed.)
 fetch_census_population <- function() {
   key <- Sys.getenv("CENSUS_API_KEY")
   if (!nzchar(key))
@@ -245,52 +249,26 @@ fetch_census_population <- function() {
     "Stamford",   "0973000",
     "Bridgeport", "0908000"
   )
-  keep_city <- function(df, yr)
-    df |> inner_join(places, by = "GEOID") |>
-      transmute(geography, year = yr, population = value)
-
-  # One ACS 1-year pull (cities + statewide) for a given year
-  acs_year <- function(yr) {
-    city <- get_acs("place", variables = "B01003_001E", state = "CT",
-                    survey = "acs1", year = yr, key = key) |>
-      rename(value = estimate) |> keep_city(yr)
-    state <- get_acs("state", variables = "B01003_001E", state = "CT",
-                     survey = "acs1", year = yr, key = key) |>
-      transmute(geography = "Connecticut (statewide)", year = yr,
-                population = estimate)
-    bind_rows(city, state)
-  }
-
-  message("Fetching Census populations via tidycensus ",
-          "(ACS 1-year + 2020 Decennial) ...")
-  acs <- map(c(2015:2019, 2021:2024), acs_year) |> list_rbind()
-
-  # 2020 use the 2020 Decennial Census count
-  dec_city <- get_decennial("place", variables = "P1_001N", state = "CT",
-                            year = 2020, sumfile = "pl", key = key) |>
-    keep_city(2020L)
-  dec_state <- get_decennial("state", variables = "P1_001N", state = "CT",
-                             year = 2020, sumfile = "pl", key = key) |>
-    transmute(geography = "Connecticut (statewide)", year = 2020L,
-              population = value)
-
-  bind_rows(acs, dec_city, dec_state) |> arrange(geography, year)
+  message("Fetching 2020 Decennial Census populations via tidycensus ...")
+  city <- get_decennial("place", variables = "P1_001N", state = "CT",
+                        year = 2020, sumfile = "pl", key = key) |>
+    inner_join(places, by = "GEOID") |>
+    transmute(geography, population = value)
+  state <- get_decennial("state", variables = "P1_001N", state = "CT",
+                         year = 2020, sumfile = "pl", key = key) |>
+    transmute(geography = "Connecticut (statewide)", population = value)
+  bind_rows(city, state)
 }
 
 population <- fetch_census_population()
 
-# Combined denominator for the "Five largest cities" line = sum of their populations
+# Combined denominator for the "Five largest cities" line = sum of their 2020 pops
 population <- population |>
   bind_rows(
     population |> filter(geography %in% report_towns) |>
-      group_by(year) |>
-      summarise(population = sum(population), .groups = "drop") |>
+      summarise(population = sum(population)) |>
       mutate(geography = big5_label)
   )
-
-# 2025 has no published Census figure yet so carried 2024 ACS value forward as the 2025 denominator for the per-capita graph
-population <- population |>
-  bind_rows(population |> filter(year == 2024L) |> mutate(year = 2025L))
 
 metric_labels <- c(
   total_crashes           = "Total crashes",
@@ -299,7 +277,7 @@ metric_labels <- c(
 )
 
 rates_long <- indicators_long |>
-  left_join(population, by = c("geography", "year")) |>
+  left_join(population, by = "geography") |>
   pivot_longer(
     cols      = c(total_crashes, injury_or_fatal_crashes, fatal_crashes),
     names_to  = "metric", values_to = "count"
@@ -334,7 +312,7 @@ rate_plot <- rate_data |>
                        rate_span[1], rate_span[2]),
     subtitle = "By road-user group; individual cities (thin) vs. five-largest-cities and statewide benchmarks (thick)",
     x = NULL, y = "Crashes per 100,000 residents", colour = NULL,
-    caption  = "Sources: CT Crash Data Repository (ctcrash.uconn.edu); population from U.S. Census ACS 1-year estimates (2020: Decennial Census; 2025: 2024 ACS carried forward)."
+    caption  = "Sources: CT Crash Data Repository (ctcrash.uconn.edu); population from the 2020 U.S. Decennial Census (held constant across all years)."
   ) +
   theme_minimal(base_size = 11) +
   theme(legend.position = "bottom",
@@ -407,8 +385,7 @@ print(fatal_plot)
 # "Pure" fatalities: PERSONS KILLED per 100,000 residents (SS4A-style), from the
 # person-level fatalities_by_town.csv. Same geographies + benchmark lines as the
 # rates graph, faceted by victim type plus "All road users" (= every person
-# killed). Uses the same population denominators, so like the rates graph it
-# carries 2024 population forward for 2025.
+# killed). Uses the same fixed 2020 Decennial population denominators.
 fatal_geo <- bind_rows(
   fatal_counts |> rename(geography = town),
   fatal_counts |> group_by(geography = state_label, year, group) |>
@@ -432,7 +409,7 @@ deaths_display <- bind_rows(
            group = c("All road users", "Driver/Passenger",
                      "Pedestrian/Cyclist/Other"),
            fill = list(deaths = 0)) |>
-  left_join(population, by = c("geography", "year")) |>
+  left_join(population, by = "geography") |>
   mutate(
     deaths_per_100k = deaths / population * 1e5,
     group = factor(group, levels = c("All road users", "Driver/Passenger",
@@ -461,7 +438,7 @@ deaths_plot <- deaths_plotdata |>
                        deaths_span[1], deaths_span[2]),
     subtitle = "Persons killed (not fatal crashes), by victim type; individual cities (thin) vs. five-largest-cities and statewide benchmarks (thick)",
     x = NULL, y = "Persons killed per 100,000 residents", colour = NULL,
-    caption  = "Source: CT Crash Data Repository (ctcrash.uconn.edu), person-level Injury Status K. Population: U.S. Census ACS 1-year (2020: Decennial; 2025: 2024 carried forward)."
+    caption  = "Source: CT Crash Data Repository (ctcrash.uconn.edu), person-level Injury Status K. Population: 2020 U.S. Decennial Census (held constant across all years)."
   ) +
   theme_minimal(base_size = 11) +
   theme(legend.position = "bottom",
