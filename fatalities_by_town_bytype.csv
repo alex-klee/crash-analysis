@@ -1,0 +1,1534 @@
+town,year,crash_type,deaths
+Andover,2015,Vehicle/vehicle,2
+Andover,2016,Vehicle/vehicle,1
+Andover,2021,Pedestrian/vehicle,1
+Andover,2021,Vehicle/vehicle,2
+Andover,2023,Vehicle/vehicle,1
+Ansonia,2015,Pedestrian/vehicle,1
+Ansonia,2018,Vehicle/vehicle,1
+Ansonia,2020,Vehicle/vehicle,1
+Ansonia,2025,Vehicle/vehicle,1
+Ashford,2015,Vehicle/vehicle,1
+Ashford,2016,Pedestrian/vehicle,1
+Ashford,2017,Vehicle/vehicle,1
+Ashford,2021,Vehicle/vehicle,2
+Ashford,2025,Vehicle/vehicle,1
+Avon,2017,Vehicle/vehicle,1
+Avon,2019,Vehicle/vehicle,1
+Avon,2020,Pedestrian/vehicle,1
+Avon,2020,Vehicle/vehicle,1
+Avon,2022,Pedestrian/vehicle,1
+Avon,2024,Vehicle/vehicle,2
+Barkhamsted,2015,Vehicle/vehicle,1
+Barkhamsted,2016,Vehicle/vehicle,1
+Barkhamsted,2021,Vehicle/vehicle,1
+Barkhamsted,2023,Vehicle/vehicle,1
+Beacon Falls,2020,Vehicle/vehicle,1
+Beacon Falls,2021,Vehicle/vehicle,2
+Beacon Falls,2024,Vehicle/vehicle,3
+Beacon Falls,2025,Vehicle/vehicle,2
+Berlin,2015,Pedestrian/vehicle,1
+Berlin,2015,Vehicle/vehicle,1
+Berlin,2016,Vehicle/vehicle,1
+Berlin,2017,Vehicle/vehicle,2
+Berlin,2019,Pedestrian/vehicle,2
+Berlin,2021,Vehicle/vehicle,6
+Berlin,2022,Cyclist/vehicle,1
+Berlin,2022,Vehicle/vehicle,2
+Berlin,2023,Pedestrian/vehicle,1
+Berlin,2023,Vehicle/vehicle,3
+Berlin,2024,Pedestrian/vehicle,1
+Berlin,2024,Vehicle/vehicle,3
+Berlin,2025,Vehicle/vehicle,1
+Bethany,2015,Pedestrian/vehicle,1
+Bethany,2015,Vehicle/vehicle,1
+Bethany,2017,Vehicle/vehicle,2
+Bethany,2018,Pedestrian/vehicle,1
+Bethany,2018,Vehicle/vehicle,1
+Bethany,2019,Pedestrian/vehicle,1
+Bethany,2021,Pedestrian/vehicle,1
+Bethany,2021,Vehicle/vehicle,3
+Bethany,2023,Vehicle/vehicle,2
+Bethel,2016,Vehicle/vehicle,1
+Bethel,2018,Pedestrian/vehicle,1
+Bethel,2020,Vehicle/vehicle,1
+Bethel,2022,Pedestrian/vehicle,1
+Bethel,2025,Pedestrian/vehicle,1
+Bethlehem,2015,Vehicle/vehicle,1
+Bethlehem,2019,Vehicle/vehicle,2
+Bloomfield,2015,Vehicle/vehicle,3
+Bloomfield,2016,Vehicle/vehicle,3
+Bloomfield,2017,Pedestrian/vehicle,1
+Bloomfield,2017,Vehicle/vehicle,1
+Bloomfield,2018,Vehicle/vehicle,1
+Bloomfield,2019,Vehicle/vehicle,2
+Bloomfield,2020,Vehicle/vehicle,1
+Bloomfield,2021,Vehicle/vehicle,1
+Bloomfield,2022,Vehicle/vehicle,1
+Bloomfield,2023,Pedestrian/vehicle,1
+Bloomfield,2023,Vehicle/vehicle,2
+Bloomfield,2024,Vehicle/vehicle,1
+Bloomfield,2025,Pedestrian/vehicle,1
+Bolton,2015,Vehicle/vehicle,1
+Bolton,2016,Vehicle/vehicle,1
+Bolton,2018,Vehicle/vehicle,3
+Bolton,2020,Vehicle/vehicle,1
+Bolton,2021,Vehicle/vehicle,1
+Bolton,2024,Vehicle/vehicle,1
+Bozrah,2015,Vehicle/vehicle,1
+Bozrah,2024,Vehicle/vehicle,2
+Branford,2015,Vehicle/vehicle,3
+Branford,2016,Vehicle/vehicle,2
+Branford,2017,Vehicle/vehicle,1
+Branford,2018,Vehicle/vehicle,1
+Branford,2020,Vehicle/vehicle,1
+Branford,2022,Pedestrian/vehicle,1
+Branford,2022,Vehicle/vehicle,4
+Branford,2024,Vehicle/vehicle,3
+Branford,2025,Pedestrian/vehicle,1
+Branford,2025,Vehicle/vehicle,1
+Bridgeport,2015,Pedestrian/vehicle,1
+Bridgeport,2015,Vehicle/vehicle,1
+Bridgeport,2016,Pedestrian/vehicle,6
+Bridgeport,2016,Vehicle/vehicle,9
+Bridgeport,2017,Pedestrian/vehicle,7
+Bridgeport,2017,Vehicle/vehicle,3
+Bridgeport,2018,Pedestrian/vehicle,4
+Bridgeport,2018,Vehicle/vehicle,7
+Bridgeport,2019,Pedestrian/vehicle,3
+Bridgeport,2020,Pedestrian/vehicle,3
+Bridgeport,2020,Vehicle/vehicle,14
+Bridgeport,2021,Pedestrian/vehicle,3
+Bridgeport,2021,Vehicle/vehicle,4
+Bridgeport,2022,Pedestrian/vehicle,4
+Bridgeport,2022,Vehicle/vehicle,8
+Bridgeport,2023,Pedestrian/vehicle,2
+Bridgeport,2023,Vehicle/vehicle,6
+Bridgeport,2024,Pedestrian/vehicle,5
+Bridgeport,2024,Vehicle/vehicle,10
+Bridgeport,2025,Pedestrian/vehicle,2
+Bridgeport,2025,Vehicle/vehicle,7
+Bridgewater,2016,Vehicle/vehicle,1
+Bridgewater,2022,Vehicle/vehicle,1
+Bristol,2015,Vehicle/vehicle,6
+Bristol,2016,Cyclist/vehicle,1
+Bristol,2016,Pedestrian/vehicle,1
+Bristol,2016,Vehicle/vehicle,3
+Bristol,2017,Pedestrian/vehicle,2
+Bristol,2017,Vehicle/vehicle,4
+Bristol,2018,Pedestrian/vehicle,2
+Bristol,2018,Vehicle/vehicle,2
+Bristol,2019,Pedestrian/vehicle,1
+Bristol,2019,Vehicle/vehicle,2
+Bristol,2020,Pedestrian/vehicle,1
+Bristol,2020,Vehicle/vehicle,1
+Bristol,2021,Pedestrian/vehicle,1
+Bristol,2021,Vehicle/vehicle,2
+Bristol,2022,Pedestrian/vehicle,3
+Bristol,2022,Vehicle/vehicle,4
+Bristol,2023,Vehicle/vehicle,5
+Bristol,2024,Pedestrian/vehicle,5
+Bristol,2024,Vehicle/vehicle,3
+Bristol,2025,Vehicle/vehicle,7
+Brookfield,2015,Vehicle/vehicle,1
+Brookfield,2016,Vehicle/vehicle,1
+Brookfield,2017,Pedestrian/vehicle,1
+Brookfield,2017,Vehicle/vehicle,1
+Brookfield,2018,Pedestrian/vehicle,1
+Brookfield,2019,Pedestrian/vehicle,1
+Brookfield,2019,Vehicle/vehicle,1
+Brookfield,2020,Vehicle/vehicle,1
+Brookfield,2024,Vehicle/vehicle,1
+Brooklyn,2015,Pedestrian/vehicle,1
+Brooklyn,2015,Vehicle/vehicle,2
+Brooklyn,2016,Pedestrian/vehicle,1
+Brooklyn,2016,Vehicle/vehicle,2
+Brooklyn,2018,Vehicle/vehicle,3
+Brooklyn,2019,Pedestrian/vehicle,1
+Brooklyn,2019,Vehicle/vehicle,4
+Brooklyn,2021,Vehicle/vehicle,1
+Brooklyn,2022,Vehicle/vehicle,4
+Brooklyn,2023,Vehicle/vehicle,2
+Brooklyn,2024,Vehicle/vehicle,1
+Brooklyn,2025,Vehicle/vehicle,1
+Burlington,2015,Vehicle/vehicle,1
+Burlington,2018,Vehicle/vehicle,1
+Burlington,2019,Vehicle/vehicle,2
+Burlington,2020,Vehicle/vehicle,1
+Burlington,2022,Vehicle/vehicle,1
+Burlington,2023,Vehicle/vehicle,2
+Burlington,2024,Vehicle/vehicle,3
+Canaan,2015,Vehicle/vehicle,1
+Canaan,2016,Vehicle/vehicle,1
+Canaan,2018,Vehicle/vehicle,1
+Canaan,2023,Vehicle/vehicle,2
+Canterbury,2015,Pedestrian/vehicle,1
+Canterbury,2018,Vehicle/vehicle,1
+Canterbury,2019,Vehicle/vehicle,3
+Canterbury,2020,Vehicle/vehicle,1
+Canterbury,2021,Vehicle/vehicle,1
+Canterbury,2022,Vehicle/vehicle,1
+Canterbury,2023,Vehicle/vehicle,1
+Canterbury,2024,Vehicle/vehicle,1
+Canton,2017,Vehicle/vehicle,5
+Canton,2018,Pedestrian/vehicle,1
+Canton,2019,Vehicle/vehicle,2
+Canton,2021,Vehicle/vehicle,1
+Chaplin,2017,Vehicle/vehicle,2
+Chaplin,2018,Vehicle/vehicle,1
+Chaplin,2020,Vehicle/vehicle,1
+Chaplin,2022,Vehicle/vehicle,4
+Chaplin,2023,Vehicle/vehicle,1
+Chaplin,2024,Vehicle/vehicle,1
+Chaplin,2025,Vehicle/vehicle,1
+Cheshire,2015,Pedestrian/vehicle,1
+Cheshire,2015,Vehicle/vehicle,3
+Cheshire,2017,Vehicle/vehicle,3
+Cheshire,2018,Vehicle/vehicle,1
+Cheshire,2019,Vehicle/vehicle,1
+Cheshire,2020,Pedestrian/vehicle,1
+Cheshire,2020,Vehicle/vehicle,2
+Cheshire,2021,Vehicle/vehicle,1
+Cheshire,2022,Vehicle/vehicle,5
+Cheshire,2023,Vehicle/vehicle,1
+Cheshire,2024,Vehicle/vehicle,2
+Cheshire,2025,Vehicle/vehicle,1
+Chester,2015,Vehicle/vehicle,1
+Chester,2016,Vehicle/vehicle,1
+Chester,2019,Vehicle/vehicle,1
+Chester,2023,Vehicle/vehicle,1
+Chester,2024,Vehicle/vehicle,1
+Clinton,2016,Vehicle/vehicle,1
+Clinton,2017,Pedestrian/vehicle,1
+Clinton,2017,Vehicle/vehicle,1
+Clinton,2020,Vehicle/vehicle,4
+Clinton,2021,Vehicle/vehicle,1
+Colchester,2016,Vehicle/vehicle,1
+Colchester,2017,Vehicle/vehicle,2
+Colchester,2018,Vehicle/vehicle,3
+Colchester,2019,Vehicle/vehicle,5
+Colchester,2020,Vehicle/vehicle,1
+Colchester,2021,Vehicle/vehicle,3
+Colchester,2022,Vehicle/vehicle,4
+Colchester,2023,Vehicle/vehicle,1
+Colchester,2024,Vehicle/vehicle,1
+Colchester,2025,Pedestrian/vehicle,1
+Colchester,2025,Vehicle/vehicle,2
+Columbia,2015,Vehicle/vehicle,2
+Columbia,2016,Vehicle/vehicle,1
+Columbia,2017,Vehicle/vehicle,1
+Columbia,2019,Vehicle/vehicle,1
+Columbia,2020,Vehicle/vehicle,2
+Columbia,2025,Vehicle/vehicle,1
+Cornwall,2018,Vehicle/vehicle,1
+Coventry,2015,Vehicle/vehicle,2
+Coventry,2016,Vehicle/vehicle,1
+Coventry,2017,Vehicle/vehicle,1
+Coventry,2018,Vehicle/vehicle,1
+Coventry,2020,Vehicle/vehicle,3
+Coventry,2021,Vehicle/vehicle,2
+Coventry,2025,Vehicle/vehicle,1
+Cromwell,2015,Pedestrian/vehicle,1
+Cromwell,2015,Vehicle/vehicle,2
+Cromwell,2017,Vehicle/vehicle,2
+Cromwell,2018,Vehicle/vehicle,2
+Cromwell,2019,Vehicle/vehicle,2
+Cromwell,2020,Vehicle/vehicle,3
+Cromwell,2021,Vehicle/vehicle,1
+Cromwell,2022,Pedestrian/vehicle,1
+Cromwell,2022,Vehicle/vehicle,2
+Cromwell,2023,Vehicle/vehicle,4
+Cromwell,2024,Pedestrian/vehicle,1
+Danbury,2015,Pedestrian/vehicle,2
+Danbury,2015,Vehicle/vehicle,4
+Danbury,2016,Cyclist/vehicle,1
+Danbury,2016,Pedestrian/vehicle,2
+Danbury,2016,Vehicle/vehicle,6
+Danbury,2017,Vehicle/vehicle,5
+Danbury,2018,Pedestrian/vehicle,5
+Danbury,2018,Vehicle/vehicle,3
+Danbury,2019,Pedestrian/vehicle,2
+Danbury,2020,Vehicle/vehicle,1
+Danbury,2021,Vehicle/vehicle,2
+Danbury,2022,Pedestrian/vehicle,4
+Danbury,2022,Vehicle/vehicle,6
+Danbury,2023,Vehicle/vehicle,2
+Danbury,2024,Pedestrian/vehicle,2
+Danbury,2024,Vehicle/vehicle,3
+Danbury,2025,Pedestrian/vehicle,3
+Darien,2016,Vehicle/vehicle,1
+Darien,2019,Vehicle/vehicle,2
+Darien,2021,Vehicle/vehicle,1
+Darien,2023,Vehicle/vehicle,1
+Darien,2024,Vehicle/vehicle,1
+Deep River,2015,Vehicle/vehicle,1
+Deep River,2016,Vehicle/vehicle,2
+Deep River,2017,Vehicle/vehicle,1
+Derby,2015,Vehicle/vehicle,1
+Derby,2016,Pedestrian/vehicle,1
+Derby,2017,Vehicle/vehicle,1
+Derby,2018,Vehicle/vehicle,1
+Derby,2019,Pedestrian/vehicle,1
+Derby,2020,Vehicle/vehicle,1
+Derby,2021,Vehicle/vehicle,1
+Derby,2022,Pedestrian/vehicle,1
+Derby,2022,Vehicle/vehicle,1
+Derby,2023,Vehicle/vehicle,2
+Derby,2024,Vehicle/vehicle,1
+Durham,2015,Vehicle/vehicle,1
+Durham,2016,Vehicle/vehicle,2
+Durham,2019,Vehicle/vehicle,1
+Durham,2020,Vehicle/vehicle,1
+Durham,2021,Vehicle/vehicle,1
+Durham,2023,Vehicle/vehicle,1
+Durham,2024,Vehicle/vehicle,1
+Durham,2025,Vehicle/vehicle,2
+East Granby,2016,Vehicle/vehicle,1
+East Granby,2017,Vehicle/vehicle,2
+East Granby,2019,Vehicle/vehicle,2
+East Granby,2023,Vehicle/vehicle,1
+East Granby,2025,Vehicle/vehicle,1
+East Haddam,2015,Vehicle/vehicle,2
+East Haddam,2016,Vehicle/vehicle,3
+East Haddam,2017,Vehicle/vehicle,1
+East Haddam,2021,Vehicle/vehicle,1
+East Haddam,2024,Vehicle/vehicle,1
+East Haddam,2025,Vehicle/vehicle,3
+East Hampton,2015,Vehicle/vehicle,1
+East Hampton,2018,Vehicle/vehicle,5
+East Hampton,2021,Vehicle/vehicle,1
+East Hampton,2024,Vehicle/vehicle,1
+East Hartford,2015,Pedestrian/vehicle,2
+East Hartford,2015,Vehicle/vehicle,5
+East Hartford,2016,Pedestrian/vehicle,2
+East Hartford,2016,Vehicle/vehicle,2
+East Hartford,2017,Pedestrian/vehicle,2
+East Hartford,2017,Vehicle/vehicle,1
+East Hartford,2018,Vehicle/vehicle,3
+East Hartford,2019,Vehicle/vehicle,4
+East Hartford,2020,Pedestrian/vehicle,1
+East Hartford,2020,Vehicle/vehicle,2
+East Hartford,2021,Pedestrian/vehicle,5
+East Hartford,2021,Vehicle/vehicle,8
+East Hartford,2022,Pedestrian/vehicle,1
+East Hartford,2022,Vehicle/vehicle,6
+East Hartford,2023,Pedestrian/vehicle,1
+East Hartford,2023,Vehicle/vehicle,2
+East Hartford,2024,Pedestrian/vehicle,3
+East Hartford,2025,Pedestrian/vehicle,4
+East Hartford,2025,Vehicle/vehicle,1
+East Haven,2015,Pedestrian/vehicle,3
+East Haven,2016,Cyclist/vehicle,1
+East Haven,2016,Pedestrian/vehicle,1
+East Haven,2016,Vehicle/vehicle,4
+East Haven,2017,Pedestrian/vehicle,1
+East Haven,2017,Vehicle/vehicle,1
+East Haven,2018,Pedestrian/vehicle,1
+East Haven,2019,Pedestrian/vehicle,1
+East Haven,2020,Pedestrian/vehicle,1
+East Haven,2020,Vehicle/vehicle,2
+East Haven,2021,Vehicle/vehicle,1
+East Haven,2022,Pedestrian/vehicle,1
+East Haven,2022,Vehicle/vehicle,1
+East Haven,2023,Cyclist/vehicle,1
+East Haven,2023,Vehicle/vehicle,1
+East Haven,2024,Pedestrian/vehicle,1
+East Haven,2024,Vehicle/vehicle,1
+East Haven,2025,Vehicle/vehicle,1
+East Lyme,2015,Vehicle/vehicle,3
+East Lyme,2016,Vehicle/vehicle,2
+East Lyme,2018,Vehicle/vehicle,1
+East Lyme,2019,Vehicle/vehicle,1
+East Lyme,2020,Vehicle/vehicle,1
+East Lyme,2021,Vehicle/vehicle,1
+East Lyme,2022,Vehicle/vehicle,1
+East Lyme,2024,Vehicle/vehicle,1
+East Windsor,2015,Vehicle/vehicle,1
+East Windsor,2017,Vehicle/vehicle,1
+East Windsor,2019,Vehicle/vehicle,1
+East Windsor,2020,Pedestrian/vehicle,1
+East Windsor,2020,Vehicle/vehicle,2
+East Windsor,2021,Vehicle/vehicle,1
+East Windsor,2022,Pedestrian/vehicle,1
+East Windsor,2022,Vehicle/vehicle,1
+East Windsor,2023,Vehicle/vehicle,1
+East Windsor,2024,Vehicle/vehicle,1
+East Windsor,2025,Cyclist/vehicle,1
+East Windsor,2025,Vehicle/vehicle,1
+Eastford,2015,Vehicle/vehicle,2
+Eastford,2016,Vehicle/vehicle,2
+Eastford,2019,Vehicle/vehicle,1
+Easton,2016,Vehicle/vehicle,1
+Easton,2019,Vehicle/vehicle,1
+Easton,2020,Vehicle/vehicle,1
+Easton,2023,Vehicle/vehicle,3
+Easton,2024,Vehicle/vehicle,2
+Ellington,2015,Vehicle/vehicle,1
+Ellington,2018,Vehicle/vehicle,1
+Ellington,2019,Vehicle/vehicle,1
+Ellington,2021,Vehicle/vehicle,1
+Ellington,2024,Vehicle/vehicle,1
+Enfield,2015,Vehicle/vehicle,1
+Enfield,2016,Pedestrian/vehicle,2
+Enfield,2016,Vehicle/vehicle,3
+Enfield,2017,Vehicle/vehicle,2
+Enfield,2018,Vehicle/vehicle,7
+Enfield,2019,Pedestrian/vehicle,1
+Enfield,2019,Vehicle/vehicle,1
+Enfield,2020,Pedestrian/vehicle,1
+Enfield,2020,Vehicle/vehicle,2
+Enfield,2021,Vehicle/vehicle,4
+Enfield,2022,Vehicle/vehicle,1
+Enfield,2023,Pedestrian/vehicle,1
+Enfield,2023,Vehicle/vehicle,2
+Enfield,2024,Vehicle/vehicle,5
+Enfield,2025,Pedestrian/vehicle,4
+Enfield,2025,Vehicle/vehicle,2
+Essex,2016,Vehicle/vehicle,1
+Essex,2017,Vehicle/vehicle,1
+Essex,2018,Vehicle/vehicle,1
+Essex,2019,Vehicle/vehicle,2
+Fairfield,2015,Vehicle/vehicle,3
+Fairfield,2016,Cyclist/vehicle,1
+Fairfield,2016,Pedestrian/vehicle,1
+Fairfield,2016,Vehicle/vehicle,2
+Fairfield,2017,Pedestrian/vehicle,1
+Fairfield,2017,Vehicle/vehicle,3
+Fairfield,2018,Vehicle/vehicle,1
+Fairfield,2019,Vehicle/vehicle,1
+Fairfield,2020,Pedestrian/vehicle,2
+Fairfield,2020,Vehicle/vehicle,2
+Fairfield,2021,Pedestrian/vehicle,1
+Fairfield,2021,Vehicle/vehicle,2
+Fairfield,2022,Vehicle/vehicle,1
+Fairfield,2023,Pedestrian/vehicle,3
+Fairfield,2024,Vehicle/vehicle,2
+Fairfield,2025,Pedestrian/vehicle,1
+Fairfield,2025,Vehicle/vehicle,1
+Farmington,2015,Vehicle/vehicle,2
+Farmington,2016,Vehicle/vehicle,1
+Farmington,2017,Vehicle/vehicle,2
+Farmington,2018,Vehicle/vehicle,2
+Farmington,2019,Pedestrian/vehicle,1
+Farmington,2019,Vehicle/vehicle,1
+Farmington,2021,Vehicle/vehicle,3
+Farmington,2022,Vehicle/vehicle,4
+Farmington,2023,Vehicle/vehicle,2
+Farmington,2024,Vehicle/vehicle,1
+Farmington,2025,Pedestrian/vehicle,1
+Farmington,2025,Vehicle/vehicle,2
+Franklin,2019,Vehicle/vehicle,1
+Franklin,2020,Vehicle/vehicle,2
+Franklin,2021,Vehicle/vehicle,4
+Franklin,2022,Vehicle/vehicle,3
+Franklin,2023,Vehicle/vehicle,1
+Franklin,2024,Vehicle/vehicle,1
+Glastonbury,2015,Vehicle/vehicle,2
+Glastonbury,2017,Vehicle/vehicle,1
+Glastonbury,2018,Pedestrian/vehicle,2
+Glastonbury,2018,Vehicle/vehicle,2
+Glastonbury,2019,Vehicle/vehicle,1
+Glastonbury,2020,Pedestrian/vehicle,1
+Glastonbury,2020,Vehicle/vehicle,1
+Glastonbury,2021,Pedestrian/vehicle,1
+Glastonbury,2021,Vehicle/vehicle,1
+Glastonbury,2022,Vehicle/vehicle,4
+Glastonbury,2023,Vehicle/vehicle,4
+Glastonbury,2024,Vehicle/vehicle,3
+Glastonbury,2025,Pedestrian/vehicle,1
+Glastonbury,2025,Vehicle/vehicle,1
+Goshen,2019,Vehicle/vehicle,1
+Goshen,2020,Vehicle/vehicle,1
+Goshen,2021,Vehicle/vehicle,1
+Goshen,2022,Vehicle/vehicle,1
+Goshen,2024,Vehicle/vehicle,1
+Granby,2015,Vehicle/vehicle,3
+Granby,2017,Pedestrian/vehicle,1
+Granby,2017,Vehicle/vehicle,1
+Granby,2018,Vehicle/vehicle,1
+Granby,2021,Vehicle/vehicle,1
+Greenwich,2015,Pedestrian/vehicle,1
+Greenwich,2015,Vehicle/vehicle,1
+Greenwich,2016,Pedestrian/vehicle,2
+Greenwich,2016,Vehicle/vehicle,1
+Greenwich,2017,Pedestrian/vehicle,2
+Greenwich,2017,Vehicle/vehicle,1
+Greenwich,2018,Pedestrian/vehicle,1
+Greenwich,2018,Vehicle/vehicle,1
+Greenwich,2019,Pedestrian/vehicle,1
+Greenwich,2020,Pedestrian/vehicle,2
+Greenwich,2020,Vehicle/vehicle,2
+Greenwich,2021,Vehicle/vehicle,5
+Greenwich,2023,Pedestrian/vehicle,1
+Greenwich,2023,Vehicle/vehicle,4
+Greenwich,2025,Pedestrian/vehicle,2
+Greenwich,2025,Vehicle/vehicle,2
+Griswold,2016,Vehicle/vehicle,1
+Griswold,2017,Vehicle/vehicle,2
+Griswold,2018,Vehicle/vehicle,2
+Griswold,2019,Vehicle/vehicle,2
+Griswold,2021,Pedestrian/vehicle,1
+Griswold,2021,Vehicle/vehicle,4
+Griswold,2023,Pedestrian/vehicle,1
+Griswold,2023,Vehicle/vehicle,2
+Griswold,2024,Pedestrian/vehicle,1
+Griswold,2024,Vehicle/vehicle,5
+Griswold,2025,Vehicle/vehicle,3
+Groton,2015,Vehicle/vehicle,2
+Groton,2016,Pedestrian/vehicle,1
+Groton,2016,Vehicle/vehicle,1
+Groton,2017,Vehicle/vehicle,2
+Groton,2018,Vehicle/vehicle,2
+Groton,2020,Pedestrian/vehicle,1
+Groton,2020,Vehicle/vehicle,2
+Groton,2022,Vehicle/vehicle,4
+Groton,2023,Vehicle/vehicle,4
+Groton,2024,Vehicle/vehicle,8
+Groton,2025,Vehicle/vehicle,4
+Guilford,2015,Pedestrian/vehicle,1
+Guilford,2015,Vehicle/vehicle,3
+Guilford,2016,Vehicle/vehicle,1
+Guilford,2017,Vehicle/vehicle,1
+Guilford,2018,Vehicle/vehicle,2
+Guilford,2019,Vehicle/vehicle,3
+Guilford,2021,Vehicle/vehicle,2
+Guilford,2022,Vehicle/vehicle,8
+Guilford,2023,Vehicle/vehicle,1
+Guilford,2024,Vehicle/vehicle,1
+Guilford,2025,Vehicle/vehicle,1
+Haddam,2015,Vehicle/vehicle,1
+Haddam,2016,Cyclist/vehicle,1
+Haddam,2018,Vehicle/vehicle,2
+Haddam,2019,Vehicle/vehicle,3
+Haddam,2020,Vehicle/vehicle,3
+Haddam,2021,Cyclist/vehicle,1
+Haddam,2022,Vehicle/vehicle,3
+Haddam,2023,Vehicle/vehicle,1
+Haddam,2024,Vehicle/vehicle,1
+Haddam,2025,Vehicle/vehicle,1
+Hamden,2015,Vehicle/vehicle,1
+Hamden,2016,Pedestrian/vehicle,1
+Hamden,2016,Vehicle/vehicle,1
+Hamden,2017,Vehicle/vehicle,4
+Hamden,2018,Pedestrian/vehicle,3
+Hamden,2018,Vehicle/vehicle,4
+Hamden,2019,Pedestrian/vehicle,1
+Hamden,2019,Vehicle/vehicle,2
+Hamden,2020,Cyclist/vehicle,1
+Hamden,2020,Pedestrian/vehicle,2
+Hamden,2020,Vehicle/vehicle,2
+Hamden,2021,Pedestrian/vehicle,1
+Hamden,2021,Vehicle/vehicle,4
+Hamden,2022,Pedestrian/vehicle,2
+Hamden,2022,Vehicle/vehicle,3
+Hamden,2023,Pedestrian/vehicle,1
+Hamden,2023,Vehicle/vehicle,4
+Hamden,2024,Pedestrian/vehicle,2
+Hamden,2025,Pedestrian/vehicle,1
+Hamden,2025,Vehicle/vehicle,2
+Hampton,2016,Vehicle/vehicle,1
+Hampton,2017,Vehicle/vehicle,1
+Hampton,2022,Vehicle/vehicle,4
+Hampton,2023,Vehicle/vehicle,1
+Hampton,2025,Cyclist/vehicle,1
+Hartford,2015,Cyclist/vehicle,1
+Hartford,2015,Pedestrian/vehicle,3
+Hartford,2015,Vehicle/vehicle,6
+Hartford,2016,Pedestrian/vehicle,2
+Hartford,2016,Vehicle/vehicle,8
+Hartford,2017,Pedestrian/vehicle,1
+Hartford,2017,Vehicle/vehicle,8
+Hartford,2018,Pedestrian/vehicle,11
+Hartford,2018,Vehicle/vehicle,12
+Hartford,2019,Pedestrian/vehicle,3
+Hartford,2019,Vehicle/vehicle,12
+Hartford,2020,Cyclist/vehicle,1
+Hartford,2020,Pedestrian/vehicle,3
+Hartford,2020,Vehicle/vehicle,13
+Hartford,2021,Pedestrian/vehicle,5
+Hartford,2021,Vehicle/vehicle,13
+Hartford,2022,Pedestrian/vehicle,8
+Hartford,2022,Vehicle/vehicle,11
+Hartford,2023,Pedestrian/vehicle,6
+Hartford,2023,Vehicle/vehicle,5
+Hartford,2024,Cyclist/vehicle,2
+Hartford,2024,Pedestrian/vehicle,5
+Hartford,2024,Vehicle/vehicle,11
+Hartford,2025,Cyclist/vehicle,1
+Hartford,2025,Pedestrian/vehicle,4
+Hartford,2025,Vehicle/vehicle,11
+Hartland,2016,Vehicle/vehicle,1
+Hartland,2023,Vehicle/vehicle,2
+Harwinton,2015,Vehicle/vehicle,2
+Harwinton,2016,Vehicle/vehicle,1
+Harwinton,2017,Vehicle/vehicle,2
+Harwinton,2018,Vehicle/vehicle,1
+Harwinton,2019,Pedestrian/vehicle,1
+Harwinton,2021,Pedestrian/vehicle,1
+Harwinton,2021,Vehicle/vehicle,2
+Harwinton,2023,Vehicle/vehicle,1
+Harwinton,2024,Vehicle/vehicle,1
+Harwinton,2025,Vehicle/vehicle,1
+Hebron,2015,Vehicle/vehicle,2
+Hebron,2017,Vehicle/vehicle,2
+Hebron,2020,Vehicle/vehicle,1
+Hebron,2023,Vehicle/vehicle,2
+Hebron,2024,Vehicle/vehicle,2
+Hebron,2025,Vehicle/vehicle,1
+Kent,2015,Vehicle/vehicle,1
+Kent,2018,Vehicle/vehicle,1
+Kent,2022,Vehicle/vehicle,1
+Killingly,2015,Vehicle/vehicle,2
+Killingly,2016,Pedestrian/vehicle,1
+Killingly,2016,Vehicle/vehicle,3
+Killingly,2017,Vehicle/vehicle,3
+Killingly,2018,Vehicle/vehicle,3
+Killingly,2020,Vehicle/vehicle,1
+Killingly,2021,Vehicle/vehicle,3
+Killingly,2022,Pedestrian/vehicle,1
+Killingly,2022,Vehicle/vehicle,5
+Killingly,2023,Pedestrian/vehicle,1
+Killingly,2024,Pedestrian/vehicle,1
+Killingworth,2015,Vehicle/vehicle,1
+Killingworth,2022,Vehicle/vehicle,1
+Lebanon,2015,Vehicle/vehicle,1
+Lebanon,2016,Vehicle/vehicle,1
+Lebanon,2017,Vehicle/vehicle,2
+Lebanon,2018,Vehicle/vehicle,2
+Lebanon,2019,Vehicle/vehicle,1
+Lebanon,2020,Vehicle/vehicle,2
+Lebanon,2021,Vehicle/vehicle,2
+Lebanon,2023,Vehicle/vehicle,1
+Ledyard,2015,Vehicle/vehicle,2
+Ledyard,2016,Vehicle/vehicle,3
+Ledyard,2017,Vehicle/vehicle,2
+Ledyard,2019,Pedestrian/vehicle,1
+Ledyard,2019,Vehicle/vehicle,1
+Ledyard,2020,Vehicle/vehicle,2
+Ledyard,2021,Vehicle/vehicle,2
+Ledyard,2022,Vehicle/vehicle,2
+Ledyard,2023,Vehicle/vehicle,1
+Ledyard,2024,Vehicle/vehicle,3
+Ledyard,2025,Vehicle/vehicle,1
+Lisbon,2018,Vehicle/vehicle,1
+Lisbon,2019,Vehicle/vehicle,1
+Lisbon,2021,Vehicle/vehicle,1
+Lisbon,2022,Vehicle/vehicle,1
+Lisbon,2024,Pedestrian/vehicle,1
+Lisbon,2024,Vehicle/vehicle,3
+Litchfield,2016,Vehicle/vehicle,2
+Litchfield,2019,Vehicle/vehicle,1
+Litchfield,2020,Vehicle/vehicle,3
+Litchfield,2021,Vehicle/vehicle,1
+Litchfield,2023,Vehicle/vehicle,1
+Litchfield,2024,Vehicle/vehicle,3
+Litchfield,2025,Pedestrian/vehicle,1
+Litchfield,2025,Vehicle/vehicle,1
+Lyme,2017,Vehicle/vehicle,1
+Lyme,2023,Vehicle/vehicle,1
+Madison,2015,Vehicle/vehicle,1
+Madison,2016,Vehicle/vehicle,2
+Madison,2017,Pedestrian/vehicle,1
+Madison,2017,Vehicle/vehicle,2
+Madison,2018,Pedestrian/vehicle,1
+Madison,2018,Vehicle/vehicle,1
+Madison,2019,Vehicle/vehicle,1
+Madison,2020,Vehicle/vehicle,1
+Madison,2022,Vehicle/vehicle,1
+Madison,2025,Vehicle/vehicle,3
+Manchester,2015,Pedestrian/vehicle,1
+Manchester,2015,Vehicle/vehicle,1
+Manchester,2016,Pedestrian/vehicle,1
+Manchester,2016,Vehicle/vehicle,3
+Manchester,2017,Vehicle/vehicle,4
+Manchester,2018,Vehicle/vehicle,1
+Manchester,2019,Pedestrian/vehicle,5
+Manchester,2019,Vehicle/vehicle,1
+Manchester,2020,Pedestrian/vehicle,1
+Manchester,2021,Vehicle/vehicle,6
+Manchester,2022,Pedestrian/vehicle,1
+Manchester,2022,Vehicle/vehicle,4
+Manchester,2024,Vehicle/vehicle,7
+Manchester,2025,Pedestrian/vehicle,1
+Mansfield,2015,Vehicle/vehicle,4
+Mansfield,2016,Pedestrian/vehicle,2
+Mansfield,2017,Vehicle/vehicle,1
+Mansfield,2018,Vehicle/vehicle,2
+Mansfield,2019,Vehicle/vehicle,2
+Mansfield,2020,Vehicle/vehicle,2
+Mansfield,2021,Pedestrian/vehicle,1
+Mansfield,2021,Vehicle/vehicle,1
+Mansfield,2022,Vehicle/vehicle,2
+Mansfield,2023,Cyclist/vehicle,1
+Mansfield,2023,Pedestrian/vehicle,1
+Mansfield,2023,Vehicle/vehicle,1
+Mansfield,2025,Vehicle/vehicle,1
+Marlborough,2015,Vehicle/vehicle,1
+Marlborough,2017,Vehicle/vehicle,1
+Marlborough,2018,Vehicle/vehicle,1
+Marlborough,2019,Vehicle/vehicle,1
+Meriden,2015,Pedestrian/vehicle,2
+Meriden,2015,Vehicle/vehicle,2
+Meriden,2016,Pedestrian/vehicle,2
+Meriden,2016,Vehicle/vehicle,4
+Meriden,2017,Pedestrian/vehicle,1
+Meriden,2017,Vehicle/vehicle,4
+Meriden,2018,Pedestrian/vehicle,1
+Meriden,2018,Vehicle/vehicle,4
+Meriden,2019,Pedestrian/vehicle,1
+Meriden,2019,Vehicle/vehicle,2
+Meriden,2020,Pedestrian/vehicle,2
+Meriden,2020,Vehicle/vehicle,6
+Meriden,2021,Pedestrian/vehicle,1
+Meriden,2021,Vehicle/vehicle,5
+Meriden,2022,Pedestrian/vehicle,1
+Meriden,2022,Vehicle/vehicle,4
+Meriden,2023,Pedestrian/vehicle,1
+Meriden,2023,Vehicle/vehicle,6
+Meriden,2024,Pedestrian/vehicle,1
+Meriden,2024,Vehicle/vehicle,2
+Meriden,2025,Pedestrian/vehicle,1
+Meriden,2025,Vehicle/vehicle,2
+Middlebury,2015,Vehicle/vehicle,2
+Middlebury,2016,Vehicle/vehicle,1
+Middlebury,2017,Vehicle/vehicle,1
+Middlebury,2018,Vehicle/vehicle,2
+Middlebury,2019,Vehicle/vehicle,2
+Middlebury,2020,Pedestrian/vehicle,1
+Middlebury,2020,Vehicle/vehicle,2
+Middlebury,2021,Vehicle/vehicle,1
+Middlebury,2022,Vehicle/vehicle,2
+Middlebury,2023,Vehicle/vehicle,2
+Middlebury,2024,Vehicle/vehicle,1
+Middlebury,2025,Vehicle/vehicle,1
+Middlefield,2015,Vehicle/vehicle,1
+Middlefield,2022,Vehicle/vehicle,1
+Middlefield,2025,Vehicle/vehicle,1
+Middletown,2015,Pedestrian/vehicle,1
+Middletown,2015,Vehicle/vehicle,1
+Middletown,2016,Pedestrian/vehicle,1
+Middletown,2016,Vehicle/vehicle,2
+Middletown,2017,Vehicle/vehicle,1
+Middletown,2018,Vehicle/vehicle,2
+Middletown,2019,Pedestrian/vehicle,1
+Middletown,2019,Vehicle/vehicle,1
+Middletown,2020,Cyclist/vehicle,1
+Middletown,2020,Pedestrian/vehicle,1
+Middletown,2020,Vehicle/vehicle,3
+Middletown,2021,Vehicle/vehicle,3
+Middletown,2022,Vehicle/vehicle,3
+Middletown,2023,Pedestrian/vehicle,1
+Middletown,2023,Vehicle/vehicle,7
+Middletown,2024,Vehicle/vehicle,3
+Middletown,2025,Pedestrian/vehicle,1
+Middletown,2025,Vehicle/vehicle,1
+Milford,2016,Pedestrian/vehicle,1
+Milford,2016,Vehicle/vehicle,3
+Milford,2017,Vehicle/vehicle,2
+Milford,2018,Pedestrian/vehicle,1
+Milford,2018,Vehicle/vehicle,2
+Milford,2019,Vehicle/vehicle,3
+Milford,2020,Pedestrian/vehicle,1
+Milford,2021,Pedestrian/vehicle,2
+Milford,2021,Vehicle/vehicle,4
+Milford,2022,Pedestrian/vehicle,2
+Milford,2022,Vehicle/vehicle,7
+Milford,2023,Pedestrian/vehicle,1
+Milford,2023,Vehicle/vehicle,4
+Milford,2024,Vehicle/vehicle,3
+Milford,2025,Pedestrian/vehicle,1
+Milford,2025,Vehicle/vehicle,3
+Monroe,2016,Vehicle/vehicle,3
+Monroe,2019,Vehicle/vehicle,1
+Monroe,2022,Vehicle/vehicle,1
+Montville,2015,Vehicle/vehicle,4
+Montville,2016,Vehicle/vehicle,2
+Montville,2018,Vehicle/vehicle,1
+Montville,2021,Vehicle/vehicle,2
+Montville,2022,Pedestrian/vehicle,2
+Montville,2023,Vehicle/vehicle,1
+Montville,2024,Vehicle/vehicle,2
+Montville,2025,Vehicle/vehicle,3
+Morris,2021,Vehicle/vehicle,1
+Naugatuck,2016,Pedestrian/vehicle,1
+Naugatuck,2017,Vehicle/vehicle,1
+Naugatuck,2018,Vehicle/vehicle,1
+Naugatuck,2020,Vehicle/vehicle,1
+Naugatuck,2021,Vehicle/vehicle,1
+Naugatuck,2022,Vehicle/vehicle,1
+Naugatuck,2023,Vehicle/vehicle,1
+Naugatuck,2025,Pedestrian/vehicle,1
+Naugatuck,2025,Vehicle/vehicle,1
+New Britain,2015,Pedestrian/vehicle,1
+New Britain,2015,Vehicle/vehicle,1
+New Britain,2016,Pedestrian/vehicle,2
+New Britain,2016,Vehicle/vehicle,4
+New Britain,2017,Vehicle/vehicle,3
+New Britain,2018,Pedestrian/vehicle,4
+New Britain,2018,Vehicle/vehicle,4
+New Britain,2019,Vehicle/vehicle,1
+New Britain,2020,Pedestrian/vehicle,1
+New Britain,2020,Vehicle/vehicle,5
+New Britain,2021,Pedestrian/vehicle,1
+New Britain,2021,Vehicle/vehicle,2
+New Britain,2022,Pedestrian/vehicle,3
+New Britain,2022,Vehicle/vehicle,2
+New Britain,2023,Pedestrian/vehicle,2
+New Britain,2023,Vehicle/vehicle,3
+New Britain,2024,Pedestrian/vehicle,2
+New Britain,2024,Vehicle/vehicle,4
+New Britain,2025,Vehicle/vehicle,2
+New Canaan,2018,Vehicle/vehicle,2
+New Canaan,2019,Pedestrian/vehicle,1
+New Canaan,2025,Vehicle/vehicle,1
+New Fairfield,2016,Vehicle/vehicle,2
+New Fairfield,2017,Vehicle/vehicle,1
+New Fairfield,2023,Vehicle/vehicle,1
+New Fairfield,2025,Vehicle/vehicle,1
+New Hartford,2016,Pedestrian/vehicle,1
+New Hartford,2016,Vehicle/vehicle,1
+New Hartford,2017,Cyclist/vehicle,1
+New Hartford,2017,Pedestrian/vehicle,1
+New Hartford,2017,Vehicle/vehicle,1
+New Hartford,2018,Vehicle/vehicle,2
+New Hartford,2019,Cyclist/vehicle,1
+New Hartford,2020,Vehicle/vehicle,1
+New Hartford,2022,Vehicle/vehicle,2
+New Hartford,2023,Pedestrian/vehicle,1
+New Hartford,2024,Vehicle/vehicle,2
+New Haven,2015,Vehicle/vehicle,7
+New Haven,2016,Pedestrian/vehicle,3
+New Haven,2016,Vehicle/vehicle,12
+New Haven,2017,Cyclist/vehicle,1
+New Haven,2017,Pedestrian/vehicle,2
+New Haven,2017,Vehicle/vehicle,10
+New Haven,2018,Pedestrian/vehicle,3
+New Haven,2018,Vehicle/vehicle,16
+New Haven,2019,Pedestrian/vehicle,9
+New Haven,2019,Vehicle/vehicle,9
+New Haven,2020,Cyclist/vehicle,2
+New Haven,2020,Pedestrian/vehicle,9
+New Haven,2020,Vehicle/vehicle,7
+New Haven,2021,Cyclist/vehicle,1
+New Haven,2021,Pedestrian/vehicle,10
+New Haven,2021,Vehicle/vehicle,12
+New Haven,2022,Cyclist/vehicle,1
+New Haven,2022,Pedestrian/vehicle,4
+New Haven,2022,Vehicle/vehicle,14
+New Haven,2023,Pedestrian/vehicle,7
+New Haven,2023,Vehicle/vehicle,8
+New Haven,2024,Cyclist/vehicle,1
+New Haven,2024,Pedestrian/vehicle,4
+New Haven,2024,Vehicle/vehicle,10
+New Haven,2025,Pedestrian/vehicle,6
+New Haven,2025,Vehicle/vehicle,6
+New London,2015,Pedestrian/vehicle,1
+New London,2015,Vehicle/vehicle,1
+New London,2020,Pedestrian/vehicle,1
+New London,2021,Vehicle/vehicle,1
+New London,2023,Vehicle/vehicle,1
+New London,2024,Pedestrian/vehicle,1
+New London,2024,Vehicle/vehicle,3
+New London,2025,Vehicle/vehicle,1
+New Milford,2015,Pedestrian/vehicle,1
+New Milford,2015,Vehicle/vehicle,2
+New Milford,2016,Vehicle/vehicle,2
+New Milford,2017,Pedestrian/vehicle,1
+New Milford,2018,Vehicle/vehicle,1
+New Milford,2019,Pedestrian/vehicle,1
+New Milford,2019,Vehicle/vehicle,1
+New Milford,2020,Vehicle/vehicle,3
+New Milford,2021,Cyclist/vehicle,1
+New Milford,2022,Pedestrian/vehicle,2
+New Milford,2022,Vehicle/vehicle,3
+New Milford,2023,Vehicle/vehicle,6
+New Milford,2024,Pedestrian/vehicle,1
+New Milford,2024,Vehicle/vehicle,2
+NewFairfield,2015,Vehicle/vehicle,1
+Newington,2015,Pedestrian/vehicle,2
+Newington,2015,Vehicle/vehicle,3
+Newington,2016,Pedestrian/vehicle,1
+Newington,2016,Vehicle/vehicle,1
+Newington,2018,Pedestrian/vehicle,1
+Newington,2018,Vehicle/vehicle,1
+Newington,2019,Vehicle/vehicle,1
+Newington,2020,Vehicle/vehicle,1
+Newington,2021,Pedestrian/vehicle,1
+Newington,2021,Vehicle/vehicle,1
+Newington,2022,Vehicle/vehicle,2
+Newington,2024,Pedestrian/vehicle,1
+Newington,2024,Vehicle/vehicle,1
+Newington,2025,Vehicle/vehicle,5
+Newtown,2016,Vehicle/vehicle,1
+Newtown,2017,Pedestrian/vehicle,1
+Newtown,2017,Vehicle/vehicle,5
+Newtown,2018,Vehicle/vehicle,1
+Newtown,2019,Vehicle/vehicle,2
+Newtown,2020,Vehicle/vehicle,2
+Newtown,2021,Pedestrian/vehicle,1
+Newtown,2021,Vehicle/vehicle,2
+Newtown,2022,Vehicle/vehicle,2
+Newtown,2023,Vehicle/vehicle,2
+Newtown,2024,Pedestrian/vehicle,1
+Newtown,2024,Vehicle/vehicle,2
+Newtown,2025,Pedestrian/vehicle,1
+Newtown,2025,Vehicle/vehicle,2
+Norfolk,2018,Vehicle/vehicle,1
+Norfolk,2022,Vehicle/vehicle,1
+Norfolk,2024,Vehicle/vehicle,1
+Norfolk,2025,Vehicle/vehicle,1
+North Branford,2015,Vehicle/vehicle,1
+North Branford,2016,Vehicle/vehicle,2
+North Branford,2018,Vehicle/vehicle,4
+North Branford,2019,Vehicle/vehicle,1
+North Branford,2020,Vehicle/vehicle,2
+North Branford,2021,Pedestrian/vehicle,1
+North Branford,2021,Vehicle/vehicle,3
+North Branford,2022,Pedestrian/vehicle,1
+North Branford,2022,Vehicle/vehicle,1
+North Branford,2024,Pedestrian/vehicle,1
+North Branford,2025,Vehicle/vehicle,2
+North Canaan,2015,Pedestrian/vehicle,1
+North Canaan,2015,Vehicle/vehicle,1
+North Canaan,2016,Vehicle/vehicle,1
+North Canaan,2018,Vehicle/vehicle,1
+North Canaan,2019,Vehicle/vehicle,1
+North Canaan,2020,Vehicle/vehicle,1
+North Canaan,2023,Vehicle/vehicle,1
+North Haven,2015,Pedestrian/vehicle,1
+North Haven,2015,Vehicle/vehicle,1
+North Haven,2016,Vehicle/vehicle,5
+North Haven,2017,Vehicle/vehicle,3
+North Haven,2018,Pedestrian/vehicle,3
+North Haven,2018,Vehicle/vehicle,2
+North Haven,2019,Pedestrian/vehicle,1
+North Haven,2019,Vehicle/vehicle,1
+North Haven,2020,Vehicle/vehicle,3
+North Haven,2021,Vehicle/vehicle,3
+North Haven,2022,Pedestrian/vehicle,1
+North Haven,2022,Vehicle/vehicle,6
+North Haven,2023,Vehicle/vehicle,2
+North Haven,2024,Pedestrian/vehicle,1
+North Haven,2024,Vehicle/vehicle,2
+North Haven,2025,Pedestrian/vehicle,1
+North Haven,2025,Vehicle/vehicle,4
+North Stonington,2015,Vehicle/vehicle,2
+North Stonington,2017,Pedestrian/vehicle,1
+North Stonington,2018,Pedestrian/vehicle,1
+North Stonington,2018,Vehicle/vehicle,3
+North Stonington,2019,Vehicle/vehicle,5
+North Stonington,2020,Vehicle/vehicle,1
+North Stonington,2021,Vehicle/vehicle,2
+North Stonington,2022,Vehicle/vehicle,1
+Norwalk,2015,Vehicle/vehicle,7
+Norwalk,2016,Pedestrian/vehicle,3
+Norwalk,2017,Cyclist/vehicle,1
+Norwalk,2017,Pedestrian/vehicle,3
+Norwalk,2017,Vehicle/vehicle,1
+Norwalk,2018,Pedestrian/vehicle,1
+Norwalk,2018,Vehicle/vehicle,5
+Norwalk,2019,Pedestrian/vehicle,1
+Norwalk,2020,Pedestrian/vehicle,1
+Norwalk,2020,Vehicle/vehicle,4
+Norwalk,2021,Vehicle/vehicle,1
+Norwalk,2022,Pedestrian/vehicle,1
+Norwalk,2022,Vehicle/vehicle,2
+Norwalk,2023,Vehicle/vehicle,3
+Norwalk,2024,Pedestrian/vehicle,1
+Norwalk,2024,Vehicle/vehicle,3
+Norwalk,2025,Cyclist/vehicle,1
+Norwalk,2025,Pedestrian/vehicle,2
+Norwalk,2025,Vehicle/vehicle,4
+Norwich,2015,Vehicle/vehicle,3
+Norwich,2016,Pedestrian/vehicle,1
+Norwich,2016,Vehicle/vehicle,3
+Norwich,2017,Vehicle/vehicle,4
+Norwich,2018,Vehicle/vehicle,2
+Norwich,2019,Vehicle/vehicle,5
+Norwich,2020,Vehicle/vehicle,5
+Norwich,2021,Vehicle/vehicle,1
+Norwich,2022,Pedestrian/vehicle,1
+Norwich,2022,Vehicle/vehicle,3
+Norwich,2023,Vehicle/vehicle,3
+Norwich,2024,Vehicle/vehicle,1
+Old Lyme,2015,Vehicle/vehicle,3
+Old Lyme,2016,Pedestrian/vehicle,1
+Old Lyme,2016,Vehicle/vehicle,3
+Old Lyme,2017,Pedestrian/vehicle,1
+Old Lyme,2017,Vehicle/vehicle,3
+Old Lyme,2019,Vehicle/vehicle,1
+Old Lyme,2020,Vehicle/vehicle,1
+Old Lyme,2022,Vehicle/vehicle,1
+Old Lyme,2023,Vehicle/vehicle,2
+Old Saybrook,2015,Vehicle/vehicle,1
+Old Saybrook,2016,Pedestrian/vehicle,1
+Old Saybrook,2016,Vehicle/vehicle,1
+Old Saybrook,2019,Vehicle/vehicle,1
+Old Saybrook,2025,Vehicle/vehicle,2
+Orange,2015,Vehicle/vehicle,1
+Orange,2016,Pedestrian/vehicle,1
+Orange,2016,Vehicle/vehicle,1
+Orange,2017,Vehicle/vehicle,2
+Orange,2018,Pedestrian/vehicle,1
+Orange,2018,Vehicle/vehicle,3
+Orange,2019,Pedestrian/vehicle,1
+Orange,2019,Vehicle/vehicle,2
+Orange,2020,Vehicle/vehicle,1
+Orange,2021,Vehicle/vehicle,2
+Orange,2022,Pedestrian/vehicle,1
+Orange,2023,Pedestrian/vehicle,1
+Orange,2023,Vehicle/vehicle,2
+Orange,2025,Vehicle/vehicle,2
+Oxford,2016,Vehicle/vehicle,2
+Oxford,2019,Vehicle/vehicle,1
+Oxford,2023,Pedestrian/vehicle,1
+Oxford,2024,Vehicle/vehicle,1
+Oxford,2025,Vehicle/vehicle,1
+Plainfield,2015,Pedestrian/vehicle,1
+Plainfield,2015,Vehicle/vehicle,2
+Plainfield,2016,Vehicle/vehicle,1
+Plainfield,2017,Vehicle/vehicle,1
+Plainfield,2018,Vehicle/vehicle,2
+Plainfield,2019,Vehicle/vehicle,2
+Plainfield,2020,Vehicle/vehicle,1
+Plainfield,2021,Vehicle/vehicle,1
+Plainfield,2022,Vehicle/vehicle,1
+Plainfield,2023,Vehicle/vehicle,1
+Plainfield,2025,Vehicle/vehicle,1
+Plainville,2015,Pedestrian/vehicle,1
+Plainville,2015,Vehicle/vehicle,1
+Plainville,2016,Vehicle/vehicle,1
+Plainville,2017,Pedestrian/vehicle,1
+Plainville,2017,Vehicle/vehicle,1
+Plainville,2018,Vehicle/vehicle,2
+Plainville,2019,Vehicle/vehicle,4
+Plainville,2020,Pedestrian/vehicle,1
+Plainville,2021,Pedestrian/vehicle,2
+Plainville,2021,Vehicle/vehicle,1
+Plainville,2022,Pedestrian/vehicle,1
+Plainville,2022,Vehicle/vehicle,6
+Plainville,2024,Vehicle/vehicle,1
+Plainville,2025,Pedestrian/vehicle,1
+Plymouth,2015,Vehicle/vehicle,2
+Plymouth,2017,Vehicle/vehicle,1
+Plymouth,2018,Vehicle/vehicle,1
+Plymouth,2022,Vehicle/vehicle,1
+Plymouth,2023,Vehicle/vehicle,1
+Plymouth,2024,Vehicle/vehicle,1
+Pomfret,2017,Pedestrian/vehicle,1
+Pomfret,2018,Vehicle/vehicle,1
+Pomfret,2019,Vehicle/vehicle,1
+Pomfret,2020,Vehicle/vehicle,2
+Pomfret,2021,Vehicle/vehicle,2
+Pomfret,2023,Vehicle/vehicle,1
+Pomfret,2025,Vehicle/vehicle,2
+Portland,2015,Vehicle/vehicle,2
+Portland,2016,Vehicle/vehicle,2
+Portland,2017,Vehicle/vehicle,2
+Portland,2018,Vehicle/vehicle,1
+Portland,2020,Vehicle/vehicle,1
+Portland,2023,Vehicle/vehicle,1
+Portland,2024,Pedestrian/vehicle,1
+Portland,2025,Vehicle/vehicle,1
+Preston,2015,Pedestrian/vehicle,1
+Preston,2016,Cyclist/vehicle,1
+Preston,2016,Vehicle/vehicle,3
+Preston,2017,Vehicle/vehicle,1
+Preston,2018,Vehicle/vehicle,1
+Preston,2019,Vehicle/vehicle,2
+Preston,2020,Vehicle/vehicle,1
+Preston,2021,Pedestrian/vehicle,1
+Preston,2023,Vehicle/vehicle,2
+Preston,2024,Vehicle/vehicle,2
+Prospect,2016,Vehicle/vehicle,1
+Prospect,2017,Vehicle/vehicle,1
+Prospect,2018,Vehicle/vehicle,2
+Prospect,2019,Vehicle/vehicle,1
+Prospect,2020,Vehicle/vehicle,1
+Prospect,2022,Vehicle/vehicle,1
+Prospect,2025,Vehicle/vehicle,4
+Putnam,2015,Vehicle/vehicle,2
+Putnam,2017,Vehicle/vehicle,3
+Putnam,2020,Vehicle/vehicle,3
+Putnam,2023,Vehicle/vehicle,1
+Putnam,2024,Pedestrian/vehicle,1
+Redding,2022,Vehicle/vehicle,1
+Redding,2023,Vehicle/vehicle,1
+Ridgefield,2020,Vehicle/vehicle,2
+Ridgefield,2021,Vehicle/vehicle,2
+Ridgefield,2023,Vehicle/vehicle,1
+Ridgefield,2024,Vehicle/vehicle,2
+Rocky Hill,2016,Pedestrian/vehicle,1
+Rocky Hill,2016,Vehicle/vehicle,4
+Rocky Hill,2017,Vehicle/vehicle,4
+Rocky Hill,2018,Vehicle/vehicle,1
+Rocky Hill,2019,Vehicle/vehicle,2
+Rocky Hill,2020,Pedestrian/vehicle,1
+Rocky Hill,2020,Vehicle/vehicle,1
+Rocky Hill,2021,Vehicle/vehicle,1
+Rocky Hill,2022,Vehicle/vehicle,1
+Rocky Hill,2023,Vehicle/vehicle,2
+Rocky Hill,2024,Vehicle/vehicle,4
+Rocky Hill,2025,Pedestrian/vehicle,1
+Roxbury,2021,Vehicle/vehicle,2
+Salem,2017,Pedestrian/vehicle,1
+Salem,2019,Vehicle/vehicle,1
+Salem,2021,Pedestrian/vehicle,1
+Salem,2023,Pedestrian/vehicle,1
+Salem,2023,Vehicle/vehicle,1
+Salem,2024,Vehicle/vehicle,1
+Salisbury,2016,Vehicle/vehicle,2
+Salisbury,2017,Pedestrian/vehicle,1
+Salisbury,2018,Vehicle/vehicle,4
+Salisbury,2022,Vehicle/vehicle,1
+Salisbury,2023,Vehicle/vehicle,4
+Scotland,2019,Vehicle/vehicle,2
+Scotland,2022,Vehicle/vehicle,1
+Seymour,2016,Vehicle/vehicle,1
+Seymour,2017,Vehicle/vehicle,1
+Seymour,2019,Vehicle/vehicle,1
+Seymour,2020,Vehicle/vehicle,2
+Seymour,2021,Pedestrian/vehicle,2
+Seymour,2021,Vehicle/vehicle,4
+Seymour,2022,Vehicle/vehicle,1
+Seymour,2023,Vehicle/vehicle,2
+Seymour,2025,Vehicle/vehicle,2
+Sharon,2018,Vehicle/vehicle,1
+Sharon,2019,Vehicle/vehicle,1
+Sharon,2020,Vehicle/vehicle,1
+Sharon,2021,Vehicle/vehicle,1
+Sharon,2025,Vehicle/vehicle,1
+Shelton,2015,Vehicle/vehicle,6
+Shelton,2016,Pedestrian/vehicle,2
+Shelton,2016,Vehicle/vehicle,5
+Shelton,2017,Pedestrian/vehicle,1
+Shelton,2017,Vehicle/vehicle,2
+Shelton,2018,Vehicle/vehicle,2
+Shelton,2019,Vehicle/vehicle,1
+Shelton,2020,Vehicle/vehicle,4
+Shelton,2021,Vehicle/vehicle,4
+Shelton,2022,Vehicle/vehicle,4
+Shelton,2023,Pedestrian/vehicle,1
+Shelton,2023,Vehicle/vehicle,5
+Shelton,2024,Pedestrian/vehicle,2
+Shelton,2024,Vehicle/vehicle,4
+Shelton,2025,Vehicle/vehicle,3
+Sherman,2015,Vehicle/vehicle,1
+Sherman,2016,Pedestrian/vehicle,1
+Simsbury,2015,Vehicle/vehicle,2
+Simsbury,2016,Vehicle/vehicle,1
+Simsbury,2017,Vehicle/vehicle,1
+Simsbury,2019,Vehicle/vehicle,1
+Simsbury,2020,Vehicle/vehicle,2
+Simsbury,2021,Vehicle/vehicle,1
+Simsbury,2022,Vehicle/vehicle,1
+Simsbury,2023,Pedestrian/vehicle,1
+Simsbury,2024,Vehicle/vehicle,1
+Simsbury,2025,Vehicle/vehicle,1
+Somers,2016,Pedestrian/vehicle,1
+Somers,2016,Vehicle/vehicle,1
+Somers,2017,Vehicle/vehicle,3
+Somers,2020,Vehicle/vehicle,1
+Somers,2021,Vehicle/vehicle,1
+Somers,2025,Vehicle/vehicle,4
+South Windsor,2020,Vehicle/vehicle,1
+South Windsor,2021,Vehicle/vehicle,3
+South Windsor,2022,Vehicle/vehicle,3
+South Windsor,2023,Vehicle/vehicle,3
+Southbury,2015,Vehicle/vehicle,2
+Southbury,2016,Vehicle/vehicle,6
+Southbury,2018,Vehicle/vehicle,1
+Southbury,2019,Vehicle/vehicle,3
+Southbury,2020,Vehicle/vehicle,1
+Southbury,2021,Pedestrian/vehicle,2
+Southbury,2021,Vehicle/vehicle,3
+Southbury,2022,Pedestrian/vehicle,1
+Southbury,2023,Vehicle/vehicle,1
+Southbury,2024,Vehicle/vehicle,1
+Southbury,2025,Pedestrian/vehicle,1
+Southbury,2025,Vehicle/vehicle,3
+Southington,2015,Pedestrian/vehicle,1
+Southington,2015,Vehicle/vehicle,4
+Southington,2016,Pedestrian/vehicle,1
+Southington,2016,Vehicle/vehicle,4
+Southington,2017,Vehicle/vehicle,2
+Southington,2018,Vehicle/vehicle,2
+Southington,2019,Vehicle/vehicle,1
+Southington,2020,Vehicle/vehicle,6
+Southington,2021,Pedestrian/vehicle,1
+Southington,2021,Vehicle/vehicle,7
+Southington,2022,Pedestrian/vehicle,1
+Southington,2022,Vehicle/vehicle,4
+Southington,2023,Pedestrian/vehicle,1
+Southington,2023,Vehicle/vehicle,3
+Southington,2024,Pedestrian/vehicle,1
+Southington,2024,Vehicle/vehicle,1
+Southington,2025,Pedestrian/vehicle,1
+Southington,2025,Vehicle/vehicle,2
+Sprague,2017,Vehicle/vehicle,1
+Sprague,2019,Vehicle/vehicle,2
+Stafford,2016,Vehicle/vehicle,2
+Stafford,2017,Vehicle/vehicle,1
+Stafford,2022,Cyclist/vehicle,1
+Stafford,2022,Vehicle/vehicle,4
+Stafford,2023,Vehicle/vehicle,1
+Stamford,2015,Pedestrian/vehicle,2
+Stamford,2015,Vehicle/vehicle,1
+Stamford,2016,Cyclist/vehicle,1
+Stamford,2016,Pedestrian/vehicle,3
+Stamford,2016,Vehicle/vehicle,1
+Stamford,2017,Pedestrian/vehicle,2
+Stamford,2017,Vehicle/vehicle,7
+Stamford,2018,Pedestrian/vehicle,2
+Stamford,2018,Vehicle/vehicle,4
+Stamford,2019,Pedestrian/vehicle,1
+Stamford,2019,Vehicle/vehicle,2
+Stamford,2020,Cyclist/vehicle,1
+Stamford,2020,Pedestrian/vehicle,1
+Stamford,2020,Vehicle/vehicle,1
+Stamford,2021,Vehicle/vehicle,3
+Stamford,2022,Pedestrian/vehicle,5
+Stamford,2022,Vehicle/vehicle,5
+Stamford,2023,Pedestrian/vehicle,4
+Stamford,2023,Vehicle/vehicle,8
+Stamford,2024,Pedestrian/vehicle,1
+Stamford,2024,Vehicle/vehicle,5
+Stamford,2025,Pedestrian/vehicle,1
+Sterling,2016,Vehicle/vehicle,1
+Sterling,2019,Vehicle/vehicle,1
+Sterling,2025,Pedestrian/vehicle,1
+Sterling,2025,Vehicle/vehicle,1
+Stonington,2015,Vehicle/vehicle,3
+Stonington,2016,Pedestrian/vehicle,1
+Stonington,2017,Vehicle/vehicle,2
+Stonington,2018,Vehicle/vehicle,2
+Stonington,2019,Pedestrian/vehicle,2
+Stonington,2019,Vehicle/vehicle,2
+Stonington,2020,Vehicle/vehicle,1
+Stonington,2021,Vehicle/vehicle,2
+Stonington,2022,Pedestrian/vehicle,1
+Stonington,2022,Vehicle/vehicle,5
+Stonington,2023,Cyclist/vehicle,1
+Stonington,2023,Vehicle/vehicle,1
+Stonington,2024,Vehicle/vehicle,1
+Stonington,2025,Vehicle/vehicle,1
+Stratford,2015,Vehicle/vehicle,3
+Stratford,2016,Vehicle/vehicle,5
+Stratford,2017,Pedestrian/vehicle,1
+Stratford,2017,Vehicle/vehicle,3
+Stratford,2018,Vehicle/vehicle,3
+Stratford,2019,Pedestrian/vehicle,2
+Stratford,2019,Vehicle/vehicle,2
+Stratford,2020,Pedestrian/vehicle,1
+Stratford,2020,Vehicle/vehicle,2
+Stratford,2021,Vehicle/vehicle,2
+Stratford,2022,Vehicle/vehicle,3
+Stratford,2023,Pedestrian/vehicle,4
+Stratford,2023,Vehicle/vehicle,3
+Stratford,2024,Vehicle/vehicle,5
+Stratford,2025,Pedestrian/vehicle,1
+Stratford,2025,Vehicle/vehicle,5
+Suffield,2015,Vehicle/vehicle,3
+Suffield,2018,Pedestrian/vehicle,1
+Suffield,2018,Vehicle/vehicle,2
+Suffield,2019,Vehicle/vehicle,3
+Suffield,2021,Vehicle/vehicle,1
+Suffield,2022,Vehicle/vehicle,3
+Suffield,2024,Vehicle/vehicle,3
+Suffield,2025,Vehicle/vehicle,1
+Thomaston,2015,Vehicle/vehicle,1
+Thomaston,2017,Vehicle/vehicle,1
+Thomaston,2018,Vehicle/vehicle,2
+Thomaston,2020,Vehicle/vehicle,1
+Thomaston,2021,Vehicle/vehicle,1
+Thomaston,2022,Pedestrian/vehicle,1
+Thomaston,2022,Vehicle/vehicle,1
+Thomaston,2024,Vehicle/vehicle,1
+Thomaston,2025,Pedestrian/vehicle,1
+Thomaston,2025,Vehicle/vehicle,2
+Thompson,2015,Vehicle/vehicle,4
+Thompson,2018,Vehicle/vehicle,1
+Thompson,2019,Vehicle/vehicle,1
+Thompson,2020,Vehicle/vehicle,2
+Thompson,2022,Pedestrian/vehicle,1
+Thompson,2022,Vehicle/vehicle,6
+Thompson,2023,Vehicle/vehicle,1
+Thompson,2025,Vehicle/vehicle,1
+Tolland,2015,Pedestrian/vehicle,1
+Tolland,2016,Vehicle/vehicle,1
+Tolland,2018,Vehicle/vehicle,4
+Tolland,2019,Vehicle/vehicle,1
+Tolland,2020,Vehicle/vehicle,2
+Tolland,2021,Vehicle/vehicle,4
+Tolland,2022,Vehicle/vehicle,1
+Tolland,2023,Vehicle/vehicle,4
+Tolland,2024,Vehicle/vehicle,1
+Tolland,2025,Vehicle/vehicle,2
+Torrington,2015,Cyclist/vehicle,1
+Torrington,2015,Pedestrian/vehicle,1
+Torrington,2015,Vehicle/vehicle,2
+Torrington,2016,Vehicle/vehicle,1
+Torrington,2017,Pedestrian/vehicle,1
+Torrington,2017,Vehicle/vehicle,1
+Torrington,2018,Vehicle/vehicle,2
+Torrington,2019,Vehicle/vehicle,3
+Torrington,2020,Vehicle/vehicle,3
+Torrington,2021,Vehicle/vehicle,5
+Torrington,2022,Vehicle/vehicle,6
+Torrington,2023,Cyclist/vehicle,1
+Torrington,2023,Vehicle/vehicle,3
+Torrington,2024,Vehicle/vehicle,1
+Trumbull,2015,Vehicle/vehicle,2
+Trumbull,2016,Vehicle/vehicle,4
+Trumbull,2017,Vehicle/vehicle,1
+Trumbull,2018,Vehicle/vehicle,2
+Trumbull,2019,Pedestrian/vehicle,1
+Trumbull,2019,Vehicle/vehicle,3
+Trumbull,2020,Pedestrian/vehicle,2
+Trumbull,2020,Vehicle/vehicle,4
+Trumbull,2021,Vehicle/vehicle,5
+Trumbull,2022,Vehicle/vehicle,6
+Trumbull,2023,Vehicle/vehicle,1
+Trumbull,2024,Pedestrian/vehicle,1
+Trumbull,2024,Vehicle/vehicle,5
+Trumbull,2025,Cyclist/vehicle,1
+Union,2016,Vehicle/vehicle,1
+Union,2017,Vehicle/vehicle,2
+Union,2018,Vehicle/vehicle,1
+Union,2020,Vehicle/vehicle,3
+Union,2024,Vehicle/vehicle,2
+Vernon,2015,Vehicle/vehicle,1
+Vernon,2016,Vehicle/vehicle,1
+Vernon,2017,Vehicle/vehicle,1
+Vernon,2018,Pedestrian/vehicle,1
+Vernon,2018,Vehicle/vehicle,2
+Vernon,2019,Vehicle/vehicle,3
+Vernon,2020,Pedestrian/vehicle,2
+Vernon,2020,Vehicle/vehicle,3
+Vernon,2021,Vehicle/vehicle,2
+Vernon,2022,Vehicle/vehicle,1
+Vernon,2023,Pedestrian/vehicle,1
+Vernon,2023,Vehicle/vehicle,3
+Vernon,2024,Pedestrian/vehicle,1
+Vernon,2024,Vehicle/vehicle,2
+Voluntown,2016,Vehicle/vehicle,1
+Voluntown,2017,Vehicle/vehicle,1
+Voluntown,2019,Vehicle/vehicle,2
+Voluntown,2024,Vehicle/vehicle,1
+Voluntown,2025,Vehicle/vehicle,1
+Wallingford,2015,Vehicle/vehicle,2
+Wallingford,2016,Vehicle/vehicle,3
+Wallingford,2017,Pedestrian/vehicle,1
+Wallingford,2017,Vehicle/vehicle,3
+Wallingford,2018,Pedestrian/vehicle,1
+Wallingford,2018,Vehicle/vehicle,4
+Wallingford,2019,Cyclist/vehicle,1
+Wallingford,2019,Vehicle/vehicle,1
+Wallingford,2020,Pedestrian/vehicle,1
+Wallingford,2020,Vehicle/vehicle,4
+Wallingford,2021,Vehicle/vehicle,4
+Wallingford,2022,Pedestrian/vehicle,2
+Wallingford,2022,Vehicle/vehicle,5
+Wallingford,2023,Vehicle/vehicle,2
+Wallingford,2024,Pedestrian/vehicle,1
+Wallingford,2024,Vehicle/vehicle,6
+Wallingford,2025,Pedestrian/vehicle,1
+Wallingford,2025,Vehicle/vehicle,4
+Warren,2015,Vehicle/vehicle,1
+Warren,2017,Pedestrian/vehicle,1
+Washington,2017,Vehicle/vehicle,4
+Washington,2021,Vehicle/vehicle,1
+Washington,2025,Pedestrian/vehicle,1
+Waterbury,2015,Cyclist/vehicle,1
+Waterbury,2015,Pedestrian/vehicle,3
+Waterbury,2015,Vehicle/vehicle,15
+Waterbury,2016,Pedestrian/vehicle,3
+Waterbury,2016,Vehicle/vehicle,10
+Waterbury,2017,Pedestrian/vehicle,6
+Waterbury,2017,Vehicle/vehicle,14
+Waterbury,2018,Cyclist/vehicle,1
+Waterbury,2018,Pedestrian/vehicle,2
+Waterbury,2018,Vehicle/vehicle,7
+Waterbury,2019,Pedestrian/vehicle,4
+Waterbury,2019,Vehicle/vehicle,8
+Waterbury,2020,Pedestrian/vehicle,6
+Waterbury,2020,Vehicle/vehicle,7
+Waterbury,2021,Pedestrian/vehicle,1
+Waterbury,2021,Vehicle/vehicle,6
+Waterbury,2022,Cyclist/vehicle,1
+Waterbury,2022,Pedestrian/vehicle,5
+Waterbury,2022,Vehicle/vehicle,15
+Waterbury,2023,Pedestrian/vehicle,3
+Waterbury,2023,Vehicle/vehicle,13
+Waterbury,2024,Cyclist/vehicle,1
+Waterbury,2024,Pedestrian/vehicle,5
+Waterbury,2024,Vehicle/vehicle,13
+Waterbury,2025,Pedestrian/vehicle,1
+Waterbury,2025,Vehicle/vehicle,9
+Waterford,2016,Vehicle/vehicle,1
+Waterford,2017,Pedestrian/vehicle,1
+Waterford,2017,Vehicle/vehicle,1
+Waterford,2018,Vehicle/vehicle,3
+Waterford,2020,Pedestrian/vehicle,1
+Waterford,2023,Pedestrian/vehicle,1
+Waterford,2023,Vehicle/vehicle,4
+Waterford,2025,Vehicle/vehicle,1
+Watertown,2015,Pedestrian/vehicle,1
+Watertown,2015,Vehicle/vehicle,1
+Watertown,2016,Pedestrian/vehicle,1
+Watertown,2016,Vehicle/vehicle,1
+Watertown,2018,Pedestrian/vehicle,1
+Watertown,2018,Vehicle/vehicle,1
+Watertown,2019,Vehicle/vehicle,4
+Watertown,2020,Vehicle/vehicle,2
+Watertown,2022,Vehicle/vehicle,2
+Watertown,2023,Vehicle/vehicle,1
+Watertown,2025,Vehicle/vehicle,2
+West Hartford,2015,Pedestrian/vehicle,1
+West Hartford,2016,Pedestrian/vehicle,1
+West Hartford,2016,Vehicle/vehicle,2
+West Hartford,2017,Pedestrian/vehicle,1
+West Hartford,2017,Vehicle/vehicle,1
+West Hartford,2018,Pedestrian/vehicle,1
+West Hartford,2020,Pedestrian/vehicle,1
+West Hartford,2022,Pedestrian/vehicle,3
+West Hartford,2022,Vehicle/vehicle,4
+West Hartford,2023,Vehicle/vehicle,3
+West Hartford,2024,Pedestrian/vehicle,3
+West Hartford,2024,Vehicle/vehicle,2
+West Hartford,2025,Pedestrian/vehicle,1
+West Hartford,2025,Vehicle/vehicle,1
+West Haven,2015,Vehicle/vehicle,1
+West Haven,2016,Pedestrian/vehicle,1
+West Haven,2016,Vehicle/vehicle,3
+West Haven,2017,Pedestrian/vehicle,2
+West Haven,2017,Vehicle/vehicle,4
+West Haven,2018,Pedestrian/vehicle,2
+West Haven,2018,Vehicle/vehicle,3
+West Haven,2019,Pedestrian/vehicle,2
+West Haven,2020,Pedestrian/vehicle,1
+West Haven,2020,Vehicle/vehicle,3
+West Haven,2021,Pedestrian/vehicle,1
+West Haven,2021,Vehicle/vehicle,1
+West Haven,2022,Pedestrian/vehicle,1
+West Haven,2022,Vehicle/vehicle,5
+West Haven,2023,Vehicle/vehicle,1
+West Haven,2024,Pedestrian/vehicle,3
+West Haven,2024,Vehicle/vehicle,6
+West Haven,2025,Vehicle/vehicle,1
+Westbrook,2015,Vehicle/vehicle,2
+Westbrook,2016,Pedestrian/vehicle,1
+Westbrook,2018,Vehicle/vehicle,2
+Westbrook,2019,Cyclist/vehicle,1
+Westbrook,2020,Vehicle/vehicle,1
+Westbrook,2021,Vehicle/vehicle,1
+Westbrook,2022,Vehicle/vehicle,2
+Westbrook,2023,Vehicle/vehicle,2
+Westbrook,2024,Vehicle/vehicle,4
+Westbrook,2025,Vehicle/vehicle,3
+Weston,2019,Vehicle/vehicle,1
+Weston,2020,Vehicle/vehicle,2
+Weston,2021,Vehicle/vehicle,1
+Westport,2015,Vehicle/vehicle,1
+Westport,2016,Vehicle/vehicle,5
+Westport,2017,Vehicle/vehicle,3
+Westport,2018,Vehicle/vehicle,1
+Westport,2019,Pedestrian/vehicle,1
+Westport,2019,Vehicle/vehicle,2
+Westport,2020,Vehicle/vehicle,2
+Westport,2022,Vehicle/vehicle,1
+Westport,2023,Pedestrian/vehicle,1
+Westport,2023,Vehicle/vehicle,2
+Westport,2024,Vehicle/vehicle,1
+Westport,2025,Pedestrian/vehicle,1
+Wethersfield,2015,Pedestrian/vehicle,2
+Wethersfield,2016,Pedestrian/vehicle,1
+Wethersfield,2016,Vehicle/vehicle,1
+Wethersfield,2017,Vehicle/vehicle,5
+Wethersfield,2019,Vehicle/vehicle,3
+Wethersfield,2020,Pedestrian/vehicle,3
+Wethersfield,2020,Vehicle/vehicle,1
+Wethersfield,2021,Pedestrian/vehicle,3
+Wethersfield,2021,Vehicle/vehicle,2
+Wethersfield,2022,Pedestrian/vehicle,2
+Wethersfield,2023,Vehicle/vehicle,7
+Wethersfield,2024,Vehicle/vehicle,1
+Wethersfield,2025,Vehicle/vehicle,3
+Willington,2015,Vehicle/vehicle,1
+Willington,2016,Vehicle/vehicle,1
+Willington,2018,Vehicle/vehicle,1
+Willington,2019,Vehicle/vehicle,2
+Willington,2020,Vehicle/vehicle,2
+Willington,2022,Pedestrian/vehicle,1
+Willington,2023,Vehicle/vehicle,1
+Willington,2024,Vehicle/vehicle,3
+Wilton,2015,Vehicle/vehicle,1
+Wilton,2016,Pedestrian/vehicle,1
+Wilton,2017,Vehicle/vehicle,1
+Wilton,2022,Pedestrian/vehicle,1
+Wilton,2022,Vehicle/vehicle,1
+Wilton,2023,Vehicle/vehicle,1
+Winchester,2018,Vehicle/vehicle,3
+Winchester,2019,Vehicle/vehicle,1
+Winchester,2020,Vehicle/vehicle,3
+Winchester,2021,Vehicle/vehicle,1
+Winchester,2022,Vehicle/vehicle,1
+Winchester,2023,Vehicle/vehicle,2
+Winchester,2025,Vehicle/vehicle,1
+Windham,2015,Vehicle/vehicle,1
+Windham,2016,Vehicle/vehicle,3
+Windham,2017,Pedestrian/vehicle,1
+Windham,2017,Vehicle/vehicle,1
+Windham,2018,Vehicle/vehicle,1
+Windham,2019,Vehicle/vehicle,1
+Windham,2020,Vehicle/vehicle,1
+Windham,2021,Pedestrian/vehicle,1
+Windham,2021,Vehicle/vehicle,3
+Windham,2022,Vehicle/vehicle,3
+Windham,2023,Pedestrian/vehicle,1
+Windham,2024,Pedestrian/vehicle,1
+Windham,2025,Vehicle/vehicle,1
+Windsor,2016,Vehicle/vehicle,1
+Windsor,2018,Pedestrian/vehicle,1
+Windsor,2018,Vehicle/vehicle,2
+Windsor,2019,Vehicle/vehicle,2
+Windsor,2020,Pedestrian/vehicle,1
+Windsor,2020,Vehicle/vehicle,4
+Windsor,2021,Vehicle/vehicle,2
+Windsor,2022,Vehicle/vehicle,3
+Windsor,2023,Vehicle/vehicle,4
+Windsor,2024,Vehicle/vehicle,8
+Windsor Locks,2016,Pedestrian/vehicle,1
+Windsor Locks,2016,Vehicle/vehicle,1
+Windsor Locks,2018,Pedestrian/vehicle,2
+Windsor Locks,2021,Vehicle/vehicle,1
+Windsor Locks,2022,Vehicle/vehicle,1
+Windsor Locks,2024,Vehicle/vehicle,1
+Windsor Locks,2025,Vehicle/vehicle,1
+Wolcott,2017,Vehicle/vehicle,1
+Wolcott,2018,Pedestrian/vehicle,1
+Wolcott,2018,Vehicle/vehicle,1
+Wolcott,2020,Vehicle/vehicle,1
+Wolcott,2022,Vehicle/vehicle,1
+Wolcott,2023,Vehicle/vehicle,1
+Wolcott,2024,Vehicle/vehicle,3
+Woodbridge,2015,Pedestrian/vehicle,1
+Woodbridge,2016,Vehicle/vehicle,2
+Woodbridge,2019,Vehicle/vehicle,1
+Woodbridge,2020,Vehicle/vehicle,3
+Woodbridge,2021,Pedestrian/vehicle,2
+Woodbridge,2021,Vehicle/vehicle,2
+Woodbridge,2022,Vehicle/vehicle,1
+Woodbridge,2023,Vehicle/vehicle,2
+Woodbridge,2024,Vehicle/vehicle,1
+Woodbury,2015,Vehicle/vehicle,1
+Woodbury,2017,Vehicle/vehicle,3
+Woodbury,2018,Vehicle/vehicle,1
+Woodbury,2020,Pedestrian/vehicle,1
+Woodbury,2022,Vehicle/vehicle,1
+Woodbury,2023,Vehicle/vehicle,2
+Woodbury,2025,Vehicle/vehicle,1
+Woodstock,2017,Vehicle/vehicle,2
+Woodstock,2021,Vehicle/vehicle,2
+Woodstock,2023,Vehicle/vehicle,2
+Woodstock,2024,Vehicle/vehicle,2

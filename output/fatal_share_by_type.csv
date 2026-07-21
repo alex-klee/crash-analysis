@@ -1,0 +1,232 @@
+geography,year,crash_type,total_crashes,fatal_crashes,fatal_pct
+Bridgeport,2015,Cyclist/vehicle,52,0,0
+Bridgeport,2015,Pedestrian/vehicle,119,1,0.8403361344537815
+Bridgeport,2015,Vehicle/vehicle,5364,1,0.018642803877703205
+Bridgeport,2016,Cyclist/vehicle,55,0,0
+Bridgeport,2016,Pedestrian/vehicle,152,6,3.9473684210526314
+Bridgeport,2016,Vehicle/vehicle,6570,8,0.12176560121765602
+Bridgeport,2017,Cyclist/vehicle,54,0,0
+Bridgeport,2017,Pedestrian/vehicle,169,7,4.142011834319527
+Bridgeport,2017,Vehicle/vehicle,6412,3,0.046787273861509666
+Bridgeport,2018,Cyclist/vehicle,24,0,0
+Bridgeport,2018,Pedestrian/vehicle,154,4,2.5974025974025974
+Bridgeport,2018,Vehicle/vehicle,6098,7,0.11479173499508036
+Bridgeport,2019,Cyclist/vehicle,30,0,0
+Bridgeport,2019,Pedestrian/vehicle,155,3,1.935483870967742
+Bridgeport,2019,Vehicle/vehicle,6139,0,0
+Bridgeport,2020,Cyclist/vehicle,17,0,0
+Bridgeport,2020,Pedestrian/vehicle,103,3,2.912621359223301
+Bridgeport,2020,Vehicle/vehicle,5075,13,0.25615763546798026
+Bridgeport,2021,Cyclist/vehicle,23,0,0
+Bridgeport,2021,Pedestrian/vehicle,97,3,3.0927835051546393
+Bridgeport,2021,Vehicle/vehicle,5858,4,0.06828269033799932
+Bridgeport,2022,Cyclist/vehicle,19,0,0
+Bridgeport,2022,Pedestrian/vehicle,135,4,2.9629629629629632
+Bridgeport,2022,Vehicle/vehicle,5577,7,0.12551551013089476
+Bridgeport,2023,Cyclist/vehicle,17,0,0
+Bridgeport,2023,Pedestrian/vehicle,111,2,1.8018018018018018
+Bridgeport,2023,Vehicle/vehicle,5329,5,0.09382623381497467
+Bridgeport,2024,Cyclist/vehicle,30,0,0
+Bridgeport,2024,Pedestrian/vehicle,146,5,3.4246575342465753
+Bridgeport,2024,Vehicle/vehicle,5413,7,0.12931830777757253
+Bridgeport,2025,Cyclist/vehicle,36,0,0
+Bridgeport,2025,Pedestrian/vehicle,129,2,1.550387596899225
+Bridgeport,2025,Vehicle/vehicle,5374,7,0.13025679196129514
+Connecticut (statewide),2015,Cyclist/vehicle,540,3,0.5555555555555556
+Connecticut (statewide),2015,Pedestrian/vehicle,1367,47,3.4381858083394294
+Connecticut (statewide),2015,Vehicle/vehicle,109262,203,0.18579194962567042
+Connecticut (statewide),2016,Cyclist/vehicle,566,7,1.2367491166077738
+Connecticut (statewide),2016,Pedestrian/vehicle,1598,67,4.192740926157698
+Connecticut (statewide),2016,Vehicle/vehicle,113771,223,0.19600776999411096
+Connecticut (statewide),2017,Cyclist/vehicle,547,3,0.5484460694698354
+Connecticut (statewide),2017,Pedestrian/vehicle,1555,54,3.4726688102893895
+Connecticut (statewide),2017,Vehicle/vehicle,113546,207,0.18230496891127823
+Connecticut (statewide),2018,Cyclist/vehicle,435,1,0.22988505747126436
+Connecticut (statewide),2018,Pedestrian/vehicle,1495,63,4.214046822742475
+Connecticut (statewide),2018,Vehicle/vehicle,112226,217,0.19335982749095576
+Connecticut (statewide),2019,Cyclist/vehicle,499,3,0.6012024048096193
+Connecticut (statewide),2019,Pedestrian/vehicle,1583,54,3.41124447252053
+Connecticut (statewide),2019,Vehicle/vehicle,110529,181,0.16375792778365858
+Connecticut (statewide),2020,Cyclist/vehicle,431,6,1.3921113689095126
+Connecticut (statewide),2020,Pedestrian/vehicle,1142,61,5.341506129597198
+Connecticut (statewide),2020,Vehicle/vehicle,82218,218,0.26514875088180206
+Connecticut (statewide),2021,Cyclist/vehicle,370,3,0.8108108108108109
+Connecticut (statewide),2021,Pedestrian/vehicle,1182,53,4.483925549915398
+Connecticut (statewide),2021,Vehicle/vehicle,99607,238,0.23893903038943046
+Connecticut (statewide),2022,Cyclist/vehicle,330,4,1.2121212121212122
+Connecticut (statewide),2022,Pedestrian/vehicle,1372,73,5.320699708454811
+Connecticut (statewide),2022,Vehicle/vehicle,101100,261,0.258160237388724
+Connecticut (statewide),2023,Cyclist/vehicle,424,4,0.9433962264150944
+Connecticut (statewide),2023,Pedestrian/vehicle,1301,54,4.15065334358186
+Connecticut (statewide),2023,Vehicle/vehicle,98712,232,0.23502714968798122
+Connecticut (statewide),2024,Cyclist/vehicle,476,4,0.8403361344537815
+Connecticut (statewide),2024,Pedestrian/vehicle,1518,61,4.0184453227931485
+Connecticut (statewide),2024,Vehicle/vehicle,102266,226,0.22099231416110926
+Connecticut (statewide),2025,Cyclist/vehicle,461,5,1.0845986984815619
+Connecticut (statewide),2025,Pedestrian/vehicle,1375,55,4
+Connecticut (statewide),2025,Vehicle/vehicle,101598,172,0.16929467115494398
+Five largest cities,2015,Cyclist/vehicle,204,2,0.9803921568627451
+Five largest cities,2015,Pedestrian/vehicle,556,9,1.618705035971223
+Five largest cities,2015,Vehicle/vehicle,28557,26,0.0910459782190006
+Five largest cities,2016,Cyclist/vehicle,219,1,0.45662100456621
+Five largest cities,2016,Pedestrian/vehicle,688,17,2.4709302325581395
+Five largest cities,2016,Vehicle/vehicle,30936,38,0.12283423842772176
+Five largest cities,2017,Cyclist/vehicle,223,1,0.4484304932735426
+Five largest cities,2017,Pedestrian/vehicle,700,18,2.571428571428571
+Five largest cities,2017,Vehicle/vehicle,29667,36,0.12134695115785216
+Five largest cities,2018,Cyclist/vehicle,176,1,0.5681818181818182
+Five largest cities,2018,Pedestrian/vehicle,654,20,3.058103975535168
+Five largest cities,2018,Vehicle/vehicle,31100,45,0.14469453376205788
+Five largest cities,2019,Cyclist/vehicle,194,0,0
+Five largest cities,2019,Pedestrian/vehicle,747,19,2.5435073627844713
+Five largest cities,2019,Vehicle/vehicle,30618,30,0.09798157946306094
+Five largest cities,2020,Cyclist/vehicle,137,4,2.9197080291970803
+Five largest cities,2020,Pedestrian/vehicle,538,22,4.089219330855019
+Five largest cities,2020,Vehicle/vehicle,24049,39,0.16216890515198137
+Five largest cities,2021,Cyclist/vehicle,110,1,0.9090909090909091
+Five largest cities,2021,Pedestrian/vehicle,521,19,3.6468330134357005
+Five largest cities,2021,Vehicle/vehicle,26988,37,0.13709796946791167
+Five largest cities,2022,Cyclist/vehicle,101,2,1.9801980198019802
+Five largest cities,2022,Pedestrian/vehicle,610,24,3.934426229508197
+Five largest cities,2022,Vehicle/vehicle,26421,48,0.18167366867264675
+Five largest cities,2023,Cyclist/vehicle,122,0,0
+Five largest cities,2023,Pedestrian/vehicle,569,22,3.8664323374340945
+Five largest cities,2023,Vehicle/vehicle,25777,35,0.1357799588780696
+Five largest cities,2024,Cyclist/vehicle,163,4,2.4539877300613497
+Five largest cities,2024,Pedestrian/vehicle,663,20,3.0165912518853695
+Five largest cities,2024,Vehicle/vehicle,25989,40,0.15391127015275693
+Five largest cities,2025,Cyclist/vehicle,163,1,0.6134969325153374
+Five largest cities,2025,Pedestrian/vehicle,607,14,2.3064250411861615
+Five largest cities,2025,Vehicle/vehicle,26442,28,0.10589214129037139
+Hartford,2015,Cyclist/vehicle,48,1,2.083333333333333
+Hartford,2015,Pedestrian/vehicle,138,3,2.1739130434782608
+Hartford,2015,Vehicle/vehicle,6580,5,0.07598784194528875
+Hartford,2016,Cyclist/vehicle,57,0,0
+Hartford,2016,Pedestrian/vehicle,177,2,1.1299435028248588
+Hartford,2016,Vehicle/vehicle,7402,8,0.10807889759524453
+Hartford,2017,Cyclist/vehicle,42,0,0
+Hartford,2017,Pedestrian/vehicle,166,1,0.6024096385542169
+Hartford,2017,Vehicle/vehicle,6796,9,0.13243084167157151
+Hartford,2018,Cyclist/vehicle,40,0,0
+Hartford,2018,Pedestrian/vehicle,153,9,5.88235294117647
+Hartford,2018,Vehicle/vehicle,6795,12,0.17660044150110377
+Hartford,2019,Cyclist/vehicle,50,0,0
+Hartford,2019,Pedestrian/vehicle,153,3,1.9607843137254901
+Hartford,2019,Vehicle/vehicle,6924,12,0.17331022530329288
+Hartford,2020,Cyclist/vehicle,25,1,4
+Hartford,2020,Pedestrian/vehicle,126,3,2.380952380952381
+Hartford,2020,Vehicle/vehicle,5374,13,0.24190547078526237
+Hartford,2021,Cyclist/vehicle,7,0,0
+Hartford,2021,Pedestrian/vehicle,92,5,5.434782608695652
+Hartford,2021,Vehicle/vehicle,5343,12,0.22459292532285235
+Hartford,2022,Cyclist/vehicle,15,0,0
+Hartford,2022,Pedestrian/vehicle,100,7,7.000000000000001
+Hartford,2022,Vehicle/vehicle,5227,8,0.15305146355462024
+Hartford,2023,Cyclist/vehicle,21,0,0
+Hartford,2023,Pedestrian/vehicle,125,6,4.8
+Hartford,2023,Vehicle/vehicle,5368,5,0.09314456035767511
+Hartford,2024,Cyclist/vehicle,33,2,6.0606060606060606
+Hartford,2024,Pedestrian/vehicle,158,5,3.1645569620253164
+Hartford,2024,Vehicle/vehicle,5915,9,0.1521555367709214
+Hartford,2025,Cyclist/vehicle,34,1,2.941176470588235
+Hartford,2025,Pedestrian/vehicle,155,4,2.5806451612903225
+Hartford,2025,Vehicle/vehicle,6233,10,0.16043638697256538
+New Haven,2015,Cyclist/vehicle,66,0,0
+New Haven,2015,Pedestrian/vehicle,99,0,0
+New Haven,2015,Vehicle/vehicle,6298,7,0.11114639568116863
+New Haven,2016,Cyclist/vehicle,69,0,0
+New Haven,2016,Pedestrian/vehicle,143,3,2.097902097902098
+New Haven,2016,Vehicle/vehicle,6106,12,0.1965280052407468
+New Haven,2017,Cyclist/vehicle,92,1,1.0869565217391304
+New Haven,2017,Pedestrian/vehicle,162,2,1.2345679012345678
+New Haven,2017,Vehicle/vehicle,5917,8,0.13520365049856345
+New Haven,2018,Cyclist/vehicle,89,0,0
+New Haven,2018,Pedestrian/vehicle,133,3,2.2556390977443606
+New Haven,2018,Vehicle/vehicle,7147,16,0.22387015530992024
+New Haven,2019,Cyclist/vehicle,85,0,0
+New Haven,2019,Pedestrian/vehicle,202,8,3.9603960396039604
+New Haven,2019,Vehicle/vehicle,7269,9,0.12381345439537762
+New Haven,2020,Cyclist/vehicle,61,2,3.278688524590164
+New Haven,2020,Pedestrian/vehicle,133,9,6.7669172932330826
+New Haven,2020,Vehicle/vehicle,5545,6,0.10820559062218214
+New Haven,2021,Cyclist/vehicle,42,1,2.380952380952381
+New Haven,2021,Pedestrian/vehicle,139,10,7.1942446043165464
+New Haven,2021,Vehicle/vehicle,6600,12,0.18181818181818182
+New Haven,2022,Cyclist/vehicle,43,1,2.3255813953488373
+New Haven,2022,Pedestrian/vehicle,167,4,2.3952095808383236
+New Haven,2022,Vehicle/vehicle,6737,13,0.19296422740092029
+New Haven,2023,Cyclist/vehicle,44,0,0
+New Haven,2023,Pedestrian/vehicle,158,7,4.430379746835443
+New Haven,2023,Vehicle/vehicle,6617,8,0.12090071029167296
+New Haven,2024,Cyclist/vehicle,64,1,1.5625
+New Haven,2024,Pedestrian/vehicle,149,4,2.684563758389262
+New Haven,2024,Vehicle/vehicle,6406,9,0.1404932875429285
+New Haven,2025,Cyclist/vehicle,58,0,0
+New Haven,2025,Pedestrian/vehicle,135,6,4.444444444444445
+New Haven,2025,Vehicle/vehicle,6604,5,0.07571168988491823
+Stamford,2015,Cyclist/vehicle,22,0,0
+Stamford,2015,Pedestrian/vehicle,102,2,1.9607843137254901
+Stamford,2015,Vehicle/vehicle,5248,1,0.019054878048780487
+Stamford,2016,Cyclist/vehicle,17,1,5.88235294117647
+Stamford,2016,Pedestrian/vehicle,125,3,2.4
+Stamford,2016,Vehicle/vehicle,5306,1,0.018846588767433094
+Stamford,2017,Cyclist/vehicle,21,0,0
+Stamford,2017,Pedestrian/vehicle,84,2,2.380952380952381
+Stamford,2017,Vehicle/vehicle,4614,6,0.13003901170351106
+Stamford,2018,Cyclist/vehicle,13,0,0
+Stamford,2018,Pedestrian/vehicle,95,2,2.1052631578947367
+Stamford,2018,Vehicle/vehicle,5061,4,0.07903576368306658
+Stamford,2019,Cyclist/vehicle,10,0,0
+Stamford,2019,Pedestrian/vehicle,105,1,0.9523809523809524
+Stamford,2019,Vehicle/vehicle,4580,1,0.021834061135371178
+Stamford,2020,Cyclist/vehicle,22,1,4.545454545454546
+Stamford,2020,Pedestrian/vehicle,75,1,1.3333333333333335
+Stamford,2020,Vehicle/vehicle,3331,1,0.03002101471029721
+Stamford,2021,Cyclist/vehicle,22,0,0
+Stamford,2021,Pedestrian/vehicle,97,0,0
+Stamford,2021,Vehicle/vehicle,4008,3,0.07485029940119761
+Stamford,2022,Cyclist/vehicle,15,0,0
+Stamford,2022,Pedestrian/vehicle,106,4,3.7735849056603774
+Stamford,2022,Vehicle/vehicle,4074,5,0.12272950417280314
+Stamford,2023,Cyclist/vehicle,22,0,0
+Stamford,2023,Pedestrian/vehicle,97,4,4.123711340206185
+Stamford,2023,Vehicle/vehicle,3833,5,0.1304461257500652
+Stamford,2024,Cyclist/vehicle,15,0,0
+Stamford,2024,Pedestrian/vehicle,96,1,1.0416666666666665
+Stamford,2024,Vehicle/vehicle,3854,5,0.12973533990659056
+Stamford,2025,Cyclist/vehicle,20,0,0
+Stamford,2025,Pedestrian/vehicle,102,1,0.9803921568627451
+Stamford,2025,Vehicle/vehicle,3792,0,0
+Waterbury,2015,Cyclist/vehicle,16,1,6.25
+Waterbury,2015,Pedestrian/vehicle,98,3,3.061224489795918
+Waterbury,2015,Vehicle/vehicle,5067,12,0.2368265245707519
+Waterbury,2016,Cyclist/vehicle,21,0,0
+Waterbury,2016,Pedestrian/vehicle,91,3,3.296703296703297
+Waterbury,2016,Vehicle/vehicle,5552,9,0.16210374639769454
+Waterbury,2017,Cyclist/vehicle,14,0,0
+Waterbury,2017,Pedestrian/vehicle,119,6,5.042016806722689
+Waterbury,2017,Vehicle/vehicle,5928,10,0.16869095816464239
+Waterbury,2018,Cyclist/vehicle,10,1,10
+Waterbury,2018,Pedestrian/vehicle,119,2,1.680672268907563
+Waterbury,2018,Vehicle/vehicle,5999,6,0.10001666944490749
+Waterbury,2019,Cyclist/vehicle,19,0,0
+Waterbury,2019,Pedestrian/vehicle,132,4,3.0303030303030303
+Waterbury,2019,Vehicle/vehicle,5706,8,0.14020329477742727
+Waterbury,2020,Cyclist/vehicle,12,0,0
+Waterbury,2020,Pedestrian/vehicle,101,6,5.9405940594059405
+Waterbury,2020,Vehicle/vehicle,4724,6,0.12701100762066045
+Waterbury,2021,Cyclist/vehicle,16,0,0
+Waterbury,2021,Pedestrian/vehicle,96,1,1.0416666666666665
+Waterbury,2021,Vehicle/vehicle,5179,6,0.11585248117397182
+Waterbury,2022,Cyclist/vehicle,9,1,11.11111111111111
+Waterbury,2022,Pedestrian/vehicle,102,5,4.901960784313726
+Waterbury,2022,Vehicle/vehicle,4806,15,0.3121098626716604
+Waterbury,2023,Cyclist/vehicle,18,0,0
+Waterbury,2023,Pedestrian/vehicle,78,3,3.8461538461538463
+Waterbury,2023,Vehicle/vehicle,4630,12,0.2591792656587473
+Waterbury,2024,Cyclist/vehicle,21,1,4.761904761904762
+Waterbury,2024,Pedestrian/vehicle,114,5,4.385964912280701
+Waterbury,2024,Vehicle/vehicle,4401,10,0.22722108611679162
+Waterbury,2025,Cyclist/vehicle,15,0,0
+Waterbury,2025,Pedestrian/vehicle,86,1,1.1627906976744187
+Waterbury,2025,Vehicle/vehicle,4439,6,0.13516557783284522

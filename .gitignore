@@ -8,6 +8,8 @@ raw_data/*.csv
 # (Population is fetched live from the Census API, not stored.)
 !crash_counts_by_town.csv
 !fatalities_by_town.csv
+!crash_counts_by_town_bytype.csv
+!fatalities_by_town_bytype.csv
 !output/
 !output/*.csv
 !output/*.png

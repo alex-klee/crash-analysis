@@ -1,0 +1,4192 @@
+town,year,crash_type,total_crashes,fatal_crashes,injury_or_fatal_crashes
+Andover,2015,Pedestrian/vehicle,1,0,0
+Andover,2015,Vehicle/vehicle,67,2,21
+Andover,2016,Pedestrian/vehicle,3,0,2
+Andover,2016,Vehicle/vehicle,43,1,13
+Andover,2017,Vehicle/vehicle,49,0,14
+Andover,2018,Vehicle/vehicle,53,0,14
+Andover,2019,Vehicle/vehicle,50,0,17
+Andover,2020,Vehicle/vehicle,27,0,8
+Andover,2021,Pedestrian/vehicle,1,1,1
+Andover,2021,Vehicle/vehicle,39,2,19
+Andover,2022,Vehicle/vehicle,39,0,12
+Andover,2023,Vehicle/vehicle,36,1,16
+Andover,2024,Vehicle/vehicle,47,0,13
+Andover,2025,Vehicle/vehicle,43,0,13
+Ansonia,2015,Pedestrian/vehicle,3,1,3
+Ansonia,2015,Vehicle/vehicle,406,0,96
+Ansonia,2016,Cyclist/vehicle,2,0,1
+Ansonia,2016,Pedestrian/vehicle,7,0,6
+Ansonia,2016,Vehicle/vehicle,377,0,102
+Ansonia,2017,Pedestrian/vehicle,3,0,2
+Ansonia,2017,Vehicle/vehicle,368,0,90
+Ansonia,2018,Cyclist/vehicle,1,0,1
+Ansonia,2018,Pedestrian/vehicle,9,0,9
+Ansonia,2018,Vehicle/vehicle,394,1,99
+Ansonia,2019,Cyclist/vehicle,2,0,2
+Ansonia,2019,Pedestrian/vehicle,6,0,5
+Ansonia,2019,Vehicle/vehicle,351,0,82
+Ansonia,2020,Cyclist/vehicle,2,0,2
+Ansonia,2020,Pedestrian/vehicle,4,0,4
+Ansonia,2020,Vehicle/vehicle,264,1,74
+Ansonia,2021,Pedestrian/vehicle,3,0,3
+Ansonia,2021,Vehicle/vehicle,338,0,89
+Ansonia,2022,Cyclist/vehicle,1,0,1
+Ansonia,2022,Pedestrian/vehicle,2,0,2
+Ansonia,2022,Vehicle/vehicle,324,0,104
+Ansonia,2023,Cyclist/vehicle,1,0,1
+Ansonia,2023,Pedestrian/vehicle,8,0,8
+Ansonia,2023,Vehicle/vehicle,314,0,83
+Ansonia,2024,Pedestrian/vehicle,8,0,6
+Ansonia,2024,Vehicle/vehicle,304,0,69
+Ansonia,2025,Cyclist/vehicle,3,0,3
+Ansonia,2025,Pedestrian/vehicle,2,0,2
+Ansonia,2025,Vehicle/vehicle,346,1,92
+Ashford,2015,Vehicle/vehicle,48,1,12
+Ashford,2016,Pedestrian/vehicle,2,1,2
+Ashford,2016,Vehicle/vehicle,62,0,23
+Ashford,2017,Vehicle/vehicle,64,1,13
+Ashford,2018,Vehicle/vehicle,52,0,17
+Ashford,2019,Cyclist/vehicle,1,0,1
+Ashford,2019,Pedestrian/vehicle,1,0,1
+Ashford,2019,Vehicle/vehicle,82,0,28
+Ashford,2020,Vehicle/vehicle,47,0,13
+Ashford,2021,Vehicle/vehicle,68,2,11
+Ashford,2022,Vehicle/vehicle,50,0,12
+Ashford,2023,Vehicle/vehicle,76,0,24
+Ashford,2024,Cyclist/vehicle,1,0,1
+Ashford,2024,Vehicle/vehicle,55,0,15
+Ashford,2025,Pedestrian/vehicle,1,0,0
+Ashford,2025,Vehicle/vehicle,72,1,18
+Avon,2015,Cyclist/vehicle,1,0,1
+Avon,2015,Pedestrian/vehicle,2,0,1
+Avon,2015,Vehicle/vehicle,378,0,80
+Avon,2016,Cyclist/vehicle,1,0,0
+Avon,2016,Pedestrian/vehicle,2,0,2
+Avon,2016,Vehicle/vehicle,429,0,79
+Avon,2017,Pedestrian/vehicle,4,0,3
+Avon,2017,Vehicle/vehicle,438,1,89
+Avon,2018,Cyclist/vehicle,1,0,1
+Avon,2018,Pedestrian/vehicle,6,0,4
+Avon,2018,Vehicle/vehicle,415,0,74
+Avon,2019,Cyclist/vehicle,1,0,1
+Avon,2019,Pedestrian/vehicle,4,0,4
+Avon,2019,Vehicle/vehicle,389,1,70
+Avon,2020,Cyclist/vehicle,1,0,1
+Avon,2020,Pedestrian/vehicle,3,1,3
+Avon,2020,Vehicle/vehicle,275,1,61
+Avon,2021,Cyclist/vehicle,1,0,1
+Avon,2021,Pedestrian/vehicle,1,0,1
+Avon,2021,Vehicle/vehicle,311,0,56
+Avon,2022,Pedestrian/vehicle,2,1,2
+Avon,2022,Vehicle/vehicle,328,0,63
+Avon,2023,Vehicle/vehicle,355,0,68
+Avon,2024,Cyclist/vehicle,2,0,2
+Avon,2024,Vehicle/vehicle,339,2,64
+Avon,2025,Cyclist/vehicle,2,0,2
+Avon,2025,Vehicle/vehicle,333,0,52
+Barkhamsted,2015,Cyclist/vehicle,1,0,1
+Barkhamsted,2015,Vehicle/vehicle,86,1,20
+Barkhamsted,2016,Vehicle/vehicle,73,1,24
+Barkhamsted,2017,Vehicle/vehicle,92,0,24
+Barkhamsted,2018,Vehicle/vehicle,88,0,20
+Barkhamsted,2019,Vehicle/vehicle,72,0,20
+Barkhamsted,2020,Vehicle/vehicle,64,0,16
+Barkhamsted,2021,Vehicle/vehicle,89,1,20
+Barkhamsted,2022,Vehicle/vehicle,73,0,16
+Barkhamsted,2023,Pedestrian/vehicle,1,0,1
+Barkhamsted,2023,Vehicle/vehicle,67,1,25
+Barkhamsted,2024,Vehicle/vehicle,74,0,13
+Barkhamsted,2025,Pedestrian/vehicle,1,0,0
+Barkhamsted,2025,Vehicle/vehicle,79,0,26
+Beacon Falls,2015,Pedestrian/vehicle,1,0,1
+Beacon Falls,2015,Vehicle/vehicle,106,0,30
+Beacon Falls,2016,Vehicle/vehicle,81,0,28
+Beacon Falls,2017,Pedestrian/vehicle,1,0,1
+Beacon Falls,2017,Vehicle/vehicle,107,0,28
+Beacon Falls,2018,Cyclist/vehicle,2,0,2
+Beacon Falls,2018,Vehicle/vehicle,113,0,28
+Beacon Falls,2019,Vehicle/vehicle,112,0,25
+Beacon Falls,2020,Vehicle/vehicle,119,1,32
+Beacon Falls,2021,Vehicle/vehicle,119,2,27
+Beacon Falls,2022,Pedestrian/vehicle,1,0,1
+Beacon Falls,2022,Vehicle/vehicle,136,0,24
+Beacon Falls,2023,Pedestrian/vehicle,1,0,1
+Beacon Falls,2023,Vehicle/vehicle,134,0,32
+Beacon Falls,2024,Pedestrian/vehicle,3,0,3
+Beacon Falls,2024,Vehicle/vehicle,133,1,38
+Beacon Falls,2025,Cyclist/vehicle,1,0,1
+Beacon Falls,2025,Pedestrian/vehicle,1,0,1
+Beacon Falls,2025,Vehicle/vehicle,123,2,24
+BeaconFalls,2015,Vehicle/vehicle,16,0,6
+BeaconFalls,2016,Vehicle/vehicle,16,0,3
+BeaconFalls,2017,Vehicle/vehicle,21,0,0
+Berlin,2015,Cyclist/vehicle,1,0,1
+Berlin,2015,Pedestrian/vehicle,7,1,7
+Berlin,2015,Vehicle/vehicle,693,1,153
+Berlin,2016,Cyclist/vehicle,1,0,1
+Berlin,2016,Pedestrian/vehicle,3,0,2
+Berlin,2016,Vehicle/vehicle,734,1,184
+Berlin,2017,Cyclist/vehicle,1,0,1
+Berlin,2017,Pedestrian/vehicle,3,0,2
+Berlin,2017,Vehicle/vehicle,721,2,173
+Berlin,2018,Cyclist/vehicle,1,0,1
+Berlin,2018,Pedestrian/vehicle,4,0,1
+Berlin,2018,Vehicle/vehicle,766,0,203
+Berlin,2019,Cyclist/vehicle,1,0,1
+Berlin,2019,Pedestrian/vehicle,9,2,7
+Berlin,2019,Vehicle/vehicle,734,0,202
+Berlin,2020,Pedestrian/vehicle,1,0,1
+Berlin,2020,Vehicle/vehicle,559,0,150
+Berlin,2021,Cyclist/vehicle,5,0,5
+Berlin,2021,Pedestrian/vehicle,4,0,3
+Berlin,2021,Vehicle/vehicle,646,5,173
+Berlin,2022,Cyclist/vehicle,2,1,2
+Berlin,2022,Pedestrian/vehicle,3,0,3
+Berlin,2022,Vehicle/vehicle,651,2,172
+Berlin,2023,Cyclist/vehicle,1,0,1
+Berlin,2023,Pedestrian/vehicle,3,1,3
+Berlin,2023,Vehicle/vehicle,705,3,206
+Berlin,2024,Cyclist/vehicle,1,0,1
+Berlin,2024,Pedestrian/vehicle,5,1,5
+Berlin,2024,Vehicle/vehicle,688,3,192
+Berlin,2025,Cyclist/vehicle,1,0,1
+Berlin,2025,Pedestrian/vehicle,1,0,1
+Berlin,2025,Vehicle/vehicle,713,1,181
+Bethany,2015,Cyclist/vehicle,1,0,1
+Bethany,2015,Pedestrian/vehicle,2,1,2
+Bethany,2015,Vehicle/vehicle,101,1,33
+Bethany,2016,Vehicle/vehicle,100,0,31
+Bethany,2017,Vehicle/vehicle,101,2,43
+Bethany,2018,Pedestrian/vehicle,1,1,1
+Bethany,2018,Vehicle/vehicle,113,1,35
+Bethany,2019,Pedestrian/vehicle,1,1,1
+Bethany,2019,Vehicle/vehicle,93,0,42
+Bethany,2020,Vehicle/vehicle,71,0,18
+Bethany,2021,Pedestrian/vehicle,2,1,2
+Bethany,2021,Vehicle/vehicle,89,3,34
+Bethany,2022,Cyclist/vehicle,1,0,1
+Bethany,2022,Pedestrian/vehicle,1,0,1
+Bethany,2022,Vehicle/vehicle,106,0,26
+Bethany,2023,Pedestrian/vehicle,1,0,1
+Bethany,2023,Vehicle/vehicle,107,1,25
+Bethany,2024,Vehicle/vehicle,109,0,33
+Bethany,2025,Pedestrian/vehicle,1,0,0
+Bethany,2025,Vehicle/vehicle,99,0,31
+Bethel,2015,Cyclist/vehicle,1,0,1
+Bethel,2015,Pedestrian/vehicle,3,0,2
+Bethel,2015,Vehicle/vehicle,652,0,99
+Bethel,2016,Cyclist/vehicle,4,0,2
+Bethel,2016,Pedestrian/vehicle,5,0,4
+Bethel,2016,Vehicle/vehicle,589,1,98
+Bethel,2017,Cyclist/vehicle,2,0,1
+Bethel,2017,Pedestrian/vehicle,3,0,3
+Bethel,2017,Vehicle/vehicle,548,0,105
+Bethel,2018,Cyclist/vehicle,1,0,1
+Bethel,2018,Pedestrian/vehicle,7,1,5
+Bethel,2018,Vehicle/vehicle,476,0,100
+Bethel,2019,Cyclist/vehicle,2,0,2
+Bethel,2019,Pedestrian/vehicle,4,0,3
+Bethel,2019,Vehicle/vehicle,468,0,74
+Bethel,2020,Cyclist/vehicle,4,0,3
+Bethel,2020,Pedestrian/vehicle,5,0,4
+Bethel,2020,Vehicle/vehicle,338,1,57
+Bethel,2021,Cyclist/vehicle,1,0,1
+Bethel,2021,Pedestrian/vehicle,7,0,6
+Bethel,2021,Vehicle/vehicle,458,0,66
+Bethel,2022,Pedestrian/vehicle,7,1,6
+Bethel,2022,Vehicle/vehicle,423,0,67
+Bethel,2023,Cyclist/vehicle,2,0,1
+Bethel,2023,Pedestrian/vehicle,3,0,3
+Bethel,2023,Vehicle/vehicle,434,0,92
+Bethel,2024,Cyclist/vehicle,1,0,0
+Bethel,2024,Pedestrian/vehicle,3,0,3
+Bethel,2024,Vehicle/vehicle,406,0,77
+Bethel,2025,Pedestrian/vehicle,4,1,4
+Bethel,2025,Vehicle/vehicle,447,0,86
+Bethlehem,2015,Vehicle/vehicle,36,1,9
+Bethlehem,2016,Pedestrian/vehicle,1,0,1
+Bethlehem,2016,Vehicle/vehicle,23,0,6
+Bethlehem,2017,Cyclist/vehicle,1,0,1
+Bethlehem,2017,Vehicle/vehicle,35,0,11
+Bethlehem,2018,Vehicle/vehicle,36,0,7
+Bethlehem,2019,Vehicle/vehicle,29,2,7
+Bethlehem,2020,Vehicle/vehicle,34,0,12
+Bethlehem,2021,Vehicle/vehicle,29,0,10
+Bethlehem,2022,Vehicle/vehicle,35,0,8
+Bethlehem,2023,Vehicle/vehicle,39,0,8
+Bethlehem,2024,Vehicle/vehicle,32,0,12
+Bethlehem,2025,Cyclist/vehicle,1,0,1
+Bethlehem,2025,Vehicle/vehicle,28,0,11
+Bloomfield,2015,Vehicle/vehicle,669,3,181
+Bloomfield,2016,Cyclist/vehicle,1,0,0
+Bloomfield,2016,Pedestrian/vehicle,2,0,2
+Bloomfield,2016,Vehicle/vehicle,689,3,175
+Bloomfield,2017,Cyclist/vehicle,1,0,1
+Bloomfield,2017,Pedestrian/vehicle,12,1,12
+Bloomfield,2017,Vehicle/vehicle,696,1,190
+Bloomfield,2018,Cyclist/vehicle,1,0,1
+Bloomfield,2018,Pedestrian/vehicle,8,0,8
+Bloomfield,2018,Vehicle/vehicle,733,1,209
+Bloomfield,2019,Cyclist/vehicle,3,0,3
+Bloomfield,2019,Pedestrian/vehicle,3,0,3
+Bloomfield,2019,Vehicle/vehicle,800,2,200
+Bloomfield,2020,Cyclist/vehicle,1,0,0
+Bloomfield,2020,Pedestrian/vehicle,4,0,3
+Bloomfield,2020,Vehicle/vehicle,546,1,142
+Bloomfield,2021,Cyclist/vehicle,1,0,1
+Bloomfield,2021,Pedestrian/vehicle,7,0,7
+Bloomfield,2021,Vehicle/vehicle,638,1,166
+Bloomfield,2022,Cyclist/vehicle,2,0,1
+Bloomfield,2022,Pedestrian/vehicle,7,0,7
+Bloomfield,2022,Vehicle/vehicle,677,1,176
+Bloomfield,2023,Cyclist/vehicle,1,0,1
+Bloomfield,2023,Pedestrian/vehicle,8,1,8
+Bloomfield,2023,Vehicle/vehicle,674,2,196
+Bloomfield,2024,Cyclist/vehicle,1,0,1
+Bloomfield,2024,Pedestrian/vehicle,5,0,5
+Bloomfield,2024,Vehicle/vehicle,607,1,147
+Bloomfield,2025,Cyclist/vehicle,3,0,1
+Bloomfield,2025,Pedestrian/vehicle,7,1,6
+Bloomfield,2025,Vehicle/vehicle,639,0,155
+Bolton,2015,Vehicle/vehicle,103,1,29
+Bolton,2016,Vehicle/vehicle,116,1,32
+Bolton,2017,Vehicle/vehicle,112,0,21
+Bolton,2018,Vehicle/vehicle,111,3,29
+Bolton,2019,Vehicle/vehicle,98,0,23
+Bolton,2020,Cyclist/vehicle,1,0,1
+Bolton,2020,Pedestrian/vehicle,1,0,1
+Bolton,2020,Vehicle/vehicle,52,1,18
+Bolton,2021,Vehicle/vehicle,79,1,28
+Bolton,2022,Cyclist/vehicle,1,0,1
+Bolton,2022,Vehicle/vehicle,70,0,21
+Bolton,2023,Pedestrian/vehicle,1,0,1
+Bolton,2023,Vehicle/vehicle,69,0,20
+Bolton,2024,Vehicle/vehicle,94,1,25
+Bolton,2025,Vehicle/vehicle,94,0,23
+Bozrah,2015,Vehicle/vehicle,55,1,17
+Bozrah,2016,Pedestrian/vehicle,1,0,1
+Bozrah,2016,Vehicle/vehicle,55,0,13
+Bozrah,2017,Vehicle/vehicle,71,0,19
+Bozrah,2018,Vehicle/vehicle,50,0,10
+Bozrah,2019,Pedestrian/vehicle,1,0,1
+Bozrah,2019,Vehicle/vehicle,53,0,14
+Bozrah,2020,Cyclist/vehicle,1,0,1
+Bozrah,2020,Vehicle/vehicle,42,0,10
+Bozrah,2021,Vehicle/vehicle,49,0,18
+Bozrah,2022,Vehicle/vehicle,47,0,13
+Bozrah,2023,Cyclist/vehicle,1,0,1
+Bozrah,2023,Vehicle/vehicle,57,0,16
+Bozrah,2024,Pedestrian/vehicle,1,0,1
+Bozrah,2024,Vehicle/vehicle,55,2,10
+Bozrah,2025,Pedestrian/vehicle,1,0,1
+Bozrah,2025,Vehicle/vehicle,45,0,8
+Branford,2015,Cyclist/vehicle,3,0,2
+Branford,2015,Pedestrian/vehicle,10,0,9
+Branford,2015,Vehicle/vehicle,788,3,179
+Branford,2016,Cyclist/vehicle,3,0,2
+Branford,2016,Pedestrian/vehicle,9,0,9
+Branford,2016,Vehicle/vehicle,747,2,171
+Branford,2017,Cyclist/vehicle,4,0,3
+Branford,2017,Pedestrian/vehicle,10,0,8
+Branford,2017,Vehicle/vehicle,792,1,208
+Branford,2018,Cyclist/vehicle,2,0,1
+Branford,2018,Pedestrian/vehicle,10,0,9
+Branford,2018,Vehicle/vehicle,791,1,194
+Branford,2019,Cyclist/vehicle,5,0,3
+Branford,2019,Pedestrian/vehicle,7,0,6
+Branford,2019,Vehicle/vehicle,688,0,178
+Branford,2020,Cyclist/vehicle,2,0,2
+Branford,2020,Pedestrian/vehicle,5,0,5
+Branford,2020,Vehicle/vehicle,564,1,136
+Branford,2021,Cyclist/vehicle,4,0,4
+Branford,2021,Pedestrian/vehicle,5,0,5
+Branford,2021,Vehicle/vehicle,674,0,164
+Branford,2022,Pedestrian/vehicle,6,1,5
+Branford,2022,Vehicle/vehicle,639,2,148
+Branford,2023,Cyclist/vehicle,5,0,5
+Branford,2023,Pedestrian/vehicle,4,0,3
+Branford,2023,Vehicle/vehicle,647,0,161
+Branford,2024,Cyclist/vehicle,4,0,3
+Branford,2024,Pedestrian/vehicle,11,0,10
+Branford,2024,Vehicle/vehicle,688,3,168
+Branford,2025,Cyclist/vehicle,1,0,0
+Branford,2025,Pedestrian/vehicle,5,1,5
+Branford,2025,Vehicle/vehicle,619,1,141
+Bridgeport,2015,Cyclist/vehicle,52,0,45
+Bridgeport,2015,Pedestrian/vehicle,119,1,112
+Bridgeport,2015,Vehicle/vehicle,5364,1,1233
+Bridgeport,2016,Cyclist/vehicle,55,0,47
+Bridgeport,2016,Pedestrian/vehicle,152,6,144
+Bridgeport,2016,Vehicle/vehicle,6570,8,1679
+Bridgeport,2017,Cyclist/vehicle,54,0,43
+Bridgeport,2017,Pedestrian/vehicle,169,7,157
+Bridgeport,2017,Vehicle/vehicle,6412,3,1589
+Bridgeport,2018,Cyclist/vehicle,24,0,21
+Bridgeport,2018,Pedestrian/vehicle,154,4,146
+Bridgeport,2018,Vehicle/vehicle,6098,7,1631
+Bridgeport,2019,Cyclist/vehicle,30,0,23
+Bridgeport,2019,Pedestrian/vehicle,155,3,143
+Bridgeport,2019,Vehicle/vehicle,6139,0,1642
+Bridgeport,2020,Cyclist/vehicle,17,0,13
+Bridgeport,2020,Pedestrian/vehicle,103,3,98
+Bridgeport,2020,Vehicle/vehicle,5075,13,1359
+Bridgeport,2021,Cyclist/vehicle,23,0,20
+Bridgeport,2021,Pedestrian/vehicle,97,3,88
+Bridgeport,2021,Vehicle/vehicle,5858,4,1595
+Bridgeport,2022,Cyclist/vehicle,19,0,18
+Bridgeport,2022,Pedestrian/vehicle,135,4,125
+Bridgeport,2022,Vehicle/vehicle,5577,7,1563
+Bridgeport,2023,Cyclist/vehicle,17,0,14
+Bridgeport,2023,Pedestrian/vehicle,111,2,102
+Bridgeport,2023,Vehicle/vehicle,5329,5,1475
+Bridgeport,2024,Cyclist/vehicle,30,0,23
+Bridgeport,2024,Pedestrian/vehicle,146,5,132
+Bridgeport,2024,Vehicle/vehicle,5413,7,1471
+Bridgeport,2025,Cyclist/vehicle,36,0,22
+Bridgeport,2025,Pedestrian/vehicle,129,2,118
+Bridgeport,2025,Vehicle/vehicle,5374,7,1355
+Bridgewater,2015,Vehicle/vehicle,22,0,8
+Bridgewater,2016,Pedestrian/vehicle,1,0,1
+Bridgewater,2016,Vehicle/vehicle,24,1,10
+Bridgewater,2017,Vehicle/vehicle,26,0,9
+Bridgewater,2018,Vehicle/vehicle,25,0,4
+Bridgewater,2019,Vehicle/vehicle,33,0,11
+Bridgewater,2020,Vehicle/vehicle,19,0,6
+Bridgewater,2021,Vehicle/vehicle,35,0,15
+Bridgewater,2022,Vehicle/vehicle,29,1,9
+Bridgewater,2023,Vehicle/vehicle,42,0,16
+Bridgewater,2024,Vehicle/vehicle,33,0,6
+Bridgewater,2025,Vehicle/vehicle,35,0,5
+Bristol,2015,Cyclist/vehicle,9,0,7
+Bristol,2015,Pedestrian/vehicle,19,0,18
+Bristol,2015,Vehicle/vehicle,1793,5,427
+Bristol,2016,Cyclist/vehicle,5,1,5
+Bristol,2016,Pedestrian/vehicle,21,1,20
+Bristol,2016,Vehicle/vehicle,1813,3,436
+Bristol,2017,Cyclist/vehicle,8,0,5
+Bristol,2017,Pedestrian/vehicle,22,2,20
+Bristol,2017,Vehicle/vehicle,1888,4,400
+Bristol,2018,Cyclist/vehicle,4,0,3
+Bristol,2018,Pedestrian/vehicle,22,2,22
+Bristol,2018,Vehicle/vehicle,1704,2,380
+Bristol,2019,Cyclist/vehicle,5,0,5
+Bristol,2019,Pedestrian/vehicle,19,1,19
+Bristol,2019,Vehicle/vehicle,1602,2,342
+Bristol,2020,Cyclist/vehicle,6,0,6
+Bristol,2020,Pedestrian/vehicle,20,1,19
+Bristol,2020,Vehicle/vehicle,1298,1,316
+Bristol,2021,Cyclist/vehicle,9,0,8
+Bristol,2021,Pedestrian/vehicle,16,1,16
+Bristol,2021,Vehicle/vehicle,1408,2,356
+Bristol,2022,Cyclist/vehicle,10,0,7
+Bristol,2022,Pedestrian/vehicle,17,3,17
+Bristol,2022,Vehicle/vehicle,1424,4,366
+Bristol,2023,Cyclist/vehicle,4,0,4
+Bristol,2023,Pedestrian/vehicle,16,0,13
+Bristol,2023,Vehicle/vehicle,1390,4,341
+Bristol,2024,Cyclist/vehicle,3,0,2
+Bristol,2024,Pedestrian/vehicle,25,4,24
+Bristol,2024,Vehicle/vehicle,1409,3,312
+Bristol,2025,Cyclist/vehicle,7,0,7
+Bristol,2025,Pedestrian/vehicle,23,0,23
+Bristol,2025,Vehicle/vehicle,1327,6,297
+Brookfield,2015,Pedestrian/vehicle,3,0,3
+Brookfield,2015,Vehicle/vehicle,447,1,111
+Brookfield,2016,Pedestrian/vehicle,7,0,7
+Brookfield,2016,Vehicle/vehicle,417,1,106
+Brookfield,2017,Pedestrian/vehicle,3,1,3
+Brookfield,2017,Vehicle/vehicle,434,1,108
+Brookfield,2018,Cyclist/vehicle,1,0,1
+Brookfield,2018,Pedestrian/vehicle,5,1,4
+Brookfield,2018,Vehicle/vehicle,440,0,103
+Brookfield,2019,Cyclist/vehicle,2,0,2
+Brookfield,2019,Pedestrian/vehicle,4,1,4
+Brookfield,2019,Vehicle/vehicle,435,1,97
+Brookfield,2020,Cyclist/vehicle,1,0,1
+Brookfield,2020,Vehicle/vehicle,329,1,83
+Brookfield,2021,Pedestrian/vehicle,2,0,2
+Brookfield,2021,Vehicle/vehicle,390,0,90
+Brookfield,2022,Pedestrian/vehicle,4,0,1
+Brookfield,2022,Vehicle/vehicle,415,0,99
+Brookfield,2023,Cyclist/vehicle,1,0,1
+Brookfield,2023,Vehicle/vehicle,413,0,86
+Brookfield,2024,Vehicle/vehicle,289,1,74
+Brookfield,2025,Pedestrian/vehicle,2,0,2
+Brookfield,2025,Vehicle/vehicle,295,0,68
+Brooklyn,2015,Cyclist/vehicle,1,0,1
+Brooklyn,2015,Pedestrian/vehicle,3,1,3
+Brooklyn,2015,Vehicle/vehicle,125,2,37
+Brooklyn,2016,Cyclist/vehicle,2,0,2
+Brooklyn,2016,Pedestrian/vehicle,1,1,1
+Brooklyn,2016,Vehicle/vehicle,119,2,40
+Brooklyn,2017,Pedestrian/vehicle,1,0,1
+Brooklyn,2017,Vehicle/vehicle,126,0,36
+Brooklyn,2018,Vehicle/vehicle,125,3,37
+Brooklyn,2019,Pedestrian/vehicle,2,1,2
+Brooklyn,2019,Vehicle/vehicle,116,3,37
+Brooklyn,2020,Pedestrian/vehicle,1,0,1
+Brooklyn,2020,Vehicle/vehicle,86,0,20
+Brooklyn,2021,Vehicle/vehicle,108,1,33
+Brooklyn,2022,Pedestrian/vehicle,2,0,2
+Brooklyn,2022,Vehicle/vehicle,105,4,34
+Brooklyn,2023,Cyclist/vehicle,1,0,1
+Brooklyn,2023,Vehicle/vehicle,103,2,35
+Brooklyn,2024,Cyclist/vehicle,2,0,2
+Brooklyn,2024,Pedestrian/vehicle,1,0,1
+Brooklyn,2024,Vehicle/vehicle,127,1,37
+Brooklyn,2025,Cyclist/vehicle,1,0,0
+Brooklyn,2025,Vehicle/vehicle,117,1,27
+Burlington,2015,Cyclist/vehicle,1,0,1
+Burlington,2015,Vehicle/vehicle,116,1,28
+Burlington,2016,Cyclist/vehicle,1,0,1
+Burlington,2016,Pedestrian/vehicle,1,0,0
+Burlington,2016,Vehicle/vehicle,124,0,30
+Burlington,2017,Cyclist/vehicle,1,0,1
+Burlington,2017,Vehicle/vehicle,113,0,33
+Burlington,2018,Vehicle/vehicle,108,1,34
+Burlington,2019,Vehicle/vehicle,108,1,32
+Burlington,2020,Cyclist/vehicle,1,0,1
+Burlington,2020,Vehicle/vehicle,76,1,25
+Burlington,2021,Pedestrian/vehicle,1,0,1
+Burlington,2021,Vehicle/vehicle,108,0,36
+Burlington,2022,Vehicle/vehicle,108,1,32
+Burlington,2023,Vehicle/vehicle,115,2,46
+Burlington,2024,Vehicle/vehicle,121,2,42
+Burlington,2025,Vehicle/vehicle,117,0,26
+Canaan,2015,Vehicle/vehicle,28,1,10
+Canaan,2016,Vehicle/vehicle,31,1,7
+Canaan,2017,Pedestrian/vehicle,1,0,1
+Canaan,2017,Vehicle/vehicle,29,0,9
+Canaan,2018,Vehicle/vehicle,33,1,7
+Canaan,2019,Vehicle/vehicle,36,0,8
+Canaan,2020,Vehicle/vehicle,27,0,7
+Canaan,2021,Vehicle/vehicle,24,0,8
+Canaan,2022,Vehicle/vehicle,35,0,12
+Canaan,2023,Vehicle/vehicle,37,2,9
+Canaan,2024,Vehicle/vehicle,37,0,12
+Canaan,2025,Pedestrian/vehicle,1,0,1
+Canaan,2025,Vehicle/vehicle,33,0,9
+Canterbury,2015,Pedestrian/vehicle,1,1,1
+Canterbury,2015,Vehicle/vehicle,50,0,14
+Canterbury,2016,Pedestrian/vehicle,1,0,0
+Canterbury,2016,Vehicle/vehicle,60,0,21
+Canterbury,2017,Vehicle/vehicle,54,0,16
+Canterbury,2018,Vehicle/vehicle,68,1,22
+Canterbury,2019,Vehicle/vehicle,73,3,16
+Canterbury,2020,Vehicle/vehicle,37,1,12
+Canterbury,2021,Vehicle/vehicle,47,1,14
+Canterbury,2022,Pedestrian/vehicle,1,0,1
+Canterbury,2022,Vehicle/vehicle,49,1,19
+Canterbury,2023,Vehicle/vehicle,42,1,14
+Canterbury,2024,Vehicle/vehicle,65,1,23
+Canterbury,2025,Pedestrian/vehicle,1,0,1
+Canterbury,2025,Vehicle/vehicle,71,0,20
+Canton,2015,Cyclist/vehicle,2,0,2
+Canton,2015,Pedestrian/vehicle,3,0,3
+Canton,2015,Vehicle/vehicle,244,0,59
+Canton,2016,Cyclist/vehicle,2,0,2
+Canton,2016,Vehicle/vehicle,287,0,64
+Canton,2017,Pedestrian/vehicle,2,0,2
+Canton,2017,Vehicle/vehicle,275,4,71
+Canton,2018,Cyclist/vehicle,1,0,1
+Canton,2018,Pedestrian/vehicle,3,1,3
+Canton,2018,Vehicle/vehicle,265,0,55
+Canton,2019,Vehicle/vehicle,216,2,38
+Canton,2020,Pedestrian/vehicle,1,0,1
+Canton,2020,Vehicle/vehicle,183,0,46
+Canton,2021,Cyclist/vehicle,1,0,1
+Canton,2021,Pedestrian/vehicle,1,0,1
+Canton,2021,Vehicle/vehicle,201,1,45
+Canton,2022,Vehicle/vehicle,221,0,45
+Canton,2023,Pedestrian/vehicle,3,0,3
+Canton,2023,Vehicle/vehicle,216,0,48
+Canton,2024,Cyclist/vehicle,1,0,0
+Canton,2024,Pedestrian/vehicle,1,0,1
+Canton,2024,Vehicle/vehicle,196,0,37
+Canton,2025,Cyclist/vehicle,2,0,1
+Canton,2025,Pedestrian/vehicle,1,0,0
+Canton,2025,Vehicle/vehicle,234,0,38
+Chaplin,2015,Vehicle/vehicle,45,0,15
+Chaplin,2016,Vehicle/vehicle,46,0,24
+Chaplin,2017,Vehicle/vehicle,46,2,13
+Chaplin,2018,Vehicle/vehicle,48,1,20
+Chaplin,2019,Vehicle/vehicle,49,0,14
+Chaplin,2020,Cyclist/vehicle,1,0,0
+Chaplin,2020,Vehicle/vehicle,35,1,9
+Chaplin,2021,Pedestrian/vehicle,1,0,1
+Chaplin,2021,Vehicle/vehicle,32,0,11
+Chaplin,2022,Pedestrian/vehicle,1,0,1
+Chaplin,2022,Vehicle/vehicle,38,3,14
+Chaplin,2023,Pedestrian/vehicle,1,0,1
+Chaplin,2023,Vehicle/vehicle,34,1,13
+Chaplin,2024,Vehicle/vehicle,26,1,8
+Chaplin,2025,Pedestrian/vehicle,1,0,1
+Chaplin,2025,Vehicle/vehicle,37,1,7
+Cheshire,2015,Cyclist/vehicle,7,0,6
+Cheshire,2015,Pedestrian/vehicle,3,1,2
+Cheshire,2015,Vehicle/vehicle,715,3,167
+Cheshire,2016,Cyclist/vehicle,6,0,5
+Cheshire,2016,Pedestrian/vehicle,2,0,2
+Cheshire,2016,Vehicle/vehicle,694,0,162
+Cheshire,2017,Cyclist/vehicle,5,0,4
+Cheshire,2017,Pedestrian/vehicle,9,0,6
+Cheshire,2017,Vehicle/vehicle,725,3,164
+Cheshire,2018,Cyclist/vehicle,6,0,5
+Cheshire,2018,Pedestrian/vehicle,7,0,6
+Cheshire,2018,Vehicle/vehicle,674,1,152
+Cheshire,2019,Cyclist/vehicle,3,0,3
+Cheshire,2019,Pedestrian/vehicle,4,0,1
+Cheshire,2019,Vehicle/vehicle,668,1,157
+Cheshire,2020,Cyclist/vehicle,4,0,4
+Cheshire,2020,Pedestrian/vehicle,2,1,2
+Cheshire,2020,Vehicle/vehicle,486,2,136
+Cheshire,2021,Cyclist/vehicle,5,0,4
+Cheshire,2021,Pedestrian/vehicle,4,0,3
+Cheshire,2021,Vehicle/vehicle,641,1,129
+Cheshire,2022,Cyclist/vehicle,6,0,5
+Cheshire,2022,Pedestrian/vehicle,4,0,4
+Cheshire,2022,Vehicle/vehicle,679,4,180
+Cheshire,2023,Cyclist/vehicle,2,0,2
+Cheshire,2023,Pedestrian/vehicle,3,0,2
+Cheshire,2023,Vehicle/vehicle,679,1,148
+Cheshire,2024,Cyclist/vehicle,5,0,4
+Cheshire,2024,Pedestrian/vehicle,1,0,1
+Cheshire,2024,Vehicle/vehicle,728,2,177
+Cheshire,2025,Cyclist/vehicle,1,0,1
+Cheshire,2025,Pedestrian/vehicle,5,0,5
+Cheshire,2025,Vehicle/vehicle,691,1,148
+Chester,2015,Cyclist/vehicle,1,0,1
+Chester,2015,Pedestrian/vehicle,1,0,1
+Chester,2015,Vehicle/vehicle,66,1,20
+Chester,2016,Vehicle/vehicle,46,1,11
+Chester,2017,Vehicle/vehicle,65,0,18
+Chester,2018,Pedestrian/vehicle,2,0,2
+Chester,2018,Vehicle/vehicle,67,0,15
+Chester,2019,Vehicle/vehicle,72,1,14
+Chester,2020,Vehicle/vehicle,39,0,10
+Chester,2021,Vehicle/vehicle,60,0,21
+Chester,2022,Pedestrian/vehicle,1,0,1
+Chester,2022,Vehicle/vehicle,51,0,11
+Chester,2023,Vehicle/vehicle,50,1,10
+Chester,2024,Vehicle/vehicle,59,1,15
+Chester,2025,Pedestrian/vehicle,1,0,1
+Chester,2025,Vehicle/vehicle,66,0,16
+Clinton,2015,Cyclist/vehicle,1,0,1
+Clinton,2015,Vehicle/vehicle,253,0,43
+Clinton,2016,Vehicle/vehicle,135,1,32
+Clinton,2017,Cyclist/vehicle,1,0,0
+Clinton,2017,Pedestrian/vehicle,1,1,1
+Clinton,2017,Vehicle/vehicle,102,1,20
+Clinton,2018,Pedestrian/vehicle,4,0,4
+Clinton,2018,Vehicle/vehicle,205,0,37
+Clinton,2019,Pedestrian/vehicle,6,0,3
+Clinton,2019,Vehicle/vehicle,244,0,53
+Clinton,2020,Cyclist/vehicle,1,0,0
+Clinton,2020,Pedestrian/vehicle,1,0,1
+Clinton,2020,Vehicle/vehicle,210,3,42
+Clinton,2021,Cyclist/vehicle,1,0,1
+Clinton,2021,Pedestrian/vehicle,3,0,2
+Clinton,2021,Vehicle/vehicle,210,1,52
+Clinton,2022,Cyclist/vehicle,1,0,1
+Clinton,2022,Pedestrian/vehicle,4,0,3
+Clinton,2022,Vehicle/vehicle,218,0,49
+Clinton,2023,Cyclist/vehicle,3,0,1
+Clinton,2023,Pedestrian/vehicle,2,0,2
+Clinton,2023,Vehicle/vehicle,219,0,39
+Clinton,2024,Cyclist/vehicle,1,0,0
+Clinton,2024,Pedestrian/vehicle,1,0,1
+Clinton,2024,Vehicle/vehicle,204,0,36
+Clinton,2025,Cyclist/vehicle,1,0,1
+Clinton,2025,Pedestrian/vehicle,1,0,1
+Clinton,2025,Vehicle/vehicle,215,0,52
+Colchester,2015,Cyclist/vehicle,1,0,1
+Colchester,2015,Pedestrian/vehicle,3,0,2
+Colchester,2015,Vehicle/vehicle,287,0,64
+Colchester,2016,Pedestrian/vehicle,1,0,1
+Colchester,2016,Vehicle/vehicle,256,1,56
+Colchester,2017,Pedestrian/vehicle,3,0,2
+Colchester,2017,Vehicle/vehicle,274,2,63
+Colchester,2018,Vehicle/vehicle,286,3,59
+Colchester,2019,Cyclist/vehicle,1,0,1
+Colchester,2019,Pedestrian/vehicle,1,0,1
+Colchester,2019,Vehicle/vehicle,255,5,64
+Colchester,2020,Cyclist/vehicle,3,0,3
+Colchester,2020,Pedestrian/vehicle,1,0,1
+Colchester,2020,Vehicle/vehicle,199,1,44
+Colchester,2021,Cyclist/vehicle,2,0,1
+Colchester,2021,Vehicle/vehicle,182,2,46
+Colchester,2022,Pedestrian/vehicle,1,0,1
+Colchester,2022,Vehicle/vehicle,189,4,56
+Colchester,2023,Cyclist/vehicle,1,0,1
+Colchester,2023,Vehicle/vehicle,208,1,46
+Colchester,2024,Pedestrian/vehicle,2,0,2
+Colchester,2024,Vehicle/vehicle,226,1,51
+Colchester,2025,Cyclist/vehicle,2,0,2
+Colchester,2025,Pedestrian/vehicle,3,1,2
+Colchester,2025,Vehicle/vehicle,247,1,54
+Colebrook,2015,Vehicle/vehicle,23,0,4
+Colebrook,2016,Vehicle/vehicle,29,0,6
+Colebrook,2017,Vehicle/vehicle,21,0,8
+Colebrook,2018,Vehicle/vehicle,26,0,6
+Colebrook,2019,Vehicle/vehicle,20,0,10
+Colebrook,2020,Vehicle/vehicle,21,0,6
+Colebrook,2021,Vehicle/vehicle,29,0,12
+Colebrook,2022,Vehicle/vehicle,27,0,7
+Colebrook,2023,Vehicle/vehicle,22,0,5
+Colebrook,2024,Vehicle/vehicle,29,0,4
+Colebrook,2025,Vehicle/vehicle,29,0,8
+Columbia,2015,Vehicle/vehicle,77,1,19
+Columbia,2016,Pedestrian/vehicle,3,0,3
+Columbia,2016,Vehicle/vehicle,74,1,22
+Columbia,2017,Cyclist/vehicle,1,0,1
+Columbia,2017,Vehicle/vehicle,84,1,30
+Columbia,2018,Pedestrian/vehicle,2,0,2
+Columbia,2018,Vehicle/vehicle,106,0,29
+Columbia,2019,Pedestrian/vehicle,1,0,0
+Columbia,2019,Vehicle/vehicle,79,1,28
+Columbia,2020,Pedestrian/vehicle,1,0,1
+Columbia,2020,Vehicle/vehicle,60,2,23
+Columbia,2021,Pedestrian/vehicle,1,0,0
+Columbia,2021,Vehicle/vehicle,60,0,19
+Columbia,2022,Vehicle/vehicle,67,0,21
+Columbia,2023,Pedestrian/vehicle,1,0,1
+Columbia,2023,Vehicle/vehicle,65,0,20
+Columbia,2024,Vehicle/vehicle,87,0,23
+Columbia,2025,Vehicle/vehicle,100,1,28
+Cornwall,2015,Vehicle/vehicle,34,0,9
+Cornwall,2016,Vehicle/vehicle,32,0,8
+Cornwall,2017,Vehicle/vehicle,25,0,10
+Cornwall,2018,Vehicle/vehicle,35,1,12
+Cornwall,2019,Vehicle/vehicle,40,0,12
+Cornwall,2020,Vehicle/vehicle,22,0,5
+Cornwall,2021,Vehicle/vehicle,22,0,4
+Cornwall,2022,Vehicle/vehicle,35,0,11
+Cornwall,2023,Cyclist/vehicle,1,0,1
+Cornwall,2023,Vehicle/vehicle,26,0,8
+Cornwall,2024,Vehicle/vehicle,30,0,8
+Cornwall,2025,Vehicle/vehicle,36,0,13
+Coventry,2015,Pedestrian/vehicle,1,0,1
+Coventry,2015,Vehicle/vehicle,207,2,45
+Coventry,2016,Cyclist/vehicle,3,0,2
+Coventry,2016,Pedestrian/vehicle,2,0,2
+Coventry,2016,Vehicle/vehicle,244,1,62
+Coventry,2017,Cyclist/vehicle,1,0,1
+Coventry,2017,Vehicle/vehicle,234,1,50
+Coventry,2018,Pedestrian/vehicle,2,0,2
+Coventry,2018,Vehicle/vehicle,209,1,40
+Coventry,2019,Cyclist/vehicle,1,0,1
+Coventry,2019,Pedestrian/vehicle,1,0,1
+Coventry,2019,Vehicle/vehicle,247,0,60
+Coventry,2020,Cyclist/vehicle,1,0,1
+Coventry,2020,Vehicle/vehicle,170,2,46
+Coventry,2021,Pedestrian/vehicle,1,0,1
+Coventry,2021,Vehicle/vehicle,172,2,41
+Coventry,2022,Cyclist/vehicle,2,0,2
+Coventry,2022,Pedestrian/vehicle,1,0,1
+Coventry,2022,Vehicle/vehicle,187,0,42
+Coventry,2023,Vehicle/vehicle,192,0,50
+Coventry,2024,Cyclist/vehicle,1,0,0
+Coventry,2024,Vehicle/vehicle,189,0,48
+Coventry,2025,Pedestrian/vehicle,1,0,1
+Coventry,2025,Vehicle/vehicle,221,1,48
+Cromwell,2015,Cyclist/vehicle,1,0,1
+Cromwell,2015,Pedestrian/vehicle,10,1,9
+Cromwell,2015,Vehicle/vehicle,576,1,130
+Cromwell,2016,Pedestrian/vehicle,4,0,4
+Cromwell,2016,Vehicle/vehicle,654,0,127
+Cromwell,2017,Cyclist/vehicle,4,0,4
+Cromwell,2017,Pedestrian/vehicle,9,0,9
+Cromwell,2017,Vehicle/vehicle,609,2,152
+Cromwell,2018,Cyclist/vehicle,2,0,2
+Cromwell,2018,Pedestrian/vehicle,5,0,4
+Cromwell,2018,Vehicle/vehicle,530,2,108
+Cromwell,2019,Cyclist/vehicle,1,0,1
+Cromwell,2019,Pedestrian/vehicle,1,0,1
+Cromwell,2019,Vehicle/vehicle,532,1,127
+Cromwell,2020,Cyclist/vehicle,1,0,0
+Cromwell,2020,Pedestrian/vehicle,5,0,5
+Cromwell,2020,Vehicle/vehicle,403,2,92
+Cromwell,2021,Cyclist/vehicle,1,0,1
+Cromwell,2021,Pedestrian/vehicle,5,0,5
+Cromwell,2021,Vehicle/vehicle,521,1,116
+Cromwell,2022,Pedestrian/vehicle,5,1,5
+Cromwell,2022,Vehicle/vehicle,558,2,127
+Cromwell,2023,Pedestrian/vehicle,5,0,5
+Cromwell,2023,Vehicle/vehicle,514,3,118
+Cromwell,2024,Cyclist/vehicle,2,0,1
+Cromwell,2024,Pedestrian/vehicle,5,1,4
+Cromwell,2024,Vehicle/vehicle,520,0,114
+Cromwell,2025,Cyclist/vehicle,3,0,2
+Cromwell,2025,Pedestrian/vehicle,3,0,2
+Cromwell,2025,Vehicle/vehicle,497,0,102
+Danbury,2015,Cyclist/vehicle,5,0,4
+Danbury,2015,Pedestrian/vehicle,50,2,45
+Danbury,2015,Vehicle/vehicle,3585,4,724
+Danbury,2016,Cyclist/vehicle,7,1,4
+Danbury,2016,Pedestrian/vehicle,45,2,42
+Danbury,2016,Vehicle/vehicle,3724,4,713
+Danbury,2017,Cyclist/vehicle,7,0,7
+Danbury,2017,Pedestrian/vehicle,36,0,29
+Danbury,2017,Vehicle/vehicle,3651,5,716
+Danbury,2018,Cyclist/vehicle,5,0,5
+Danbury,2018,Pedestrian/vehicle,41,5,36
+Danbury,2018,Vehicle/vehicle,3530,3,700
+Danbury,2019,Cyclist/vehicle,10,0,7
+Danbury,2019,Pedestrian/vehicle,50,2,45
+Danbury,2019,Vehicle/vehicle,3553,0,673
+Danbury,2020,Cyclist/vehicle,3,0,2
+Danbury,2020,Pedestrian/vehicle,33,0,30
+Danbury,2020,Vehicle/vehicle,2617,1,477
+Danbury,2021,Cyclist/vehicle,5,0,4
+Danbury,2021,Pedestrian/vehicle,33,0,32
+Danbury,2021,Vehicle/vehicle,3341,2,590
+Danbury,2022,Cyclist/vehicle,8,0,8
+Danbury,2022,Pedestrian/vehicle,44,4,42
+Danbury,2022,Vehicle/vehicle,3403,6,632
+Danbury,2023,Cyclist/vehicle,10,0,7
+Danbury,2023,Pedestrian/vehicle,33,0,32
+Danbury,2023,Vehicle/vehicle,3463,2,687
+Danbury,2024,Cyclist/vehicle,10,0,6
+Danbury,2024,Pedestrian/vehicle,51,2,47
+Danbury,2024,Vehicle/vehicle,3545,3,675
+Danbury,2025,Cyclist/vehicle,7,0,4
+Danbury,2025,Pedestrian/vehicle,41,2,41
+Danbury,2025,Vehicle/vehicle,3251,0,602
+Darien,2015,Cyclist/vehicle,2,0,2
+Darien,2015,Pedestrian/vehicle,7,0,7
+Darien,2015,Vehicle/vehicle,801,0,168
+Darien,2016,Cyclist/vehicle,4,0,3
+Darien,2016,Pedestrian/vehicle,10,0,9
+Darien,2016,Vehicle/vehicle,739,1,162
+Darien,2017,Cyclist/vehicle,8,0,5
+Darien,2017,Pedestrian/vehicle,8,0,8
+Darien,2017,Vehicle/vehicle,741,0,155
+Darien,2018,Cyclist/vehicle,3,0,3
+Darien,2018,Pedestrian/vehicle,7,0,6
+Darien,2018,Vehicle/vehicle,746,0,151
+Darien,2019,Cyclist/vehicle,6,0,6
+Darien,2019,Pedestrian/vehicle,14,0,13
+Darien,2019,Vehicle/vehicle,711,1,141
+Darien,2020,Cyclist/vehicle,5,0,2
+Darien,2020,Pedestrian/vehicle,4,0,3
+Darien,2020,Vehicle/vehicle,494,0,114
+Darien,2021,Cyclist/vehicle,9,0,9
+Darien,2021,Pedestrian/vehicle,8,0,8
+Darien,2021,Vehicle/vehicle,662,1,143
+Darien,2022,Cyclist/vehicle,5,0,4
+Darien,2022,Pedestrian/vehicle,7,0,5
+Darien,2022,Vehicle/vehicle,714,0,134
+Darien,2023,Cyclist/vehicle,2,0,2
+Darien,2023,Pedestrian/vehicle,2,0,2
+Darien,2023,Vehicle/vehicle,496,1,116
+Darien,2024,Cyclist/vehicle,3,0,2
+Darien,2024,Pedestrian/vehicle,13,0,12
+Darien,2024,Vehicle/vehicle,608,1,127
+Darien,2025,Cyclist/vehicle,6,0,5
+Darien,2025,Pedestrian/vehicle,9,0,8
+Darien,2025,Vehicle/vehicle,692,0,133
+Deep River,2015,Vehicle/vehicle,62,1,13
+Deep River,2016,Cyclist/vehicle,2,0,1
+Deep River,2016,Pedestrian/vehicle,1,0,1
+Deep River,2016,Vehicle/vehicle,59,2,14
+Deep River,2017,Vehicle/vehicle,61,1,16
+Deep River,2018,Vehicle/vehicle,50,0,14
+Deep River,2019,Cyclist/vehicle,1,0,1
+Deep River,2019,Vehicle/vehicle,82,0,17
+Deep River,2020,Vehicle/vehicle,54,0,14
+Deep River,2021,Vehicle/vehicle,60,0,19
+Deep River,2022,Pedestrian/vehicle,1,0,0
+Deep River,2022,Vehicle/vehicle,60,0,21
+Deep River,2023,Cyclist/vehicle,1,0,1
+Deep River,2023,Pedestrian/vehicle,1,0,1
+Deep River,2023,Vehicle/vehicle,67,0,24
+Deep River,2024,Vehicle/vehicle,58,0,15
+Deep River,2025,Cyclist/vehicle,1,0,1
+Deep River,2025,Pedestrian/vehicle,1,0,1
+Deep River,2025,Vehicle/vehicle,78,0,11
+DeepRiver,2015,Vehicle/vehicle,11,0,4
+DeepRiver,2016,Vehicle/vehicle,7,0,1
+DeepRiver,2017,Cyclist/vehicle,1,0,1
+DeepRiver,2017,Vehicle/vehicle,8,0,0
+Derby,2015,Cyclist/vehicle,1,0,1
+Derby,2015,Pedestrian/vehicle,11,0,8
+Derby,2015,Vehicle/vehicle,577,1,112
+Derby,2016,Cyclist/vehicle,2,0,0
+Derby,2016,Pedestrian/vehicle,10,1,9
+Derby,2016,Vehicle/vehicle,560,0,111
+Derby,2017,Pedestrian/vehicle,7,0,5
+Derby,2017,Vehicle/vehicle,548,1,120
+Derby,2018,Pedestrian/vehicle,3,0,2
+Derby,2018,Vehicle/vehicle,412,1,82
+Derby,2019,Cyclist/vehicle,1,0,1
+Derby,2019,Pedestrian/vehicle,3,1,3
+Derby,2019,Vehicle/vehicle,463,0,82
+Derby,2020,Cyclist/vehicle,2,0,2
+Derby,2020,Pedestrian/vehicle,3,0,3
+Derby,2020,Vehicle/vehicle,447,1,83
+Derby,2021,Cyclist/vehicle,1,0,1
+Derby,2021,Pedestrian/vehicle,3,0,3
+Derby,2021,Vehicle/vehicle,488,1,99
+Derby,2022,Pedestrian/vehicle,11,1,11
+Derby,2022,Vehicle/vehicle,581,1,119
+Derby,2023,Cyclist/vehicle,1,0,1
+Derby,2023,Pedestrian/vehicle,6,0,6
+Derby,2023,Vehicle/vehicle,588,2,131
+Derby,2024,Pedestrian/vehicle,7,0,6
+Derby,2024,Vehicle/vehicle,562,1,97
+Derby,2025,Cyclist/vehicle,1,0,0
+Derby,2025,Pedestrian/vehicle,1,0,1
+Derby,2025,Vehicle/vehicle,438,0,93
+Durham,2015,Vehicle/vehicle,122,1,21
+Durham,2016,Cyclist/vehicle,1,0,1
+Durham,2016,Pedestrian/vehicle,1,0,1
+Durham,2016,Vehicle/vehicle,120,2,26
+Durham,2017,Cyclist/vehicle,2,0,2
+Durham,2017,Pedestrian/vehicle,1,0,1
+Durham,2017,Vehicle/vehicle,116,0,35
+Durham,2018,Vehicle/vehicle,110,0,28
+Durham,2019,Vehicle/vehicle,121,1,30
+Durham,2020,Pedestrian/vehicle,1,0,1
+Durham,2020,Vehicle/vehicle,109,1,29
+Durham,2021,Vehicle/vehicle,87,1,20
+Durham,2022,Pedestrian/vehicle,2,0,2
+Durham,2022,Vehicle/vehicle,122,0,42
+Durham,2023,Pedestrian/vehicle,1,0,1
+Durham,2023,Vehicle/vehicle,132,1,32
+Durham,2024,Pedestrian/vehicle,1,0,1
+Durham,2024,Vehicle/vehicle,138,1,38
+Durham,2025,Vehicle/vehicle,132,2,31
+East Granby,2015,Pedestrian/vehicle,1,0,1
+East Granby,2015,Vehicle/vehicle,99,0,18
+East Granby,2016,Vehicle/vehicle,111,1,31
+East Granby,2017,Cyclist/vehicle,1,0,1
+East Granby,2017,Pedestrian/vehicle,1,0,1
+East Granby,2017,Vehicle/vehicle,104,2,30
+East Granby,2018,Vehicle/vehicle,122,0,33
+East Granby,2019,Cyclist/vehicle,1,0,1
+East Granby,2019,Pedestrian/vehicle,2,0,2
+East Granby,2019,Vehicle/vehicle,122,2,33
+East Granby,2020,Cyclist/vehicle,1,0,1
+East Granby,2020,Vehicle/vehicle,74,0,26
+East Granby,2021,Vehicle/vehicle,113,0,33
+East Granby,2022,Pedestrian/vehicle,2,0,2
+East Granby,2022,Vehicle/vehicle,116,0,21
+East Granby,2023,Vehicle/vehicle,126,1,38
+East Granby,2024,Cyclist/vehicle,1,0,1
+East Granby,2024,Vehicle/vehicle,132,0,28
+East Granby,2025,Pedestrian/vehicle,1,0,1
+East Granby,2025,Vehicle/vehicle,120,1,24
+East Haddam,2015,Cyclist/vehicle,1,0,1
+East Haddam,2015,Vehicle/vehicle,65,2,20
+East Haddam,2016,Cyclist/vehicle,1,0,1
+East Haddam,2016,Vehicle/vehicle,89,3,41
+East Haddam,2017,Vehicle/vehicle,87,1,29
+East Haddam,2018,Vehicle/vehicle,107,0,29
+East Haddam,2019,Vehicle/vehicle,86,0,23
+East Haddam,2020,Vehicle/vehicle,90,0,26
+East Haddam,2021,Vehicle/vehicle,63,1,19
+East Haddam,2022,Vehicle/vehicle,70,0,21
+East Haddam,2023,Cyclist/vehicle,1,0,1
+East Haddam,2023,Vehicle/vehicle,62,0,14
+East Haddam,2024,Vehicle/vehicle,52,1,18
+East Haddam,2025,Cyclist/vehicle,1,0,1
+East Haddam,2025,Vehicle/vehicle,99,3,26
+East Hampton,2015,Pedestrian/vehicle,1,0,0
+East Hampton,2015,Vehicle/vehicle,126,1,37
+East Hampton,2016,Cyclist/vehicle,2,0,2
+East Hampton,2016,Pedestrian/vehicle,1,0,1
+East Hampton,2016,Vehicle/vehicle,141,0,36
+East Hampton,2017,Pedestrian/vehicle,1,0,1
+East Hampton,2017,Vehicle/vehicle,156,0,40
+East Hampton,2018,Cyclist/vehicle,1,0,0
+East Hampton,2018,Pedestrian/vehicle,3,0,3
+East Hampton,2018,Vehicle/vehicle,155,3,43
+East Hampton,2019,Pedestrian/vehicle,1,0,1
+East Hampton,2019,Vehicle/vehicle,135,0,35
+East Hampton,2020,Vehicle/vehicle,114,0,27
+East Hampton,2021,Vehicle/vehicle,133,1,49
+East Hampton,2022,Pedestrian/vehicle,1,0,1
+East Hampton,2022,Vehicle/vehicle,132,0,34
+East Hampton,2023,Pedestrian/vehicle,1,0,1
+East Hampton,2023,Vehicle/vehicle,148,0,41
+East Hampton,2024,Pedestrian/vehicle,3,0,1
+East Hampton,2024,Vehicle/vehicle,120,1,29
+East Hampton,2025,Cyclist/vehicle,2,0,1
+East Hampton,2025,Vehicle/vehicle,98,0,28
+East Hartford,2015,Cyclist/vehicle,11,0,9
+East Hartford,2015,Pedestrian/vehicle,11,2,10
+East Hartford,2015,Vehicle/vehicle,1469,5,338
+East Hartford,2016,Cyclist/vehicle,13,0,9
+East Hartford,2016,Pedestrian/vehicle,25,2,24
+East Hartford,2016,Vehicle/vehicle,1557,2,361
+East Hartford,2017,Cyclist/vehicle,9,0,7
+East Hartford,2017,Pedestrian/vehicle,24,2,22
+East Hartford,2017,Vehicle/vehicle,1503,1,388
+East Hartford,2018,Cyclist/vehicle,2,0,1
+East Hartford,2018,Pedestrian/vehicle,14,0,10
+East Hartford,2018,Vehicle/vehicle,1711,3,426
+East Hartford,2019,Cyclist/vehicle,6,0,4
+East Hartford,2019,Pedestrian/vehicle,18,0,16
+East Hartford,2019,Vehicle/vehicle,1751,3,418
+East Hartford,2020,Cyclist/vehicle,1,0,1
+East Hartford,2020,Pedestrian/vehicle,15,1,13
+East Hartford,2020,Vehicle/vehicle,1221,2,333
+East Hartford,2021,Cyclist/vehicle,2,0,2
+East Hartford,2021,Pedestrian/vehicle,21,4,20
+East Hartford,2021,Vehicle/vehicle,1745,8,453
+East Hartford,2022,Cyclist/vehicle,1,0,1
+East Hartford,2022,Pedestrian/vehicle,22,1,19
+East Hartford,2022,Vehicle/vehicle,1704,6,413
+East Hartford,2023,Cyclist/vehicle,5,0,3
+East Hartford,2023,Pedestrian/vehicle,19,1,17
+East Hartford,2023,Vehicle/vehicle,1615,2,416
+East Hartford,2024,Cyclist/vehicle,8,0,6
+East Hartford,2024,Pedestrian/vehicle,16,2,13
+East Hartford,2024,Vehicle/vehicle,1667,0,383
+East Hartford,2025,Cyclist/vehicle,5,0,5
+East Hartford,2025,Pedestrian/vehicle,21,4,18
+East Hartford,2025,Vehicle/vehicle,1559,1,354
+East Haven,2015,Pedestrian/vehicle,11,3,10
+East Haven,2015,Vehicle/vehicle,534,0,109
+East Haven,2016,Cyclist/vehicle,3,1,2
+East Haven,2016,Pedestrian/vehicle,5,1,5
+East Haven,2016,Vehicle/vehicle,499,4,130
+East Haven,2017,Pedestrian/vehicle,13,1,13
+East Haven,2017,Vehicle/vehicle,535,1,162
+East Haven,2018,Cyclist/vehicle,1,0,1
+East Haven,2018,Pedestrian/vehicle,7,1,4
+East Haven,2018,Vehicle/vehicle,633,0,158
+East Haven,2019,Cyclist/vehicle,7,0,5
+East Haven,2019,Pedestrian/vehicle,8,1,7
+East Haven,2019,Vehicle/vehicle,651,0,165
+East Haven,2020,Cyclist/vehicle,2,0,2
+East Haven,2020,Pedestrian/vehicle,4,1,4
+East Haven,2020,Vehicle/vehicle,519,2,136
+East Haven,2021,Cyclist/vehicle,2,0,2
+East Haven,2021,Pedestrian/vehicle,8,0,5
+East Haven,2021,Vehicle/vehicle,580,1,134
+East Haven,2022,Cyclist/vehicle,4,0,3
+East Haven,2022,Pedestrian/vehicle,6,1,4
+East Haven,2022,Vehicle/vehicle,607,1,147
+East Haven,2023,Cyclist/vehicle,4,1,4
+East Haven,2023,Pedestrian/vehicle,9,0,8
+East Haven,2023,Vehicle/vehicle,595,1,168
+East Haven,2024,Cyclist/vehicle,4,0,3
+East Haven,2024,Pedestrian/vehicle,8,1,7
+East Haven,2024,Vehicle/vehicle,568,1,146
+East Haven,2025,Cyclist/vehicle,3,0,2
+East Haven,2025,Pedestrian/vehicle,5,0,4
+East Haven,2025,Vehicle/vehicle,588,1,161
+East Lyme,2015,Cyclist/vehicle,3,0,2
+East Lyme,2015,Pedestrian/vehicle,1,0,1
+East Lyme,2015,Vehicle/vehicle,368,3,65
+East Lyme,2016,Pedestrian/vehicle,1,0,1
+East Lyme,2016,Vehicle/vehicle,419,1,71
+East Lyme,2017,Pedestrian/vehicle,1,0,0
+East Lyme,2017,Vehicle/vehicle,335,0,70
+East Lyme,2018,Cyclist/vehicle,5,0,5
+East Lyme,2018,Vehicle/vehicle,311,1,61
+East Lyme,2019,Cyclist/vehicle,1,0,0
+East Lyme,2019,Pedestrian/vehicle,4,0,4
+East Lyme,2019,Vehicle/vehicle,359,1,74
+East Lyme,2020,Cyclist/vehicle,1,0,1
+East Lyme,2020,Pedestrian/vehicle,2,0,2
+East Lyme,2020,Vehicle/vehicle,285,1,76
+East Lyme,2021,Pedestrian/vehicle,3,0,3
+East Lyme,2021,Vehicle/vehicle,285,1,61
+East Lyme,2022,Cyclist/vehicle,2,0,2
+East Lyme,2022,Pedestrian/vehicle,2,0,2
+East Lyme,2022,Vehicle/vehicle,386,1,94
+East Lyme,2023,Cyclist/vehicle,1,0,1
+East Lyme,2023,Pedestrian/vehicle,3,0,3
+East Lyme,2023,Vehicle/vehicle,426,0,78
+East Lyme,2024,Cyclist/vehicle,3,0,1
+East Lyme,2024,Pedestrian/vehicle,6,0,5
+East Lyme,2024,Vehicle/vehicle,484,1,88
+East Lyme,2025,Cyclist/vehicle,3,0,1
+East Lyme,2025,Pedestrian/vehicle,3,0,3
+East Lyme,2025,Vehicle/vehicle,426,0,65
+East Windsor,2015,Cyclist/vehicle,1,0,1
+East Windsor,2015,Pedestrian/vehicle,1,0,1
+East Windsor,2015,Vehicle/vehicle,252,1,68
+East Windsor,2016,Pedestrian/vehicle,3,0,2
+East Windsor,2016,Vehicle/vehicle,232,0,57
+East Windsor,2017,Vehicle/vehicle,319,1,100
+East Windsor,2018,Pedestrian/vehicle,2,0,2
+East Windsor,2018,Vehicle/vehicle,339,0,81
+East Windsor,2019,Cyclist/vehicle,2,0,2
+East Windsor,2019,Pedestrian/vehicle,1,0,1
+East Windsor,2019,Vehicle/vehicle,389,1,114
+East Windsor,2020,Pedestrian/vehicle,3,1,3
+East Windsor,2020,Vehicle/vehicle,303,2,85
+East Windsor,2021,Cyclist/vehicle,1,0,1
+East Windsor,2021,Pedestrian/vehicle,3,0,3
+East Windsor,2021,Vehicle/vehicle,368,1,91
+East Windsor,2022,Pedestrian/vehicle,1,1,1
+East Windsor,2022,Vehicle/vehicle,368,1,105
+East Windsor,2023,Cyclist/vehicle,1,0,0
+East Windsor,2023,Pedestrian/vehicle,1,0,1
+East Windsor,2023,Vehicle/vehicle,315,1,87
+East Windsor,2024,Pedestrian/vehicle,3,0,3
+East Windsor,2024,Vehicle/vehicle,384,1,94
+East Windsor,2025,Cyclist/vehicle,1,1,1
+East Windsor,2025,Pedestrian/vehicle,2,0,2
+East Windsor,2025,Vehicle/vehicle,372,1,82
+EastGranby,2015,Cyclist/vehicle,1,0,1
+EastGranby,2015,Vehicle/vehicle,19,0,3
+EastGranby,2016,Vehicle/vehicle,15,0,2
+EastGranby,2017,Vehicle/vehicle,25,0,1
+EastHaddam,2015,Vehicle/vehicle,20,0,9
+EastHaddam,2016,Vehicle/vehicle,27,0,4
+EastHaddam,2017,Vehicle/vehicle,17,0,4
+EastHampton,2015,Cyclist/vehicle,1,0,1
+EastHampton,2015,Vehicle/vehicle,39,0,9
+EastHampton,2016,Pedestrian/vehicle,1,0,0
+EastHampton,2016,Vehicle/vehicle,31,0,3
+EastHampton,2017,Vehicle/vehicle,14,0,1
+EastHartford,2015,Cyclist/vehicle,2,0,1
+EastHartford,2015,Pedestrian/vehicle,5,0,4
+EastHartford,2015,Vehicle/vehicle,326,0,62
+EastHartford,2016,Cyclist/vehicle,1,0,1
+EastHartford,2016,Pedestrian/vehicle,2,0,2
+EastHartford,2016,Vehicle/vehicle,268,0,43
+EastHartford,2017,Cyclist/vehicle,1,0,1
+EastHartford,2017,Pedestrian/vehicle,1,0,1
+EastHartford,2017,Vehicle/vehicle,258,0,30
+EastHartford,2018,Vehicle/vehicle,1,0,0
+EastHartford,2019,Vehicle/vehicle,2,0,1
+EastHaven,2015,Pedestrian/vehicle,5,0,3
+EastHaven,2015,Vehicle/vehicle,135,0,37
+EastHaven,2016,Vehicle/vehicle,79,0,16
+EastHaven,2017,Vehicle/vehicle,99,0,10
+EastLyme,2015,Cyclist/vehicle,3,0,3
+EastLyme,2015,Pedestrian/vehicle,2,0,2
+EastLyme,2015,Vehicle/vehicle,70,0,9
+EastLyme,2016,Vehicle/vehicle,75,0,10
+EastLyme,2017,Vehicle/vehicle,59,0,7
+EastWindsor,2015,Vehicle/vehicle,37,0,13
+EastWindsor,2016,Vehicle/vehicle,29,0,6
+EastWindsor,2017,Vehicle/vehicle,29,0,2
+EastWindsor,2019,Pedestrian/vehicle,1,0,1
+Eastford,2015,Vehicle/vehicle,27,1,7
+Eastford,2016,Vehicle/vehicle,27,2,9
+Eastford,2017,Pedestrian/vehicle,1,0,1
+Eastford,2017,Vehicle/vehicle,22,0,7
+Eastford,2018,Vehicle/vehicle,26,0,8
+Eastford,2019,Cyclist/vehicle,1,0,1
+Eastford,2019,Vehicle/vehicle,29,1,14
+Eastford,2020,Vehicle/vehicle,14,0,4
+Eastford,2021,Vehicle/vehicle,12,0,5
+Eastford,2022,Vehicle/vehicle,20,0,7
+Eastford,2023,Vehicle/vehicle,14,0,2
+Eastford,2024,Vehicle/vehicle,30,0,5
+Eastford,2025,Vehicle/vehicle,27,0,6
+Easton,2015,Vehicle/vehicle,123,0,34
+Easton,2016,Pedestrian/vehicle,3,0,3
+Easton,2016,Vehicle/vehicle,158,1,42
+Easton,2017,Pedestrian/vehicle,1,0,1
+Easton,2017,Vehicle/vehicle,177,0,38
+Easton,2018,Cyclist/vehicle,3,0,3
+Easton,2018,Vehicle/vehicle,142,0,36
+Easton,2019,Vehicle/vehicle,153,1,50
+Easton,2020,Vehicle/vehicle,114,1,31
+Easton,2021,Vehicle/vehicle,117,0,19
+Easton,2022,Cyclist/vehicle,1,0,1
+Easton,2022,Pedestrian/vehicle,1,0,1
+Easton,2022,Vehicle/vehicle,146,0,26
+Easton,2023,Vehicle/vehicle,117,2,31
+Easton,2024,Pedestrian/vehicle,1,0,1
+Easton,2024,Vehicle/vehicle,120,1,28
+Easton,2025,Vehicle/vehicle,131,0,36
+Ellington,2015,Cyclist/vehicle,3,0,3
+Ellington,2015,Pedestrian/vehicle,2,0,2
+Ellington,2015,Vehicle/vehicle,189,1,55
+Ellington,2016,Vehicle/vehicle,234,0,72
+Ellington,2017,Vehicle/vehicle,233,0,63
+Ellington,2018,Vehicle/vehicle,194,1,48
+Ellington,2019,Pedestrian/vehicle,2,0,2
+Ellington,2019,Vehicle/vehicle,168,1,40
+Ellington,2020,Cyclist/vehicle,1,0,0
+Ellington,2020,Vehicle/vehicle,159,0,51
+Ellington,2021,Pedestrian/vehicle,1,0,1
+Ellington,2021,Vehicle/vehicle,172,1,45
+Ellington,2022,Pedestrian/vehicle,2,0,1
+Ellington,2022,Vehicle/vehicle,185,0,47
+Ellington,2023,Vehicle/vehicle,158,0,31
+Ellington,2024,Vehicle/vehicle,168,1,42
+Ellington,2025,Pedestrian/vehicle,2,0,2
+Ellington,2025,Vehicle/vehicle,200,0,40
+Enfield,2015,Cyclist/vehicle,8,0,6
+Enfield,2015,Pedestrian/vehicle,11,0,9
+Enfield,2015,Vehicle/vehicle,928,1,283
+Enfield,2016,Cyclist/vehicle,8,0,8
+Enfield,2016,Pedestrian/vehicle,9,2,6
+Enfield,2016,Vehicle/vehicle,742,3,235
+Enfield,2017,Cyclist/vehicle,7,0,7
+Enfield,2017,Pedestrian/vehicle,17,0,15
+Enfield,2017,Vehicle/vehicle,822,2,261
+Enfield,2018,Cyclist/vehicle,9,0,9
+Enfield,2018,Pedestrian/vehicle,13,0,10
+Enfield,2018,Vehicle/vehicle,781,4,247
+Enfield,2019,Cyclist/vehicle,3,0,3
+Enfield,2019,Pedestrian/vehicle,5,1,4
+Enfield,2019,Vehicle/vehicle,785,1,250
+Enfield,2020,Cyclist/vehicle,6,0,5
+Enfield,2020,Pedestrian/vehicle,4,1,3
+Enfield,2020,Vehicle/vehicle,720,2,205
+Enfield,2021,Cyclist/vehicle,6,0,4
+Enfield,2021,Pedestrian/vehicle,3,0,3
+Enfield,2021,Vehicle/vehicle,919,4,230
+Enfield,2022,Cyclist/vehicle,6,0,5
+Enfield,2022,Pedestrian/vehicle,5,0,5
+Enfield,2022,Vehicle/vehicle,881,1,228
+Enfield,2023,Cyclist/vehicle,10,0,8
+Enfield,2023,Pedestrian/vehicle,12,1,12
+Enfield,2023,Vehicle/vehicle,945,2,245
+Enfield,2024,Cyclist/vehicle,5,0,5
+Enfield,2024,Pedestrian/vehicle,10,0,9
+Enfield,2024,Vehicle/vehicle,1056,4,237
+Enfield,2025,Cyclist/vehicle,4,0,4
+Enfield,2025,Pedestrian/vehicle,13,4,11
+Enfield,2025,Vehicle/vehicle,1060,2,234
+Essex,2015,Pedestrian/vehicle,1,0,1
+Essex,2015,Vehicle/vehicle,96,0,17
+Essex,2016,Pedestrian/vehicle,1,0,1
+Essex,2016,Vehicle/vehicle,98,1,22
+Essex,2017,Cyclist/vehicle,1,0,1
+Essex,2017,Vehicle/vehicle,95,1,22
+Essex,2018,Vehicle/vehicle,94,1,23
+Essex,2019,Vehicle/vehicle,74,1,20
+Essex,2020,Vehicle/vehicle,57,0,12
+Essex,2021,Cyclist/vehicle,1,0,1
+Essex,2021,Pedestrian/vehicle,4,0,4
+Essex,2021,Vehicle/vehicle,78,0,19
+Essex,2022,Vehicle/vehicle,92,0,22
+Essex,2023,Cyclist/vehicle,1,0,1
+Essex,2023,Pedestrian/vehicle,2,0,2
+Essex,2023,Vehicle/vehicle,96,0,20
+Essex,2024,Pedestrian/vehicle,1,0,1
+Essex,2024,Vehicle/vehicle,86,0,19
+Essex,2025,Pedestrian/vehicle,1,0,1
+Essex,2025,Vehicle/vehicle,80,0,16
+Fairfield,2015,Cyclist/vehicle,8,0,8
+Fairfield,2015,Pedestrian/vehicle,21,0,18
+Fairfield,2015,Vehicle/vehicle,2153,3,412
+Fairfield,2016,Cyclist/vehicle,16,1,14
+Fairfield,2016,Pedestrian/vehicle,27,1,23
+Fairfield,2016,Vehicle/vehicle,2288,1,428
+Fairfield,2017,Cyclist/vehicle,6,0,4
+Fairfield,2017,Pedestrian/vehicle,14,1,13
+Fairfield,2017,Vehicle/vehicle,2328,3,408
+Fairfield,2018,Cyclist/vehicle,9,0,7
+Fairfield,2018,Pedestrian/vehicle,11,0,10
+Fairfield,2018,Vehicle/vehicle,2249,1,412
+Fairfield,2019,Cyclist/vehicle,7,0,6
+Fairfield,2019,Pedestrian/vehicle,17,0,15
+Fairfield,2019,Vehicle/vehicle,2205,1,446
+Fairfield,2020,Cyclist/vehicle,8,0,7
+Fairfield,2020,Pedestrian/vehicle,14,2,12
+Fairfield,2020,Vehicle/vehicle,1347,2,286
+Fairfield,2021,Cyclist/vehicle,4,0,3
+Fairfield,2021,Pedestrian/vehicle,11,1,9
+Fairfield,2021,Vehicle/vehicle,1897,2,393
+Fairfield,2022,Cyclist/vehicle,8,0,6
+Fairfield,2022,Pedestrian/vehicle,13,0,12
+Fairfield,2022,Vehicle/vehicle,2067,1,401
+Fairfield,2023,Cyclist/vehicle,7,0,5
+Fairfield,2023,Pedestrian/vehicle,18,3,15
+Fairfield,2023,Vehicle/vehicle,1947,0,374
+Fairfield,2024,Cyclist/vehicle,6,0,6
+Fairfield,2024,Pedestrian/vehicle,14,0,13
+Fairfield,2024,Vehicle/vehicle,1834,1,298
+Fairfield,2025,Cyclist/vehicle,4,0,3
+Fairfield,2025,Pedestrian/vehicle,20,1,19
+Fairfield,2025,Vehicle/vehicle,1784,1,347
+Farmington,2015,Cyclist/vehicle,2,0,2
+Farmington,2015,Pedestrian/vehicle,1,0,1
+Farmington,2015,Vehicle/vehicle,1018,2,207
+Farmington,2016,Cyclist/vehicle,1,0,1
+Farmington,2016,Pedestrian/vehicle,5,0,5
+Farmington,2016,Vehicle/vehicle,1093,1,218
+Farmington,2017,Cyclist/vehicle,2,0,1
+Farmington,2017,Pedestrian/vehicle,5,0,5
+Farmington,2017,Vehicle/vehicle,1063,1,239
+Farmington,2018,Cyclist/vehicle,3,0,3
+Farmington,2018,Pedestrian/vehicle,4,0,4
+Farmington,2018,Vehicle/vehicle,1000,2,205
+Farmington,2019,Cyclist/vehicle,2,0,2
+Farmington,2019,Pedestrian/vehicle,4,1,3
+Farmington,2019,Vehicle/vehicle,1017,1,198
+Farmington,2020,Cyclist/vehicle,6,0,6
+Farmington,2020,Pedestrian/vehicle,4,0,4
+Farmington,2020,Vehicle/vehicle,732,0,175
+Farmington,2021,Cyclist/vehicle,1,0,1
+Farmington,2021,Pedestrian/vehicle,9,0,8
+Farmington,2021,Vehicle/vehicle,883,3,176
+Farmington,2022,Pedestrian/vehicle,3,0,3
+Farmington,2022,Vehicle/vehicle,899,3,209
+Farmington,2023,Cyclist/vehicle,4,0,3
+Farmington,2023,Pedestrian/vehicle,4,0,4
+Farmington,2023,Vehicle/vehicle,929,2,204
+Farmington,2024,Cyclist/vehicle,5,0,5
+Farmington,2024,Pedestrian/vehicle,1,0,1
+Farmington,2024,Vehicle/vehicle,951,1,188
+Farmington,2025,Cyclist/vehicle,6,0,4
+Farmington,2025,Pedestrian/vehicle,9,1,8
+Farmington,2025,Vehicle/vehicle,970,2,180
+Franklin,2015,Vehicle/vehicle,78,0,24
+Franklin,2016,Vehicle/vehicle,64,0,26
+Franklin,2017,Vehicle/vehicle,73,0,14
+Franklin,2018,Vehicle/vehicle,73,0,17
+Franklin,2019,Vehicle/vehicle,74,1,24
+Franklin,2020,Vehicle/vehicle,54,2,13
+Franklin,2021,Vehicle/vehicle,65,3,21
+Franklin,2022,Vehicle/vehicle,68,2,24
+Franklin,2023,Pedestrian/vehicle,1,0,1
+Franklin,2023,Vehicle/vehicle,61,1,26
+Franklin,2024,Cyclist/vehicle,1,0,1
+Franklin,2024,Vehicle/vehicle,60,1,24
+Franklin,2025,Vehicle/vehicle,57,0,13
+Glastonbury,2015,Cyclist/vehicle,6,0,6
+Glastonbury,2015,Pedestrian/vehicle,4,0,4
+Glastonbury,2015,Vehicle/vehicle,770,2,193
+Glastonbury,2016,Cyclist/vehicle,5,0,4
+Glastonbury,2016,Pedestrian/vehicle,7,0,7
+Glastonbury,2016,Vehicle/vehicle,702,0,151
+Glastonbury,2017,Cyclist/vehicle,3,0,3
+Glastonbury,2017,Pedestrian/vehicle,3,0,3
+Glastonbury,2017,Vehicle/vehicle,661,1,131
+Glastonbury,2018,Cyclist/vehicle,3,0,3
+Glastonbury,2018,Pedestrian/vehicle,10,2,9
+Glastonbury,2018,Vehicle/vehicle,638,2,142
+Glastonbury,2019,Cyclist/vehicle,6,0,5
+Glastonbury,2019,Pedestrian/vehicle,4,0,4
+Glastonbury,2019,Vehicle/vehicle,657,1,152
+Glastonbury,2020,Cyclist/vehicle,5,0,5
+Glastonbury,2020,Pedestrian/vehicle,2,1,1
+Glastonbury,2020,Vehicle/vehicle,445,1,101
+Glastonbury,2021,Cyclist/vehicle,4,0,3
+Glastonbury,2021,Pedestrian/vehicle,8,1,8
+Glastonbury,2021,Vehicle/vehicle,543,1,121
+Glastonbury,2022,Pedestrian/vehicle,4,0,4
+Glastonbury,2022,Vehicle/vehicle,573,3,140
+Glastonbury,2023,Cyclist/vehicle,4,0,4
+Glastonbury,2023,Pedestrian/vehicle,8,0,8
+Glastonbury,2023,Vehicle/vehicle,576,3,152
+Glastonbury,2024,Cyclist/vehicle,2,0,2
+Glastonbury,2024,Pedestrian/vehicle,9,0,9
+Glastonbury,2024,Vehicle/vehicle,657,3,135
+Glastonbury,2025,Cyclist/vehicle,6,0,4
+Glastonbury,2025,Pedestrian/vehicle,6,1,5
+Glastonbury,2025,Vehicle/vehicle,656,1,133
+Goshen,2015,Vehicle/vehicle,49,0,6
+Goshen,2016,Vehicle/vehicle,42,0,10
+Goshen,2017,Pedestrian/vehicle,1,0,1
+Goshen,2017,Vehicle/vehicle,51,0,14
+Goshen,2018,Vehicle/vehicle,49,0,11
+Goshen,2019,Cyclist/vehicle,1,0,1
+Goshen,2019,Vehicle/vehicle,42,1,18
+Goshen,2020,Vehicle/vehicle,34,1,13
+Goshen,2021,Vehicle/vehicle,42,1,11
+Goshen,2022,Vehicle/vehicle,46,1,15
+Goshen,2023,Vehicle/vehicle,42,0,13
+Goshen,2024,Cyclist/vehicle,1,0,0
+Goshen,2024,Vehicle/vehicle,49,1,15
+Goshen,2025,Vehicle/vehicle,47,0,9
+Granby,2015,Cyclist/vehicle,2,0,2
+Granby,2015,Vehicle/vehicle,213,3,39
+Granby,2016,Cyclist/vehicle,1,0,1
+Granby,2016,Pedestrian/vehicle,1,0,1
+Granby,2016,Vehicle/vehicle,167,0,23
+Granby,2017,Cyclist/vehicle,1,0,0
+Granby,2017,Pedestrian/vehicle,2,1,2
+Granby,2017,Vehicle/vehicle,177,1,39
+Granby,2018,Cyclist/vehicle,2,0,2
+Granby,2018,Vehicle/vehicle,179,1,39
+Granby,2019,Pedestrian/vehicle,1,0,1
+Granby,2019,Vehicle/vehicle,168,0,41
+Granby,2020,Vehicle/vehicle,133,0,36
+Granby,2021,Vehicle/vehicle,127,1,28
+Granby,2022,Vehicle/vehicle,175,0,32
+Granby,2023,Pedestrian/vehicle,2,0,1
+Granby,2023,Vehicle/vehicle,157,0,40
+Granby,2024,Cyclist/vehicle,1,0,1
+Granby,2024,Pedestrian/vehicle,1,0,1
+Granby,2024,Vehicle/vehicle,142,0,31
+Granby,2025,Vehicle/vehicle,160,0,35
+Greenwich,2015,Cyclist/vehicle,12,0,10
+Greenwich,2015,Pedestrian/vehicle,27,1,24
+Greenwich,2015,Vehicle/vehicle,2141,1,338
+Greenwich,2016,Cyclist/vehicle,5,0,4
+Greenwich,2016,Pedestrian/vehicle,24,2,22
+Greenwich,2016,Vehicle/vehicle,2225,1,400
+Greenwich,2017,Cyclist/vehicle,9,0,9
+Greenwich,2017,Pedestrian/vehicle,22,2,19
+Greenwich,2017,Vehicle/vehicle,2082,1,361
+Greenwich,2018,Cyclist/vehicle,6,0,4
+Greenwich,2018,Pedestrian/vehicle,21,1,18
+Greenwich,2018,Vehicle/vehicle,1947,1,312
+Greenwich,2019,Cyclist/vehicle,8,0,7
+Greenwich,2019,Pedestrian/vehicle,19,1,17
+Greenwich,2019,Vehicle/vehicle,2002,0,329
+Greenwich,2020,Cyclist/vehicle,10,0,9
+Greenwich,2020,Pedestrian/vehicle,14,2,14
+Greenwich,2020,Vehicle/vehicle,1189,2,173
+Greenwich,2021,Cyclist/vehicle,7,0,4
+Greenwich,2021,Pedestrian/vehicle,17,0,12
+Greenwich,2021,Vehicle/vehicle,1737,5,273
+Greenwich,2022,Cyclist/vehicle,6,0,4
+Greenwich,2022,Pedestrian/vehicle,17,0,17
+Greenwich,2022,Vehicle/vehicle,1680,0,255
+Greenwich,2023,Cyclist/vehicle,10,0,8
+Greenwich,2023,Pedestrian/vehicle,14,1,14
+Greenwich,2023,Vehicle/vehicle,1670,4,300
+Greenwich,2024,Cyclist/vehicle,10,0,9
+Greenwich,2024,Pedestrian/vehicle,35,0,32
+Greenwich,2024,Vehicle/vehicle,1938,0,341
+Greenwich,2025,Cyclist/vehicle,7,0,4
+Greenwich,2025,Pedestrian/vehicle,18,2,13
+Greenwich,2025,Vehicle/vehicle,1765,2,343
+Griswold,2015,Pedestrian/vehicle,2,0,2
+Griswold,2015,Vehicle/vehicle,181,0,49
+Griswold,2016,Vehicle/vehicle,175,1,44
+Griswold,2017,Cyclist/vehicle,2,0,2
+Griswold,2017,Vehicle/vehicle,184,2,36
+Griswold,2018,Vehicle/vehicle,179,2,41
+Griswold,2019,Pedestrian/vehicle,1,0,1
+Griswold,2019,Vehicle/vehicle,155,2,29
+Griswold,2020,Cyclist/vehicle,1,0,1
+Griswold,2020,Vehicle/vehicle,146,0,35
+Griswold,2021,Pedestrian/vehicle,1,1,1
+Griswold,2021,Vehicle/vehicle,169,4,32
+Griswold,2022,Vehicle/vehicle,139,0,39
+Griswold,2023,Cyclist/vehicle,1,0,1
+Griswold,2023,Pedestrian/vehicle,3,1,3
+Griswold,2023,Vehicle/vehicle,175,2,38
+Griswold,2024,Pedestrian/vehicle,2,1,2
+Griswold,2024,Vehicle/vehicle,189,5,43
+Griswold,2025,Pedestrian/vehicle,3,0,3
+Griswold,2025,Vehicle/vehicle,192,3,47
+Groton,2015,Cyclist/vehicle,1,0,1
+Groton,2015,Pedestrian/vehicle,4,0,3
+Groton,2015,Vehicle/vehicle,899,2,150
+Groton,2016,Cyclist/vehicle,4,0,4
+Groton,2016,Pedestrian/vehicle,10,1,9
+Groton,2016,Vehicle/vehicle,775,1,128
+Groton,2017,Cyclist/vehicle,7,0,5
+Groton,2017,Pedestrian/vehicle,4,0,4
+Groton,2017,Vehicle/vehicle,912,2,148
+Groton,2018,Cyclist/vehicle,3,0,3
+Groton,2018,Pedestrian/vehicle,4,0,2
+Groton,2018,Vehicle/vehicle,835,2,126
+Groton,2019,Cyclist/vehicle,2,0,1
+Groton,2019,Pedestrian/vehicle,4,0,2
+Groton,2019,Vehicle/vehicle,869,0,137
+Groton,2020,Cyclist/vehicle,8,0,6
+Groton,2020,Pedestrian/vehicle,6,1,5
+Groton,2020,Vehicle/vehicle,664,2,134
+Groton,2021,Cyclist/vehicle,3,0,2
+Groton,2021,Pedestrian/vehicle,7,0,7
+Groton,2021,Vehicle/vehicle,890,0,173
+Groton,2022,Cyclist/vehicle,1,0,1
+Groton,2022,Pedestrian/vehicle,10,0,10
+Groton,2022,Vehicle/vehicle,875,4,170
+Groton,2023,Cyclist/vehicle,6,0,4
+Groton,2023,Pedestrian/vehicle,9,0,8
+Groton,2023,Vehicle/vehicle,867,4,174
+Groton,2024,Cyclist/vehicle,7,0,5
+Groton,2024,Pedestrian/vehicle,13,0,12
+Groton,2024,Vehicle/vehicle,822,7,160
+Groton,2025,Cyclist/vehicle,5,0,3
+Groton,2025,Pedestrian/vehicle,11,0,10
+Groton,2025,Vehicle/vehicle,1009,4,185
+Guilford,2015,Cyclist/vehicle,2,0,2
+Guilford,2015,Pedestrian/vehicle,5,1,4
+Guilford,2015,Vehicle/vehicle,466,3,117
+Guilford,2016,Cyclist/vehicle,3,0,2
+Guilford,2016,Pedestrian/vehicle,1,0,1
+Guilford,2016,Vehicle/vehicle,435,1,102
+Guilford,2017,Cyclist/vehicle,1,0,1
+Guilford,2017,Pedestrian/vehicle,2,0,2
+Guilford,2017,Vehicle/vehicle,431,1,87
+Guilford,2018,Cyclist/vehicle,2,0,1
+Guilford,2018,Pedestrian/vehicle,3,0,2
+Guilford,2018,Vehicle/vehicle,446,2,95
+Guilford,2019,Cyclist/vehicle,2,0,1
+Guilford,2019,Pedestrian/vehicle,2,0,0
+Guilford,2019,Vehicle/vehicle,414,3,95
+Guilford,2020,Cyclist/vehicle,5,0,3
+Guilford,2020,Pedestrian/vehicle,1,0,1
+Guilford,2020,Vehicle/vehicle,348,0,80
+Guilford,2021,Cyclist/vehicle,2,0,1
+Guilford,2021,Pedestrian/vehicle,2,0,0
+Guilford,2021,Vehicle/vehicle,371,2,72
+Guilford,2022,Cyclist/vehicle,2,0,1
+Guilford,2022,Pedestrian/vehicle,2,0,2
+Guilford,2022,Vehicle/vehicle,413,4,89
+Guilford,2023,Pedestrian/vehicle,4,0,3
+Guilford,2023,Vehicle/vehicle,383,1,81
+Guilford,2024,Cyclist/vehicle,1,0,0
+Guilford,2024,Pedestrian/vehicle,3,0,3
+Guilford,2024,Vehicle/vehicle,419,1,81
+Guilford,2025,Cyclist/vehicle,2,0,1
+Guilford,2025,Pedestrian/vehicle,3,0,3
+Guilford,2025,Vehicle/vehicle,388,1,88
+Haddam,2015,Vehicle/vehicle,143,1,45
+Haddam,2016,Cyclist/vehicle,1,1,1
+Haddam,2016,Vehicle/vehicle,141,0,38
+Haddam,2017,Pedestrian/vehicle,1,0,1
+Haddam,2017,Vehicle/vehicle,143,0,36
+Haddam,2018,Pedestrian/vehicle,1,0,1
+Haddam,2018,Vehicle/vehicle,153,2,51
+Haddam,2019,Vehicle/vehicle,153,3,48
+Haddam,2020,Vehicle/vehicle,103,2,29
+Haddam,2021,Cyclist/vehicle,1,1,1
+Haddam,2021,Vehicle/vehicle,128,0,46
+Haddam,2022,Pedestrian/vehicle,1,0,1
+Haddam,2022,Vehicle/vehicle,142,2,53
+Haddam,2023,Pedestrian/vehicle,1,0,1
+Haddam,2023,Vehicle/vehicle,136,1,39
+Haddam,2024,Pedestrian/vehicle,2,0,2
+Haddam,2024,Vehicle/vehicle,141,1,35
+Haddam,2025,Vehicle/vehicle,117,1,32
+Hamden,2015,Cyclist/vehicle,16,0,9
+Hamden,2015,Pedestrian/vehicle,19,0,18
+Hamden,2015,Vehicle/vehicle,1884,1,382
+Hamden,2016,Cyclist/vehicle,13,0,8
+Hamden,2016,Pedestrian/vehicle,26,1,25
+Hamden,2016,Vehicle/vehicle,2061,1,429
+Hamden,2017,Cyclist/vehicle,5,0,2
+Hamden,2017,Pedestrian/vehicle,22,0,17
+Hamden,2017,Vehicle/vehicle,1970,4,417
+Hamden,2018,Cyclist/vehicle,17,0,10
+Hamden,2018,Pedestrian/vehicle,37,3,35
+Hamden,2018,Vehicle/vehicle,2068,2,444
+Hamden,2019,Cyclist/vehicle,4,0,4
+Hamden,2019,Pedestrian/vehicle,29,1,23
+Hamden,2019,Vehicle/vehicle,2037,2,425
+Hamden,2020,Cyclist/vehicle,15,1,15
+Hamden,2020,Pedestrian/vehicle,20,1,19
+Hamden,2020,Vehicle/vehicle,1552,2,302
+Hamden,2021,Cyclist/vehicle,2,0,1
+Hamden,2021,Pedestrian/vehicle,19,1,18
+Hamden,2021,Vehicle/vehicle,1859,4,410
+Hamden,2022,Cyclist/vehicle,9,0,7
+Hamden,2022,Pedestrian/vehicle,28,2,25
+Hamden,2022,Vehicle/vehicle,1869,3,426
+Hamden,2023,Cyclist/vehicle,11,0,10
+Hamden,2023,Pedestrian/vehicle,22,1,21
+Hamden,2023,Vehicle/vehicle,1771,4,436
+Hamden,2024,Cyclist/vehicle,12,0,8
+Hamden,2024,Pedestrian/vehicle,35,2,30
+Hamden,2024,Vehicle/vehicle,1856,0,448
+Hamden,2025,Cyclist/vehicle,6,0,6
+Hamden,2025,Pedestrian/vehicle,27,1,25
+Hamden,2025,Vehicle/vehicle,1846,1,472
+Hampton,2015,Vehicle/vehicle,28,0,9
+Hampton,2016,Vehicle/vehicle,24,1,11
+Hampton,2017,Vehicle/vehicle,33,1,10
+Hampton,2018,Vehicle/vehicle,29,0,11
+Hampton,2019,Vehicle/vehicle,28,0,5
+Hampton,2020,Vehicle/vehicle,13,0,1
+Hampton,2021,Vehicle/vehicle,19,0,9
+Hampton,2022,Vehicle/vehicle,34,3,16
+Hampton,2023,Vehicle/vehicle,30,1,16
+Hampton,2024,Vehicle/vehicle,26,0,13
+Hampton,2025,Cyclist/vehicle,1,1,1
+Hampton,2025,Pedestrian/vehicle,1,0,1
+Hampton,2025,Vehicle/vehicle,31,0,12
+Hartford,2015,Cyclist/vehicle,48,1,41
+Hartford,2015,Pedestrian/vehicle,138,3,126
+Hartford,2015,Vehicle/vehicle,6580,5,1592
+Hartford,2016,Cyclist/vehicle,57,0,50
+Hartford,2016,Pedestrian/vehicle,177,2,166
+Hartford,2016,Vehicle/vehicle,7402,8,1863
+Hartford,2017,Cyclist/vehicle,42,0,32
+Hartford,2017,Pedestrian/vehicle,166,1,160
+Hartford,2017,Vehicle/vehicle,6796,9,1658
+Hartford,2018,Cyclist/vehicle,40,0,33
+Hartford,2018,Pedestrian/vehicle,153,9,143
+Hartford,2018,Vehicle/vehicle,6795,12,1693
+Hartford,2019,Cyclist/vehicle,50,0,44
+Hartford,2019,Pedestrian/vehicle,153,3,142
+Hartford,2019,Vehicle/vehicle,6924,12,1642
+Hartford,2020,Cyclist/vehicle,25,1,19
+Hartford,2020,Pedestrian/vehicle,126,3,117
+Hartford,2020,Vehicle/vehicle,5374,13,1510
+Hartford,2021,Cyclist/vehicle,7,0,7
+Hartford,2021,Pedestrian/vehicle,92,5,88
+Hartford,2021,Vehicle/vehicle,5343,12,1445
+Hartford,2022,Cyclist/vehicle,15,0,12
+Hartford,2022,Pedestrian/vehicle,100,7,94
+Hartford,2022,Vehicle/vehicle,5227,8,1391
+Hartford,2023,Cyclist/vehicle,21,0,19
+Hartford,2023,Pedestrian/vehicle,125,6,111
+Hartford,2023,Vehicle/vehicle,5368,5,1439
+Hartford,2024,Cyclist/vehicle,33,2,26
+Hartford,2024,Pedestrian/vehicle,158,5,137
+Hartford,2024,Vehicle/vehicle,5915,9,1398
+Hartford,2025,Cyclist/vehicle,34,1,28
+Hartford,2025,Pedestrian/vehicle,155,4,136
+Hartford,2025,Vehicle/vehicle,6233,10,1428
+Hartland,2015,Pedestrian/vehicle,1,0,1
+Hartland,2015,Vehicle/vehicle,11,0,1
+Hartland,2016,Vehicle/vehicle,19,1,7
+Hartland,2017,Vehicle/vehicle,17,0,9
+Hartland,2018,Vehicle/vehicle,17,0,5
+Hartland,2019,Vehicle/vehicle,17,0,8
+Hartland,2020,Vehicle/vehicle,12,0,4
+Hartland,2021,Vehicle/vehicle,8,0,4
+Hartland,2022,Vehicle/vehicle,10,0,4
+Hartland,2023,Vehicle/vehicle,8,2,2
+Hartland,2024,Vehicle/vehicle,16,0,5
+Hartland,2025,Vehicle/vehicle,13,0,5
+Harwinton,2015,Vehicle/vehicle,133,2,26
+Harwinton,2016,Vehicle/vehicle,132,1,31
+Harwinton,2017,Vehicle/vehicle,143,1,36
+Harwinton,2018,Pedestrian/vehicle,1,0,1
+Harwinton,2018,Vehicle/vehicle,133,1,23
+Harwinton,2019,Pedestrian/vehicle,2,1,2
+Harwinton,2019,Vehicle/vehicle,112,0,22
+Harwinton,2020,Vehicle/vehicle,86,0,24
+Harwinton,2021,Pedestrian/vehicle,1,1,1
+Harwinton,2021,Vehicle/vehicle,144,2,32
+Harwinton,2022,Cyclist/vehicle,2,0,2
+Harwinton,2022,Vehicle/vehicle,122,0,32
+Harwinton,2023,Vehicle/vehicle,129,1,24
+Harwinton,2024,Vehicle/vehicle,121,1,35
+Harwinton,2025,Pedestrian/vehicle,1,0,1
+Harwinton,2025,Vehicle/vehicle,131,1,32
+Hebron,2015,Pedestrian/vehicle,1,0,1
+Hebron,2015,Vehicle/vehicle,93,2,29
+Hebron,2016,Vehicle/vehicle,85,0,23
+Hebron,2017,Pedestrian/vehicle,1,0,1
+Hebron,2017,Vehicle/vehicle,107,2,23
+Hebron,2018,Vehicle/vehicle,104,0,27
+Hebron,2019,Vehicle/vehicle,91,0,27
+Hebron,2020,Vehicle/vehicle,60,1,16
+Hebron,2021,Pedestrian/vehicle,3,0,3
+Hebron,2021,Vehicle/vehicle,83,0,26
+Hebron,2022,Vehicle/vehicle,82,0,18
+Hebron,2023,Pedestrian/vehicle,1,0,1
+Hebron,2023,Vehicle/vehicle,76,2,22
+Hebron,2024,Pedestrian/vehicle,2,0,2
+Hebron,2024,Vehicle/vehicle,94,2,25
+Hebron,2025,Cyclist/vehicle,1,0,1
+Hebron,2025,Vehicle/vehicle,94,1,22
+Kent,2015,Vehicle/vehicle,53,1,11
+Kent,2016,Vehicle/vehicle,47,0,13
+Kent,2017,Vehicle/vehicle,46,0,16
+Kent,2018,Vehicle/vehicle,44,1,15
+Kent,2019,Vehicle/vehicle,33,0,10
+Kent,2020,Cyclist/vehicle,2,0,1
+Kent,2020,Vehicle/vehicle,30,0,11
+Kent,2021,Cyclist/vehicle,1,0,0
+Kent,2021,Vehicle/vehicle,40,0,8
+Kent,2022,Vehicle/vehicle,45,1,9
+Kent,2023,Pedestrian/vehicle,1,0,1
+Kent,2023,Vehicle/vehicle,28,0,5
+Kent,2024,Vehicle/vehicle,57,0,17
+Kent,2025,Pedestrian/vehicle,1,0,1
+Kent,2025,Vehicle/vehicle,53,0,10
+Killingly,2015,Cyclist/vehicle,2,0,1
+Killingly,2015,Pedestrian/vehicle,3,0,3
+Killingly,2015,Vehicle/vehicle,381,2,84
+Killingly,2016,Cyclist/vehicle,1,0,1
+Killingly,2016,Pedestrian/vehicle,3,1,3
+Killingly,2016,Vehicle/vehicle,365,3,75
+Killingly,2017,Cyclist/vehicle,2,0,2
+Killingly,2017,Pedestrian/vehicle,4,0,4
+Killingly,2017,Vehicle/vehicle,396,3,93
+Killingly,2018,Pedestrian/vehicle,2,0,2
+Killingly,2018,Vehicle/vehicle,428,3,96
+Killingly,2019,Cyclist/vehicle,1,0,0
+Killingly,2019,Pedestrian/vehicle,1,0,1
+Killingly,2019,Vehicle/vehicle,375,0,73
+Killingly,2020,Pedestrian/vehicle,1,0,1
+Killingly,2020,Vehicle/vehicle,275,1,74
+Killingly,2021,Cyclist/vehicle,3,0,0
+Killingly,2021,Pedestrian/vehicle,2,0,0
+Killingly,2021,Vehicle/vehicle,352,3,98
+Killingly,2022,Pedestrian/vehicle,6,1,5
+Killingly,2022,Vehicle/vehicle,366,5,100
+Killingly,2023,Cyclist/vehicle,1,0,0
+Killingly,2023,Pedestrian/vehicle,4,1,3
+Killingly,2023,Vehicle/vehicle,345,0,83
+Killingly,2024,Cyclist/vehicle,2,0,1
+Killingly,2024,Pedestrian/vehicle,5,1,3
+Killingly,2024,Vehicle/vehicle,380,0,86
+Killingly,2025,Cyclist/vehicle,5,0,3
+Killingly,2025,Pedestrian/vehicle,3,0,2
+Killingly,2025,Vehicle/vehicle,381,0,89
+Killingworth,2015,Vehicle/vehicle,76,1,20
+Killingworth,2016,Vehicle/vehicle,63,0,20
+Killingworth,2017,Vehicle/vehicle,75,0,22
+Killingworth,2018,Pedestrian/vehicle,1,0,0
+Killingworth,2018,Vehicle/vehicle,79,0,20
+Killingworth,2019,Pedestrian/vehicle,1,0,1
+Killingworth,2019,Vehicle/vehicle,70,0,25
+Killingworth,2020,Cyclist/vehicle,1,0,0
+Killingworth,2020,Pedestrian/vehicle,1,0,1
+Killingworth,2020,Vehicle/vehicle,60,0,20
+Killingworth,2021,Cyclist/vehicle,1,0,1
+Killingworth,2021,Vehicle/vehicle,59,0,15
+Killingworth,2022,Vehicle/vehicle,78,1,28
+Killingworth,2023,Vehicle/vehicle,62,0,17
+Killingworth,2024,Vehicle/vehicle,63,0,22
+Killingworth,2025,Vehicle/vehicle,56,0,12
+Lebanon,2015,Cyclist/vehicle,1,0,1
+Lebanon,2015,Vehicle/vehicle,67,1,20
+Lebanon,2016,Vehicle/vehicle,89,1,22
+Lebanon,2017,Vehicle/vehicle,104,1,25
+Lebanon,2018,Vehicle/vehicle,89,2,29
+Lebanon,2019,Cyclist/vehicle,1,0,1
+Lebanon,2019,Vehicle/vehicle,98,1,26
+Lebanon,2020,Vehicle/vehicle,70,2,22
+Lebanon,2021,Vehicle/vehicle,57,2,24
+Lebanon,2022,Vehicle/vehicle,62,0,21
+Lebanon,2023,Vehicle/vehicle,69,1,25
+Lebanon,2024,Vehicle/vehicle,77,0,26
+Lebanon,2025,Vehicle/vehicle,73,0,23
+Ledyard,2015,Pedestrian/vehicle,3,0,3
+Ledyard,2015,Vehicle/vehicle,327,2,61
+Ledyard,2016,Cyclist/vehicle,1,0,1
+Ledyard,2016,Pedestrian/vehicle,1,0,1
+Ledyard,2016,Vehicle/vehicle,219,3,47
+Ledyard,2017,Cyclist/vehicle,3,0,3
+Ledyard,2017,Vehicle/vehicle,190,2,52
+Ledyard,2018,Pedestrian/vehicle,1,0,1
+Ledyard,2018,Vehicle/vehicle,199,0,41
+Ledyard,2019,Cyclist/vehicle,1,0,0
+Ledyard,2019,Pedestrian/vehicle,1,1,1
+Ledyard,2019,Vehicle/vehicle,181,1,45
+Ledyard,2020,Vehicle/vehicle,94,2,21
+Ledyard,2021,Vehicle/vehicle,116,2,21
+Ledyard,2022,Vehicle/vehicle,121,2,38
+Ledyard,2023,Cyclist/vehicle,1,0,1
+Ledyard,2023,Vehicle/vehicle,123,1,43
+Ledyard,2024,Vehicle/vehicle,54,3,21
+Ledyard,2025,Vehicle/vehicle,29,1,9
+Lisbon,2015,Cyclist/vehicle,1,0,1
+Lisbon,2015,Pedestrian/vehicle,1,0,1
+Lisbon,2015,Vehicle/vehicle,117,0,26
+Lisbon,2016,Cyclist/vehicle,1,0,1
+Lisbon,2016,Vehicle/vehicle,135,0,30
+Lisbon,2017,Pedestrian/vehicle,2,0,2
+Lisbon,2017,Vehicle/vehicle,139,0,27
+Lisbon,2018,Vehicle/vehicle,118,1,31
+Lisbon,2019,Vehicle/vehicle,120,1,23
+Lisbon,2020,Vehicle/vehicle,93,0,27
+Lisbon,2021,Vehicle/vehicle,113,1,27
+Lisbon,2022,Vehicle/vehicle,108,1,22
+Lisbon,2023,Cyclist/vehicle,1,0,1
+Lisbon,2023,Vehicle/vehicle,125,0,29
+Lisbon,2024,Pedestrian/vehicle,2,1,2
+Lisbon,2024,Vehicle/vehicle,110,2,30
+Lisbon,2025,Pedestrian/vehicle,1,0,1
+Lisbon,2025,Vehicle/vehicle,127,0,30
+Litchfield,2015,Pedestrian/vehicle,1,0,0
+Litchfield,2015,Vehicle/vehicle,214,0,43
+Litchfield,2016,Vehicle/vehicle,223,2,54
+Litchfield,2017,Pedestrian/vehicle,1,0,1
+Litchfield,2017,Vehicle/vehicle,236,0,67
+Litchfield,2018,Cyclist/vehicle,1,0,1
+Litchfield,2018,Pedestrian/vehicle,1,0,1
+Litchfield,2018,Vehicle/vehicle,182,0,42
+Litchfield,2019,Pedestrian/vehicle,6,0,3
+Litchfield,2019,Vehicle/vehicle,205,1,48
+Litchfield,2020,Cyclist/vehicle,2,0,2
+Litchfield,2020,Pedestrian/vehicle,2,0,2
+Litchfield,2020,Vehicle/vehicle,172,2,35
+Litchfield,2021,Pedestrian/vehicle,1,0,1
+Litchfield,2021,Vehicle/vehicle,185,1,33
+Litchfield,2022,Cyclist/vehicle,1,0,1
+Litchfield,2022,Pedestrian/vehicle,3,0,3
+Litchfield,2022,Vehicle/vehicle,207,0,48
+Litchfield,2023,Pedestrian/vehicle,4,0,3
+Litchfield,2023,Vehicle/vehicle,197,1,48
+Litchfield,2024,Pedestrian/vehicle,1,0,1
+Litchfield,2024,Vehicle/vehicle,251,3,67
+Litchfield,2025,Cyclist/vehicle,1,0,1
+Litchfield,2025,Pedestrian/vehicle,1,1,1
+Litchfield,2025,Vehicle/vehicle,177,1,47
+Lyme,2015,Vehicle/vehicle,22,0,5
+Lyme,2016,Vehicle/vehicle,25,0,7
+Lyme,2017,Vehicle/vehicle,19,1,4
+Lyme,2018,Vehicle/vehicle,23,0,8
+Lyme,2019,Vehicle/vehicle,19,0,5
+Lyme,2020,Vehicle/vehicle,11,0,4
+Lyme,2021,Vehicle/vehicle,18,0,7
+Lyme,2022,Vehicle/vehicle,17,0,4
+Lyme,2023,Vehicle/vehicle,29,1,16
+Lyme,2024,Vehicle/vehicle,28,0,10
+Lyme,2025,Vehicle/vehicle,32,0,13
+Madison,2015,Pedestrian/vehicle,1,0,1
+Madison,2015,Vehicle/vehicle,269,1,57
+Madison,2016,Cyclist/vehicle,2,0,2
+Madison,2016,Pedestrian/vehicle,1,0,1
+Madison,2016,Vehicle/vehicle,302,2,65
+Madison,2017,Cyclist/vehicle,3,0,3
+Madison,2017,Pedestrian/vehicle,1,1,1
+Madison,2017,Vehicle/vehicle,281,2,60
+Madison,2018,Cyclist/vehicle,1,0,1
+Madison,2018,Pedestrian/vehicle,1,1,1
+Madison,2018,Vehicle/vehicle,303,1,67
+Madison,2019,Pedestrian/vehicle,2,0,2
+Madison,2019,Vehicle/vehicle,297,1,71
+Madison,2020,Cyclist/vehicle,5,0,4
+Madison,2020,Vehicle/vehicle,252,1,60
+Madison,2021,Cyclist/vehicle,1,0,0
+Madison,2021,Vehicle/vehicle,250,0,56
+Madison,2022,Pedestrian/vehicle,2,0,2
+Madison,2022,Vehicle/vehicle,270,1,61
+Madison,2023,Cyclist/vehicle,3,0,1
+Madison,2023,Pedestrian/vehicle,2,0,2
+Madison,2023,Vehicle/vehicle,256,0,55
+Madison,2024,Cyclist/vehicle,1,0,1
+Madison,2024,Pedestrian/vehicle,2,0,2
+Madison,2024,Vehicle/vehicle,289,0,65
+Madison,2025,Cyclist/vehicle,3,0,2
+Madison,2025,Pedestrian/vehicle,3,0,3
+Madison,2025,Vehicle/vehicle,289,3,54
+Manchester,2015,Cyclist/vehicle,14,0,13
+Manchester,2015,Pedestrian/vehicle,19,1,19
+Manchester,2015,Vehicle/vehicle,1854,1,475
+Manchester,2016,Cyclist/vehicle,16,0,10
+Manchester,2016,Pedestrian/vehicle,44,1,41
+Manchester,2016,Vehicle/vehicle,1794,3,480
+Manchester,2017,Cyclist/vehicle,9,0,9
+Manchester,2017,Pedestrian/vehicle,30,0,26
+Manchester,2017,Vehicle/vehicle,1796,2,478
+Manchester,2018,Cyclist/vehicle,4,0,4
+Manchester,2018,Pedestrian/vehicle,35,0,31
+Manchester,2018,Vehicle/vehicle,1855,1,512
+Manchester,2019,Cyclist/vehicle,11,0,11
+Manchester,2019,Pedestrian/vehicle,24,5,22
+Manchester,2019,Vehicle/vehicle,1721,1,493
+Manchester,2020,Cyclist/vehicle,11,0,7
+Manchester,2020,Pedestrian/vehicle,14,1,13
+Manchester,2020,Vehicle/vehicle,1263,0,336
+Manchester,2021,Cyclist/vehicle,6,0,6
+Manchester,2021,Pedestrian/vehicle,18,0,14
+Manchester,2021,Vehicle/vehicle,1620,6,435
+Manchester,2022,Cyclist/vehicle,6,0,6
+Manchester,2022,Pedestrian/vehicle,29,1,27
+Manchester,2022,Vehicle/vehicle,1698,4,474
+Manchester,2023,Cyclist/vehicle,5,0,4
+Manchester,2023,Pedestrian/vehicle,23,0,20
+Manchester,2023,Vehicle/vehicle,1660,0,442
+Manchester,2024,Cyclist/vehicle,8,0,8
+Manchester,2024,Pedestrian/vehicle,22,0,20
+Manchester,2024,Vehicle/vehicle,1715,6,409
+Manchester,2025,Cyclist/vehicle,8,0,6
+Manchester,2025,Pedestrian/vehicle,27,1,25
+Manchester,2025,Vehicle/vehicle,1681,0,381
+Mansfield,2015,Pedestrian/vehicle,3,0,2
+Mansfield,2015,Vehicle/vehicle,498,3,74
+Mansfield,2016,Cyclist/vehicle,3,0,1
+Mansfield,2016,Pedestrian/vehicle,10,2,9
+Mansfield,2016,Vehicle/vehicle,452,0,91
+Mansfield,2017,Cyclist/vehicle,1,0,1
+Mansfield,2017,Pedestrian/vehicle,2,0,2
+Mansfield,2017,Vehicle/vehicle,491,1,79
+Mansfield,2018,Cyclist/vehicle,1,0,1
+Mansfield,2018,Pedestrian/vehicle,7,0,7
+Mansfield,2018,Vehicle/vehicle,479,2,85
+Mansfield,2019,Cyclist/vehicle,1,0,1
+Mansfield,2019,Pedestrian/vehicle,2,0,1
+Mansfield,2019,Vehicle/vehicle,497,2,90
+Mansfield,2020,Cyclist/vehicle,1,0,1
+Mansfield,2020,Pedestrian/vehicle,6,0,5
+Mansfield,2020,Vehicle/vehicle,278,2,64
+Mansfield,2021,Cyclist/vehicle,2,0,2
+Mansfield,2021,Pedestrian/vehicle,8,1,5
+Mansfield,2021,Vehicle/vehicle,389,1,82
+Mansfield,2022,Cyclist/vehicle,2,0,1
+Mansfield,2022,Pedestrian/vehicle,4,0,4
+Mansfield,2022,Vehicle/vehicle,441,2,87
+Mansfield,2023,Cyclist/vehicle,2,1,2
+Mansfield,2023,Pedestrian/vehicle,6,1,6
+Mansfield,2023,Vehicle/vehicle,425,1,84
+Mansfield,2024,Cyclist/vehicle,2,0,0
+Mansfield,2024,Pedestrian/vehicle,11,0,11
+Mansfield,2024,Vehicle/vehicle,482,0,100
+Mansfield,2025,Cyclist/vehicle,2,0,2
+Mansfield,2025,Pedestrian/vehicle,12,0,12
+Mansfield,2025,Vehicle/vehicle,475,1,83
+Marlborough,2015,Vehicle/vehicle,131,1,25
+Marlborough,2016,Pedestrian/vehicle,1,0,0
+Marlborough,2016,Vehicle/vehicle,111,0,25
+Marlborough,2017,Vehicle/vehicle,135,1,29
+Marlborough,2018,Vehicle/vehicle,123,1,29
+Marlborough,2019,Pedestrian/vehicle,1,0,1
+Marlborough,2019,Vehicle/vehicle,139,1,34
+Marlborough,2020,Cyclist/vehicle,1,0,1
+Marlborough,2020,Vehicle/vehicle,117,0,30
+Marlborough,2021,Vehicle/vehicle,101,0,33
+Marlborough,2022,Vehicle/vehicle,101,0,28
+Marlborough,2023,Vehicle/vehicle,85,0,19
+Marlborough,2024,Pedestrian/vehicle,1,0,1
+Marlborough,2024,Vehicle/vehicle,107,0,20
+Marlborough,2025,Vehicle/vehicle,110,0,30
+Mashantucket,2015,Vehicle/vehicle,16,0,0
+Mashantucket,2016,Pedestrian/vehicle,1,0,1
+Mashantucket,2016,Vehicle/vehicle,22,0,1
+Mashantucket,2024,Vehicle/vehicle,22,0,3
+Mashantucket,2025,Pedestrian/vehicle,2,0,2
+Mashantucket,2025,Vehicle/vehicle,37,0,2
+Meriden,2015,Cyclist/vehicle,12,0,12
+Meriden,2015,Pedestrian/vehicle,28,2,25
+Meriden,2015,Vehicle/vehicle,2085,2,514
+Meriden,2016,Cyclist/vehicle,12,0,10
+Meriden,2016,Pedestrian/vehicle,49,2,45
+Meriden,2016,Vehicle/vehicle,2355,4,654
+Meriden,2017,Cyclist/vehicle,8,0,8
+Meriden,2017,Pedestrian/vehicle,29,1,26
+Meriden,2017,Vehicle/vehicle,2073,4,502
+Meriden,2018,Cyclist/vehicle,8,0,6
+Meriden,2018,Pedestrian/vehicle,24,1,23
+Meriden,2018,Vehicle/vehicle,2034,4,546
+Meriden,2019,Cyclist/vehicle,10,0,9
+Meriden,2019,Pedestrian/vehicle,29,1,28
+Meriden,2019,Vehicle/vehicle,2034,2,505
+Meriden,2020,Cyclist/vehicle,7,0,6
+Meriden,2020,Pedestrian/vehicle,9,2,9
+Meriden,2020,Vehicle/vehicle,1716,6,390
+Meriden,2021,Cyclist/vehicle,10,0,9
+Meriden,2021,Pedestrian/vehicle,21,1,19
+Meriden,2021,Vehicle/vehicle,2041,5,509
+Meriden,2022,Cyclist/vehicle,13,0,11
+Meriden,2022,Pedestrian/vehicle,25,1,24
+Meriden,2022,Vehicle/vehicle,2116,3,516
+Meriden,2023,Cyclist/vehicle,9,0,7
+Meriden,2023,Pedestrian/vehicle,25,1,21
+Meriden,2023,Vehicle/vehicle,2114,6,483
+Meriden,2024,Cyclist/vehicle,13,0,11
+Meriden,2024,Pedestrian/vehicle,27,1,25
+Meriden,2024,Vehicle/vehicle,2260,2,502
+Meriden,2025,Cyclist/vehicle,12,0,9
+Meriden,2025,Pedestrian/vehicle,25,1,22
+Meriden,2025,Vehicle/vehicle,2482,2,557
+Middlebury,2015,Pedestrian/vehicle,2,0,1
+Middlebury,2015,Vehicle/vehicle,320,2,82
+Middlebury,2016,Cyclist/vehicle,1,0,1
+Middlebury,2016,Pedestrian/vehicle,1,0,1
+Middlebury,2016,Vehicle/vehicle,359,1,101
+Middlebury,2017,Pedestrian/vehicle,3,0,3
+Middlebury,2017,Vehicle/vehicle,265,1,66
+Middlebury,2018,Pedestrian/vehicle,2,0,2
+Middlebury,2018,Vehicle/vehicle,305,2,87
+Middlebury,2019,Cyclist/vehicle,1,0,1
+Middlebury,2019,Vehicle/vehicle,301,1,70
+Middlebury,2020,Pedestrian/vehicle,2,1,1
+Middlebury,2020,Vehicle/vehicle,209,1,55
+Middlebury,2021,Vehicle/vehicle,265,1,72
+Middlebury,2022,Cyclist/vehicle,1,0,1
+Middlebury,2022,Vehicle/vehicle,322,2,88
+Middlebury,2023,Pedestrian/vehicle,1,0,0
+Middlebury,2023,Vehicle/vehicle,272,1,71
+Middlebury,2024,Vehicle/vehicle,303,1,72
+Middlebury,2025,Vehicle/vehicle,326,1,69
+Middlefield,2015,Pedestrian/vehicle,1,0,0
+Middlefield,2015,Vehicle/vehicle,86,1,20
+Middlefield,2016,Cyclist/vehicle,1,0,1
+Middlefield,2016,Pedestrian/vehicle,1,0,1
+Middlefield,2016,Vehicle/vehicle,78,0,20
+Middlefield,2017,Vehicle/vehicle,80,0,20
+Middlefield,2018,Vehicle/vehicle,104,0,20
+Middlefield,2019,Cyclist/vehicle,1,0,1
+Middlefield,2019,Pedestrian/vehicle,3,0,2
+Middlefield,2019,Vehicle/vehicle,88,0,19
+Middlefield,2020,Vehicle/vehicle,61,0,21
+Middlefield,2021,Cyclist/vehicle,1,0,1
+Middlefield,2021,Vehicle/vehicle,72,0,16
+Middlefield,2022,Vehicle/vehicle,76,1,17
+Middlefield,2023,Vehicle/vehicle,78,0,25
+Middlefield,2024,Pedestrian/vehicle,1,0,0
+Middlefield,2024,Vehicle/vehicle,80,0,17
+Middlefield,2025,Vehicle/vehicle,92,1,16
+Middletown,2015,Cyclist/vehicle,7,0,5
+Middletown,2015,Pedestrian/vehicle,24,1,18
+Middletown,2015,Vehicle/vehicle,1592,1,259
+Middletown,2016,Cyclist/vehicle,6,0,5
+Middletown,2016,Pedestrian/vehicle,16,1,11
+Middletown,2016,Vehicle/vehicle,1632,2,310
+Middletown,2017,Pedestrian/vehicle,22,0,19
+Middletown,2017,Vehicle/vehicle,1507,1,292
+Middletown,2018,Cyclist/vehicle,5,0,4
+Middletown,2018,Pedestrian/vehicle,16,0,15
+Middletown,2018,Vehicle/vehicle,1537,2,344
+Middletown,2019,Cyclist/vehicle,11,0,11
+Middletown,2019,Pedestrian/vehicle,24,1,21
+Middletown,2019,Vehicle/vehicle,1412,1,298
+Middletown,2020,Cyclist/vehicle,4,1,4
+Middletown,2020,Pedestrian/vehicle,11,1,9
+Middletown,2020,Vehicle/vehicle,1106,3,235
+Middletown,2021,Cyclist/vehicle,6,0,5
+Middletown,2021,Pedestrian/vehicle,12,0,11
+Middletown,2021,Vehicle/vehicle,1305,3,300
+Middletown,2022,Cyclist/vehicle,3,0,2
+Middletown,2022,Pedestrian/vehicle,16,0,15
+Middletown,2022,Vehicle/vehicle,1417,3,318
+Middletown,2023,Cyclist/vehicle,3,0,2
+Middletown,2023,Pedestrian/vehicle,10,1,9
+Middletown,2023,Vehicle/vehicle,1480,7,320
+Middletown,2024,Cyclist/vehicle,6,0,4
+Middletown,2024,Pedestrian/vehicle,15,0,11
+Middletown,2024,Vehicle/vehicle,1575,3,306
+Middletown,2025,Cyclist/vehicle,5,0,5
+Middletown,2025,Pedestrian/vehicle,19,1,16
+Middletown,2025,Vehicle/vehicle,1407,1,252
+Milford,2015,Cyclist/vehicle,6,0,5
+Milford,2015,Pedestrian/vehicle,20,0,17
+Milford,2015,Vehicle/vehicle,1609,0,441
+Milford,2016,Cyclist/vehicle,6,0,5
+Milford,2016,Pedestrian/vehicle,25,1,20
+Milford,2016,Vehicle/vehicle,1602,3,490
+Milford,2017,Cyclist/vehicle,5,0,3
+Milford,2017,Pedestrian/vehicle,25,0,23
+Milford,2017,Vehicle/vehicle,1425,2,419
+Milford,2018,Cyclist/vehicle,7,0,7
+Milford,2018,Pedestrian/vehicle,21,1,20
+Milford,2018,Vehicle/vehicle,1405,2,373
+Milford,2019,Cyclist/vehicle,8,0,6
+Milford,2019,Pedestrian/vehicle,28,0,26
+Milford,2019,Vehicle/vehicle,1462,3,439
+Milford,2020,Cyclist/vehicle,8,0,8
+Milford,2020,Pedestrian/vehicle,13,1,12
+Milford,2020,Vehicle/vehicle,926,0,306
+Milford,2021,Cyclist/vehicle,7,0,7
+Milford,2021,Pedestrian/vehicle,14,2,13
+Milford,2021,Vehicle/vehicle,1224,4,383
+Milford,2022,Cyclist/vehicle,3,0,2
+Milford,2022,Pedestrian/vehicle,23,2,21
+Milford,2022,Vehicle/vehicle,1304,6,361
+Milford,2023,Cyclist/vehicle,7,0,4
+Milford,2023,Pedestrian/vehicle,26,1,23
+Milford,2023,Vehicle/vehicle,1426,4,363
+Milford,2024,Cyclist/vehicle,7,0,5
+Milford,2024,Pedestrian/vehicle,33,0,29
+Milford,2024,Vehicle/vehicle,1514,3,333
+Milford,2025,Cyclist/vehicle,2,0,2
+Milford,2025,Pedestrian/vehicle,35,1,30
+Milford,2025,Vehicle/vehicle,1697,3,370
+Monroe,2015,Cyclist/vehicle,2,0,1
+Monroe,2015,Pedestrian/vehicle,2,0,2
+Monroe,2015,Vehicle/vehicle,522,0,117
+Monroe,2016,Vehicle/vehicle,439,3,93
+Monroe,2017,Pedestrian/vehicle,2,0,2
+Monroe,2017,Vehicle/vehicle,474,0,114
+Monroe,2018,Pedestrian/vehicle,1,0,0
+Monroe,2018,Vehicle/vehicle,431,0,99
+Monroe,2019,Cyclist/vehicle,3,0,3
+Monroe,2019,Pedestrian/vehicle,1,0,1
+Monroe,2019,Vehicle/vehicle,466,1,107
+Monroe,2020,Pedestrian/vehicle,1,0,1
+Monroe,2020,Vehicle/vehicle,298,0,78
+Monroe,2021,Cyclist/vehicle,1,0,1
+Monroe,2021,Vehicle/vehicle,364,0,77
+Monroe,2022,Cyclist/vehicle,1,0,1
+Monroe,2022,Pedestrian/vehicle,3,0,3
+Monroe,2022,Vehicle/vehicle,431,1,70
+Monroe,2023,Pedestrian/vehicle,1,0,1
+Monroe,2023,Vehicle/vehicle,395,0,83
+Monroe,2024,Cyclist/vehicle,1,0,0
+Monroe,2024,Pedestrian/vehicle,3,0,3
+Monroe,2024,Vehicle/vehicle,385,0,98
+Monroe,2025,Pedestrian/vehicle,1,0,1
+Monroe,2025,Vehicle/vehicle,369,0,76
+Montville,2015,Vehicle/vehicle,498,4,123
+Montville,2016,Cyclist/vehicle,3,0,2
+Montville,2016,Pedestrian/vehicle,3,0,3
+Montville,2016,Vehicle/vehicle,445,2,113
+Montville,2017,Cyclist/vehicle,1,0,1
+Montville,2017,Pedestrian/vehicle,2,0,2
+Montville,2017,Vehicle/vehicle,469,0,97
+Montville,2018,Cyclist/vehicle,2,0,2
+Montville,2018,Pedestrian/vehicle,4,0,2
+Montville,2018,Vehicle/vehicle,475,1,114
+Montville,2019,Cyclist/vehicle,2,0,2
+Montville,2019,Vehicle/vehicle,411,0,86
+Montville,2020,Pedestrian/vehicle,1,0,1
+Montville,2020,Vehicle/vehicle,356,0,87
+Montville,2021,Pedestrian/vehicle,3,0,3
+Montville,2021,Vehicle/vehicle,376,2,82
+Montville,2022,Cyclist/vehicle,1,0,1
+Montville,2022,Pedestrian/vehicle,3,1,3
+Montville,2022,Vehicle/vehicle,401,0,85
+Montville,2023,Pedestrian/vehicle,2,0,0
+Montville,2023,Vehicle/vehicle,400,1,88
+Montville,2024,Cyclist/vehicle,1,0,1
+Montville,2024,Pedestrian/vehicle,2,0,2
+Montville,2024,Vehicle/vehicle,423,2,89
+Montville,2025,Cyclist/vehicle,2,0,1
+Montville,2025,Vehicle/vehicle,417,3,92
+Morris,2015,Cyclist/vehicle,1,0,1
+Morris,2015,Vehicle/vehicle,38,0,8
+Morris,2016,Vehicle/vehicle,43,0,13
+Morris,2017,Vehicle/vehicle,41,0,7
+Morris,2018,Vehicle/vehicle,41,0,10
+Morris,2019,Vehicle/vehicle,42,0,9
+Morris,2020,Cyclist/vehicle,1,0,1
+Morris,2020,Vehicle/vehicle,21,0,5
+Morris,2021,Vehicle/vehicle,35,1,6
+Morris,2022,Vehicle/vehicle,37,0,14
+Morris,2023,Vehicle/vehicle,33,0,5
+Morris,2024,Vehicle/vehicle,50,0,15
+Morris,2025,Vehicle/vehicle,35,0,9
+Naugatuck,2015,Cyclist/vehicle,5,0,4
+Naugatuck,2015,Pedestrian/vehicle,12,0,10
+Naugatuck,2015,Vehicle/vehicle,431,0,89
+Naugatuck,2016,Cyclist/vehicle,2,0,0
+Naugatuck,2016,Pedestrian/vehicle,9,1,8
+Naugatuck,2016,Vehicle/vehicle,723,0,140
+Naugatuck,2017,Cyclist/vehicle,4,0,3
+Naugatuck,2017,Pedestrian/vehicle,8,0,7
+Naugatuck,2017,Vehicle/vehicle,701,1,141
+Naugatuck,2018,Pedestrian/vehicle,8,0,7
+Naugatuck,2018,Vehicle/vehicle,657,1,125
+Naugatuck,2019,Cyclist/vehicle,1,0,0
+Naugatuck,2019,Pedestrian/vehicle,13,0,12
+Naugatuck,2019,Vehicle/vehicle,606,0,130
+Naugatuck,2020,Cyclist/vehicle,4,0,4
+Naugatuck,2020,Pedestrian/vehicle,5,0,5
+Naugatuck,2020,Vehicle/vehicle,518,1,113
+Naugatuck,2021,Pedestrian/vehicle,6,0,6
+Naugatuck,2021,Vehicle/vehicle,664,1,125
+Naugatuck,2022,Cyclist/vehicle,2,0,2
+Naugatuck,2022,Pedestrian/vehicle,6,0,6
+Naugatuck,2022,Vehicle/vehicle,653,1,122
+Naugatuck,2023,Cyclist/vehicle,2,0,2
+Naugatuck,2023,Pedestrian/vehicle,13,0,12
+Naugatuck,2023,Vehicle/vehicle,589,1,132
+Naugatuck,2024,Cyclist/vehicle,5,0,3
+Naugatuck,2024,Pedestrian/vehicle,7,0,7
+Naugatuck,2024,Vehicle/vehicle,675,0,131
+Naugatuck,2025,Cyclist/vehicle,3,0,3
+Naugatuck,2025,Pedestrian/vehicle,9,1,6
+Naugatuck,2025,Vehicle/vehicle,684,1,141
+New Britain,2015,Cyclist/vehicle,15,0,14
+New Britain,2015,Pedestrian/vehicle,42,1,36
+New Britain,2015,Vehicle/vehicle,1237,1,317
+New Britain,2016,Cyclist/vehicle,15,0,15
+New Britain,2016,Pedestrian/vehicle,40,2,30
+New Britain,2016,Vehicle/vehicle,1540,4,421
+New Britain,2017,Cyclist/vehicle,17,0,17
+New Britain,2017,Pedestrian/vehicle,69,0,44
+New Britain,2017,Vehicle/vehicle,1580,3,467
+New Britain,2018,Cyclist/vehicle,14,0,11
+New Britain,2018,Pedestrian/vehicle,82,4,54
+New Britain,2018,Vehicle/vehicle,1810,4,457
+New Britain,2019,Cyclist/vehicle,9,0,7
+New Britain,2019,Pedestrian/vehicle,87,0,48
+New Britain,2019,Vehicle/vehicle,1687,1,491
+New Britain,2020,Cyclist/vehicle,7,0,7
+New Britain,2020,Pedestrian/vehicle,65,1,33
+New Britain,2020,Vehicle/vehicle,1346,5,394
+New Britain,2021,Cyclist/vehicle,7,0,7
+New Britain,2021,Pedestrian/vehicle,29,1,26
+New Britain,2021,Vehicle/vehicle,1457,2,457
+New Britain,2022,Cyclist/vehicle,6,0,6
+New Britain,2022,Pedestrian/vehicle,47,3,41
+New Britain,2022,Vehicle/vehicle,1391,2,420
+New Britain,2023,Cyclist/vehicle,10,0,9
+New Britain,2023,Pedestrian/vehicle,44,2,27
+New Britain,2023,Vehicle/vehicle,1291,3,378
+New Britain,2024,Cyclist/vehicle,8,0,8
+New Britain,2024,Pedestrian/vehicle,39,2,32
+New Britain,2024,Vehicle/vehicle,1363,4,406
+New Britain,2025,Cyclist/vehicle,5,0,4
+New Britain,2025,Pedestrian/vehicle,17,0,15
+New Britain,2025,Vehicle/vehicle,1226,2,382
+New Canaan,2015,Cyclist/vehicle,2,0,2
+New Canaan,2015,Pedestrian/vehicle,1,0,1
+New Canaan,2015,Vehicle/vehicle,409,0,84
+New Canaan,2016,Cyclist/vehicle,2,0,2
+New Canaan,2016,Pedestrian/vehicle,4,0,4
+New Canaan,2016,Vehicle/vehicle,399,0,91
+New Canaan,2017,Cyclist/vehicle,1,0,1
+New Canaan,2017,Pedestrian/vehicle,1,0,1
+New Canaan,2017,Vehicle/vehicle,379,0,82
+New Canaan,2018,Cyclist/vehicle,1,0,1
+New Canaan,2018,Pedestrian/vehicle,6,0,3
+New Canaan,2018,Vehicle/vehicle,511,2,102
+New Canaan,2019,Cyclist/vehicle,3,0,3
+New Canaan,2019,Pedestrian/vehicle,7,1,7
+New Canaan,2019,Vehicle/vehicle,505,0,102
+New Canaan,2020,Cyclist/vehicle,3,0,2
+New Canaan,2020,Pedestrian/vehicle,3,0,3
+New Canaan,2020,Vehicle/vehicle,286,0,51
+New Canaan,2021,Cyclist/vehicle,2,0,1
+New Canaan,2021,Pedestrian/vehicle,10,0,9
+New Canaan,2021,Vehicle/vehicle,487,0,79
+New Canaan,2022,Cyclist/vehicle,1,0,1
+New Canaan,2022,Pedestrian/vehicle,6,0,6
+New Canaan,2022,Vehicle/vehicle,487,0,68
+New Canaan,2023,Cyclist/vehicle,2,0,1
+New Canaan,2023,Pedestrian/vehicle,5,0,5
+New Canaan,2023,Vehicle/vehicle,429,0,80
+New Canaan,2024,Cyclist/vehicle,6,0,5
+New Canaan,2024,Pedestrian/vehicle,3,0,3
+New Canaan,2024,Vehicle/vehicle,481,0,91
+New Canaan,2025,Vehicle/vehicle,473,1,70
+New Fairfield,2015,Vehicle/vehicle,123,0,28
+New Fairfield,2016,Vehicle/vehicle,92,2,28
+New Fairfield,2017,Cyclist/vehicle,1,0,1
+New Fairfield,2017,Vehicle/vehicle,126,1,43
+New Fairfield,2018,Vehicle/vehicle,117,0,37
+New Fairfield,2019,Pedestrian/vehicle,2,0,2
+New Fairfield,2019,Vehicle/vehicle,121,0,27
+New Fairfield,2020,Vehicle/vehicle,103,0,24
+New Fairfield,2021,Vehicle/vehicle,132,0,31
+New Fairfield,2022,Pedestrian/vehicle,2,0,2
+New Fairfield,2022,Vehicle/vehicle,130,0,32
+New Fairfield,2023,Vehicle/vehicle,120,1,32
+New Fairfield,2024,Vehicle/vehicle,130,0,33
+New Fairfield,2025,Cyclist/vehicle,1,0,1
+New Fairfield,2025,Pedestrian/vehicle,1,0,1
+New Fairfield,2025,Vehicle/vehicle,134,1,38
+New Hartford,2015,Vehicle/vehicle,114,0,31
+New Hartford,2016,Pedestrian/vehicle,2,1,2
+New Hartford,2016,Vehicle/vehicle,104,1,35
+New Hartford,2017,Cyclist/vehicle,1,1,1
+New Hartford,2017,Pedestrian/vehicle,1,1,1
+New Hartford,2017,Vehicle/vehicle,100,1,36
+New Hartford,2018,Vehicle/vehicle,113,1,28
+New Hartford,2019,Cyclist/vehicle,1,1,1
+New Hartford,2019,Vehicle/vehicle,136,0,27
+New Hartford,2020,Pedestrian/vehicle,1,0,1
+New Hartford,2020,Vehicle/vehicle,99,1,30
+New Hartford,2021,Vehicle/vehicle,108,0,27
+New Hartford,2022,Pedestrian/vehicle,1,0,1
+New Hartford,2022,Vehicle/vehicle,103,2,20
+New Hartford,2023,Pedestrian/vehicle,1,1,1
+New Hartford,2023,Vehicle/vehicle,98,0,27
+New Hartford,2024,Cyclist/vehicle,1,0,1
+New Hartford,2024,Pedestrian/vehicle,2,0,2
+New Hartford,2024,Vehicle/vehicle,108,2,31
+New Hartford,2025,Pedestrian/vehicle,1,0,0
+New Hartford,2025,Vehicle/vehicle,106,0,23
+New Haven,2015,Cyclist/vehicle,66,0,52
+New Haven,2015,Pedestrian/vehicle,99,0,89
+New Haven,2015,Vehicle/vehicle,6298,7,1401
+New Haven,2016,Cyclist/vehicle,69,0,55
+New Haven,2016,Pedestrian/vehicle,143,3,134
+New Haven,2016,Vehicle/vehicle,6106,12,1519
+New Haven,2017,Cyclist/vehicle,92,1,74
+New Haven,2017,Pedestrian/vehicle,162,2,141
+New Haven,2017,Vehicle/vehicle,5917,8,1625
+New Haven,2018,Cyclist/vehicle,89,0,69
+New Haven,2018,Pedestrian/vehicle,133,3,122
+New Haven,2018,Vehicle/vehicle,7147,16,1820
+New Haven,2019,Cyclist/vehicle,85,0,72
+New Haven,2019,Pedestrian/vehicle,202,8,182
+New Haven,2019,Vehicle/vehicle,7269,9,1858
+New Haven,2020,Cyclist/vehicle,61,2,51
+New Haven,2020,Pedestrian/vehicle,133,9,122
+New Haven,2020,Vehicle/vehicle,5545,6,1471
+New Haven,2021,Cyclist/vehicle,42,1,31
+New Haven,2021,Pedestrian/vehicle,139,10,128
+New Haven,2021,Vehicle/vehicle,6600,12,1621
+New Haven,2022,Cyclist/vehicle,43,1,38
+New Haven,2022,Pedestrian/vehicle,167,4,151
+New Haven,2022,Vehicle/vehicle,6737,13,1573
+New Haven,2023,Cyclist/vehicle,44,0,37
+New Haven,2023,Pedestrian/vehicle,158,7,142
+New Haven,2023,Vehicle/vehicle,6617,8,1477
+New Haven,2024,Cyclist/vehicle,64,1,43
+New Haven,2024,Pedestrian/vehicle,149,4,135
+New Haven,2024,Vehicle/vehicle,6406,9,1413
+New Haven,2025,Cyclist/vehicle,58,0,51
+New Haven,2025,Pedestrian/vehicle,135,6,117
+New Haven,2025,Vehicle/vehicle,6604,5,1261
+New London,2015,Cyclist/vehicle,8,0,8
+New London,2015,Pedestrian/vehicle,20,1,16
+New London,2015,Vehicle/vehicle,666,1,114
+New London,2016,Cyclist/vehicle,11,0,8
+New London,2016,Pedestrian/vehicle,28,0,21
+New London,2016,Vehicle/vehicle,929,0,162
+New London,2017,Cyclist/vehicle,19,0,15
+New London,2017,Pedestrian/vehicle,24,0,21
+New London,2017,Vehicle/vehicle,844,0,151
+New London,2018,Cyclist/vehicle,9,0,4
+New London,2018,Pedestrian/vehicle,26,0,20
+New London,2018,Vehicle/vehicle,1009,0,139
+New London,2019,Cyclist/vehicle,8,0,4
+New London,2019,Pedestrian/vehicle,16,0,12
+New London,2019,Vehicle/vehicle,911,0,166
+New London,2020,Cyclist/vehicle,7,0,5
+New London,2020,Pedestrian/vehicle,16,1,15
+New London,2020,Vehicle/vehicle,802,0,136
+New London,2021,Cyclist/vehicle,8,0,6
+New London,2021,Pedestrian/vehicle,12,0,10
+New London,2021,Vehicle/vehicle,833,1,171
+New London,2022,Cyclist/vehicle,4,0,4
+New London,2022,Pedestrian/vehicle,12,0,9
+New London,2022,Vehicle/vehicle,787,0,140
+New London,2023,Cyclist/vehicle,4,0,4
+New London,2023,Pedestrian/vehicle,13,0,12
+New London,2023,Vehicle/vehicle,646,1,138
+New London,2024,Cyclist/vehicle,8,0,6
+New London,2024,Pedestrian/vehicle,13,1,11
+New London,2024,Vehicle/vehicle,831,3,178
+New London,2025,Cyclist/vehicle,3,0,2
+New London,2025,Pedestrian/vehicle,14,0,13
+New London,2025,Vehicle/vehicle,871,1,156
+New Milford,2015,Cyclist/vehicle,2,0,2
+New Milford,2015,Pedestrian/vehicle,7,1,7
+New Milford,2015,Vehicle/vehicle,584,2,133
+New Milford,2016,Cyclist/vehicle,1,0,1
+New Milford,2016,Pedestrian/vehicle,2,0,2
+New Milford,2016,Vehicle/vehicle,582,2,142
+New Milford,2017,Cyclist/vehicle,2,0,2
+New Milford,2017,Pedestrian/vehicle,7,1,7
+New Milford,2017,Vehicle/vehicle,584,0,147
+New Milford,2018,Pedestrian/vehicle,5,0,5
+New Milford,2018,Vehicle/vehicle,633,1,180
+New Milford,2019,Pedestrian/vehicle,5,1,3
+New Milford,2019,Vehicle/vehicle,646,1,154
+New Milford,2020,Cyclist/vehicle,2,0,2
+New Milford,2020,Pedestrian/vehicle,2,0,2
+New Milford,2020,Vehicle/vehicle,475,3,123
+New Milford,2021,Cyclist/vehicle,1,1,1
+New Milford,2021,Pedestrian/vehicle,4,0,4
+New Milford,2021,Vehicle/vehicle,572,0,141
+New Milford,2022,Cyclist/vehicle,2,0,1
+New Milford,2022,Pedestrian/vehicle,5,2,5
+New Milford,2022,Vehicle/vehicle,567,3,142
+New Milford,2023,Cyclist/vehicle,1,0,1
+New Milford,2023,Pedestrian/vehicle,3,0,3
+New Milford,2023,Vehicle/vehicle,571,6,156
+New Milford,2024,Cyclist/vehicle,5,0,4
+New Milford,2024,Pedestrian/vehicle,7,1,7
+New Milford,2024,Vehicle/vehicle,603,2,145
+New Milford,2025,Cyclist/vehicle,1,0,1
+New Milford,2025,Pedestrian/vehicle,4,0,3
+New Milford,2025,Vehicle/vehicle,537,0,124
+NewBritain,2015,Pedestrian/vehicle,16,0,14
+NewBritain,2015,Vehicle/vehicle,273,0,87
+NewBritain,2016,Cyclist/vehicle,5,0,3
+NewBritain,2016,Pedestrian/vehicle,9,0,6
+NewBritain,2016,Vehicle/vehicle,280,0,44
+NewBritain,2017,Pedestrian/vehicle,15,0,5
+NewBritain,2017,Vehicle/vehicle,320,0,37
+NewBritain,2018,Pedestrian/vehicle,2,0,2
+NewBritain,2018,Vehicle/vehicle,27,0,2
+NewCanaan,2015,Pedestrian/vehicle,2,0,2
+NewCanaan,2015,Vehicle/vehicle,82,0,18
+NewCanaan,2016,Pedestrian/vehicle,1,0,1
+NewCanaan,2016,Vehicle/vehicle,98,0,11
+NewCanaan,2017,Vehicle/vehicle,92,0,9
+NewCanaan,2018,Vehicle/vehicle,1,0,0
+NewFairfield,2015,Vehicle/vehicle,24,1,7
+NewFairfield,2016,Vehicle/vehicle,22,0,4
+NewFairfield,2017,Vehicle/vehicle,12,0,1
+NewHartford,2015,Vehicle/vehicle,24,0,6
+NewHartford,2016,Vehicle/vehicle,17,0,3
+NewHartford,2017,Vehicle/vehicle,24,0,3
+NewHartford,2018,Vehicle/vehicle,1,0,0
+NewHaven,2015,Cyclist/vehicle,23,0,17
+NewHaven,2015,Pedestrian/vehicle,36,0,27
+NewHaven,2015,Vehicle/vehicle,1658,0,391
+NewHaven,2016,Cyclist/vehicle,12,0,7
+NewHaven,2016,Pedestrian/vehicle,33,0,26
+NewHaven,2016,Vehicle/vehicle,1426,0,211
+NewHaven,2017,Cyclist/vehicle,7,0,5
+NewHaven,2017,Pedestrian/vehicle,15,0,11
+NewHaven,2017,Vehicle/vehicle,1641,0,129
+NewHaven,2018,Vehicle/vehicle,6,0,0
+NewHaven,2019,Pedestrian/vehicle,1,0,0
+NewHaven,2019,Vehicle/vehicle,1,0,0
+NewHaven,2020,Vehicle/vehicle,1,0,0
+NewLondon,2015,Cyclist/vehicle,5,0,3
+NewLondon,2015,Pedestrian/vehicle,6,0,3
+NewLondon,2015,Vehicle/vehicle,176,0,37
+NewLondon,2016,Cyclist/vehicle,1,0,1
+NewLondon,2016,Pedestrian/vehicle,6,0,5
+NewLondon,2016,Vehicle/vehicle,165,0,16
+NewLondon,2017,Pedestrian/vehicle,1,0,1
+NewLondon,2017,Vehicle/vehicle,212,0,19
+NewLondon,2018,Vehicle/vehicle,2,0,0
+NewLondon,2019,Vehicle/vehicle,2,0,0
+NewMilford,2015,Vehicle/vehicle,115,0,25
+NewMilford,2016,Pedestrian/vehicle,1,0,1
+NewMilford,2016,Vehicle/vehicle,83,0,17
+NewMilford,2017,Cyclist/vehicle,1,0,0
+NewMilford,2017,Pedestrian/vehicle,1,0,1
+NewMilford,2017,Vehicle/vehicle,88,0,19
+NewMilford,2019,Vehicle/vehicle,1,0,0
+Newington,2015,Cyclist/vehicle,1,0,1
+Newington,2015,Pedestrian/vehicle,5,2,4
+Newington,2015,Vehicle/vehicle,758,3,196
+Newington,2016,Cyclist/vehicle,4,0,2
+Newington,2016,Pedestrian/vehicle,9,1,9
+Newington,2016,Vehicle/vehicle,973,1,268
+Newington,2017,Cyclist/vehicle,1,0,1
+Newington,2017,Pedestrian/vehicle,7,0,7
+Newington,2017,Vehicle/vehicle,929,0,245
+Newington,2018,Cyclist/vehicle,3,0,3
+Newington,2018,Pedestrian/vehicle,8,1,7
+Newington,2018,Vehicle/vehicle,906,1,229
+Newington,2019,Cyclist/vehicle,2,0,2
+Newington,2019,Pedestrian/vehicle,5,0,5
+Newington,2019,Vehicle/vehicle,976,1,247
+Newington,2020,Cyclist/vehicle,2,0,2
+Newington,2020,Pedestrian/vehicle,8,0,8
+Newington,2020,Vehicle/vehicle,684,1,198
+Newington,2021,Cyclist/vehicle,6,0,4
+Newington,2021,Pedestrian/vehicle,13,1,13
+Newington,2021,Vehicle/vehicle,836,1,215
+Newington,2022,Cyclist/vehicle,1,0,1
+Newington,2022,Pedestrian/vehicle,7,0,6
+Newington,2022,Vehicle/vehicle,878,1,220
+Newington,2023,Cyclist/vehicle,6,0,4
+Newington,2023,Pedestrian/vehicle,5,0,5
+Newington,2023,Vehicle/vehicle,894,0,218
+Newington,2024,Cyclist/vehicle,4,0,4
+Newington,2024,Pedestrian/vehicle,13,1,10
+Newington,2024,Vehicle/vehicle,903,1,188
+Newington,2025,Cyclist/vehicle,4,0,4
+Newington,2025,Pedestrian/vehicle,8,0,8
+Newington,2025,Vehicle/vehicle,1019,2,222
+Newtown,2015,Pedestrian/vehicle,4,0,3
+Newtown,2015,Vehicle/vehicle,883,0,157
+Newtown,2016,Pedestrian/vehicle,4,0,2
+Newtown,2016,Vehicle/vehicle,835,1,143
+Newtown,2017,Pedestrian/vehicle,2,1,2
+Newtown,2017,Vehicle/vehicle,875,5,153
+Newtown,2018,Pedestrian/vehicle,2,0,2
+Newtown,2018,Vehicle/vehicle,943,1,188
+Newtown,2019,Pedestrian/vehicle,2,0,1
+Newtown,2019,Vehicle/vehicle,961,1,203
+Newtown,2020,Vehicle/vehicle,621,2,128
+Newtown,2021,Cyclist/vehicle,1,0,1
+Newtown,2021,Pedestrian/vehicle,1,1,1
+Newtown,2021,Vehicle/vehicle,951,2,181
+Newtown,2022,Cyclist/vehicle,2,0,1
+Newtown,2022,Pedestrian/vehicle,1,0,1
+Newtown,2022,Vehicle/vehicle,861,2,169
+Newtown,2023,Pedestrian/vehicle,3,0,2
+Newtown,2023,Vehicle/vehicle,844,2,174
+Newtown,2024,Cyclist/vehicle,1,0,1
+Newtown,2024,Pedestrian/vehicle,4,1,4
+Newtown,2024,Vehicle/vehicle,866,2,172
+Newtown,2025,Cyclist/vehicle,1,0,0
+Newtown,2025,Pedestrian/vehicle,7,1,7
+Newtown,2025,Vehicle/vehicle,848,2,164
+Norfolk,2015,Vehicle/vehicle,35,0,14
+Norfolk,2016,Vehicle/vehicle,28,0,5
+Norfolk,2017,Vehicle/vehicle,33,0,9
+Norfolk,2018,Cyclist/vehicle,1,0,1
+Norfolk,2018,Vehicle/vehicle,41,1,12
+Norfolk,2019,Vehicle/vehicle,23,0,5
+Norfolk,2020,Cyclist/vehicle,1,0,1
+Norfolk,2020,Vehicle/vehicle,20,0,8
+Norfolk,2021,Vehicle/vehicle,28,0,6
+Norfolk,2022,Vehicle/vehicle,36,1,7
+Norfolk,2023,Pedestrian/vehicle,1,0,1
+Norfolk,2023,Vehicle/vehicle,28,0,10
+Norfolk,2024,Vehicle/vehicle,35,1,11
+Norfolk,2025,Vehicle/vehicle,34,1,5
+North Branford,2015,Cyclist/vehicle,1,0,0
+North Branford,2015,Pedestrian/vehicle,1,0,1
+North Branford,2015,Vehicle/vehicle,201,1,50
+North Branford,2016,Cyclist/vehicle,1,0,0
+North Branford,2016,Pedestrian/vehicle,1,0,1
+North Branford,2016,Vehicle/vehicle,206,1,71
+North Branford,2017,Pedestrian/vehicle,1,0,1
+North Branford,2017,Vehicle/vehicle,185,0,59
+North Branford,2018,Vehicle/vehicle,263,3,65
+North Branford,2019,Cyclist/vehicle,3,0,1
+North Branford,2019,Pedestrian/vehicle,1,0,1
+North Branford,2019,Vehicle/vehicle,247,1,58
+North Branford,2020,Pedestrian/vehicle,2,0,1
+North Branford,2020,Vehicle/vehicle,182,2,59
+North Branford,2021,Cyclist/vehicle,1,0,1
+North Branford,2021,Pedestrian/vehicle,2,1,2
+North Branford,2021,Vehicle/vehicle,225,3,59
+North Branford,2022,Pedestrian/vehicle,1,1,1
+North Branford,2022,Vehicle/vehicle,218,1,65
+North Branford,2023,Vehicle/vehicle,233,0,60
+North Branford,2024,Pedestrian/vehicle,1,1,1
+North Branford,2024,Vehicle/vehicle,216,0,64
+North Branford,2025,Vehicle/vehicle,244,2,81
+North Canaan,2015,Pedestrian/vehicle,1,1,1
+North Canaan,2015,Vehicle/vehicle,50,1,10
+North Canaan,2016,Vehicle/vehicle,42,1,17
+North Canaan,2017,Pedestrian/vehicle,1,0,0
+North Canaan,2017,Vehicle/vehicle,48,0,10
+North Canaan,2018,Vehicle/vehicle,63,1,16
+North Canaan,2019,Cyclist/vehicle,1,0,0
+North Canaan,2019,Vehicle/vehicle,71,1,18
+North Canaan,2020,Pedestrian/vehicle,1,0,1
+North Canaan,2020,Vehicle/vehicle,49,1,9
+North Canaan,2021,Vehicle/vehicle,54,0,16
+North Canaan,2022,Pedestrian/vehicle,3,0,3
+North Canaan,2022,Vehicle/vehicle,50,0,12
+North Canaan,2023,Cyclist/vehicle,1,0,1
+North Canaan,2023,Pedestrian/vehicle,1,0,1
+North Canaan,2023,Vehicle/vehicle,58,1,13
+North Canaan,2024,Pedestrian/vehicle,1,0,1
+North Canaan,2024,Vehicle/vehicle,66,0,10
+North Canaan,2025,Cyclist/vehicle,1,0,1
+North Canaan,2025,Vehicle/vehicle,59,0,5
+North Haven,2015,Cyclist/vehicle,3,0,1
+North Haven,2015,Pedestrian/vehicle,7,1,7
+North Haven,2015,Vehicle/vehicle,1013,1,234
+North Haven,2016,Cyclist/vehicle,3,0,0
+North Haven,2016,Pedestrian/vehicle,3,0,3
+North Haven,2016,Vehicle/vehicle,1099,4,263
+North Haven,2017,Cyclist/vehicle,3,0,2
+North Haven,2017,Pedestrian/vehicle,7,0,7
+North Haven,2017,Vehicle/vehicle,1003,3,304
+North Haven,2018,Cyclist/vehicle,2,0,2
+North Haven,2018,Pedestrian/vehicle,4,3,4
+North Haven,2018,Vehicle/vehicle,1303,2,301
+North Haven,2019,Cyclist/vehicle,2,0,1
+North Haven,2019,Pedestrian/vehicle,7,1,7
+North Haven,2019,Vehicle/vehicle,1317,1,366
+North Haven,2020,Cyclist/vehicle,5,0,5
+North Haven,2020,Pedestrian/vehicle,6,0,6
+North Haven,2020,Vehicle/vehicle,923,3,237
+North Haven,2021,Cyclist/vehicle,1,0,1
+North Haven,2021,Pedestrian/vehicle,5,0,5
+North Haven,2021,Vehicle/vehicle,1302,3,305
+North Haven,2022,Cyclist/vehicle,3,0,1
+North Haven,2022,Pedestrian/vehicle,6,1,5
+North Haven,2022,Vehicle/vehicle,1285,5,304
+North Haven,2023,Cyclist/vehicle,3,0,3
+North Haven,2023,Pedestrian/vehicle,3,0,2
+North Haven,2023,Vehicle/vehicle,1303,2,268
+North Haven,2024,Cyclist/vehicle,1,0,1
+North Haven,2024,Pedestrian/vehicle,6,1,5
+North Haven,2024,Vehicle/vehicle,1332,2,284
+North Haven,2025,Cyclist/vehicle,2,0,1
+North Haven,2025,Pedestrian/vehicle,3,1,3
+North Haven,2025,Vehicle/vehicle,1208,4,269
+North Stonington,2015,Vehicle/vehicle,139,2,34
+North Stonington,2016,Cyclist/vehicle,1,0,1
+North Stonington,2016,Vehicle/vehicle,113,0,24
+North Stonington,2017,Pedestrian/vehicle,2,1,2
+North Stonington,2017,Vehicle/vehicle,126,0,35
+North Stonington,2018,Pedestrian/vehicle,1,1,1
+North Stonington,2018,Vehicle/vehicle,127,3,28
+North Stonington,2019,Vehicle/vehicle,125,3,24
+North Stonington,2020,Vehicle/vehicle,113,1,28
+North Stonington,2021,Cyclist/vehicle,1,0,0
+North Stonington,2021,Pedestrian/vehicle,1,0,1
+North Stonington,2021,Vehicle/vehicle,156,2,36
+North Stonington,2022,Pedestrian/vehicle,2,0,2
+North Stonington,2022,Vehicle/vehicle,145,1,36
+North Stonington,2023,Vehicle/vehicle,131,0,35
+North Stonington,2024,Pedestrian/vehicle,2,0,2
+North Stonington,2024,Vehicle/vehicle,142,0,29
+North Stonington,2025,Vehicle/vehicle,127,0,35
+NorthBranford,2015,Vehicle/vehicle,55,0,20
+NorthBranford,2016,Pedestrian/vehicle,1,0,1
+NorthBranford,2016,Vehicle/vehicle,43,0,9
+NorthBranford,2017,Vehicle/vehicle,57,0,8
+NorthCanaan,2015,Vehicle/vehicle,10,0,4
+NorthCanaan,2016,Vehicle/vehicle,12,0,0
+NorthCanaan,2017,Vehicle/vehicle,9,0,2
+NorthHaven,2015,Cyclist/vehicle,1,0,1
+NorthHaven,2015,Pedestrian/vehicle,5,0,5
+NorthHaven,2015,Vehicle/vehicle,261,0,61
+NorthHaven,2016,Vehicle/vehicle,186,0,40
+NorthHaven,2017,Vehicle/vehicle,219,0,16
+NorthStonington,2015,Vehicle/vehicle,20,0,4
+NorthStonington,2016,Vehicle/vehicle,24,0,4
+NorthStonington,2017,Vehicle/vehicle,18,0,1
+Norwalk,2015,Cyclist/vehicle,11,0,11
+Norwalk,2015,Pedestrian/vehicle,31,0,30
+Norwalk,2015,Vehicle/vehicle,2523,7,469
+Norwalk,2016,Cyclist/vehicle,12,0,12
+Norwalk,2016,Pedestrian/vehicle,43,3,39
+Norwalk,2016,Vehicle/vehicle,2562,0,450
+Norwalk,2017,Cyclist/vehicle,15,1,9
+Norwalk,2017,Pedestrian/vehicle,48,3,39
+Norwalk,2017,Vehicle/vehicle,3497,1,621
+Norwalk,2018,Cyclist/vehicle,20,0,15
+Norwalk,2018,Pedestrian/vehicle,49,1,44
+Norwalk,2018,Vehicle/vehicle,3680,4,644
+Norwalk,2019,Cyclist/vehicle,21,0,16
+Norwalk,2019,Pedestrian/vehicle,62,1,53
+Norwalk,2019,Vehicle/vehicle,3628,0,611
+Norwalk,2020,Cyclist/vehicle,14,0,11
+Norwalk,2020,Pedestrian/vehicle,49,1,42
+Norwalk,2020,Vehicle/vehicle,2387,4,410
+Norwalk,2021,Cyclist/vehicle,21,0,14
+Norwalk,2021,Pedestrian/vehicle,45,0,41
+Norwalk,2021,Vehicle/vehicle,3414,1,605
+Norwalk,2022,Cyclist/vehicle,23,0,16
+Norwalk,2022,Pedestrian/vehicle,48,1,39
+Norwalk,2022,Vehicle/vehicle,3658,2,659
+Norwalk,2023,Cyclist/vehicle,17,0,17
+Norwalk,2023,Pedestrian/vehicle,53,0,48
+Norwalk,2023,Vehicle/vehicle,3622,3,574
+Norwalk,2024,Cyclist/vehicle,24,0,18
+Norwalk,2024,Pedestrian/vehicle,69,1,62
+Norwalk,2024,Vehicle/vehicle,3688,3,559
+Norwalk,2025,Cyclist/vehicle,22,1,18
+Norwalk,2025,Pedestrian/vehicle,63,2,56
+Norwalk,2025,Vehicle/vehicle,3165,4,485
+Norwich,2015,Cyclist/vehicle,7,0,6
+Norwich,2015,Pedestrian/vehicle,15,0,14
+Norwich,2015,Vehicle/vehicle,1275,3,228
+Norwich,2016,Cyclist/vehicle,3,0,3
+Norwich,2016,Pedestrian/vehicle,11,1,11
+Norwich,2016,Vehicle/vehicle,1205,3,266
+Norwich,2017,Cyclist/vehicle,2,0,2
+Norwich,2017,Pedestrian/vehicle,14,0,10
+Norwich,2017,Vehicle/vehicle,1308,4,264
+Norwich,2018,Cyclist/vehicle,1,0,1
+Norwich,2018,Pedestrian/vehicle,16,0,12
+Norwich,2018,Vehicle/vehicle,1358,2,258
+Norwich,2019,Cyclist/vehicle,6,0,4
+Norwich,2019,Pedestrian/vehicle,13,0,12
+Norwich,2019,Vehicle/vehicle,1383,4,254
+Norwich,2020,Cyclist/vehicle,6,0,5
+Norwich,2020,Pedestrian/vehicle,17,0,15
+Norwich,2020,Vehicle/vehicle,1140,4,243
+Norwich,2021,Pedestrian/vehicle,16,0,15
+Norwich,2021,Vehicle/vehicle,1288,1,261
+Norwich,2022,Cyclist/vehicle,2,0,2
+Norwich,2022,Pedestrian/vehicle,25,1,22
+Norwich,2022,Vehicle/vehicle,1284,3,255
+Norwich,2023,Cyclist/vehicle,6,0,5
+Norwich,2023,Pedestrian/vehicle,7,0,7
+Norwich,2023,Vehicle/vehicle,1101,3,226
+Norwich,2024,Cyclist/vehicle,12,0,11
+Norwich,2024,Pedestrian/vehicle,10,0,10
+Norwich,2024,Vehicle/vehicle,1282,1,249
+Norwich,2025,Cyclist/vehicle,2,0,2
+Norwich,2025,Pedestrian/vehicle,13,0,13
+Norwich,2025,Vehicle/vehicle,1327,0,252
+Old Lyme,2015,Pedestrian/vehicle,2,0,2
+Old Lyme,2015,Vehicle/vehicle,187,2,34
+Old Lyme,2016,Pedestrian/vehicle,3,1,3
+Old Lyme,2016,Vehicle/vehicle,156,2,37
+Old Lyme,2017,Pedestrian/vehicle,1,1,1
+Old Lyme,2017,Vehicle/vehicle,181,2,39
+Old Lyme,2018,Pedestrian/vehicle,3,0,3
+Old Lyme,2018,Vehicle/vehicle,151,0,45
+Old Lyme,2019,Cyclist/vehicle,1,0,1
+Old Lyme,2019,Pedestrian/vehicle,1,0,1
+Old Lyme,2019,Vehicle/vehicle,156,1,38
+Old Lyme,2020,Pedestrian/vehicle,1,0,1
+Old Lyme,2020,Vehicle/vehicle,117,1,38
+Old Lyme,2021,Cyclist/vehicle,1,0,1
+Old Lyme,2021,Pedestrian/vehicle,1,0,1
+Old Lyme,2021,Vehicle/vehicle,150,0,32
+Old Lyme,2022,Cyclist/vehicle,1,0,1
+Old Lyme,2022,Pedestrian/vehicle,2,0,2
+Old Lyme,2022,Vehicle/vehicle,184,1,44
+Old Lyme,2023,Cyclist/vehicle,1,0,1
+Old Lyme,2023,Pedestrian/vehicle,1,0,1
+Old Lyme,2023,Vehicle/vehicle,139,2,41
+Old Lyme,2024,Vehicle/vehicle,169,0,52
+Old Lyme,2025,Pedestrian/vehicle,2,0,2
+Old Lyme,2025,Vehicle/vehicle,157,0,39
+Old Saybrook,2015,Cyclist/vehicle,3,0,1
+Old Saybrook,2015,Pedestrian/vehicle,2,0,2
+Old Saybrook,2015,Vehicle/vehicle,225,1,38
+Old Saybrook,2016,Cyclist/vehicle,4,0,4
+Old Saybrook,2016,Pedestrian/vehicle,4,1,4
+Old Saybrook,2016,Vehicle/vehicle,253,1,42
+Old Saybrook,2017,Cyclist/vehicle,2,0,2
+Old Saybrook,2017,Pedestrian/vehicle,2,0,2
+Old Saybrook,2017,Vehicle/vehicle,254,0,66
+Old Saybrook,2018,Cyclist/vehicle,5,0,5
+Old Saybrook,2018,Pedestrian/vehicle,1,0,1
+Old Saybrook,2018,Vehicle/vehicle,349,0,51
+Old Saybrook,2019,Cyclist/vehicle,4,0,3
+Old Saybrook,2019,Pedestrian/vehicle,2,0,1
+Old Saybrook,2019,Vehicle/vehicle,285,1,41
+Old Saybrook,2020,Cyclist/vehicle,4,0,3
+Old Saybrook,2020,Pedestrian/vehicle,3,0,3
+Old Saybrook,2020,Vehicle/vehicle,264,0,39
+Old Saybrook,2021,Cyclist/vehicle,3,0,1
+Old Saybrook,2021,Pedestrian/vehicle,2,0,2
+Old Saybrook,2021,Vehicle/vehicle,280,0,55
+Old Saybrook,2022,Cyclist/vehicle,2,0,1
+Old Saybrook,2022,Pedestrian/vehicle,2,0,2
+Old Saybrook,2022,Vehicle/vehicle,284,0,66
+Old Saybrook,2023,Cyclist/vehicle,4,0,2
+Old Saybrook,2023,Vehicle/vehicle,306,0,50
+Old Saybrook,2024,Cyclist/vehicle,3,0,3
+Old Saybrook,2024,Pedestrian/vehicle,2,0,2
+Old Saybrook,2024,Vehicle/vehicle,260,0,50
+Old Saybrook,2025,Cyclist/vehicle,5,0,2
+Old Saybrook,2025,Vehicle/vehicle,258,2,41
+OldLyme,2015,Vehicle/vehicle,31,0,9
+OldLyme,2016,Vehicle/vehicle,23,0,2
+OldLyme,2017,Vehicle/vehicle,49,0,4
+OldSaybrook,2015,Vehicle/vehicle,54,0,11
+OldSaybrook,2016,Cyclist/vehicle,1,0,1
+OldSaybrook,2016,Vehicle/vehicle,62,0,14
+OldSaybrook,2017,Cyclist/vehicle,1,0,0
+OldSaybrook,2017,Pedestrian/vehicle,1,0,0
+OldSaybrook,2017,Vehicle/vehicle,72,0,1
+Orange,2015,Cyclist/vehicle,4,0,4
+Orange,2015,Pedestrian/vehicle,6,0,6
+Orange,2015,Vehicle/vehicle,1093,1,274
+Orange,2016,Cyclist/vehicle,2,0,2
+Orange,2016,Pedestrian/vehicle,3,1,2
+Orange,2016,Vehicle/vehicle,1057,1,295
+Orange,2017,Cyclist/vehicle,3,0,1
+Orange,2017,Pedestrian/vehicle,4,0,3
+Orange,2017,Vehicle/vehicle,1149,2,325
+Orange,2018,Cyclist/vehicle,1,0,1
+Orange,2018,Pedestrian/vehicle,5,1,4
+Orange,2018,Vehicle/vehicle,1083,3,312
+Orange,2019,Cyclist/vehicle,2,0,2
+Orange,2019,Pedestrian/vehicle,5,1,5
+Orange,2019,Vehicle/vehicle,1087,2,258
+Orange,2020,Pedestrian/vehicle,2,0,1
+Orange,2020,Vehicle/vehicle,844,1,234
+Orange,2021,Cyclist/vehicle,1,0,1
+Orange,2021,Pedestrian/vehicle,6,0,6
+Orange,2021,Vehicle/vehicle,993,2,256
+Orange,2022,Cyclist/vehicle,2,0,2
+Orange,2022,Pedestrian/vehicle,4,1,4
+Orange,2022,Vehicle/vehicle,993,0,234
+Orange,2023,Cyclist/vehicle,2,0,2
+Orange,2023,Pedestrian/vehicle,12,1,11
+Orange,2023,Vehicle/vehicle,1004,2,227
+Orange,2024,Cyclist/vehicle,1,0,1
+Orange,2024,Pedestrian/vehicle,3,0,3
+Orange,2024,Vehicle/vehicle,969,0,203
+Orange,2025,Cyclist/vehicle,1,0,1
+Orange,2025,Pedestrian/vehicle,8,0,7
+Orange,2025,Vehicle/vehicle,988,2,238
+Oxford,2015,Vehicle/vehicle,195,0,39
+Oxford,2016,Vehicle/vehicle,212,2,52
+Oxford,2017,Cyclist/vehicle,1,0,1
+Oxford,2017,Pedestrian/vehicle,1,0,1
+Oxford,2017,Vehicle/vehicle,209,0,44
+Oxford,2018,Vehicle/vehicle,191,0,45
+Oxford,2019,Pedestrian/vehicle,1,0,1
+Oxford,2019,Vehicle/vehicle,187,1,47
+Oxford,2020,Cyclist/vehicle,1,0,1
+Oxford,2020,Vehicle/vehicle,150,0,42
+Oxford,2021,Cyclist/vehicle,1,0,1
+Oxford,2021,Pedestrian/vehicle,1,0,1
+Oxford,2021,Vehicle/vehicle,177,0,54
+Oxford,2022,Cyclist/vehicle,1,0,1
+Oxford,2022,Vehicle/vehicle,209,0,53
+Oxford,2023,Pedestrian/vehicle,1,1,1
+Oxford,2023,Vehicle/vehicle,159,0,38
+Oxford,2024,Vehicle/vehicle,181,1,35
+Oxford,2025,Pedestrian/vehicle,1,0,1
+Oxford,2025,Vehicle/vehicle,166,1,53
+Plainfield,2015,Cyclist/vehicle,1,0,1
+Plainfield,2015,Pedestrian/vehicle,4,1,3
+Plainfield,2015,Vehicle/vehicle,186,2,53
+Plainfield,2016,Pedestrian/vehicle,1,0,0
+Plainfield,2016,Vehicle/vehicle,211,1,66
+Plainfield,2017,Vehicle/vehicle,214,1,50
+Plainfield,2018,Pedestrian/vehicle,5,0,4
+Plainfield,2018,Vehicle/vehicle,288,2,78
+Plainfield,2019,Vehicle/vehicle,293,2,56
+Plainfield,2020,Cyclist/vehicle,1,0,1
+Plainfield,2020,Vehicle/vehicle,239,1,74
+Plainfield,2021,Vehicle/vehicle,322,1,81
+Plainfield,2022,Pedestrian/vehicle,2,0,2
+Plainfield,2022,Vehicle/vehicle,300,1,65
+Plainfield,2023,Cyclist/vehicle,2,0,2
+Plainfield,2023,Pedestrian/vehicle,2,0,2
+Plainfield,2023,Vehicle/vehicle,352,1,95
+Plainfield,2024,Cyclist/vehicle,1,0,0
+Plainfield,2024,Pedestrian/vehicle,1,0,1
+Plainfield,2024,Vehicle/vehicle,348,0,81
+Plainfield,2025,Cyclist/vehicle,2,0,2
+Plainfield,2025,Pedestrian/vehicle,1,0,1
+Plainfield,2025,Vehicle/vehicle,259,1,60
+Plainville,2015,Cyclist/vehicle,4,0,4
+Plainville,2015,Pedestrian/vehicle,4,1,4
+Plainville,2015,Vehicle/vehicle,660,1,182
+Plainville,2016,Cyclist/vehicle,2,0,1
+Plainville,2016,Pedestrian/vehicle,7,0,6
+Plainville,2016,Vehicle/vehicle,702,1,210
+Plainville,2017,Cyclist/vehicle,5,0,3
+Plainville,2017,Pedestrian/vehicle,5,1,5
+Plainville,2017,Vehicle/vehicle,694,1,204
+Plainville,2018,Cyclist/vehicle,1,0,1
+Plainville,2018,Pedestrian/vehicle,2,0,2
+Plainville,2018,Vehicle/vehicle,672,2,192
+Plainville,2019,Cyclist/vehicle,1,0,1
+Plainville,2019,Pedestrian/vehicle,4,0,3
+Plainville,2019,Vehicle/vehicle,633,4,169
+Plainville,2020,Pedestrian/vehicle,4,1,4
+Plainville,2020,Vehicle/vehicle,449,0,138
+Plainville,2021,Cyclist/vehicle,1,0,1
+Plainville,2021,Pedestrian/vehicle,7,2,6
+Plainville,2021,Vehicle/vehicle,578,1,149
+Plainville,2022,Pedestrian/vehicle,4,1,4
+Plainville,2022,Vehicle/vehicle,581,5,160
+Plainville,2023,Cyclist/vehicle,2,0,1
+Plainville,2023,Pedestrian/vehicle,5,0,5
+Plainville,2023,Vehicle/vehicle,613,0,173
+Plainville,2024,Cyclist/vehicle,6,0,4
+Plainville,2024,Pedestrian/vehicle,3,0,3
+Plainville,2024,Vehicle/vehicle,605,1,142
+Plainville,2025,Cyclist/vehicle,3,0,1
+Plainville,2025,Pedestrian/vehicle,4,1,3
+Plainville,2025,Vehicle/vehicle,641,0,131
+Plymouth,2015,Pedestrian/vehicle,1,0,0
+Plymouth,2015,Vehicle/vehicle,212,1,47
+Plymouth,2016,Cyclist/vehicle,1,0,0
+Plymouth,2016,Pedestrian/vehicle,3,0,3
+Plymouth,2016,Vehicle/vehicle,260,0,66
+Plymouth,2017,Cyclist/vehicle,1,0,1
+Plymouth,2017,Vehicle/vehicle,267,1,78
+Plymouth,2018,Pedestrian/vehicle,1,0,1
+Plymouth,2018,Vehicle/vehicle,245,1,67
+Plymouth,2019,Pedestrian/vehicle,2,0,2
+Plymouth,2019,Vehicle/vehicle,233,0,73
+Plymouth,2020,Cyclist/vehicle,2,0,2
+Plymouth,2020,Pedestrian/vehicle,4,0,3
+Plymouth,2020,Vehicle/vehicle,163,0,40
+Plymouth,2021,Cyclist/vehicle,1,0,1
+Plymouth,2021,Pedestrian/vehicle,1,0,1
+Plymouth,2021,Vehicle/vehicle,199,0,43
+Plymouth,2022,Cyclist/vehicle,2,0,2
+Plymouth,2022,Pedestrian/vehicle,2,0,1
+Plymouth,2022,Vehicle/vehicle,231,1,68
+Plymouth,2023,Pedestrian/vehicle,3,0,2
+Plymouth,2023,Vehicle/vehicle,232,1,70
+Plymouth,2024,Pedestrian/vehicle,1,0,1
+Plymouth,2024,Vehicle/vehicle,235,1,68
+Plymouth,2025,Cyclist/vehicle,3,0,3
+Plymouth,2025,Vehicle/vehicle,191,0,51
+Pomfret,2015,Vehicle/vehicle,65,0,19
+Pomfret,2016,Vehicle/vehicle,66,0,16
+Pomfret,2017,Pedestrian/vehicle,1,1,1
+Pomfret,2017,Vehicle/vehicle,70,0,25
+Pomfret,2018,Vehicle/vehicle,52,1,11
+Pomfret,2019,Vehicle/vehicle,71,1,21
+Pomfret,2020,Vehicle/vehicle,48,2,20
+Pomfret,2021,Vehicle/vehicle,59,2,16
+Pomfret,2022,Vehicle/vehicle,60,0,16
+Pomfret,2023,Pedestrian/vehicle,1,0,1
+Pomfret,2023,Vehicle/vehicle,71,1,18
+Pomfret,2024,Vehicle/vehicle,81,0,20
+Pomfret,2025,Vehicle/vehicle,84,2,28
+Portland,2015,Pedestrian/vehicle,1,0,1
+Portland,2015,Vehicle/vehicle,133,2,37
+Portland,2016,Cyclist/vehicle,1,0,0
+Portland,2016,Pedestrian/vehicle,1,0,1
+Portland,2016,Vehicle/vehicle,178,2,41
+Portland,2017,Cyclist/vehicle,1,0,0
+Portland,2017,Pedestrian/vehicle,1,0,1
+Portland,2017,Vehicle/vehicle,176,2,46
+Portland,2018,Pedestrian/vehicle,1,0,1
+Portland,2018,Vehicle/vehicle,185,1,44
+Portland,2019,Pedestrian/vehicle,1,0,1
+Portland,2019,Vehicle/vehicle,151,0,41
+Portland,2020,Vehicle/vehicle,138,1,32
+Portland,2021,Pedestrian/vehicle,2,0,2
+Portland,2021,Vehicle/vehicle,134,0,30
+Portland,2022,Vehicle/vehicle,126,0,33
+Portland,2023,Vehicle/vehicle,128,1,35
+Portland,2024,Cyclist/vehicle,3,0,1
+Portland,2024,Pedestrian/vehicle,2,1,2
+Portland,2024,Vehicle/vehicle,143,0,35
+Portland,2025,Pedestrian/vehicle,1,0,1
+Portland,2025,Vehicle/vehicle,120,1,41
+Preston,2015,Pedestrian/vehicle,2,1,2
+Preston,2015,Vehicle/vehicle,183,0,71
+Preston,2016,Cyclist/vehicle,2,1,2
+Preston,2016,Pedestrian/vehicle,1,0,1
+Preston,2016,Vehicle/vehicle,168,3,45
+Preston,2017,Pedestrian/vehicle,1,0,1
+Preston,2017,Vehicle/vehicle,170,1,45
+Preston,2018,Vehicle/vehicle,173,1,57
+Preston,2019,Pedestrian/vehicle,1,0,1
+Preston,2019,Vehicle/vehicle,153,2,44
+Preston,2020,Vehicle/vehicle,96,1,26
+Preston,2021,Pedestrian/vehicle,2,1,2
+Preston,2021,Vehicle/vehicle,128,0,31
+Preston,2022,Vehicle/vehicle,139,0,36
+Preston,2023,Pedestrian/vehicle,1,0,1
+Preston,2023,Vehicle/vehicle,128,2,39
+Preston,2024,Vehicle/vehicle,124,2,21
+Preston,2025,Vehicle/vehicle,144,0,38
+Prospect,2015,Pedestrian/vehicle,2,0,2
+Prospect,2015,Vehicle/vehicle,209,0,52
+Prospect,2016,Pedestrian/vehicle,1,0,1
+Prospect,2016,Vehicle/vehicle,198,1,58
+Prospect,2017,Pedestrian/vehicle,2,0,2
+Prospect,2017,Vehicle/vehicle,199,1,46
+Prospect,2018,Vehicle/vehicle,178,2,46
+Prospect,2019,Pedestrian/vehicle,3,0,3
+Prospect,2019,Vehicle/vehicle,156,1,45
+Prospect,2020,Vehicle/vehicle,118,1,30
+Prospect,2021,Vehicle/vehicle,142,0,46
+Prospect,2022,Cyclist/vehicle,2,0,2
+Prospect,2022,Vehicle/vehicle,162,1,39
+Prospect,2023,Pedestrian/vehicle,4,0,3
+Prospect,2023,Vehicle/vehicle,143,0,34
+Prospect,2024,Pedestrian/vehicle,1,0,1
+Prospect,2024,Vehicle/vehicle,144,0,41
+Prospect,2025,Vehicle/vehicle,141,2,42
+Putnam,2015,Cyclist/vehicle,1,0,1
+Putnam,2015,Vehicle/vehicle,195,2,51
+Putnam,2016,Pedestrian/vehicle,1,0,1
+Putnam,2016,Vehicle/vehicle,248,0,56
+Putnam,2017,Cyclist/vehicle,1,0,1
+Putnam,2017,Pedestrian/vehicle,2,0,1
+Putnam,2017,Vehicle/vehicle,204,3,42
+Putnam,2018,Cyclist/vehicle,1,0,1
+Putnam,2018,Pedestrian/vehicle,4,0,2
+Putnam,2018,Vehicle/vehicle,210,0,41
+Putnam,2019,Cyclist/vehicle,1,0,1
+Putnam,2019,Pedestrian/vehicle,3,0,3
+Putnam,2019,Vehicle/vehicle,214,0,52
+Putnam,2020,Cyclist/vehicle,1,0,0
+Putnam,2020,Vehicle/vehicle,171,3,42
+Putnam,2021,Pedestrian/vehicle,1,0,1
+Putnam,2021,Vehicle/vehicle,208,0,53
+Putnam,2022,Cyclist/vehicle,1,0,1
+Putnam,2022,Pedestrian/vehicle,3,0,3
+Putnam,2022,Vehicle/vehicle,216,0,41
+Putnam,2023,Pedestrian/vehicle,1,0,1
+Putnam,2023,Vehicle/vehicle,231,1,54
+Putnam,2024,Pedestrian/vehicle,3,1,3
+Putnam,2024,Vehicle/vehicle,230,0,50
+Putnam,2025,Pedestrian/vehicle,2,0,2
+Putnam,2025,Vehicle/vehicle,275,0,65
+Redding,2015,Cyclist/vehicle,1,0,1
+Redding,2015,Vehicle/vehicle,182,0,31
+Redding,2016,Cyclist/vehicle,3,0,2
+Redding,2016,Pedestrian/vehicle,1,0,0
+Redding,2016,Vehicle/vehicle,199,0,32
+Redding,2017,Cyclist/vehicle,1,0,1
+Redding,2017,Vehicle/vehicle,167,0,32
+Redding,2018,Vehicle/vehicle,182,0,26
+Redding,2019,Vehicle/vehicle,201,0,41
+Redding,2020,Vehicle/vehicle,125,0,23
+Redding,2021,Pedestrian/vehicle,1,0,0
+Redding,2021,Vehicle/vehicle,140,0,35
+Redding,2022,Cyclist/vehicle,1,0,1
+Redding,2022,Vehicle/vehicle,197,1,40
+Redding,2023,Vehicle/vehicle,156,1,33
+Redding,2024,Cyclist/vehicle,2,0,1
+Redding,2024,Pedestrian/vehicle,2,0,1
+Redding,2024,Vehicle/vehicle,170,0,37
+Redding,2025,Vehicle/vehicle,195,0,31
+Ridgefield,2015,Pedestrian/vehicle,4,0,3
+Ridgefield,2015,Vehicle/vehicle,533,0,77
+Ridgefield,2016,Pedestrian/vehicle,3,0,3
+Ridgefield,2016,Vehicle/vehicle,468,0,71
+Ridgefield,2017,Cyclist/vehicle,4,0,4
+Ridgefield,2017,Pedestrian/vehicle,3,0,2
+Ridgefield,2017,Vehicle/vehicle,502,0,78
+Ridgefield,2018,Cyclist/vehicle,2,0,2
+Ridgefield,2018,Pedestrian/vehicle,6,0,6
+Ridgefield,2018,Vehicle/vehicle,513,0,84
+Ridgefield,2019,Cyclist/vehicle,3,0,3
+Ridgefield,2019,Pedestrian/vehicle,2,0,2
+Ridgefield,2019,Vehicle/vehicle,419,0,57
+Ridgefield,2020,Cyclist/vehicle,3,0,2
+Ridgefield,2020,Pedestrian/vehicle,1,0,0
+Ridgefield,2020,Vehicle/vehicle,287,2,46
+Ridgefield,2021,Cyclist/vehicle,2,0,1
+Ridgefield,2021,Pedestrian/vehicle,4,0,3
+Ridgefield,2021,Vehicle/vehicle,384,2,63
+Ridgefield,2022,Cyclist/vehicle,2,0,1
+Ridgefield,2022,Pedestrian/vehicle,4,0,4
+Ridgefield,2022,Vehicle/vehicle,408,0,70
+Ridgefield,2023,Cyclist/vehicle,1,0,1
+Ridgefield,2023,Pedestrian/vehicle,2,0,1
+Ridgefield,2023,Vehicle/vehicle,402,1,73
+Ridgefield,2024,Cyclist/vehicle,2,0,2
+Ridgefield,2024,Pedestrian/vehicle,4,0,4
+Ridgefield,2024,Vehicle/vehicle,428,2,85
+Ridgefield,2025,Cyclist/vehicle,1,0,1
+Ridgefield,2025,Pedestrian/vehicle,5,0,5
+Ridgefield,2025,Vehicle/vehicle,379,0,76
+Rocky Hill,2015,Cyclist/vehicle,1,0,1
+Rocky Hill,2015,Vehicle/vehicle,474,0,114
+Rocky Hill,2016,Cyclist/vehicle,1,0,1
+Rocky Hill,2016,Pedestrian/vehicle,6,1,5
+Rocky Hill,2016,Vehicle/vehicle,544,3,157
+Rocky Hill,2017,Cyclist/vehicle,1,0,1
+Rocky Hill,2017,Pedestrian/vehicle,5,0,5
+Rocky Hill,2017,Vehicle/vehicle,510,3,162
+Rocky Hill,2018,Pedestrian/vehicle,3,0,3
+Rocky Hill,2018,Vehicle/vehicle,650,1,162
+Rocky Hill,2019,Pedestrian/vehicle,5,0,4
+Rocky Hill,2019,Vehicle/vehicle,651,2,171
+Rocky Hill,2020,Cyclist/vehicle,2,0,2
+Rocky Hill,2020,Pedestrian/vehicle,4,1,4
+Rocky Hill,2020,Vehicle/vehicle,384,1,112
+Rocky Hill,2021,Pedestrian/vehicle,4,0,4
+Rocky Hill,2021,Vehicle/vehicle,498,1,101
+Rocky Hill,2022,Cyclist/vehicle,1,0,1
+Rocky Hill,2022,Vehicle/vehicle,511,1,128
+Rocky Hill,2023,Cyclist/vehicle,2,0,2
+Rocky Hill,2023,Pedestrian/vehicle,4,0,4
+Rocky Hill,2023,Vehicle/vehicle,502,2,114
+Rocky Hill,2024,Cyclist/vehicle,3,0,2
+Rocky Hill,2024,Pedestrian/vehicle,3,0,2
+Rocky Hill,2024,Vehicle/vehicle,554,4,126
+Rocky Hill,2025,Cyclist/vehicle,5,0,4
+Rocky Hill,2025,Pedestrian/vehicle,5,1,4
+Rocky Hill,2025,Vehicle/vehicle,582,0,113
+RockyHill,2015,Vehicle/vehicle,112,0,28
+RockyHill,2016,Vehicle/vehicle,118,0,19
+RockyHill,2017,Pedestrian/vehicle,3,0,3
+RockyHill,2017,Vehicle/vehicle,131,0,11
+Roxbury,2015,Vehicle/vehicle,40,0,8
+Roxbury,2016,Vehicle/vehicle,49,0,11
+Roxbury,2017,Vehicle/vehicle,56,0,11
+Roxbury,2018,Vehicle/vehicle,63,0,15
+Roxbury,2019,Vehicle/vehicle,53,0,11
+Roxbury,2020,Pedestrian/vehicle,1,0,1
+Roxbury,2020,Vehicle/vehicle,38,0,16
+Roxbury,2021,Vehicle/vehicle,54,2,16
+Roxbury,2022,Vehicle/vehicle,45,0,16
+Roxbury,2023,Cyclist/vehicle,2,0,2
+Roxbury,2023,Vehicle/vehicle,38,0,10
+Roxbury,2024,Vehicle/vehicle,48,0,16
+Roxbury,2025,Vehicle/vehicle,36,0,5
+Salem,2015,Cyclist/vehicle,2,0,0
+Salem,2015,Vehicle/vehicle,78,0,22
+Salem,2016,Vehicle/vehicle,79,0,18
+Salem,2017,Pedestrian/vehicle,1,1,1
+Salem,2017,Vehicle/vehicle,62,0,12
+Salem,2018,Vehicle/vehicle,71,0,13
+Salem,2019,Pedestrian/vehicle,1,0,1
+Salem,2019,Vehicle/vehicle,63,1,20
+Salem,2020,Pedestrian/vehicle,1,0,1
+Salem,2020,Vehicle/vehicle,56,0,23
+Salem,2021,Pedestrian/vehicle,1,1,1
+Salem,2021,Vehicle/vehicle,60,0,23
+Salem,2022,Pedestrian/vehicle,1,0,1
+Salem,2022,Vehicle/vehicle,68,0,19
+Salem,2023,Pedestrian/vehicle,2,1,2
+Salem,2023,Vehicle/vehicle,69,1,20
+Salem,2024,Vehicle/vehicle,72,1,19
+Salem,2025,Vehicle/vehicle,67,0,18
+Salisbury,2015,Pedestrian/vehicle,1,0,1
+Salisbury,2015,Vehicle/vehicle,77,0,22
+Salisbury,2016,Vehicle/vehicle,81,2,24
+Salisbury,2017,Pedestrian/vehicle,4,1,4
+Salisbury,2017,Vehicle/vehicle,78,0,20
+Salisbury,2018,Cyclist/vehicle,1,0,0
+Salisbury,2018,Pedestrian/vehicle,1,0,1
+Salisbury,2018,Vehicle/vehicle,100,4,17
+Salisbury,2019,Cyclist/vehicle,1,0,1
+Salisbury,2019,Pedestrian/vehicle,1,0,1
+Salisbury,2019,Vehicle/vehicle,63,0,15
+Salisbury,2020,Cyclist/vehicle,1,0,1
+Salisbury,2020,Vehicle/vehicle,68,0,9
+Salisbury,2021,Pedestrian/vehicle,1,0,1
+Salisbury,2021,Vehicle/vehicle,63,0,14
+Salisbury,2022,Vehicle/vehicle,69,1,12
+Salisbury,2023,Cyclist/vehicle,1,0,0
+Salisbury,2023,Vehicle/vehicle,47,4,13
+Salisbury,2024,Vehicle/vehicle,69,0,14
+Salisbury,2025,Pedestrian/vehicle,2,0,2
+Salisbury,2025,Vehicle/vehicle,86,0,18
+Scotland,2015,Pedestrian/vehicle,1,0,1
+Scotland,2015,Vehicle/vehicle,18,0,5
+Scotland,2016,Vehicle/vehicle,9,0,4
+Scotland,2017,Vehicle/vehicle,14,0,5
+Scotland,2018,Pedestrian/vehicle,1,0,1
+Scotland,2018,Vehicle/vehicle,27,0,12
+Scotland,2019,Vehicle/vehicle,24,2,10
+Scotland,2020,Vehicle/vehicle,16,0,6
+Scotland,2021,Vehicle/vehicle,10,0,1
+Scotland,2022,Vehicle/vehicle,10,1,2
+Scotland,2023,Vehicle/vehicle,13,0,5
+Scotland,2024,Vehicle/vehicle,24,0,5
+Scotland,2025,Vehicle/vehicle,19,0,7
+Seymour,2015,Pedestrian/vehicle,4,0,2
+Seymour,2015,Vehicle/vehicle,327,0,71
+Seymour,2016,Pedestrian/vehicle,1,0,0
+Seymour,2016,Vehicle/vehicle,428,1,111
+Seymour,2017,Cyclist/vehicle,2,0,2
+Seymour,2017,Pedestrian/vehicle,1,0,1
+Seymour,2017,Vehicle/vehicle,463,1,110
+Seymour,2018,Cyclist/vehicle,2,0,1
+Seymour,2018,Pedestrian/vehicle,1,0,1
+Seymour,2018,Vehicle/vehicle,455,0,105
+Seymour,2019,Pedestrian/vehicle,6,0,5
+Seymour,2019,Vehicle/vehicle,441,1,94
+Seymour,2020,Pedestrian/vehicle,5,0,5
+Seymour,2020,Vehicle/vehicle,311,2,74
+Seymour,2021,Cyclist/vehicle,1,0,1
+Seymour,2021,Pedestrian/vehicle,3,1,3
+Seymour,2021,Vehicle/vehicle,436,2,100
+Seymour,2022,Pedestrian/vehicle,1,0,1
+Seymour,2022,Vehicle/vehicle,419,1,78
+Seymour,2023,Cyclist/vehicle,1,0,1
+Seymour,2023,Pedestrian/vehicle,1,0,1
+Seymour,2023,Vehicle/vehicle,423,2,92
+Seymour,2024,Pedestrian/vehicle,1,0,1
+Seymour,2024,Vehicle/vehicle,448,0,101
+Seymour,2025,Cyclist/vehicle,2,0,1
+Seymour,2025,Pedestrian/vehicle,6,0,6
+Seymour,2025,Vehicle/vehicle,537,2,101
+Sharon,2015,Vehicle/vehicle,50,0,15
+Sharon,2016,Vehicle/vehicle,46,0,13
+Sharon,2017,Vehicle/vehicle,51,0,12
+Sharon,2018,Pedestrian/vehicle,1,0,1
+Sharon,2018,Vehicle/vehicle,55,1,18
+Sharon,2019,Pedestrian/vehicle,1,0,1
+Sharon,2019,Vehicle/vehicle,49,1,12
+Sharon,2020,Vehicle/vehicle,38,1,10
+Sharon,2021,Vehicle/vehicle,51,1,14
+Sharon,2022,Vehicle/vehicle,51,0,13
+Sharon,2023,Vehicle/vehicle,49,0,15
+Sharon,2024,Vehicle/vehicle,59,0,15
+Sharon,2025,Pedestrian/vehicle,2,0,2
+Sharon,2025,Vehicle/vehicle,66,1,9
+Shelton,2015,Cyclist/vehicle,1,0,1
+Shelton,2015,Pedestrian/vehicle,4,0,4
+Shelton,2015,Vehicle/vehicle,961,6,215
+Shelton,2016,Cyclist/vehicle,1,0,0
+Shelton,2016,Pedestrian/vehicle,11,2,9
+Shelton,2016,Vehicle/vehicle,932,4,233
+Shelton,2017,Cyclist/vehicle,3,0,3
+Shelton,2017,Pedestrian/vehicle,7,1,7
+Shelton,2017,Vehicle/vehicle,979,2,205
+Shelton,2018,Pedestrian/vehicle,2,0,2
+Shelton,2018,Vehicle/vehicle,926,1,207
+Shelton,2019,Cyclist/vehicle,2,0,1
+Shelton,2019,Pedestrian/vehicle,7,0,7
+Shelton,2019,Vehicle/vehicle,913,1,199
+Shelton,2020,Cyclist/vehicle,1,0,1
+Shelton,2020,Pedestrian/vehicle,5,0,4
+Shelton,2020,Vehicle/vehicle,631,3,168
+Shelton,2021,Cyclist/vehicle,2,0,2
+Shelton,2021,Pedestrian/vehicle,1,0,1
+Shelton,2021,Vehicle/vehicle,752,4,177
+Shelton,2022,Pedestrian/vehicle,5,0,5
+Shelton,2022,Vehicle/vehicle,750,3,170
+Shelton,2023,Cyclist/vehicle,4,0,2
+Shelton,2023,Pedestrian/vehicle,11,1,10
+Shelton,2023,Vehicle/vehicle,886,5,215
+Shelton,2024,Cyclist/vehicle,2,0,2
+Shelton,2024,Pedestrian/vehicle,10,2,10
+Shelton,2024,Vehicle/vehicle,984,4,244
+Shelton,2025,Cyclist/vehicle,2,0,1
+Shelton,2025,Pedestrian/vehicle,7,0,6
+Shelton,2025,Vehicle/vehicle,989,3,243
+Sherman,2015,Vehicle/vehicle,58,1,15
+Sherman,2016,Pedestrian/vehicle,1,1,1
+Sherman,2016,Vehicle/vehicle,45,0,12
+Sherman,2017,Vehicle/vehicle,41,0,9
+Sherman,2018,Vehicle/vehicle,49,0,14
+Sherman,2019,Vehicle/vehicle,53,0,14
+Sherman,2020,Vehicle/vehicle,33,0,11
+Sherman,2021,Vehicle/vehicle,48,0,16
+Sherman,2022,Cyclist/vehicle,1,0,1
+Sherman,2022,Vehicle/vehicle,48,0,12
+Sherman,2023,Vehicle/vehicle,42,0,12
+Sherman,2024,Vehicle/vehicle,33,0,9
+Sherman,2025,Vehicle/vehicle,39,0,12
+Simsbury,2015,Pedestrian/vehicle,1,0,0
+Simsbury,2015,Vehicle/vehicle,389,2,98
+Simsbury,2016,Cyclist/vehicle,2,0,2
+Simsbury,2016,Pedestrian/vehicle,3,0,3
+Simsbury,2016,Vehicle/vehicle,422,1,97
+Simsbury,2017,Vehicle/vehicle,400,1,78
+Simsbury,2018,Cyclist/vehicle,4,0,4
+Simsbury,2018,Pedestrian/vehicle,2,0,2
+Simsbury,2018,Vehicle/vehicle,408,0,107
+Simsbury,2019,Cyclist/vehicle,3,0,3
+Simsbury,2019,Pedestrian/vehicle,6,0,5
+Simsbury,2019,Vehicle/vehicle,381,1,76
+Simsbury,2020,Cyclist/vehicle,1,0,1
+Simsbury,2020,Pedestrian/vehicle,3,0,2
+Simsbury,2020,Vehicle/vehicle,247,1,44
+Simsbury,2021,Pedestrian/vehicle,1,0,1
+Simsbury,2021,Vehicle/vehicle,299,1,70
+Simsbury,2022,Cyclist/vehicle,1,0,1
+Simsbury,2022,Pedestrian/vehicle,2,0,2
+Simsbury,2022,Vehicle/vehicle,309,1,64
+Simsbury,2023,Cyclist/vehicle,4,0,3
+Simsbury,2023,Pedestrian/vehicle,3,1,3
+Simsbury,2023,Vehicle/vehicle,312,0,59
+Simsbury,2024,Cyclist/vehicle,3,0,2
+Simsbury,2024,Pedestrian/vehicle,2,0,1
+Simsbury,2024,Vehicle/vehicle,286,1,57
+Simsbury,2025,Cyclist/vehicle,4,0,3
+Simsbury,2025,Pedestrian/vehicle,2,0,2
+Simsbury,2025,Vehicle/vehicle,296,1,65
+Somers,2015,Cyclist/vehicle,2,0,2
+Somers,2015,Pedestrian/vehicle,1,0,1
+Somers,2015,Vehicle/vehicle,135,0,30
+Somers,2016,Cyclist/vehicle,1,0,1
+Somers,2016,Pedestrian/vehicle,1,1,1
+Somers,2016,Vehicle/vehicle,119,1,32
+Somers,2017,Pedestrian/vehicle,1,0,1
+Somers,2017,Vehicle/vehicle,121,2,37
+Somers,2018,Pedestrian/vehicle,1,0,1
+Somers,2018,Vehicle/vehicle,110,0,22
+Somers,2019,Vehicle/vehicle,125,0,41
+Somers,2020,Cyclist/vehicle,1,0,0
+Somers,2020,Pedestrian/vehicle,1,0,0
+Somers,2020,Vehicle/vehicle,82,1,22
+Somers,2021,Cyclist/vehicle,1,0,1
+Somers,2021,Vehicle/vehicle,109,1,33
+Somers,2022,Vehicle/vehicle,96,0,26
+Somers,2023,Vehicle/vehicle,109,0,43
+Somers,2024,Vehicle/vehicle,115,0,29
+Somers,2025,Cyclist/vehicle,1,0,1
+Somers,2025,Vehicle/vehicle,119,4,32
+South Windsor,2015,Cyclist/vehicle,1,0,1
+South Windsor,2015,Vehicle/vehicle,394,0,129
+South Windsor,2016,Cyclist/vehicle,1,0,1
+South Windsor,2016,Pedestrian/vehicle,8,0,8
+South Windsor,2016,Vehicle/vehicle,388,0,126
+South Windsor,2017,Pedestrian/vehicle,4,0,4
+South Windsor,2017,Vehicle/vehicle,457,0,151
+South Windsor,2018,Pedestrian/vehicle,3,0,3
+South Windsor,2018,Vehicle/vehicle,431,0,134
+South Windsor,2019,Pedestrian/vehicle,4,0,4
+South Windsor,2019,Vehicle/vehicle,466,0,135
+South Windsor,2020,Pedestrian/vehicle,3,0,3
+South Windsor,2020,Vehicle/vehicle,338,1,103
+South Windsor,2021,Cyclist/vehicle,4,0,4
+South Windsor,2021,Pedestrian/vehicle,3,0,3
+South Windsor,2021,Vehicle/vehicle,376,2,111
+South Windsor,2022,Pedestrian/vehicle,3,0,3
+South Windsor,2022,Vehicle/vehicle,434,3,126
+South Windsor,2023,Cyclist/vehicle,3,0,3
+South Windsor,2023,Pedestrian/vehicle,3,0,3
+South Windsor,2023,Vehicle/vehicle,381,3,128
+South Windsor,2024,Cyclist/vehicle,1,0,1
+South Windsor,2024,Pedestrian/vehicle,4,0,3
+South Windsor,2024,Vehicle/vehicle,437,0,125
+South Windsor,2025,Cyclist/vehicle,3,0,3
+South Windsor,2025,Pedestrian/vehicle,2,0,2
+South Windsor,2025,Vehicle/vehicle,445,0,112
+SouthWindsor,2015,Vehicle/vehicle,78,0,20
+SouthWindsor,2016,Vehicle/vehicle,77,0,18
+SouthWindsor,2017,Vehicle/vehicle,5,0,0
+Southbury,2015,Cyclist/vehicle,1,0,1
+Southbury,2015,Pedestrian/vehicle,1,0,1
+Southbury,2015,Vehicle/vehicle,547,2,110
+Southbury,2016,Pedestrian/vehicle,3,0,3
+Southbury,2016,Vehicle/vehicle,462,5,104
+Southbury,2017,Cyclist/vehicle,1,0,1
+Southbury,2017,Pedestrian/vehicle,1,0,1
+Southbury,2017,Vehicle/vehicle,485,0,101
+Southbury,2018,Pedestrian/vehicle,1,0,1
+Southbury,2018,Vehicle/vehicle,479,1,92
+Southbury,2019,Cyclist/vehicle,2,0,2
+Southbury,2019,Pedestrian/vehicle,1,0,1
+Southbury,2019,Vehicle/vehicle,526,3,119
+Southbury,2020,Pedestrian/vehicle,1,0,1
+Southbury,2020,Vehicle/vehicle,355,1,76
+Southbury,2021,Pedestrian/vehicle,3,2,3
+Southbury,2021,Vehicle/vehicle,465,3,105
+Southbury,2022,Cyclist/vehicle,1,0,1
+Southbury,2022,Pedestrian/vehicle,2,1,1
+Southbury,2022,Vehicle/vehicle,498,0,98
+Southbury,2023,Cyclist/vehicle,1,0,1
+Southbury,2023,Pedestrian/vehicle,4,0,3
+Southbury,2023,Vehicle/vehicle,439,1,78
+Southbury,2024,Pedestrian/vehicle,1,0,1
+Southbury,2024,Vehicle/vehicle,471,1,97
+Southbury,2025,Cyclist/vehicle,1,0,1
+Southbury,2025,Pedestrian/vehicle,2,1,2
+Southbury,2025,Vehicle/vehicle,493,3,89
+Southington,2015,Cyclist/vehicle,2,0,2
+Southington,2015,Pedestrian/vehicle,5,1,5
+Southington,2015,Vehicle/vehicle,1008,3,232
+Southington,2016,Cyclist/vehicle,6,0,6
+Southington,2016,Pedestrian/vehicle,7,1,6
+Southington,2016,Vehicle/vehicle,1144,4,275
+Southington,2017,Cyclist/vehicle,3,0,2
+Southington,2017,Pedestrian/vehicle,6,0,5
+Southington,2017,Vehicle/vehicle,1246,2,300
+Southington,2018,Cyclist/vehicle,3,0,2
+Southington,2018,Pedestrian/vehicle,5,0,5
+Southington,2018,Vehicle/vehicle,1189,2,294
+Southington,2019,Cyclist/vehicle,6,0,5
+Southington,2019,Pedestrian/vehicle,3,0,3
+Southington,2019,Vehicle/vehicle,1201,1,275
+Southington,2020,Cyclist/vehicle,4,0,4
+Southington,2020,Pedestrian/vehicle,6,0,5
+Southington,2020,Vehicle/vehicle,954,5,240
+Southington,2021,Cyclist/vehicle,3,0,2
+Southington,2021,Pedestrian/vehicle,9,1,8
+Southington,2021,Vehicle/vehicle,1082,7,269
+Southington,2022,Cyclist/vehicle,2,0,2
+Southington,2022,Pedestrian/vehicle,11,1,9
+Southington,2022,Vehicle/vehicle,1118,4,268
+Southington,2023,Cyclist/vehicle,8,0,8
+Southington,2023,Pedestrian/vehicle,7,1,7
+Southington,2023,Vehicle/vehicle,1129,3,300
+Southington,2024,Cyclist/vehicle,8,0,5
+Southington,2024,Pedestrian/vehicle,6,1,6
+Southington,2024,Vehicle/vehicle,1164,1,281
+Southington,2025,Cyclist/vehicle,4,0,3
+Southington,2025,Pedestrian/vehicle,9,1,6
+Southington,2025,Vehicle/vehicle,1159,2,293
+Sprague,2015,Vehicle/vehicle,34,0,8
+Sprague,2016,Vehicle/vehicle,22,0,6
+Sprague,2017,Vehicle/vehicle,29,1,5
+Sprague,2018,Vehicle/vehicle,25,0,2
+Sprague,2019,Pedestrian/vehicle,1,0,1
+Sprague,2019,Vehicle/vehicle,32,2,11
+Sprague,2020,Vehicle/vehicle,17,0,2
+Sprague,2021,Cyclist/vehicle,1,0,1
+Sprague,2021,Vehicle/vehicle,36,0,4
+Sprague,2022,Vehicle/vehicle,26,0,8
+Sprague,2023,Vehicle/vehicle,22,0,4
+Sprague,2024,Vehicle/vehicle,23,0,7
+Sprague,2025,Cyclist/vehicle,1,0,1
+Sprague,2025,Vehicle/vehicle,30,0,6
+Stafford,2015,Cyclist/vehicle,1,0,0
+Stafford,2015,Pedestrian/vehicle,2,0,2
+Stafford,2015,Vehicle/vehicle,148,0,34
+Stafford,2016,Cyclist/vehicle,1,0,1
+Stafford,2016,Vehicle/vehicle,144,2,37
+Stafford,2017,Cyclist/vehicle,1,0,1
+Stafford,2017,Pedestrian/vehicle,1,0,1
+Stafford,2017,Vehicle/vehicle,162,1,48
+Stafford,2018,Pedestrian/vehicle,1,0,1
+Stafford,2018,Vehicle/vehicle,130,0,34
+Stafford,2019,Pedestrian/vehicle,1,0,1
+Stafford,2019,Vehicle/vehicle,147,0,42
+Stafford,2020,Cyclist/vehicle,2,0,2
+Stafford,2020,Pedestrian/vehicle,2,0,2
+Stafford,2020,Vehicle/vehicle,106,0,19
+Stafford,2021,Cyclist/vehicle,2,0,1
+Stafford,2021,Pedestrian/vehicle,4,0,3
+Stafford,2021,Vehicle/vehicle,126,0,38
+Stafford,2022,Cyclist/vehicle,2,1,1
+Stafford,2022,Pedestrian/vehicle,1,0,1
+Stafford,2022,Vehicle/vehicle,135,3,33
+Stafford,2023,Cyclist/vehicle,1,0,1
+Stafford,2023,Pedestrian/vehicle,1,0,1
+Stafford,2023,Vehicle/vehicle,124,1,37
+Stafford,2024,Pedestrian/vehicle,1,0,1
+Stafford,2024,Vehicle/vehicle,153,0,25
+Stafford,2025,Pedestrian/vehicle,3,0,3
+Stafford,2025,Vehicle/vehicle,146,0,26
+Stamford,2015,Cyclist/vehicle,22,0,18
+Stamford,2015,Pedestrian/vehicle,102,2,96
+Stamford,2015,Vehicle/vehicle,5248,1,870
+Stamford,2016,Cyclist/vehicle,17,1,16
+Stamford,2016,Pedestrian/vehicle,125,3,121
+Stamford,2016,Vehicle/vehicle,5306,1,869
+Stamford,2017,Cyclist/vehicle,21,0,19
+Stamford,2017,Pedestrian/vehicle,84,2,78
+Stamford,2017,Vehicle/vehicle,4614,6,705
+Stamford,2018,Cyclist/vehicle,13,0,10
+Stamford,2018,Pedestrian/vehicle,95,2,92
+Stamford,2018,Vehicle/vehicle,5061,4,809
+Stamford,2019,Cyclist/vehicle,10,0,7
+Stamford,2019,Pedestrian/vehicle,105,1,98
+Stamford,2019,Vehicle/vehicle,4580,1,845
+Stamford,2020,Cyclist/vehicle,22,1,16
+Stamford,2020,Pedestrian/vehicle,75,1,71
+Stamford,2020,Vehicle/vehicle,3331,1,589
+Stamford,2021,Cyclist/vehicle,22,0,20
+Stamford,2021,Pedestrian/vehicle,97,0,92
+Stamford,2021,Vehicle/vehicle,4008,3,731
+Stamford,2022,Cyclist/vehicle,15,0,14
+Stamford,2022,Pedestrian/vehicle,106,4,101
+Stamford,2022,Vehicle/vehicle,4074,5,731
+Stamford,2023,Cyclist/vehicle,22,0,19
+Stamford,2023,Pedestrian/vehicle,97,4,83
+Stamford,2023,Vehicle/vehicle,3833,5,723
+Stamford,2024,Cyclist/vehicle,15,0,14
+Stamford,2024,Pedestrian/vehicle,96,1,87
+Stamford,2024,Vehicle/vehicle,3854,5,714
+Stamford,2025,Cyclist/vehicle,20,0,18
+Stamford,2025,Pedestrian/vehicle,102,1,100
+Stamford,2025,Vehicle/vehicle,3792,0,731
+Sterling,2015,Vehicle/vehicle,34,0,12
+Sterling,2016,Vehicle/vehicle,25,1,11
+Sterling,2017,Vehicle/vehicle,30,0,12
+Sterling,2018,Vehicle/vehicle,33,0,11
+Sterling,2019,Vehicle/vehicle,27,1,9
+Sterling,2020,Vehicle/vehicle,30,0,6
+Sterling,2021,Vehicle/vehicle,24,0,9
+Sterling,2022,Vehicle/vehicle,34,0,15
+Sterling,2023,Vehicle/vehicle,40,0,11
+Sterling,2024,Vehicle/vehicle,37,0,17
+Sterling,2025,Pedestrian/vehicle,2,1,2
+Sterling,2025,Vehicle/vehicle,47,1,16
+Stonington,2015,Cyclist/vehicle,2,0,1
+Stonington,2015,Pedestrian/vehicle,1,0,1
+Stonington,2015,Vehicle/vehicle,482,2,85
+Stonington,2016,Cyclist/vehicle,3,0,3
+Stonington,2016,Pedestrian/vehicle,3,1,2
+Stonington,2016,Vehicle/vehicle,500,0,115
+Stonington,2017,Cyclist/vehicle,2,0,2
+Stonington,2017,Pedestrian/vehicle,1,0,1
+Stonington,2017,Vehicle/vehicle,513,2,113
+Stonington,2018,Cyclist/vehicle,9,0,7
+Stonington,2018,Pedestrian/vehicle,2,0,1
+Stonington,2018,Vehicle/vehicle,500,1,101
+Stonington,2019,Cyclist/vehicle,5,0,5
+Stonington,2019,Pedestrian/vehicle,2,1,1
+Stonington,2019,Vehicle/vehicle,456,1,108
+Stonington,2020,Cyclist/vehicle,3,0,2
+Stonington,2020,Pedestrian/vehicle,3,0,3
+Stonington,2020,Vehicle/vehicle,306,1,78
+Stonington,2021,Pedestrian/vehicle,1,0,1
+Stonington,2021,Vehicle/vehicle,441,2,105
+Stonington,2022,Pedestrian/vehicle,2,1,2
+Stonington,2022,Vehicle/vehicle,449,5,107
+Stonington,2023,Cyclist/vehicle,8,1,7
+Stonington,2023,Pedestrian/vehicle,2,0,1
+Stonington,2023,Vehicle/vehicle,385,1,91
+Stonington,2024,Cyclist/vehicle,3,0,3
+Stonington,2024,Pedestrian/vehicle,5,0,5
+Stonington,2024,Vehicle/vehicle,471,1,93
+Stonington,2025,Cyclist/vehicle,4,0,1
+Stonington,2025,Pedestrian/vehicle,4,0,3
+Stonington,2025,Vehicle/vehicle,495,1,86
+Stratford,2015,Cyclist/vehicle,6,0,5
+Stratford,2015,Pedestrian/vehicle,22,0,18
+Stratford,2015,Vehicle/vehicle,1959,2,373
+Stratford,2016,Cyclist/vehicle,4,0,3
+Stratford,2016,Pedestrian/vehicle,17,0,16
+Stratford,2016,Vehicle/vehicle,2105,5,403
+Stratford,2017,Cyclist/vehicle,6,0,4
+Stratford,2017,Pedestrian/vehicle,17,1,16
+Stratford,2017,Vehicle/vehicle,2097,3,378
+Stratford,2018,Cyclist/vehicle,2,0,1
+Stratford,2018,Pedestrian/vehicle,20,0,18
+Stratford,2018,Vehicle/vehicle,2006,3,383
+Stratford,2019,Cyclist/vehicle,6,0,4
+Stratford,2019,Pedestrian/vehicle,21,2,20
+Stratford,2019,Vehicle/vehicle,1787,2,354
+Stratford,2020,Cyclist/vehicle,7,0,5
+Stratford,2020,Pedestrian/vehicle,14,1,14
+Stratford,2020,Vehicle/vehicle,1273,2,314
+Stratford,2021,Cyclist/vehicle,8,0,7
+Stratford,2021,Pedestrian/vehicle,16,0,14
+Stratford,2021,Vehicle/vehicle,1654,2,408
+Stratford,2022,Cyclist/vehicle,6,0,5
+Stratford,2022,Pedestrian/vehicle,14,0,12
+Stratford,2022,Vehicle/vehicle,1678,3,386
+Stratford,2023,Cyclist/vehicle,6,0,3
+Stratford,2023,Pedestrian/vehicle,17,4,16
+Stratford,2023,Vehicle/vehicle,1497,3,297
+Stratford,2024,Cyclist/vehicle,4,0,4
+Stratford,2024,Pedestrian/vehicle,15,0,11
+Stratford,2024,Vehicle/vehicle,1496,2,326
+Stratford,2025,Cyclist/vehicle,7,0,3
+Stratford,2025,Pedestrian/vehicle,19,1,18
+Stratford,2025,Vehicle/vehicle,1620,5,312
+Suffield,2015,Cyclist/vehicle,4,0,3
+Suffield,2015,Vehicle/vehicle,182,3,63
+Suffield,2016,Cyclist/vehicle,1,0,1
+Suffield,2016,Pedestrian/vehicle,5,0,4
+Suffield,2016,Vehicle/vehicle,219,0,57
+Suffield,2017,Cyclist/vehicle,4,0,3
+Suffield,2017,Pedestrian/vehicle,1,0,1
+Suffield,2017,Vehicle/vehicle,218,0,63
+Suffield,2018,Cyclist/vehicle,2,0,2
+Suffield,2018,Pedestrian/vehicle,2,1,2
+Suffield,2018,Vehicle/vehicle,202,2,62
+Suffield,2019,Vehicle/vehicle,246,3,74
+Suffield,2020,Cyclist/vehicle,1,0,1
+Suffield,2020,Pedestrian/vehicle,1,0,1
+Suffield,2020,Vehicle/vehicle,152,0,42
+Suffield,2021,Vehicle/vehicle,219,2,61
+Suffield,2022,Vehicle/vehicle,191,3,57
+Suffield,2023,Cyclist/vehicle,1,0,1
+Suffield,2023,Pedestrian/vehicle,1,0,1
+Suffield,2023,Vehicle/vehicle,203,0,68
+Suffield,2024,Pedestrian/vehicle,5,0,4
+Suffield,2024,Vehicle/vehicle,252,3,65
+Suffield,2025,Pedestrian/vehicle,4,0,4
+Suffield,2025,Vehicle/vehicle,187,1,46
+Thomaston,2015,Pedestrian/vehicle,1,0,1
+Thomaston,2015,Vehicle/vehicle,199,1,50
+Thomaston,2016,Cyclist/vehicle,1,0,1
+Thomaston,2016,Vehicle/vehicle,251,0,65
+Thomaston,2017,Pedestrian/vehicle,2,0,1
+Thomaston,2017,Vehicle/vehicle,262,1,63
+Thomaston,2018,Pedestrian/vehicle,1,0,1
+Thomaston,2018,Vehicle/vehicle,238,2,52
+Thomaston,2019,Cyclist/vehicle,1,0,1
+Thomaston,2019,Vehicle/vehicle,240,0,45
+Thomaston,2020,Cyclist/vehicle,1,0,0
+Thomaston,2020,Vehicle/vehicle,197,1,49
+Thomaston,2021,Vehicle/vehicle,179,1,48
+Thomaston,2022,Cyclist/vehicle,1,0,1
+Thomaston,2022,Pedestrian/vehicle,3,1,2
+Thomaston,2022,Vehicle/vehicle,189,1,43
+Thomaston,2023,Cyclist/vehicle,1,0,1
+Thomaston,2023,Vehicle/vehicle,98,0,14
+Thomaston,2024,Cyclist/vehicle,1,0,1
+Thomaston,2024,Pedestrian/vehicle,3,0,3
+Thomaston,2024,Vehicle/vehicle,174,1,42
+Thomaston,2025,Cyclist/vehicle,1,0,1
+Thomaston,2025,Pedestrian/vehicle,2,1,2
+Thomaston,2025,Vehicle/vehicle,188,2,42
+Thompson,2015,Pedestrian/vehicle,1,0,1
+Thompson,2015,Vehicle/vehicle,156,3,39
+Thompson,2016,Vehicle/vehicle,169,0,44
+Thompson,2017,Pedestrian/vehicle,1,0,1
+Thompson,2017,Vehicle/vehicle,136,0,36
+Thompson,2018,Vehicle/vehicle,116,1,27
+Thompson,2019,Vehicle/vehicle,143,1,37
+Thompson,2020,Pedestrian/vehicle,1,0,1
+Thompson,2020,Vehicle/vehicle,123,2,45
+Thompson,2021,Cyclist/vehicle,1,0,1
+Thompson,2021,Pedestrian/vehicle,1,0,1
+Thompson,2021,Vehicle/vehicle,133,0,48
+Thompson,2022,Pedestrian/vehicle,1,1,1
+Thompson,2022,Vehicle/vehicle,148,3,35
+Thompson,2023,Pedestrian/vehicle,1,0,1
+Thompson,2023,Vehicle/vehicle,129,1,24
+Thompson,2024,Pedestrian/vehicle,1,0,1
+Thompson,2024,Vehicle/vehicle,158,0,34
+Thompson,2025,Vehicle/vehicle,161,1,44
+Tolland,2015,Pedestrian/vehicle,3,1,3
+Tolland,2015,Vehicle/vehicle,291,0,82
+Tolland,2016,Cyclist/vehicle,1,0,1
+Tolland,2016,Pedestrian/vehicle,3,0,3
+Tolland,2016,Vehicle/vehicle,291,1,62
+Tolland,2017,Cyclist/vehicle,2,0,2
+Tolland,2017,Vehicle/vehicle,284,0,60
+Tolland,2018,Cyclist/vehicle,1,0,1
+Tolland,2018,Vehicle/vehicle,256,3,66
+Tolland,2019,Vehicle/vehicle,269,1,54
+Tolland,2020,Cyclist/vehicle,1,0,1
+Tolland,2020,Vehicle/vehicle,168,2,44
+Tolland,2021,Vehicle/vehicle,229,4,66
+Tolland,2022,Pedestrian/vehicle,2,0,2
+Tolland,2022,Vehicle/vehicle,249,1,44
+Tolland,2023,Pedestrian/vehicle,2,0,2
+Tolland,2023,Vehicle/vehicle,277,3,66
+Tolland,2024,Pedestrian/vehicle,1,0,1
+Tolland,2024,Vehicle/vehicle,325,1,82
+Tolland,2025,Cyclist/vehicle,1,0,0
+Tolland,2025,Pedestrian/vehicle,1,0,1
+Tolland,2025,Vehicle/vehicle,312,2,83
+Torrington,2015,Cyclist/vehicle,8,1,8
+Torrington,2015,Pedestrian/vehicle,13,1,13
+Torrington,2015,Vehicle/vehicle,815,2,167
+Torrington,2016,Cyclist/vehicle,5,0,5
+Torrington,2016,Pedestrian/vehicle,16,0,15
+Torrington,2016,Vehicle/vehicle,936,1,191
+Torrington,2017,Cyclist/vehicle,8,0,6
+Torrington,2017,Pedestrian/vehicle,11,1,7
+Torrington,2017,Vehicle/vehicle,993,1,210
+Torrington,2018,Cyclist/vehicle,6,0,4
+Torrington,2018,Pedestrian/vehicle,11,0,9
+Torrington,2018,Vehicle/vehicle,963,2,184
+Torrington,2019,Cyclist/vehicle,3,0,3
+Torrington,2019,Pedestrian/vehicle,7,0,6
+Torrington,2019,Vehicle/vehicle,870,2,177
+Torrington,2020,Cyclist/vehicle,4,0,4
+Torrington,2020,Pedestrian/vehicle,7,0,5
+Torrington,2020,Vehicle/vehicle,637,3,129
+Torrington,2021,Cyclist/vehicle,2,0,2
+Torrington,2021,Pedestrian/vehicle,14,0,13
+Torrington,2021,Vehicle/vehicle,870,5,161
+Torrington,2022,Cyclist/vehicle,4,0,4
+Torrington,2022,Pedestrian/vehicle,17,0,15
+Torrington,2022,Vehicle/vehicle,846,6,170
+Torrington,2023,Cyclist/vehicle,8,1,7
+Torrington,2023,Pedestrian/vehicle,22,0,17
+Torrington,2023,Vehicle/vehicle,833,3,165
+Torrington,2024,Cyclist/vehicle,6,0,4
+Torrington,2024,Pedestrian/vehicle,12,0,9
+Torrington,2024,Vehicle/vehicle,857,1,178
+Torrington,2025,Cyclist/vehicle,5,0,3
+Torrington,2025,Pedestrian/vehicle,7,0,7
+Torrington,2025,Vehicle/vehicle,853,0,173
+Trumbull,2015,Cyclist/vehicle,1,0,0
+Trumbull,2015,Pedestrian/vehicle,7,0,6
+Trumbull,2015,Vehicle/vehicle,1370,2,276
+Trumbull,2016,Cyclist/vehicle,4,0,3
+Trumbull,2016,Pedestrian/vehicle,5,0,5
+Trumbull,2016,Vehicle/vehicle,1321,4,266
+Trumbull,2017,Cyclist/vehicle,2,0,2
+Trumbull,2017,Pedestrian/vehicle,6,0,6
+Trumbull,2017,Vehicle/vehicle,1241,1,261
+Trumbull,2018,Cyclist/vehicle,2,0,2
+Trumbull,2018,Pedestrian/vehicle,9,0,8
+Trumbull,2018,Vehicle/vehicle,1216,1,281
+Trumbull,2019,Cyclist/vehicle,3,0,3
+Trumbull,2019,Pedestrian/vehicle,8,1,8
+Trumbull,2019,Vehicle/vehicle,1167,3,245
+Trumbull,2020,Cyclist/vehicle,3,0,2
+Trumbull,2020,Pedestrian/vehicle,4,2,4
+Trumbull,2020,Vehicle/vehicle,841,4,211
+Trumbull,2021,Cyclist/vehicle,3,0,3
+Trumbull,2021,Pedestrian/vehicle,7,0,7
+Trumbull,2021,Vehicle/vehicle,1202,4,250
+Trumbull,2022,Cyclist/vehicle,1,0,1
+Trumbull,2022,Pedestrian/vehicle,6,0,5
+Trumbull,2022,Vehicle/vehicle,1134,6,242
+Trumbull,2023,Cyclist/vehicle,4,0,4
+Trumbull,2023,Pedestrian/vehicle,8,0,7
+Trumbull,2023,Vehicle/vehicle,1095,1,255
+Trumbull,2024,Cyclist/vehicle,3,0,3
+Trumbull,2024,Pedestrian/vehicle,11,1,11
+Trumbull,2024,Vehicle/vehicle,1159,5,260
+Trumbull,2025,Cyclist/vehicle,3,1,2
+Trumbull,2025,Pedestrian/vehicle,10,0,7
+Trumbull,2025,Vehicle/vehicle,1060,0,243
+Union,2015,Vehicle/vehicle,45,0,11
+Union,2016,Vehicle/vehicle,53,1,17
+Union,2017,Pedestrian/vehicle,1,0,1
+Union,2017,Vehicle/vehicle,59,2,14
+Union,2018,Vehicle/vehicle,44,1,11
+Union,2019,Vehicle/vehicle,64,0,12
+Union,2020,Vehicle/vehicle,45,3,17
+Union,2021,Vehicle/vehicle,43,0,11
+Union,2022,Pedestrian/vehicle,1,0,1
+Union,2022,Vehicle/vehicle,60,0,22
+Union,2023,Vehicle/vehicle,59,0,16
+Union,2024,Vehicle/vehicle,75,2,23
+Union,2025,Vehicle/vehicle,55,0,11
+Vernon,2015,Cyclist/vehicle,2,0,2
+Vernon,2015,Pedestrian/vehicle,6,0,6
+Vernon,2015,Vehicle/vehicle,721,1,148
+Vernon,2016,Cyclist/vehicle,6,0,6
+Vernon,2016,Pedestrian/vehicle,9,0,9
+Vernon,2016,Vehicle/vehicle,778,1,191
+Vernon,2017,Cyclist/vehicle,1,0,1
+Vernon,2017,Pedestrian/vehicle,5,0,4
+Vernon,2017,Vehicle/vehicle,810,1,177
+Vernon,2018,Cyclist/vehicle,2,0,2
+Vernon,2018,Pedestrian/vehicle,5,1,5
+Vernon,2018,Vehicle/vehicle,766,2,175
+Vernon,2019,Cyclist/vehicle,2,0,2
+Vernon,2019,Pedestrian/vehicle,6,0,5
+Vernon,2019,Vehicle/vehicle,816,3,187
+Vernon,2020,Cyclist/vehicle,2,0,1
+Vernon,2020,Pedestrian/vehicle,8,2,8
+Vernon,2020,Vehicle/vehicle,656,3,174
+Vernon,2021,Cyclist/vehicle,4,0,3
+Vernon,2021,Pedestrian/vehicle,7,0,6
+Vernon,2021,Vehicle/vehicle,759,2,191
+Vernon,2022,Pedestrian/vehicle,9,0,6
+Vernon,2022,Vehicle/vehicle,767,1,196
+Vernon,2023,Cyclist/vehicle,2,0,1
+Vernon,2023,Pedestrian/vehicle,7,1,6
+Vernon,2023,Vehicle/vehicle,775,3,182
+Vernon,2024,Cyclist/vehicle,5,0,3
+Vernon,2024,Pedestrian/vehicle,9,1,9
+Vernon,2024,Vehicle/vehicle,735,2,180
+Vernon,2025,Cyclist/vehicle,2,0,1
+Vernon,2025,Pedestrian/vehicle,9,0,7
+Vernon,2025,Vehicle/vehicle,691,0,187
+Voluntown,2015,Cyclist/vehicle,1,0,0
+Voluntown,2015,Vehicle/vehicle,40,0,15
+Voluntown,2016,Vehicle/vehicle,47,1,16
+Voluntown,2017,Vehicle/vehicle,44,1,14
+Voluntown,2018,Vehicle/vehicle,45,0,11
+Voluntown,2019,Cyclist/vehicle,1,0,1
+Voluntown,2019,Vehicle/vehicle,36,1,12
+Voluntown,2020,Vehicle/vehicle,34,0,15
+Voluntown,2021,Vehicle/vehicle,31,0,15
+Voluntown,2022,Vehicle/vehicle,36,0,7
+Voluntown,2023,Vehicle/vehicle,37,0,14
+Voluntown,2024,Pedestrian/vehicle,1,0,1
+Voluntown,2024,Vehicle/vehicle,38,1,14
+Voluntown,2025,Vehicle/vehicle,36,1,16
+Wallingford,2015,Cyclist/vehicle,3,0,3
+Wallingford,2015,Pedestrian/vehicle,11,0,10
+Wallingford,2015,Vehicle/vehicle,1348,2,329
+Wallingford,2016,Cyclist/vehicle,2,0,2
+Wallingford,2016,Pedestrian/vehicle,10,0,10
+Wallingford,2016,Vehicle/vehicle,1544,3,354
+Wallingford,2017,Cyclist/vehicle,10,0,9
+Wallingford,2017,Pedestrian/vehicle,22,1,13
+Wallingford,2017,Vehicle/vehicle,1511,3,353
+Wallingford,2018,Cyclist/vehicle,3,0,3
+Wallingford,2018,Pedestrian/vehicle,14,1,10
+Wallingford,2018,Vehicle/vehicle,1388,4,351
+Wallingford,2019,Cyclist/vehicle,4,1,4
+Wallingford,2019,Pedestrian/vehicle,8,0,8
+Wallingford,2019,Vehicle/vehicle,1364,1,301
+Wallingford,2020,Cyclist/vehicle,5,0,5
+Wallingford,2020,Pedestrian/vehicle,6,1,6
+Wallingford,2020,Vehicle/vehicle,1047,4,256
+Wallingford,2021,Cyclist/vehicle,3,0,3
+Wallingford,2021,Pedestrian/vehicle,8,0,8
+Wallingford,2021,Vehicle/vehicle,1225,3,303
+Wallingford,2022,Cyclist/vehicle,2,0,2
+Wallingford,2022,Pedestrian/vehicle,15,2,14
+Wallingford,2022,Vehicle/vehicle,1276,4,316
+Wallingford,2023,Cyclist/vehicle,4,0,3
+Wallingford,2023,Pedestrian/vehicle,12,0,10
+Wallingford,2023,Vehicle/vehicle,1283,2,305
+Wallingford,2024,Cyclist/vehicle,2,0,2
+Wallingford,2024,Pedestrian/vehicle,11,1,11
+Wallingford,2024,Vehicle/vehicle,1339,6,290
+Wallingford,2025,Cyclist/vehicle,5,0,3
+Wallingford,2025,Pedestrian/vehicle,13,1,10
+Wallingford,2025,Vehicle/vehicle,1284,4,300
+Warren,2015,Vehicle/vehicle,19,1,7
+Warren,2016,Vehicle/vehicle,9,0,2
+Warren,2017,Pedestrian/vehicle,1,1,1
+Warren,2017,Vehicle/vehicle,19,0,7
+Warren,2018,Vehicle/vehicle,12,0,4
+Warren,2019,Vehicle/vehicle,10,0,2
+Warren,2020,Vehicle/vehicle,10,0,2
+Warren,2021,Vehicle/vehicle,10,0,3
+Warren,2022,Vehicle/vehicle,22,0,4
+Warren,2023,Vehicle/vehicle,14,0,6
+Warren,2024,Vehicle/vehicle,13,0,1
+Warren,2025,Pedestrian/vehicle,1,0,1
+Warren,2025,Vehicle/vehicle,10,0,2
+Washington,2015,Vehicle/vehicle,81,0,16
+Washington,2016,Vehicle/vehicle,76,0,23
+Washington,2017,Vehicle/vehicle,69,3,19
+Washington,2018,Pedestrian/vehicle,1,0,1
+Washington,2018,Vehicle/vehicle,71,0,23
+Washington,2019,Vehicle/vehicle,62,0,16
+Washington,2020,Cyclist/vehicle,1,0,1
+Washington,2020,Vehicle/vehicle,58,0,14
+Washington,2021,Pedestrian/vehicle,2,0,2
+Washington,2021,Vehicle/vehicle,74,1,20
+Washington,2022,Vehicle/vehicle,76,0,23
+Washington,2023,Vehicle/vehicle,84,0,27
+Washington,2024,Vehicle/vehicle,74,0,21
+Washington,2025,Pedestrian/vehicle,2,1,2
+Washington,2025,Vehicle/vehicle,65,0,13
+Waterbury,2015,Cyclist/vehicle,16,1,10
+Waterbury,2015,Pedestrian/vehicle,98,3,89
+Waterbury,2015,Vehicle/vehicle,5067,12,1250
+Waterbury,2016,Cyclist/vehicle,21,0,19
+Waterbury,2016,Pedestrian/vehicle,91,3,80
+Waterbury,2016,Vehicle/vehicle,5552,9,1428
+Waterbury,2017,Cyclist/vehicle,14,0,10
+Waterbury,2017,Pedestrian/vehicle,119,6,104
+Waterbury,2017,Vehicle/vehicle,5928,10,1500
+Waterbury,2018,Cyclist/vehicle,10,1,8
+Waterbury,2018,Pedestrian/vehicle,119,2,106
+Waterbury,2018,Vehicle/vehicle,5999,6,1471
+Waterbury,2019,Cyclist/vehicle,19,0,15
+Waterbury,2019,Pedestrian/vehicle,132,4,120
+Waterbury,2019,Vehicle/vehicle,5706,8,1409
+Waterbury,2020,Cyclist/vehicle,12,0,9
+Waterbury,2020,Pedestrian/vehicle,101,6,84
+Waterbury,2020,Vehicle/vehicle,4724,6,1273
+Waterbury,2021,Cyclist/vehicle,16,0,16
+Waterbury,2021,Pedestrian/vehicle,96,1,82
+Waterbury,2021,Vehicle/vehicle,5179,6,1408
+Waterbury,2022,Cyclist/vehicle,9,1,6
+Waterbury,2022,Pedestrian/vehicle,102,5,91
+Waterbury,2022,Vehicle/vehicle,4806,15,1342
+Waterbury,2023,Cyclist/vehicle,18,0,17
+Waterbury,2023,Pedestrian/vehicle,78,3,65
+Waterbury,2023,Vehicle/vehicle,4630,12,1211
+Waterbury,2024,Cyclist/vehicle,21,1,18
+Waterbury,2024,Pedestrian/vehicle,114,5,99
+Waterbury,2024,Vehicle/vehicle,4401,10,1127
+Waterbury,2025,Cyclist/vehicle,15,0,12
+Waterbury,2025,Pedestrian/vehicle,86,1,76
+Waterbury,2025,Vehicle/vehicle,4439,6,1068
+Waterford,2015,Cyclist/vehicle,2,0,2
+Waterford,2015,Pedestrian/vehicle,5,0,4
+Waterford,2015,Vehicle/vehicle,622,0,149
+Waterford,2016,Cyclist/vehicle,3,0,3
+Waterford,2016,Pedestrian/vehicle,4,0,3
+Waterford,2016,Vehicle/vehicle,654,1,155
+Waterford,2017,Cyclist/vehicle,3,0,3
+Waterford,2017,Pedestrian/vehicle,6,1,5
+Waterford,2017,Vehicle/vehicle,638,1,144
+Waterford,2018,Cyclist/vehicle,2,0,2
+Waterford,2018,Pedestrian/vehicle,5,0,5
+Waterford,2018,Vehicle/vehicle,607,3,152
+Waterford,2019,Cyclist/vehicle,2,0,1
+Waterford,2019,Pedestrian/vehicle,5,0,5
+Waterford,2019,Vehicle/vehicle,614,0,147
+Waterford,2020,Cyclist/vehicle,4,0,4
+Waterford,2020,Pedestrian/vehicle,6,1,5
+Waterford,2020,Vehicle/vehicle,445,0,102
+Waterford,2021,Cyclist/vehicle,1,0,1
+Waterford,2021,Pedestrian/vehicle,7,0,6
+Waterford,2021,Vehicle/vehicle,537,0,101
+Waterford,2022,Cyclist/vehicle,4,0,4
+Waterford,2022,Pedestrian/vehicle,7,0,7
+Waterford,2022,Vehicle/vehicle,516,0,138
+Waterford,2023,Cyclist/vehicle,2,0,2
+Waterford,2023,Pedestrian/vehicle,5,1,5
+Waterford,2023,Vehicle/vehicle,495,3,133
+Waterford,2024,Cyclist/vehicle,1,0,1
+Waterford,2024,Pedestrian/vehicle,7,0,7
+Waterford,2024,Vehicle/vehicle,477,0,114
+Waterford,2025,Cyclist/vehicle,5,0,4
+Waterford,2025,Pedestrian/vehicle,3,0,2
+Waterford,2025,Vehicle/vehicle,488,1,114
+Watertown,2015,Cyclist/vehicle,1,0,1
+Watertown,2015,Pedestrian/vehicle,1,1,1
+Watertown,2015,Vehicle/vehicle,404,1,107
+Watertown,2016,Pedestrian/vehicle,4,1,3
+Watertown,2016,Vehicle/vehicle,491,1,119
+Watertown,2017,Cyclist/vehicle,1,0,1
+Watertown,2017,Pedestrian/vehicle,2,0,2
+Watertown,2017,Vehicle/vehicle,488,0,124
+Watertown,2018,Cyclist/vehicle,1,0,1
+Watertown,2018,Pedestrian/vehicle,1,1,1
+Watertown,2018,Vehicle/vehicle,471,1,104
+Watertown,2019,Cyclist/vehicle,1,0,1
+Watertown,2019,Pedestrian/vehicle,1,0,1
+Watertown,2019,Vehicle/vehicle,438,4,96
+Watertown,2020,Cyclist/vehicle,1,0,0
+Watertown,2020,Pedestrian/vehicle,3,0,3
+Watertown,2020,Vehicle/vehicle,328,2,89
+Watertown,2021,Cyclist/vehicle,1,0,1
+Watertown,2021,Vehicle/vehicle,426,0,112
+Watertown,2022,Pedestrian/vehicle,1,0,1
+Watertown,2022,Vehicle/vehicle,440,2,85
+Watertown,2023,Pedestrian/vehicle,1,0,1
+Watertown,2023,Vehicle/vehicle,450,1,98
+Watertown,2024,Cyclist/vehicle,3,0,3
+Watertown,2024,Pedestrian/vehicle,1,0,1
+Watertown,2024,Vehicle/vehicle,362,0,77
+Watertown,2025,Cyclist/vehicle,1,0,1
+Watertown,2025,Pedestrian/vehicle,2,0,2
+Watertown,2025,Vehicle/vehicle,374,2,100
+West Hartford,2015,Cyclist/vehicle,4,0,2
+West Hartford,2015,Pedestrian/vehicle,23,1,23
+West Hartford,2015,Vehicle/vehicle,1324,0,440
+West Hartford,2016,Cyclist/vehicle,7,0,7
+West Hartford,2016,Pedestrian/vehicle,24,1,21
+West Hartford,2016,Vehicle/vehicle,1499,2,455
+West Hartford,2017,Cyclist/vehicle,12,0,11
+West Hartford,2017,Pedestrian/vehicle,28,1,25
+West Hartford,2017,Vehicle/vehicle,1560,1,473
+West Hartford,2018,Cyclist/vehicle,13,0,12
+West Hartford,2018,Pedestrian/vehicle,31,1,29
+West Hartford,2018,Vehicle/vehicle,1974,0,521
+West Hartford,2019,Cyclist/vehicle,10,0,8
+West Hartford,2019,Pedestrian/vehicle,25,0,24
+West Hartford,2019,Vehicle/vehicle,1842,0,521
+West Hartford,2020,Cyclist/vehicle,10,0,10
+West Hartford,2020,Pedestrian/vehicle,17,1,14
+West Hartford,2020,Vehicle/vehicle,1229,0,354
+West Hartford,2021,Cyclist/vehicle,9,0,8
+West Hartford,2021,Pedestrian/vehicle,28,0,24
+West Hartford,2021,Vehicle/vehicle,1667,0,438
+West Hartford,2022,Cyclist/vehicle,7,0,7
+West Hartford,2022,Pedestrian/vehicle,17,3,17
+West Hartford,2022,Vehicle/vehicle,1629,2,454
+West Hartford,2023,Cyclist/vehicle,14,0,12
+West Hartford,2023,Pedestrian/vehicle,23,0,19
+West Hartford,2023,Vehicle/vehicle,1516,2,354
+West Hartford,2024,Cyclist/vehicle,6,0,3
+West Hartford,2024,Pedestrian/vehicle,30,3,26
+West Hartford,2024,Vehicle/vehicle,1730,2,423
+West Hartford,2025,Cyclist/vehicle,9,0,6
+West Hartford,2025,Pedestrian/vehicle,19,1,17
+West Hartford,2025,Vehicle/vehicle,1717,1,368
+West Haven,2015,Cyclist/vehicle,6,0,6
+West Haven,2015,Pedestrian/vehicle,18,0,14
+West Haven,2015,Vehicle/vehicle,1151,1,283
+West Haven,2016,Cyclist/vehicle,8,0,5
+West Haven,2016,Pedestrian/vehicle,21,1,17
+West Haven,2016,Vehicle/vehicle,1583,3,364
+West Haven,2017,Cyclist/vehicle,12,0,12
+West Haven,2017,Pedestrian/vehicle,27,2,22
+West Haven,2017,Vehicle/vehicle,1529,4,389
+West Haven,2018,Cyclist/vehicle,11,0,7
+West Haven,2018,Pedestrian/vehicle,36,2,33
+West Haven,2018,Vehicle/vehicle,1869,3,402
+West Haven,2019,Cyclist/vehicle,17,0,14
+West Haven,2019,Pedestrian/vehicle,33,2,30
+West Haven,2019,Vehicle/vehicle,1815,0,411
+West Haven,2020,Cyclist/vehicle,12,0,9
+West Haven,2020,Pedestrian/vehicle,30,1,26
+West Haven,2020,Vehicle/vehicle,1399,3,345
+West Haven,2021,Cyclist/vehicle,14,0,11
+West Haven,2021,Pedestrian/vehicle,23,1,22
+West Haven,2021,Vehicle/vehicle,1790,2,441
+West Haven,2022,Cyclist/vehicle,10,0,8
+West Haven,2022,Pedestrian/vehicle,35,1,32
+West Haven,2022,Vehicle/vehicle,1786,5,444
+West Haven,2023,Cyclist/vehicle,12,0,9
+West Haven,2023,Pedestrian/vehicle,23,0,19
+West Haven,2023,Vehicle/vehicle,1691,1,421
+West Haven,2024,Cyclist/vehicle,7,0,6
+West Haven,2024,Pedestrian/vehicle,37,3,33
+West Haven,2024,Vehicle/vehicle,1674,3,435
+West Haven,2025,Cyclist/vehicle,7,0,6
+West Haven,2025,Pedestrian/vehicle,27,0,25
+West Haven,2025,Vehicle/vehicle,1752,1,428
+WestHartford,2015,Cyclist/vehicle,2,0,2
+WestHartford,2015,Pedestrian/vehicle,6,0,6
+WestHartford,2015,Vehicle/vehicle,341,0,111
+WestHartford,2016,Cyclist/vehicle,1,0,1
+WestHartford,2016,Pedestrian/vehicle,2,0,1
+WestHartford,2016,Vehicle/vehicle,291,0,52
+WestHartford,2017,Cyclist/vehicle,4,0,4
+WestHartford,2017,Vehicle/vehicle,359,0,33
+WestHaven,2015,Cyclist/vehicle,3,0,2
+WestHaven,2015,Pedestrian/vehicle,2,0,2
+WestHaven,2015,Vehicle/vehicle,311,0,91
+WestHaven,2016,Cyclist/vehicle,1,0,0
+WestHaven,2016,Pedestrian/vehicle,3,0,3
+WestHaven,2016,Vehicle/vehicle,286,0,43
+WestHaven,2017,Cyclist/vehicle,1,0,1
+WestHaven,2017,Pedestrian/vehicle,1,0,1
+WestHaven,2017,Vehicle/vehicle,376,0,38
+WestHaven,2019,Vehicle/vehicle,1,0,1
+Westbrook,2015,Cyclist/vehicle,1,0,0
+Westbrook,2015,Pedestrian/vehicle,3,0,3
+Westbrook,2015,Vehicle/vehicle,156,2,39
+Westbrook,2016,Cyclist/vehicle,1,0,0
+Westbrook,2016,Pedestrian/vehicle,3,1,3
+Westbrook,2016,Vehicle/vehicle,160,0,47
+Westbrook,2017,Cyclist/vehicle,1,0,1
+Westbrook,2017,Pedestrian/vehicle,1,0,1
+Westbrook,2017,Vehicle/vehicle,165,0,41
+Westbrook,2018,Pedestrian/vehicle,2,0,2
+Westbrook,2018,Vehicle/vehicle,134,2,24
+Westbrook,2019,Cyclist/vehicle,1,1,1
+Westbrook,2019,Vehicle/vehicle,147,0,39
+Westbrook,2020,Vehicle/vehicle,89,1,22
+Westbrook,2021,Cyclist/vehicle,2,0,2
+Westbrook,2021,Pedestrian/vehicle,2,0,2
+Westbrook,2021,Vehicle/vehicle,105,1,31
+Westbrook,2022,Vehicle/vehicle,145,2,40
+Westbrook,2023,Vehicle/vehicle,120,2,33
+Westbrook,2024,Cyclist/vehicle,1,0,1
+Westbrook,2024,Vehicle/vehicle,134,4,44
+Westbrook,2025,Vehicle/vehicle,137,3,29
+Weston,2015,Cyclist/vehicle,1,0,1
+Weston,2015,Vehicle/vehicle,90,0,20
+Weston,2016,Cyclist/vehicle,1,0,1
+Weston,2016,Vehicle/vehicle,100,0,31
+Weston,2017,Pedestrian/vehicle,1,0,1
+Weston,2017,Vehicle/vehicle,109,0,26
+Weston,2018,Vehicle/vehicle,112,0,31
+Weston,2019,Vehicle/vehicle,67,1,19
+Weston,2020,Vehicle/vehicle,25,2,7
+Weston,2021,Cyclist/vehicle,1,0,1
+Weston,2021,Vehicle/vehicle,28,1,6
+Weston,2022,Vehicle/vehicle,20,0,9
+Weston,2023,Pedestrian/vehicle,1,0,1
+Weston,2023,Vehicle/vehicle,24,0,5
+Weston,2024,Vehicle/vehicle,31,0,7
+Weston,2025,Pedestrian/vehicle,1,0,1
+Weston,2025,Vehicle/vehicle,37,0,8
+Westport,2015,Cyclist/vehicle,3,0,3
+Westport,2015,Pedestrian/vehicle,9,0,9
+Westport,2015,Vehicle/vehicle,1213,1,247
+Westport,2016,Cyclist/vehicle,4,0,3
+Westport,2016,Pedestrian/vehicle,7,0,6
+Westport,2016,Vehicle/vehicle,1034,5,204
+Westport,2017,Cyclist/vehicle,1,0,1
+Westport,2017,Pedestrian/vehicle,6,0,5
+Westport,2017,Vehicle/vehicle,931,3,208
+Westport,2018,Cyclist/vehicle,2,0,2
+Westport,2018,Pedestrian/vehicle,9,0,8
+Westport,2018,Vehicle/vehicle,1270,1,271
+Westport,2019,Cyclist/vehicle,4,0,3
+Westport,2019,Pedestrian/vehicle,14,1,13
+Westport,2019,Vehicle/vehicle,1355,2,301
+Westport,2020,Cyclist/vehicle,1,0,1
+Westport,2020,Pedestrian/vehicle,6,0,6
+Westport,2020,Vehicle/vehicle,799,2,203
+Westport,2021,Cyclist/vehicle,6,0,3
+Westport,2021,Pedestrian/vehicle,3,0,3
+Westport,2021,Vehicle/vehicle,1142,0,257
+Westport,2022,Cyclist/vehicle,1,0,1
+Westport,2022,Pedestrian/vehicle,8,0,8
+Westport,2022,Vehicle/vehicle,1226,1,237
+Westport,2023,Pedestrian/vehicle,7,1,6
+Westport,2023,Vehicle/vehicle,1201,2,230
+Westport,2024,Cyclist/vehicle,4,0,1
+Westport,2024,Pedestrian/vehicle,6,0,6
+Westport,2024,Vehicle/vehicle,1286,1,249
+Westport,2025,Cyclist/vehicle,3,0,3
+Westport,2025,Pedestrian/vehicle,7,1,7
+Westport,2025,Vehicle/vehicle,1174,0,204
+Wethersfield,2015,Cyclist/vehicle,1,0,1
+Wethersfield,2015,Pedestrian/vehicle,9,2,7
+Wethersfield,2015,Vehicle/vehicle,964,0,209
+Wethersfield,2016,Pedestrian/vehicle,16,1,13
+Wethersfield,2016,Vehicle/vehicle,918,1,178
+Wethersfield,2017,Pedestrian/vehicle,3,0,3
+Wethersfield,2017,Vehicle/vehicle,879,5,165
+Wethersfield,2018,Cyclist/vehicle,2,0,2
+Wethersfield,2018,Pedestrian/vehicle,7,0,7
+Wethersfield,2018,Vehicle/vehicle,971,0,186
+Wethersfield,2019,Cyclist/vehicle,3,0,2
+Wethersfield,2019,Pedestrian/vehicle,4,0,3
+Wethersfield,2019,Vehicle/vehicle,944,2,192
+Wethersfield,2020,Pedestrian/vehicle,4,3,4
+Wethersfield,2020,Vehicle/vehicle,622,1,135
+Wethersfield,2021,Cyclist/vehicle,5,0,1
+Wethersfield,2021,Pedestrian/vehicle,5,2,4
+Wethersfield,2021,Vehicle/vehicle,862,2,176
+Wethersfield,2022,Cyclist/vehicle,1,0,1
+Wethersfield,2022,Pedestrian/vehicle,12,2,11
+Wethersfield,2022,Vehicle/vehicle,777,0,164
+Wethersfield,2023,Cyclist/vehicle,3,0,3
+Wethersfield,2023,Pedestrian/vehicle,2,0,2
+Wethersfield,2023,Vehicle/vehicle,779,4,164
+Wethersfield,2024,Cyclist/vehicle,2,0,2
+Wethersfield,2024,Pedestrian/vehicle,5,0,5
+Wethersfield,2024,Vehicle/vehicle,732,1,138
+Wethersfield,2025,Cyclist/vehicle,3,0,3
+Wethersfield,2025,Pedestrian/vehicle,4,0,3
+Wethersfield,2025,Vehicle/vehicle,747,2,148
+Willington,2015,Vehicle/vehicle,108,1,24
+Willington,2016,Vehicle/vehicle,134,1,34
+Willington,2017,Vehicle/vehicle,113,0,23
+Willington,2018,Pedestrian/vehicle,2,0,2
+Willington,2018,Vehicle/vehicle,117,1,33
+Willington,2019,Vehicle/vehicle,124,2,29
+Willington,2020,Vehicle/vehicle,94,2,24
+Willington,2021,Pedestrian/vehicle,1,0,1
+Willington,2021,Vehicle/vehicle,136,0,36
+Willington,2022,Pedestrian/vehicle,1,1,1
+Willington,2022,Vehicle/vehicle,136,0,31
+Willington,2023,Vehicle/vehicle,144,1,31
+Willington,2024,Vehicle/vehicle,148,3,43
+Willington,2025,Pedestrian/vehicle,1,0,1
+Willington,2025,Vehicle/vehicle,152,0,30
+Wilton,2015,Pedestrian/vehicle,2,0,1
+Wilton,2015,Vehicle/vehicle,581,1,89
+Wilton,2016,Cyclist/vehicle,1,0,1
+Wilton,2016,Pedestrian/vehicle,4,1,4
+Wilton,2016,Vehicle/vehicle,499,0,104
+Wilton,2017,Cyclist/vehicle,1,0,1
+Wilton,2017,Pedestrian/vehicle,7,0,7
+Wilton,2017,Vehicle/vehicle,506,1,103
+Wilton,2018,Pedestrian/vehicle,3,0,3
+Wilton,2018,Vehicle/vehicle,466,0,96
+Wilton,2019,Cyclist/vehicle,1,0,1
+Wilton,2019,Pedestrian/vehicle,5,0,5
+Wilton,2019,Vehicle/vehicle,534,0,119
+Wilton,2020,Cyclist/vehicle,2,0,1
+Wilton,2020,Pedestrian/vehicle,4,0,4
+Wilton,2020,Vehicle/vehicle,341,0,66
+Wilton,2021,Cyclist/vehicle,1,0,1
+Wilton,2021,Vehicle/vehicle,369,0,73
+Wilton,2022,Pedestrian/vehicle,3,1,3
+Wilton,2022,Vehicle/vehicle,457,1,94
+Wilton,2023,Pedestrian/vehicle,2,0,2
+Wilton,2023,Vehicle/vehicle,390,1,64
+Wilton,2024,Cyclist/vehicle,3,0,2
+Wilton,2024,Pedestrian/vehicle,4,0,3
+Wilton,2024,Vehicle/vehicle,395,0,78
+Wilton,2025,Cyclist/vehicle,1,0,1
+Wilton,2025,Pedestrian/vehicle,4,0,3
+Wilton,2025,Vehicle/vehicle,362,0,71
+Winchester,2015,Pedestrian/vehicle,2,0,2
+Winchester,2015,Vehicle/vehicle,325,0,44
+Winchester,2016,Cyclist/vehicle,1,0,1
+Winchester,2016,Vehicle/vehicle,148,0,25
+Winchester,2017,Cyclist/vehicle,1,0,1
+Winchester,2017,Vehicle/vehicle,231,0,40
+Winchester,2018,Pedestrian/vehicle,3,0,2
+Winchester,2018,Vehicle/vehicle,263,2,44
+Winchester,2019,Cyclist/vehicle,2,0,1
+Winchester,2019,Pedestrian/vehicle,2,0,2
+Winchester,2019,Vehicle/vehicle,271,1,54
+Winchester,2020,Cyclist/vehicle,1,0,1
+Winchester,2020,Pedestrian/vehicle,2,0,2
+Winchester,2020,Vehicle/vehicle,189,3,34
+Winchester,2021,Vehicle/vehicle,236,1,56
+Winchester,2022,Cyclist/vehicle,1,0,1
+Winchester,2022,Pedestrian/vehicle,2,0,2
+Winchester,2022,Vehicle/vehicle,180,1,36
+Winchester,2023,Cyclist/vehicle,1,0,1
+Winchester,2023,Pedestrian/vehicle,4,0,3
+Winchester,2023,Vehicle/vehicle,204,1,53
+Winchester,2024,Pedestrian/vehicle,2,0,1
+Winchester,2024,Vehicle/vehicle,244,0,59
+Winchester,2025,Cyclist/vehicle,6,0,3
+Winchester,2025,Pedestrian/vehicle,4,0,3
+Winchester,2025,Vehicle/vehicle,234,1,38
+Windham,2015,Cyclist/vehicle,4,0,3
+Windham,2015,Pedestrian/vehicle,6,0,6
+Windham,2015,Vehicle/vehicle,511,1,117
+Windham,2016,Cyclist/vehicle,3,0,1
+Windham,2016,Pedestrian/vehicle,6,0,6
+Windham,2016,Vehicle/vehicle,544,3,103
+Windham,2017,Cyclist/vehicle,3,0,3
+Windham,2017,Pedestrian/vehicle,8,1,7
+Windham,2017,Vehicle/vehicle,526,1,110
+Windham,2018,Cyclist/vehicle,2,0,1
+Windham,2018,Pedestrian/vehicle,4,0,4
+Windham,2018,Vehicle/vehicle,504,1,127
+Windham,2019,Cyclist/vehicle,4,0,4
+Windham,2019,Pedestrian/vehicle,6,0,5
+Windham,2019,Vehicle/vehicle,488,1,97
+Windham,2020,Cyclist/vehicle,1,0,1
+Windham,2020,Pedestrian/vehicle,9,0,7
+Windham,2020,Vehicle/vehicle,420,1,128
+Windham,2021,Cyclist/vehicle,2,0,0
+Windham,2021,Pedestrian/vehicle,10,1,10
+Windham,2021,Vehicle/vehicle,432,2,124
+Windham,2022,Cyclist/vehicle,4,0,4
+Windham,2022,Pedestrian/vehicle,8,0,8
+Windham,2022,Vehicle/vehicle,460,3,132
+Windham,2023,Cyclist/vehicle,5,0,2
+Windham,2023,Pedestrian/vehicle,10,1,8
+Windham,2023,Vehicle/vehicle,450,0,106
+Windham,2024,Cyclist/vehicle,5,0,4
+Windham,2024,Pedestrian/vehicle,9,1,7
+Windham,2024,Vehicle/vehicle,526,0,113
+Windham,2025,Cyclist/vehicle,4,0,3
+Windham,2025,Pedestrian/vehicle,6,0,6
+Windham,2025,Vehicle/vehicle,507,1,120
+Windsor,2015,Cyclist/vehicle,2,0,1
+Windsor,2015,Pedestrian/vehicle,3,0,2
+Windsor,2015,Vehicle/vehicle,910,0,203
+Windsor,2016,Cyclist/vehicle,2,0,2
+Windsor,2016,Pedestrian/vehicle,3,0,3
+Windsor,2016,Vehicle/vehicle,1090,1,235
+Windsor,2017,Cyclist/vehicle,6,0,4
+Windsor,2017,Pedestrian/vehicle,10,0,10
+Windsor,2017,Vehicle/vehicle,1171,0,267
+Windsor,2018,Cyclist/vehicle,2,0,1
+Windsor,2018,Pedestrian/vehicle,7,1,7
+Windsor,2018,Vehicle/vehicle,1138,2,248
+Windsor,2019,Cyclist/vehicle,2,0,1
+Windsor,2019,Pedestrian/vehicle,8,0,8
+Windsor,2019,Vehicle/vehicle,1232,2,305
+Windsor,2020,Cyclist/vehicle,3,0,3
+Windsor,2020,Pedestrian/vehicle,5,1,5
+Windsor,2020,Vehicle/vehicle,761,4,177
+Windsor,2021,Cyclist/vehicle,2,0,1
+Windsor,2021,Pedestrian/vehicle,6,0,6
+Windsor,2021,Vehicle/vehicle,898,1,234
+Windsor,2022,Cyclist/vehicle,3,0,2
+Windsor,2022,Pedestrian/vehicle,2,0,2
+Windsor,2022,Vehicle/vehicle,988,2,250
+Windsor,2023,Cyclist/vehicle,3,0,3
+Windsor,2023,Pedestrian/vehicle,11,0,10
+Windsor,2023,Vehicle/vehicle,970,4,210
+Windsor,2024,Pedestrian/vehicle,8,0,8
+Windsor,2024,Vehicle/vehicle,1096,8,258
+Windsor,2025,Cyclist/vehicle,2,0,1
+Windsor,2025,Pedestrian/vehicle,7,0,5
+Windsor,2025,Vehicle/vehicle,1104,0,246
+Windsor Locks,2015,Pedestrian/vehicle,5,0,3
+Windsor Locks,2015,Vehicle/vehicle,249,0,43
+Windsor Locks,2016,Cyclist/vehicle,1,0,1
+Windsor Locks,2016,Pedestrian/vehicle,10,1,8
+Windsor Locks,2016,Vehicle/vehicle,303,1,66
+Windsor Locks,2017,Cyclist/vehicle,1,0,1
+Windsor Locks,2017,Pedestrian/vehicle,3,0,3
+Windsor Locks,2017,Vehicle/vehicle,299,0,62
+Windsor Locks,2018,Pedestrian/vehicle,8,2,6
+Windsor Locks,2018,Vehicle/vehicle,336,0,78
+Windsor Locks,2019,Pedestrian/vehicle,6,0,6
+Windsor Locks,2019,Vehicle/vehicle,380,0,87
+Windsor Locks,2020,Pedestrian/vehicle,2,0,2
+Windsor Locks,2020,Vehicle/vehicle,217,0,59
+Windsor Locks,2021,Pedestrian/vehicle,2,0,2
+Windsor Locks,2021,Vehicle/vehicle,260,1,69
+Windsor Locks,2022,Cyclist/vehicle,1,0,0
+Windsor Locks,2022,Pedestrian/vehicle,2,0,1
+Windsor Locks,2022,Vehicle/vehicle,322,1,72
+Windsor Locks,2023,Cyclist/vehicle,1,0,1
+Windsor Locks,2023,Pedestrian/vehicle,5,0,4
+Windsor Locks,2023,Vehicle/vehicle,300,0,71
+Windsor Locks,2024,Cyclist/vehicle,1,0,0
+Windsor Locks,2024,Pedestrian/vehicle,5,0,5
+Windsor Locks,2024,Vehicle/vehicle,420,1,86
+Windsor Locks,2025,Cyclist/vehicle,3,0,3
+Windsor Locks,2025,Pedestrian/vehicle,9,0,7
+Windsor Locks,2025,Vehicle/vehicle,369,1,93
+WindsorLocks,2015,Vehicle/vehicle,62,0,11
+WindsorLocks,2016,Cyclist/vehicle,1,0,1
+WindsorLocks,2016,Pedestrian/vehicle,1,0,1
+WindsorLocks,2016,Vehicle/vehicle,53,0,6
+WindsorLocks,2017,Vehicle/vehicle,27,0,5
+WindsorLocks,2019,Vehicle/vehicle,1,0,0
+Wolcott,2015,Vehicle/vehicle,231,0,68
+Wolcott,2016,Cyclist/vehicle,1,0,0
+Wolcott,2016,Pedestrian/vehicle,2,0,2
+Wolcott,2016,Vehicle/vehicle,280,0,82
+Wolcott,2017,Cyclist/vehicle,1,0,1
+Wolcott,2017,Pedestrian/vehicle,1,0,1
+Wolcott,2017,Vehicle/vehicle,268,1,73
+Wolcott,2018,Pedestrian/vehicle,2,1,2
+Wolcott,2018,Vehicle/vehicle,267,1,76
+Wolcott,2019,Vehicle/vehicle,260,0,77
+Wolcott,2020,Vehicle/vehicle,174,1,50
+Wolcott,2021,Pedestrian/vehicle,3,0,3
+Wolcott,2021,Vehicle/vehicle,233,0,62
+Wolcott,2022,Pedestrian/vehicle,1,0,0
+Wolcott,2022,Vehicle/vehicle,232,1,57
+Wolcott,2023,Pedestrian/vehicle,1,0,1
+Wolcott,2023,Vehicle/vehicle,248,1,66
+Wolcott,2024,Pedestrian/vehicle,1,0,0
+Wolcott,2024,Vehicle/vehicle,242,3,67
+Wolcott,2025,Vehicle/vehicle,220,0,56
+Woodbridge,2015,Cyclist/vehicle,1,0,1
+Woodbridge,2015,Pedestrian/vehicle,1,1,1
+Woodbridge,2015,Vehicle/vehicle,306,0,68
+Woodbridge,2016,Cyclist/vehicle,1,0,1
+Woodbridge,2016,Vehicle/vehicle,348,2,98
+Woodbridge,2017,Cyclist/vehicle,1,0,0
+Woodbridge,2017,Pedestrian/vehicle,1,0,1
+Woodbridge,2017,Vehicle/vehicle,330,0,83
+Woodbridge,2018,Pedestrian/vehicle,1,0,1
+Woodbridge,2018,Vehicle/vehicle,348,0,84
+Woodbridge,2019,Pedestrian/vehicle,1,0,1
+Woodbridge,2019,Vehicle/vehicle,332,1,81
+Woodbridge,2020,Cyclist/vehicle,1,0,1
+Woodbridge,2020,Pedestrian/vehicle,1,0,1
+Woodbridge,2020,Vehicle/vehicle,234,3,75
+Woodbridge,2021,Cyclist/vehicle,1,0,1
+Woodbridge,2021,Pedestrian/vehicle,2,2,2
+Woodbridge,2021,Vehicle/vehicle,292,1,92
+Woodbridge,2022,Cyclist/vehicle,2,0,2
+Woodbridge,2022,Pedestrian/vehicle,2,0,2
+Woodbridge,2022,Vehicle/vehicle,339,1,73
+Woodbridge,2023,Pedestrian/vehicle,1,0,0
+Woodbridge,2023,Vehicle/vehicle,305,2,76
+Woodbridge,2024,Pedestrian/vehicle,4,0,4
+Woodbridge,2024,Vehicle/vehicle,276,1,74
+Woodbridge,2025,Cyclist/vehicle,1,0,0
+Woodbridge,2025,Vehicle/vehicle,327,0,67
+Woodbury,2015,Pedestrian/vehicle,2,0,2
+Woodbury,2015,Vehicle/vehicle,175,1,43
+Woodbury,2016,Cyclist/vehicle,1,0,1
+Woodbury,2016,Pedestrian/vehicle,1,0,1
+Woodbury,2016,Vehicle/vehicle,147,0,41
+Woodbury,2017,Pedestrian/vehicle,1,0,1
+Woodbury,2017,Vehicle/vehicle,144,2,32
+Woodbury,2018,Pedestrian/vehicle,1,0,1
+Woodbury,2018,Vehicle/vehicle,155,1,32
+Woodbury,2019,Pedestrian/vehicle,1,0,0
+Woodbury,2019,Vehicle/vehicle,147,0,48
+Woodbury,2020,Pedestrian/vehicle,2,1,2
+Woodbury,2020,Vehicle/vehicle,113,0,34
+Woodbury,2021,Pedestrian/vehicle,1,0,1
+Woodbury,2021,Vehicle/vehicle,126,0,33
+Woodbury,2022,Cyclist/vehicle,1,0,1
+Woodbury,2022,Pedestrian/vehicle,1,0,1
+Woodbury,2022,Vehicle/vehicle,151,1,36
+Woodbury,2023,Vehicle/vehicle,142,2,42
+Woodbury,2024,Pedestrian/vehicle,1,0,1
+Woodbury,2024,Vehicle/vehicle,137,0,36
+Woodbury,2025,Cyclist/vehicle,1,0,1
+Woodbury,2025,Vehicle/vehicle,135,1,46
+Woodstock,2015,Pedestrian/vehicle,1,0,1
+Woodstock,2015,Vehicle/vehicle,92,0,32
+Woodstock,2016,Cyclist/vehicle,3,0,3
+Woodstock,2016,Vehicle/vehicle,104,0,24
+Woodstock,2017,Vehicle/vehicle,91,2,30
+Woodstock,2018,Vehicle/vehicle,95,0,30
+Woodstock,2019,Vehicle/vehicle,98,0,30
+Woodstock,2020,Cyclist/vehicle,1,0,1
+Woodstock,2020,Pedestrian/vehicle,1,0,1
+Woodstock,2020,Vehicle/vehicle,62,0,24
+Woodstock,2021,Pedestrian/vehicle,1,0,1
+Woodstock,2021,Vehicle/vehicle,75,2,32
+Woodstock,2022,Vehicle/vehicle,78,0,21
+Woodstock,2023,Vehicle/vehicle,87,2,21
+Woodstock,2024,Vehicle/vehicle,92,2,22
+Woodstock,2025,Vehicle/vehicle,83,0,26
