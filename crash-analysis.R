@@ -91,13 +91,13 @@ if (file.exists(compiled_file)) {
           min(town_counts$year), "-", max(town_counts$year), ").")
 }
 
-# Compile-once fatalities dataset (PERSONS KILLED)
+# Compile-once fatalities dataset
 
-# Fatal CRASHES (above) count crashes with >=1 death. Actual FATALITIES count
-# people killed, which can exceed fatal crashes (multi-death crashes) and is the
-# SS4A-style quantity. Persons killed live in the person-level _2 files
-# (Injury Status K), classified by Person Type, joined to the crash _0 files for
-# town/year. Compiled once to a small fatalities_by_town.csv (committed to git).
+# Fatal crashes (above) count crashes with >=1 death. 
+# This counts total people killed, which can exceed fatal crashes (multi-death crashes)
+# Persons killed live in the person-level _2 files
+# (Injury Status K), classified by Person Type, joined to the crash _0 files for town/year
+# Compiled once to a small fatalities_by_town.csv (committed to git)
 fatalities_file <- "fatalities_by_town.csv"
 
 build_fatalities <- function() {
@@ -117,7 +117,7 @@ build_fatalities <- function() {
              locale = locale(encoding = "Windows-1252"),
              name_repair = "minimal", show_col_types = FALSE)
 
-  # CrashId -> town, year (dedup: same crash appears across boundary exports).
+  # CrashId -> town, year (dedup: same crash appears across boundary exports)
   message("Building fatalities: reading crash files for town/year ...")
   crash_map <- map(crash_files, ~read_raw(.x, c(crash_id = 1L, town = 9L,
                                                 year = 14L))) |>
@@ -125,10 +125,9 @@ build_fatalities <- function() {
     mutate(year = as.integer(year)) |>
     distinct(crash_id, .keep_all = TRUE)
 
-  # Persons killed (Injury Status K), classified by Person Type. Motorists =
-  # driver/passenger/occupant (1,2,7); non-motorists = ped/cyclist/other
-  # (3,4,5,6,8); anything else (witness/unknown) kept as Other so it still
-  # counts toward the all-road-users total.
+  # Persons killed (Injury Status K), classified by Person Type
+  # Motorists = driver/passenger/occupant (1,2,7); non-motorists = ped/cyclist/other (3,4,5,6,8); 
+  # anything else (witness/unknown) kept as Other so it still counts toward the all-road-users total
   motorist <- c("1", "2", "7")
   nonmotor <- c("3", "4", "5", "6", "8")
   message("Building fatalities: reading person files (Injury Status K) ...")
@@ -160,14 +159,12 @@ if (file.exists(fatalities_file)) {
 
 # Compile-once by-COLLISION-TYPE datasets
 
-# Per supervisor: annual calculations by collision type. Each crash is typed from
-# the people involved (person-level _2 files):
+# Annual calculations by collision type. 
+# Each crash is from the people involved (person-level _2 files):
 #   Cyclist/vehicle    -> a cyclist was involved (Person Type 5,6)
 #   Pedestrian/vehicle -> a pedestrian / other non-motorist involved (3,4,8), no cyclist
-#   Vehicle/vehicle    -> motor-vehicle occupants only (INCLUDES single-vehicle crashes)
-# (Cyclist takes priority over pedestrian in the rare crash involving both.)
-# Produces crashes and fatalities by town x year x collision type. Both are small
-# and committed to git.
+#   Vehicle/vehicle    -> motor-vehicle occupants only (includes single-vehicle crashes)
+# Produces crashes and fatalities by town x year x collision type
 bytype_crash_file <- "crash_counts_by_town_bytype.csv"
 bytype_fatal_file <- "fatalities_by_town_bytype.csv"
 
@@ -191,7 +188,7 @@ build_bytype <- function() {
     list_rbind() |>
     distinct(crash_id, person_id, .keep_all = TRUE)
 
-  # One collision type per crash, from the people involved.
+  # One collision type per crash, from the people involved
   cyc <- c("5", "6"); ped <- c("3", "4", "8")
   crash_type <- persons |>
     group_by(crash_id) |>
@@ -219,7 +216,7 @@ build_bytype <- function() {
               injury_or_fatal_crashes = sum(severity %in% c("A", "K")),
               .groups = "drop")
 
-  # Fatalities tagged with their crash's collision type.
+  # Fatalities tagged with their crash's collision type
   deaths <- persons |>
     filter(injury == "K") |>
     left_join(crash_type, by = "crash_id") |>
@@ -250,9 +247,9 @@ if (file.exists(bytype_crash_file) && file.exists(bytype_fatal_file)) {
 
 # Geographies of interest
 
-# Focus on New Haven and Waterbury + comparison cities. report_towns are also
-# the five most populous CT cities. Two aggregate benchmark lines are added:
-# the five largest cities combined, and the statewide total.
+# Focus on New Haven and Waterbury + comparison cities
+# report_towns are also the five most populous CT cities
+# Two aggregate benchmark lines are added: the five largest cities combined, and the statewide total
 focus_towns <- c("New Haven", "Waterbury")
 comparison_towns <- c("Hartford", "Stamford", "Bridgeport")
 report_towns <- c(focus_towns, comparison_towns)   # = the 5 largest CT cities
@@ -268,8 +265,7 @@ by_state <- town_counts |>
   group_by(geography = state_label, year, group) |>
   summarise(across(ends_with("_crashes"), sum), .groups = "drop")
 
-# Five largest cities combined: sum just the report towns (pooled -> less noisy
-# than any single city, especially for the sparse pedestrian/fatal counts)
+# Five largest cities combined: sum just the report towns
 by_big5 <- town_counts |>
   filter(town %in% report_towns) |>
   group_by(geography = big5_label, year, group) |>
@@ -298,8 +294,7 @@ dir.create("output", showWarnings = FALSE)
 write_csv(indicators_long,  "output/crash_indicators_long.csv")
 write_csv(indicators_table, "output/crash_indicators_by_year_wide.csv")
 
-# Readable console view: one compact block per geography, year down the rows
-# each of the six indicators as a labelled column
+# Readable console view: one compact block per geography, year down the rows each of the six indicators as a labelled column
 print_geo <- function(geo) {
   message("\n--- ", geo, ": six indicators by year ---")
   indicators_long |>
@@ -320,10 +315,7 @@ walk(c("New Haven", "Waterbury", big5_label, state_label), print_geo)
 
 # Per-capita rates + time-series graph
 
-# A SINGLE fixed denominator per geography: the 2020 Decennial Census count,
-# applied to every year. This isolates crash-count trends from population change
-# and matches the SS4A convention of a fixed 2020 population. (No per-year ACS,
-# so no 2025 carry-forward is needed.)
+# single fixed denominator per geography from the 2020 Decennial Census count
 fetch_census_population <- function() {
   key <- Sys.getenv("CENSUS_API_KEY")
   if (!nzchar(key))
@@ -352,7 +344,7 @@ fetch_census_population <- function() {
 
 population <- fetch_census_population()
 
-# Combined denominator for the "Five largest cities" line = sum of their 2020 pops
+# Combined denominator for the "Five largest cities" line = sum of their 2020 populations
 population <- population |>
   bind_rows(
     population |> filter(geography %in% report_towns) |>
@@ -385,7 +377,7 @@ rate_data <- rates_long |> filter(!is.na(rate_per_100k))
 rate_span <- range(rate_data$year)
 
 # One panel per group x metric, laid out as 2 rows (group) x 3 cols (metric)
-# facet_wrap gives every panel its OWN y-scale, so the small fatal-crash rates
+# facet_wrap gives every panel its own y-scale, so the small fatal-crash rates
 # stay legible instead of being flattened by the much larger total-crash rates
 rate_plot <- rate_data |>
   mutate(kind = if_else(geography %in% aggregates, "aggregate", "city")) |>
@@ -417,12 +409,8 @@ print(rate_plot)
 
 # Fatal-crash share + graph
 
-# Share of crashes that are fatal (fatal / total, as a %). This is a proportion,
-# not a per-capita rate, so it needs no population and covers ALL years (incl.
-# 2025). Same geographic breakdown as the rates graph, faceted by road-user
-# group plus an "All road users" panel (= fatal crashes out of all crashes).
-# Fatal shares differ hugely between groups (pedestrian/cyclist crashes are far
-# likelier to be fatal), so panels use free y-scales.
+# Share of crashes that are fatal (fatal / total, as a %)
+# Same geographic breakdown as the rates graph, faceted by road-user group plus an "All road users" panel
 fatal_share <- indicators_long |>
   bind_rows(
     indicators_long |>
@@ -472,10 +460,10 @@ print(fatal_plot)
 
 # Fatalities (persons killed) per capita + graph
 
-# "Pure" fatalities: PERSONS KILLED per 100,000 residents (SS4A-style), from the
-# person-level fatalities_by_town.csv. Same geographies + benchmark lines as the
-# rates graph, faceted by victim type plus "All road users" (= every person
-# killed). Uses the same fixed 2020 Decennial population denominators.
+# total fatalities: people killed per 100,000 residents from the person-level fatalities_by_town.csv
+# Same geographies + benchmark lines as the rates graph
+# faceted by victim type plus "All road users" (= every person killed)
+# Uses the same fixed 2020 Decennial population denominators
 fatal_geo <- bind_rows(
   fatal_counts |> rename(geography = town),
   fatal_counts |> group_by(geography = state_label, year, group) |>
@@ -486,7 +474,7 @@ fatal_geo <- bind_rows(
 ) |>
   filter(geography %in% c(report_towns, aggregates))
 
-# All road users = every person killed (incl. Other/Unknown victim types).
+# All road users = every person killed (incl. Other/Unknown victim types)
 deaths_display <- bind_rows(
   fatal_geo,
   fatal_geo |> group_by(geography, year) |>
@@ -494,7 +482,7 @@ deaths_display <- bind_rows(
 ) |>
   filter(group %in% c("All road users", "Driver/Passenger",
                       "Pedestrian/Cyclist/Other")) |>
-  # Years with zero deaths in a cell are absent -> fill 0 so lines don't gap.
+  # Years with zero deaths in a cell are absent -> fill 0 so lines don't gap
   complete(nesting(geography), year = 2015:2025,
            group = c("All road users", "Driver/Passenger",
                      "Pedestrian/Cyclist/Other"),
@@ -544,7 +532,7 @@ print(deaths_plot)
 type_levels <- c("Vehicle/vehicle", "Pedestrian/vehicle", "Cyclist/vehicle")
 
 # Roll town-level by-type counts up to the reporting geographies (+ benchmarks),
-# fill missing town-year-type cells with 0, and attach the fixed 2020 population.
+# fill missing town-year-type cells with 0, and attach the fixed 2020 population
 roll_bytype <- function(df, value_cols) {
   bind_rows(
     df |> rename(geography = town),
@@ -561,7 +549,7 @@ roll_bytype <- function(df, value_cols) {
     mutate(crash_type = factor(crash_type, levels = type_levels))
 }
 
-# Shared plotter: one facet per collision type, per-100k rate, benchmarks thick.
+# Shared plotter: one facet per collision type, per-100k rate, benchmarks thick
 bytype_plot <- function(df, value, y_lab, title) {
   df |>
     mutate(rate = .data[[value]] / population * 1e5,
@@ -614,9 +602,7 @@ ggsave("output/fatalities_by_type.png", deaths_type_plot,
        width = 11, height = 4.8, dpi = 300, device = ragg::agg_png)
 print(deaths_type_plot)
 
-# Fatal share by collision type: what % of each type's crashes are fatal. A
-# proportion (no population needed), so it covers all years. Headline point:
-# pedestrian and cyclist crashes are far likelier to be fatal than vehicle-only.
+# Fatal share by collision type: what % of each type's crashes are fatal
 fatal_share_bytype <- crashes_bytype_geo |>
   mutate(fatal_pct = if_else(total_crashes > 0,
                              fatal_crashes / total_crashes * 100, NA_real_))
