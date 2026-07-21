@@ -1,12 +1,25 @@
-# CT Motor-Vehicle trends in crashes / injuries for New Haven and
-# Waterbury vs. other cities and Connecticut overall, 2015 onward
-#
-# Six indicators = 3 metrics x 2 road-user groups:
-#   Metrics:  (1) total crashes
-#             (2) fatal crashes            -> Crash Severity == "K"
-#             (3) injury-or-fatal crashes  -> Crash Severity in {"A","K"}
-#   Groups:   Driver/Passenger            -> no non-motorist involved
-#             Pedestrian/Cyclist/Other    -> >=1 non-motorist involved
+# Connecticut motor-vehicle crash & fatality trends, 2015-2025
+# Focus: New Haven & Waterbury vs. comparison cities and Connecticut overall
+
+# Geographies: New Haven, Waterbury, Hartford, Stamford, Bridgeport (the five largest CT cities)
+# plus two benchmark lines -- the five cities combined and the statewide total
+
+# Data: raw exports from the CT Crash Data Repository (ctcrash.uconn.edu) are compiled 
+# into small, git-committed CSVs (see raw_data/ and the build_* functions)
+# Population denominators come from the 2020 Decennial Census via tidycensus, held constant across all years
+
+# Analyses produced (tidy CSVs + graphs in output/):
+#   1. Crash counts & per-capita rates by road-user group
+#      six indicators = 3 metrics x 2 groups:
+#        Metrics: total crashes; fatal crashes (Crash Severity K);
+#                 injury-or-fatal crashes (Crash Severity A or K)
+#        Groups:  Driver/Passenger (no non-motorist) vs
+#                 Pedestrian/Cyclist/Other (>=1 non-motorist)
+#   2. Fatal share: fatal crashes as a % of all crashes
+#   3. Fatalities (persons killed) per capita, from the person-level files
+#      (Injury Status K), by victim type
+#   4. By collision type (vehicle/vehicle, pedestrian/vehicle, cyclist/vehicle):
+#      crashes, fatalities, and fatal share
 
 library(tidyverse)
 library(tidycensus)   # Census API access for population denominators
