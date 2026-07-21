@@ -157,7 +157,7 @@ fetch_census_population <- function() {
     stop("CENSUS_API_KEY is not set. Per-capita rates require Census API ",
          "access; add 'CENSUS_API_KEY=...' to ~/.Renviron.", call. = FALSE)
 
-  # Place GEOIDs (state 09 + 5-digit place code) for the five cities.
+  # Place GEOIDs (state 09 + 5-digit place code) for the five cities
   places <- tribble(
     ~geography,   ~GEOID,
     "New Haven",  "0952000",
@@ -170,8 +170,7 @@ fetch_census_population <- function() {
     df |> inner_join(places, by = "GEOID") |>
       transmute(geography, year = yr, population = value)
 
-  # One ACS 1-year pull (cities + statewide) for a given year. tidycensus
-  # returns the estimate in `estimate`; rename to `value` for a shared helper.
+  # One ACS 1-year pull (cities + statewide) for a given year
   acs_year <- function(yr) {
     city <- get_acs("place", variables = "B01003_001E", state = "CT",
                     survey = "acs1", year = yr, key = key) |>
@@ -187,7 +186,7 @@ fetch_census_population <- function() {
           "(ACS 1-year + 2020 Decennial) ...")
   acs <- map(c(2015:2019, 2021:2024), acs_year) |> list_rbind()
 
-  # 2020: ACS 1-year was not released -> use the 2020 Decennial Census count.
+  # 2020 use the 2020 Decennial Census count
   dec_city <- get_decennial("place", variables = "P1_001N", state = "CT",
                             year = 2020, sumfile = "pl", key = key) |>
     keep_city(2020L)
@@ -201,12 +200,7 @@ fetch_census_population <- function() {
 
 population <- fetch_census_population()
 
-# 2025 has no published Census figure yet (ACS 1-year 2025 releases late 2026).
-# Deliberate choice: carry the 2024 ACS value forward as the 2025 denominator so
-# the per-capita graph extends through 2025. This is the ONLY non-published
-# population figure here; population barely moves year-to-year, so 2025 rates are
-# a close approximation. Delete this block to revert to omitting 2025, or replace
-# with the real 2025 ACS/PEP figure once it is available.
+# 2025 has no published Census figure yet so carried 2024 ACS value forward as the 2025 denominator for the per-capita graph
 population <- population |>
   bind_rows(population |> filter(year == 2024L) |> mutate(year = 2025L))
 
@@ -234,9 +228,9 @@ write_csv(rates_long, "output/crash_rates_per_100k.csv")
 rate_data <- rates_long |> filter(!is.na(rate_per_100k))
 rate_span <- range(rate_data$year)
 
-# One panel per group x metric, laid out as 2 rows (group) x 3 cols (metric).
+# One panel per group x metric, laid out as 2 rows (group) x 3 cols (metric)
 # facet_wrap gives every panel its OWN y-scale, so the small fatal-crash rates
-# stay legible instead of being flattened by the much larger total-crash rates.
+# stay legible instead of being flattened by the much larger total-crash rates
 rate_plot <- rate_data |>
   ggplot(aes(year, rate_per_100k, colour = geography)) +
   geom_line(linewidth = 0.7) +
@@ -259,6 +253,9 @@ rate_plot <- rate_data |>
 
 ggsave("output/crash_rates_per_100k.png", rate_plot,
        width = 11, height = 6.5, dpi = 150)
+
+# Draw it to the Plots pane too (in addition to the saved PNG)
+print(rate_plot)
 
 message("\nWrote:\n  output/crash_indicators_long.csv       (tidy: geography x year x group)",
         "\n  output/crash_indicators_by_year_wide.csv (six indicators by year)",

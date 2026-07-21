@@ -11,4 +11,7 @@ raw_data/*.csv
 !output/*.csv
 !output/*.png
 
+# Stray plot file if the script is ever run non-interactively via Rscript.
+Rplots.pdf
+
 # Tracked intentionally: crash-analysis.R, raw_data/exportdescription_*.txt, "Mark Instructions"
