@@ -1,8 +1,8 @@
-# Crash data exports — too large for GitHub (100 MB/file limit), kept local only.
-# Data is reproducible from the CT Crash Data Repository (query URLs are in the
-# first line of each CSV and summarized in the exportdescription_*.txt files).
+# Raw crash exports live in raw_data/ — too large for GitHub (100 MB/file limit),
+# kept local only. Reproducible from the CT Crash Data Repository; each query's
+# date range is recorded in raw_data/exportdescription_*.txt (which ARE tracked).
 *.csv
-export_*.csv
+raw_data/*.csv
 
 # ...but DO keep the small compiled dataset and result tables.
 # (Population is fetched live from the Census API, not stored.)
@@ -11,4 +11,4 @@ export_*.csv
 !output/*.csv
 !output/*.png
 
-# Tracked intentionally: crash-analysis.R, exportdescription_*.txt, "Mark Instructions"
+# Tracked intentionally: crash-analysis.R, raw_data/exportdescription_*.txt, "Mark Instructions"

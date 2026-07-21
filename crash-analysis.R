@@ -9,7 +9,7 @@
 #             Pedestrian/Cyclist/Other    -> >=1 non-motorist involved
 
 library(tidyverse)
-library(jsonlite)   # live Census API calls for population denominators
+library(tidycensus)   # Census API access for population denominators
 
 # Compile-once analysis dataset
 
@@ -20,16 +20,21 @@ library(jsonlite)   # live Census API calls for population denominators
 compiled_file <- "crash_counts_by_town.csv"
 
 build_town_counts <- function() {
-  # Each query exports THREE linked tables (_0 crash / _1 vehicle / _2 person);
-  # we only need the crash-level _0 file. Line 1 is the query URL (skip = 1);
-  # files are Windows-1252 encoded (curly quotes), not UTF-8.
-  raw_files <- list.files(pattern = "^export_\\d+_0\\.csv$")
+  # Raw exports live in raw_data/ (git-ignored; too big for GitHub) 
+  # Each query exports THREE linked tables (_0 crash / _1 vehicle / _2 person)
+  # we only need the crash-level _0 file
+  # Line 1 is the query URL (skip = 1)
+  # files are Windows-1252 encoded, not UTF-8
+  # raw_data/exportdescription_*.txt documents each query's date range
+  raw_dir <- "raw_data"
+  raw_files <- list.files(raw_dir, pattern = "^export_\\d+_0\\.csv$",
+                          full.names = TRUE)
   if (length(raw_files) == 0) {
     stop(
       "Compiled file '", compiled_file, "' is missing AND no raw ",
-      "'export_*_0.csv' files were found in:\n  ", getwd(),
-      "\nRestore ", compiled_file, " (it is committed to git), or point R at ",
-      "the folder holding the raw exports:\n",
+      "'export_*_0.csv' files were found in '", raw_dir, "/' under:\n  ", getwd(),
+      "\nRestore ", compiled_file, " (it is committed to git), or place the raw ",
+      "exports in raw_data/ and point R at the project folder:\n",
       '  setwd("/Users/alexklee/Desktop/DataHaven/crash-analysis")',
       call. = FALSE
     )
@@ -58,8 +63,8 @@ build_town_counts <- function() {
       is_fatal        = severity == "K",
       is_injury_fatal = severity %in% c("A", "K")   # anything not "O"
     ) |>
-    # Query date-ranges overlap on boundary days (2020/2022/2025-01-01), so a
-    # crash can appear in two exports -> de-duplicate on the crash id
+    # Query date-ranges overlap on boundary days (2020/2022/2025-01-01)
+    # so a crash can appear in two exports -> de-duplicate on the crash id
     distinct(crash_id, .keep_all = TRUE) |>
     filter(!is.na(year), year >= 2015L, year <= 2025L) |>
     group_by(town, year, group) |>
@@ -93,10 +98,10 @@ focus_towns <- c("New Haven", "Waterbury")
 comparison_towns <- c("Hartford", "Stamford", "Bridgeport")
 report_towns <- c(focus_towns, comparison_towns)
 
-# Per-town counts are already at town x year x group grain.
+# Per-town counts are already at town x year x group grain
 by_town <- town_counts |> rename(geography = town)
 
-# Statewide ("Connecticut") totals: sum every town within each year x group.
+# Statewide ("Connecticut") totals: sum every town within each year x group
 by_state <- town_counts |>
   group_by(geography = "Connecticut (statewide)", year, group) |>
   summarise(across(ends_with("_crashes"), sum), .groups = "drop")
@@ -146,53 +151,52 @@ walk(c("New Haven", "Waterbury", "Connecticut (statewide)"), print_geo)
 
 # Per-capita rates + time-series graph
 
-# Population denominators are fetched from Census API each run
-#   2015-2019, 2021-2024 : ACS 1-year estimates (B01003_001E)
-#   2020                 : 2020 Decennial Census (P1_001N); ACS 1-yr not released
-# 2025 has no published figure yet; it is handled just below by carrying the
-# 2024 value forward (see that block).
-# Requires CENSUS_API_KEY in the environment (e.g. ~/.Renviron).
 fetch_census_population <- function() {
   key <- Sys.getenv("CENSUS_API_KEY")
   if (!nzchar(key))
-    stop("CENSUS_API_KEY is not set. Per-capita rates require live Census API ",
+    stop("CENSUS_API_KEY is not set. Per-capita rates require Census API ",
          "access; add 'CENSUS_API_KEY=...' to ~/.Renviron.", call. = FALSE)
 
+  # Place GEOIDs (state 09 + 5-digit place code) for the five cities.
   places <- tribble(
-    ~geography,   ~place,
-    "New Haven",  "52000",
-    "Waterbury",  "80000",
-    "Hartford",   "37000",
-    "Stamford",   "73000",
-    "Bridgeport", "08000"
+    ~geography,   ~GEOID,
+    "New Haven",  "0952000",
+    "Waterbury",  "0980000",
+    "Hartford",   "0937000",
+    "Stamford",   "0973000",
+    "Bridgeport", "0908000"
   )
-  place_list <- str_c(places$place, collapse = ",")
+  keep_city <- function(df, yr)
+    df |> inner_join(places, by = "GEOID") |>
+      transmute(geography, year = yr, population = value)
 
-  census_get <- function(url) {
-    raw <- jsonlite::fromJSON(url)
-    as_tibble(raw[-1, , drop = FALSE], .name_repair = "minimal") |>
-      set_names(raw[1, ])
-  }
-  # Cities + statewide total for one dataset/variable/year.
-  fetch_year <- function(year, dataset, var) {
-    base <- sprintf("https://api.census.gov/data/%d/%s", year, dataset)
-    city <- census_get(sprintf("%s?get=NAME,%s&for=place:%s&in=state:09&key=%s",
-                               base, var, place_list, key)) |>
-      transmute(place = place, population = as.numeric(.data[[var]])) |>
-      left_join(places, by = "place") |>
-      select(geography, population)
-    state <- census_get(sprintf("%s?get=NAME,%s&for=state:09&key=%s",
-                                base, var, key)) |>
-      transmute(geography = "Connecticut (statewide)",
-                population = as.numeric(.data[[var]]))
-    bind_rows(city, state) |> mutate(year = year)
+  # One ACS 1-year pull (cities + statewide) for a given year. tidycensus
+  # returns the estimate in `estimate`; rename to `value` for a shared helper.
+  acs_year <- function(yr) {
+    city <- get_acs("place", variables = "B01003_001E", state = "CT",
+                    survey = "acs1", year = yr, key = key) |>
+      rename(value = estimate) |> keep_city(yr)
+    state <- get_acs("state", variables = "B01003_001E", state = "CT",
+                     survey = "acs1", year = yr, key = key) |>
+      transmute(geography = "Connecticut (statewide)", year = yr,
+                population = estimate)
+    bind_rows(city, state)
   }
 
-  message("Fetching Census populations (ACS 1-year + 2020 Decennial) ...")
-  acs <- map(c(2015:2019, 2021:2024),
-             ~fetch_year(.x, "acs/acs1", "B01003_001E")) |> list_rbind()
-  dec2020 <- fetch_year(2020, "dec/pl", "P1_001N")
-  bind_rows(acs, dec2020) |> arrange(geography, year)
+  message("Fetching Census populations via tidycensus ",
+          "(ACS 1-year + 2020 Decennial) ...")
+  acs <- map(c(2015:2019, 2021:2024), acs_year) |> list_rbind()
+
+  # 2020: ACS 1-year was not released -> use the 2020 Decennial Census count.
+  dec_city <- get_decennial("place", variables = "P1_001N", state = "CT",
+                            year = 2020, sumfile = "pl", key = key) |>
+    keep_city(2020L)
+  dec_state <- get_decennial("state", variables = "P1_001N", state = "CT",
+                             year = 2020, sumfile = "pl", key = key) |>
+    transmute(geography = "Connecticut (statewide)", year = 2020L,
+              population = value)
+
+  bind_rows(acs, dec_city, dec_state) |> arrange(geography, year)
 }
 
 population <- fetch_census_population()
