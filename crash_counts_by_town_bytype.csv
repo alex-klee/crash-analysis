@@ -100,10 +100,10 @@ Barkhamsted,2024,Vehicle/vehicle,74,0,13
 Barkhamsted,2025,Pedestrian/vehicle,1,0,0
 Barkhamsted,2025,Vehicle/vehicle,79,0,26
 Beacon Falls,2015,Pedestrian/vehicle,1,0,1
-Beacon Falls,2015,Vehicle/vehicle,106,0,30
-Beacon Falls,2016,Vehicle/vehicle,81,0,28
+Beacon Falls,2015,Vehicle/vehicle,122,0,36
+Beacon Falls,2016,Vehicle/vehicle,97,0,31
 Beacon Falls,2017,Pedestrian/vehicle,1,0,1
-Beacon Falls,2017,Vehicle/vehicle,107,0,28
+Beacon Falls,2017,Vehicle/vehicle,128,0,28
 Beacon Falls,2018,Cyclist/vehicle,2,0,2
 Beacon Falls,2018,Vehicle/vehicle,113,0,28
 Beacon Falls,2019,Vehicle/vehicle,112,0,25
@@ -118,9 +118,6 @@ Beacon Falls,2024,Vehicle/vehicle,133,1,38
 Beacon Falls,2025,Cyclist/vehicle,1,0,1
 Beacon Falls,2025,Pedestrian/vehicle,1,0,1
 Beacon Falls,2025,Vehicle/vehicle,123,2,24
-BeaconFalls,2015,Vehicle/vehicle,16,0,6
-BeaconFalls,2016,Vehicle/vehicle,16,0,3
-BeaconFalls,2017,Vehicle/vehicle,21,0,0
 Berlin,2015,Cyclist/vehicle,1,0,1
 Berlin,2015,Pedestrian/vehicle,7,1,7
 Berlin,2015,Vehicle/vehicle,693,1,153
@@ -786,11 +783,12 @@ Darien,2024,Vehicle/vehicle,608,1,127
 Darien,2025,Cyclist/vehicle,6,0,5
 Darien,2025,Pedestrian/vehicle,9,0,8
 Darien,2025,Vehicle/vehicle,692,0,133
-Deep River,2015,Vehicle/vehicle,62,1,13
+Deep River,2015,Vehicle/vehicle,73,1,17
 Deep River,2016,Cyclist/vehicle,2,0,1
 Deep River,2016,Pedestrian/vehicle,1,0,1
-Deep River,2016,Vehicle/vehicle,59,2,14
-Deep River,2017,Vehicle/vehicle,61,1,16
+Deep River,2016,Vehicle/vehicle,66,2,15
+Deep River,2017,Cyclist/vehicle,1,0,1
+Deep River,2017,Vehicle/vehicle,69,1,16
 Deep River,2018,Vehicle/vehicle,50,0,14
 Deep River,2019,Cyclist/vehicle,1,0,1
 Deep River,2019,Vehicle/vehicle,82,0,17
@@ -805,10 +803,6 @@ Deep River,2024,Vehicle/vehicle,58,0,15
 Deep River,2025,Cyclist/vehicle,1,0,1
 Deep River,2025,Pedestrian/vehicle,1,0,1
 Deep River,2025,Vehicle/vehicle,78,0,11
-DeepRiver,2015,Vehicle/vehicle,11,0,4
-DeepRiver,2016,Vehicle/vehicle,7,0,1
-DeepRiver,2017,Cyclist/vehicle,1,0,1
-DeepRiver,2017,Vehicle/vehicle,8,0,0
 Derby,2015,Cyclist/vehicle,1,0,1
 Derby,2015,Pedestrian/vehicle,11,0,8
 Derby,2015,Vehicle/vehicle,577,1,112
@@ -857,12 +851,13 @@ Durham,2023,Vehicle/vehicle,132,1,32
 Durham,2024,Pedestrian/vehicle,1,0,1
 Durham,2024,Vehicle/vehicle,138,1,38
 Durham,2025,Vehicle/vehicle,132,2,31
+East Granby,2015,Cyclist/vehicle,1,0,1
 East Granby,2015,Pedestrian/vehicle,1,0,1
-East Granby,2015,Vehicle/vehicle,99,0,18
-East Granby,2016,Vehicle/vehicle,111,1,31
+East Granby,2015,Vehicle/vehicle,118,0,21
+East Granby,2016,Vehicle/vehicle,126,1,33
 East Granby,2017,Cyclist/vehicle,1,0,1
 East Granby,2017,Pedestrian/vehicle,1,0,1
-East Granby,2017,Vehicle/vehicle,104,2,30
+East Granby,2017,Vehicle/vehicle,129,2,31
 East Granby,2018,Vehicle/vehicle,122,0,33
 East Granby,2019,Cyclist/vehicle,1,0,1
 East Granby,2019,Pedestrian/vehicle,2,0,2
@@ -878,10 +873,10 @@ East Granby,2024,Vehicle/vehicle,132,0,28
 East Granby,2025,Pedestrian/vehicle,1,0,1
 East Granby,2025,Vehicle/vehicle,120,1,24
 East Haddam,2015,Cyclist/vehicle,1,0,1
-East Haddam,2015,Vehicle/vehicle,65,2,20
+East Haddam,2015,Vehicle/vehicle,85,2,29
 East Haddam,2016,Cyclist/vehicle,1,0,1
-East Haddam,2016,Vehicle/vehicle,89,3,41
-East Haddam,2017,Vehicle/vehicle,87,1,29
+East Haddam,2016,Vehicle/vehicle,116,3,45
+East Haddam,2017,Vehicle/vehicle,104,1,33
 East Haddam,2018,Vehicle/vehicle,107,0,29
 East Haddam,2019,Vehicle/vehicle,86,0,23
 East Haddam,2020,Vehicle/vehicle,90,0,26
@@ -892,13 +887,14 @@ East Haddam,2023,Vehicle/vehicle,62,0,14
 East Haddam,2024,Vehicle/vehicle,52,1,18
 East Haddam,2025,Cyclist/vehicle,1,0,1
 East Haddam,2025,Vehicle/vehicle,99,3,26
+East Hampton,2015,Cyclist/vehicle,1,0,1
 East Hampton,2015,Pedestrian/vehicle,1,0,0
-East Hampton,2015,Vehicle/vehicle,126,1,37
+East Hampton,2015,Vehicle/vehicle,165,1,46
 East Hampton,2016,Cyclist/vehicle,2,0,2
-East Hampton,2016,Pedestrian/vehicle,1,0,1
-East Hampton,2016,Vehicle/vehicle,141,0,36
+East Hampton,2016,Pedestrian/vehicle,2,0,1
+East Hampton,2016,Vehicle/vehicle,172,0,39
 East Hampton,2017,Pedestrian/vehicle,1,0,1
-East Hampton,2017,Vehicle/vehicle,156,0,40
+East Hampton,2017,Vehicle/vehicle,170,0,41
 East Hampton,2018,Cyclist/vehicle,1,0,0
 East Hampton,2018,Pedestrian/vehicle,3,0,3
 East Hampton,2018,Vehicle/vehicle,155,3,43
@@ -914,21 +910,21 @@ East Hampton,2024,Pedestrian/vehicle,3,0,1
 East Hampton,2024,Vehicle/vehicle,120,1,29
 East Hampton,2025,Cyclist/vehicle,2,0,1
 East Hampton,2025,Vehicle/vehicle,98,0,28
-East Hartford,2015,Cyclist/vehicle,11,0,9
-East Hartford,2015,Pedestrian/vehicle,11,2,10
-East Hartford,2015,Vehicle/vehicle,1469,5,338
-East Hartford,2016,Cyclist/vehicle,13,0,9
-East Hartford,2016,Pedestrian/vehicle,25,2,24
-East Hartford,2016,Vehicle/vehicle,1557,2,361
-East Hartford,2017,Cyclist/vehicle,9,0,7
-East Hartford,2017,Pedestrian/vehicle,24,2,22
-East Hartford,2017,Vehicle/vehicle,1503,1,388
+East Hartford,2015,Cyclist/vehicle,13,0,10
+East Hartford,2015,Pedestrian/vehicle,16,2,14
+East Hartford,2015,Vehicle/vehicle,1795,5,400
+East Hartford,2016,Cyclist/vehicle,14,0,10
+East Hartford,2016,Pedestrian/vehicle,27,2,26
+East Hartford,2016,Vehicle/vehicle,1825,2,404
+East Hartford,2017,Cyclist/vehicle,10,0,8
+East Hartford,2017,Pedestrian/vehicle,25,2,23
+East Hartford,2017,Vehicle/vehicle,1761,1,418
 East Hartford,2018,Cyclist/vehicle,2,0,1
 East Hartford,2018,Pedestrian/vehicle,14,0,10
-East Hartford,2018,Vehicle/vehicle,1711,3,426
+East Hartford,2018,Vehicle/vehicle,1712,3,426
 East Hartford,2019,Cyclist/vehicle,6,0,4
 East Hartford,2019,Pedestrian/vehicle,18,0,16
-East Hartford,2019,Vehicle/vehicle,1751,3,418
+East Hartford,2019,Vehicle/vehicle,1753,3,419
 East Hartford,2020,Cyclist/vehicle,1,0,1
 East Hartford,2020,Pedestrian/vehicle,15,1,13
 East Hartford,2020,Vehicle/vehicle,1221,2,333
@@ -947,13 +943,13 @@ East Hartford,2024,Vehicle/vehicle,1667,0,383
 East Hartford,2025,Cyclist/vehicle,5,0,5
 East Hartford,2025,Pedestrian/vehicle,21,4,18
 East Hartford,2025,Vehicle/vehicle,1559,1,354
-East Haven,2015,Pedestrian/vehicle,11,3,10
-East Haven,2015,Vehicle/vehicle,534,0,109
+East Haven,2015,Pedestrian/vehicle,16,3,13
+East Haven,2015,Vehicle/vehicle,669,0,146
 East Haven,2016,Cyclist/vehicle,3,1,2
 East Haven,2016,Pedestrian/vehicle,5,1,5
-East Haven,2016,Vehicle/vehicle,499,4,130
+East Haven,2016,Vehicle/vehicle,578,4,146
 East Haven,2017,Pedestrian/vehicle,13,1,13
-East Haven,2017,Vehicle/vehicle,535,1,162
+East Haven,2017,Vehicle/vehicle,634,1,172
 East Haven,2018,Cyclist/vehicle,1,0,1
 East Haven,2018,Pedestrian/vehicle,7,1,4
 East Haven,2018,Vehicle/vehicle,633,0,158
@@ -978,13 +974,13 @@ East Haven,2024,Vehicle/vehicle,568,1,146
 East Haven,2025,Cyclist/vehicle,3,0,2
 East Haven,2025,Pedestrian/vehicle,5,0,4
 East Haven,2025,Vehicle/vehicle,588,1,161
-East Lyme,2015,Cyclist/vehicle,3,0,2
-East Lyme,2015,Pedestrian/vehicle,1,0,1
-East Lyme,2015,Vehicle/vehicle,368,3,65
+East Lyme,2015,Cyclist/vehicle,6,0,5
+East Lyme,2015,Pedestrian/vehicle,3,0,3
+East Lyme,2015,Vehicle/vehicle,438,3,74
 East Lyme,2016,Pedestrian/vehicle,1,0,1
-East Lyme,2016,Vehicle/vehicle,419,1,71
+East Lyme,2016,Vehicle/vehicle,494,1,81
 East Lyme,2017,Pedestrian/vehicle,1,0,0
-East Lyme,2017,Vehicle/vehicle,335,0,70
+East Lyme,2017,Vehicle/vehicle,394,0,77
 East Lyme,2018,Cyclist/vehicle,5,0,5
 East Lyme,2018,Vehicle/vehicle,311,1,61
 East Lyme,2019,Cyclist/vehicle,1,0,0
@@ -1009,14 +1005,14 @@ East Lyme,2025,Pedestrian/vehicle,3,0,3
 East Lyme,2025,Vehicle/vehicle,426,0,65
 East Windsor,2015,Cyclist/vehicle,1,0,1
 East Windsor,2015,Pedestrian/vehicle,1,0,1
-East Windsor,2015,Vehicle/vehicle,252,1,68
+East Windsor,2015,Vehicle/vehicle,289,1,81
 East Windsor,2016,Pedestrian/vehicle,3,0,2
-East Windsor,2016,Vehicle/vehicle,232,0,57
-East Windsor,2017,Vehicle/vehicle,319,1,100
+East Windsor,2016,Vehicle/vehicle,261,0,63
+East Windsor,2017,Vehicle/vehicle,348,1,102
 East Windsor,2018,Pedestrian/vehicle,2,0,2
 East Windsor,2018,Vehicle/vehicle,339,0,81
 East Windsor,2019,Cyclist/vehicle,2,0,2
-East Windsor,2019,Pedestrian/vehicle,1,0,1
+East Windsor,2019,Pedestrian/vehicle,2,0,2
 East Windsor,2019,Vehicle/vehicle,389,1,114
 East Windsor,2020,Pedestrian/vehicle,3,1,3
 East Windsor,2020,Vehicle/vehicle,303,2,85
@@ -1033,42 +1029,6 @@ East Windsor,2024,Vehicle/vehicle,384,1,94
 East Windsor,2025,Cyclist/vehicle,1,1,1
 East Windsor,2025,Pedestrian/vehicle,2,0,2
 East Windsor,2025,Vehicle/vehicle,372,1,82
-EastGranby,2015,Cyclist/vehicle,1,0,1
-EastGranby,2015,Vehicle/vehicle,19,0,3
-EastGranby,2016,Vehicle/vehicle,15,0,2
-EastGranby,2017,Vehicle/vehicle,25,0,1
-EastHaddam,2015,Vehicle/vehicle,20,0,9
-EastHaddam,2016,Vehicle/vehicle,27,0,4
-EastHaddam,2017,Vehicle/vehicle,17,0,4
-EastHampton,2015,Cyclist/vehicle,1,0,1
-EastHampton,2015,Vehicle/vehicle,39,0,9
-EastHampton,2016,Pedestrian/vehicle,1,0,0
-EastHampton,2016,Vehicle/vehicle,31,0,3
-EastHampton,2017,Vehicle/vehicle,14,0,1
-EastHartford,2015,Cyclist/vehicle,2,0,1
-EastHartford,2015,Pedestrian/vehicle,5,0,4
-EastHartford,2015,Vehicle/vehicle,326,0,62
-EastHartford,2016,Cyclist/vehicle,1,0,1
-EastHartford,2016,Pedestrian/vehicle,2,0,2
-EastHartford,2016,Vehicle/vehicle,268,0,43
-EastHartford,2017,Cyclist/vehicle,1,0,1
-EastHartford,2017,Pedestrian/vehicle,1,0,1
-EastHartford,2017,Vehicle/vehicle,258,0,30
-EastHartford,2018,Vehicle/vehicle,1,0,0
-EastHartford,2019,Vehicle/vehicle,2,0,1
-EastHaven,2015,Pedestrian/vehicle,5,0,3
-EastHaven,2015,Vehicle/vehicle,135,0,37
-EastHaven,2016,Vehicle/vehicle,79,0,16
-EastHaven,2017,Vehicle/vehicle,99,0,10
-EastLyme,2015,Cyclist/vehicle,3,0,3
-EastLyme,2015,Pedestrian/vehicle,2,0,2
-EastLyme,2015,Vehicle/vehicle,70,0,9
-EastLyme,2016,Vehicle/vehicle,75,0,10
-EastLyme,2017,Vehicle/vehicle,59,0,7
-EastWindsor,2015,Vehicle/vehicle,37,0,13
-EastWindsor,2016,Vehicle/vehicle,29,0,6
-EastWindsor,2017,Vehicle/vehicle,29,0,2
-EastWindsor,2019,Pedestrian/vehicle,1,0,1
 Eastford,2015,Vehicle/vehicle,27,1,7
 Eastford,2016,Vehicle/vehicle,27,2,9
 Eastford,2017,Pedestrian/vehicle,1,0,1
@@ -2068,17 +2028,17 @@ Naugatuck,2025,Cyclist/vehicle,3,0,3
 Naugatuck,2025,Pedestrian/vehicle,9,1,6
 Naugatuck,2025,Vehicle/vehicle,684,1,141
 New Britain,2015,Cyclist/vehicle,15,0,14
-New Britain,2015,Pedestrian/vehicle,42,1,36
-New Britain,2015,Vehicle/vehicle,1237,1,317
-New Britain,2016,Cyclist/vehicle,15,0,15
-New Britain,2016,Pedestrian/vehicle,40,2,30
-New Britain,2016,Vehicle/vehicle,1540,4,421
+New Britain,2015,Pedestrian/vehicle,58,1,50
+New Britain,2015,Vehicle/vehicle,1510,1,404
+New Britain,2016,Cyclist/vehicle,20,0,18
+New Britain,2016,Pedestrian/vehicle,49,2,36
+New Britain,2016,Vehicle/vehicle,1820,4,465
 New Britain,2017,Cyclist/vehicle,17,0,17
-New Britain,2017,Pedestrian/vehicle,69,0,44
-New Britain,2017,Vehicle/vehicle,1580,3,467
+New Britain,2017,Pedestrian/vehicle,84,0,49
+New Britain,2017,Vehicle/vehicle,1900,3,504
 New Britain,2018,Cyclist/vehicle,14,0,11
-New Britain,2018,Pedestrian/vehicle,82,4,54
-New Britain,2018,Vehicle/vehicle,1810,4,457
+New Britain,2018,Pedestrian/vehicle,84,4,56
+New Britain,2018,Vehicle/vehicle,1837,4,459
 New Britain,2019,Cyclist/vehicle,9,0,7
 New Britain,2019,Pedestrian/vehicle,87,0,48
 New Britain,2019,Vehicle/vehicle,1687,1,491
@@ -2101,17 +2061,17 @@ New Britain,2025,Cyclist/vehicle,5,0,4
 New Britain,2025,Pedestrian/vehicle,17,0,15
 New Britain,2025,Vehicle/vehicle,1226,2,382
 New Canaan,2015,Cyclist/vehicle,2,0,2
-New Canaan,2015,Pedestrian/vehicle,1,0,1
-New Canaan,2015,Vehicle/vehicle,409,0,84
+New Canaan,2015,Pedestrian/vehicle,3,0,3
+New Canaan,2015,Vehicle/vehicle,491,0,102
 New Canaan,2016,Cyclist/vehicle,2,0,2
-New Canaan,2016,Pedestrian/vehicle,4,0,4
-New Canaan,2016,Vehicle/vehicle,399,0,91
+New Canaan,2016,Pedestrian/vehicle,5,0,5
+New Canaan,2016,Vehicle/vehicle,497,0,102
 New Canaan,2017,Cyclist/vehicle,1,0,1
 New Canaan,2017,Pedestrian/vehicle,1,0,1
-New Canaan,2017,Vehicle/vehicle,379,0,82
+New Canaan,2017,Vehicle/vehicle,471,0,91
 New Canaan,2018,Cyclist/vehicle,1,0,1
 New Canaan,2018,Pedestrian/vehicle,6,0,3
-New Canaan,2018,Vehicle/vehicle,511,2,102
+New Canaan,2018,Vehicle/vehicle,512,2,102
 New Canaan,2019,Cyclist/vehicle,3,0,3
 New Canaan,2019,Pedestrian/vehicle,7,1,7
 New Canaan,2019,Vehicle/vehicle,505,0,102
@@ -2131,10 +2091,10 @@ New Canaan,2024,Cyclist/vehicle,6,0,5
 New Canaan,2024,Pedestrian/vehicle,3,0,3
 New Canaan,2024,Vehicle/vehicle,481,0,91
 New Canaan,2025,Vehicle/vehicle,473,1,70
-New Fairfield,2015,Vehicle/vehicle,123,0,28
-New Fairfield,2016,Vehicle/vehicle,92,2,28
+New Fairfield,2015,Vehicle/vehicle,147,1,35
+New Fairfield,2016,Vehicle/vehicle,114,2,32
 New Fairfield,2017,Cyclist/vehicle,1,0,1
-New Fairfield,2017,Vehicle/vehicle,126,1,43
+New Fairfield,2017,Vehicle/vehicle,138,1,44
 New Fairfield,2018,Vehicle/vehicle,117,0,37
 New Fairfield,2019,Pedestrian/vehicle,2,0,2
 New Fairfield,2019,Vehicle/vehicle,121,0,27
@@ -2147,13 +2107,13 @@ New Fairfield,2024,Vehicle/vehicle,130,0,33
 New Fairfield,2025,Cyclist/vehicle,1,0,1
 New Fairfield,2025,Pedestrian/vehicle,1,0,1
 New Fairfield,2025,Vehicle/vehicle,134,1,38
-New Hartford,2015,Vehicle/vehicle,114,0,31
+New Hartford,2015,Vehicle/vehicle,138,0,37
 New Hartford,2016,Pedestrian/vehicle,2,1,2
-New Hartford,2016,Vehicle/vehicle,104,1,35
+New Hartford,2016,Vehicle/vehicle,121,1,38
 New Hartford,2017,Cyclist/vehicle,1,1,1
 New Hartford,2017,Pedestrian/vehicle,1,1,1
-New Hartford,2017,Vehicle/vehicle,100,1,36
-New Hartford,2018,Vehicle/vehicle,113,1,28
+New Hartford,2017,Vehicle/vehicle,124,1,39
+New Hartford,2018,Vehicle/vehicle,114,1,28
 New Hartford,2019,Cyclist/vehicle,1,1,1
 New Hartford,2019,Vehicle/vehicle,136,0,27
 New Hartford,2020,Pedestrian/vehicle,1,0,1
@@ -2168,24 +2128,24 @@ New Hartford,2024,Pedestrian/vehicle,2,0,2
 New Hartford,2024,Vehicle/vehicle,108,2,31
 New Hartford,2025,Pedestrian/vehicle,1,0,0
 New Hartford,2025,Vehicle/vehicle,106,0,23
-New Haven,2015,Cyclist/vehicle,66,0,52
-New Haven,2015,Pedestrian/vehicle,99,0,89
-New Haven,2015,Vehicle/vehicle,6298,7,1401
-New Haven,2016,Cyclist/vehicle,69,0,55
-New Haven,2016,Pedestrian/vehicle,143,3,134
-New Haven,2016,Vehicle/vehicle,6106,12,1519
-New Haven,2017,Cyclist/vehicle,92,1,74
-New Haven,2017,Pedestrian/vehicle,162,2,141
-New Haven,2017,Vehicle/vehicle,5917,8,1625
+New Haven,2015,Cyclist/vehicle,89,0,69
+New Haven,2015,Pedestrian/vehicle,135,0,116
+New Haven,2015,Vehicle/vehicle,7956,7,1792
+New Haven,2016,Cyclist/vehicle,81,0,62
+New Haven,2016,Pedestrian/vehicle,176,3,160
+New Haven,2016,Vehicle/vehicle,7532,12,1730
+New Haven,2017,Cyclist/vehicle,99,1,79
+New Haven,2017,Pedestrian/vehicle,177,2,152
+New Haven,2017,Vehicle/vehicle,7558,8,1754
 New Haven,2018,Cyclist/vehicle,89,0,69
 New Haven,2018,Pedestrian/vehicle,133,3,122
-New Haven,2018,Vehicle/vehicle,7147,16,1820
+New Haven,2018,Vehicle/vehicle,7153,16,1820
 New Haven,2019,Cyclist/vehicle,85,0,72
-New Haven,2019,Pedestrian/vehicle,202,8,182
-New Haven,2019,Vehicle/vehicle,7269,9,1858
+New Haven,2019,Pedestrian/vehicle,203,8,182
+New Haven,2019,Vehicle/vehicle,7270,9,1858
 New Haven,2020,Cyclist/vehicle,61,2,51
 New Haven,2020,Pedestrian/vehicle,133,9,122
-New Haven,2020,Vehicle/vehicle,5545,6,1471
+New Haven,2020,Vehicle/vehicle,5546,6,1471
 New Haven,2021,Cyclist/vehicle,42,1,31
 New Haven,2021,Pedestrian/vehicle,139,10,128
 New Haven,2021,Vehicle/vehicle,6600,12,1621
@@ -2201,21 +2161,21 @@ New Haven,2024,Vehicle/vehicle,6406,9,1413
 New Haven,2025,Cyclist/vehicle,58,0,51
 New Haven,2025,Pedestrian/vehicle,135,6,117
 New Haven,2025,Vehicle/vehicle,6604,5,1261
-New London,2015,Cyclist/vehicle,8,0,8
-New London,2015,Pedestrian/vehicle,20,1,16
-New London,2015,Vehicle/vehicle,666,1,114
-New London,2016,Cyclist/vehicle,11,0,8
-New London,2016,Pedestrian/vehicle,28,0,21
-New London,2016,Vehicle/vehicle,929,0,162
+New London,2015,Cyclist/vehicle,13,0,11
+New London,2015,Pedestrian/vehicle,26,1,19
+New London,2015,Vehicle/vehicle,842,1,151
+New London,2016,Cyclist/vehicle,12,0,9
+New London,2016,Pedestrian/vehicle,34,0,26
+New London,2016,Vehicle/vehicle,1094,0,178
 New London,2017,Cyclist/vehicle,19,0,15
-New London,2017,Pedestrian/vehicle,24,0,21
-New London,2017,Vehicle/vehicle,844,0,151
+New London,2017,Pedestrian/vehicle,25,0,22
+New London,2017,Vehicle/vehicle,1056,0,170
 New London,2018,Cyclist/vehicle,9,0,4
 New London,2018,Pedestrian/vehicle,26,0,20
-New London,2018,Vehicle/vehicle,1009,0,139
+New London,2018,Vehicle/vehicle,1011,0,139
 New London,2019,Cyclist/vehicle,8,0,4
 New London,2019,Pedestrian/vehicle,16,0,12
-New London,2019,Vehicle/vehicle,911,0,166
+New London,2019,Vehicle/vehicle,913,0,166
 New London,2020,Cyclist/vehicle,7,0,5
 New London,2020,Pedestrian/vehicle,16,1,15
 New London,2020,Vehicle/vehicle,802,0,136
@@ -2236,17 +2196,17 @@ New London,2025,Pedestrian/vehicle,14,0,13
 New London,2025,Vehicle/vehicle,871,1,156
 New Milford,2015,Cyclist/vehicle,2,0,2
 New Milford,2015,Pedestrian/vehicle,7,1,7
-New Milford,2015,Vehicle/vehicle,584,2,133
+New Milford,2015,Vehicle/vehicle,699,2,158
 New Milford,2016,Cyclist/vehicle,1,0,1
-New Milford,2016,Pedestrian/vehicle,2,0,2
-New Milford,2016,Vehicle/vehicle,582,2,142
-New Milford,2017,Cyclist/vehicle,2,0,2
-New Milford,2017,Pedestrian/vehicle,7,1,7
-New Milford,2017,Vehicle/vehicle,584,0,147
+New Milford,2016,Pedestrian/vehicle,3,0,3
+New Milford,2016,Vehicle/vehicle,665,2,159
+New Milford,2017,Cyclist/vehicle,3,0,2
+New Milford,2017,Pedestrian/vehicle,8,1,8
+New Milford,2017,Vehicle/vehicle,672,0,166
 New Milford,2018,Pedestrian/vehicle,5,0,5
 New Milford,2018,Vehicle/vehicle,633,1,180
 New Milford,2019,Pedestrian/vehicle,5,1,3
-New Milford,2019,Vehicle/vehicle,646,1,154
+New Milford,2019,Vehicle/vehicle,647,1,154
 New Milford,2020,Cyclist/vehicle,2,0,2
 New Milford,2020,Pedestrian/vehicle,2,0,2
 New Milford,2020,Vehicle/vehicle,475,3,123
@@ -2265,58 +2225,6 @@ New Milford,2024,Vehicle/vehicle,603,2,145
 New Milford,2025,Cyclist/vehicle,1,0,1
 New Milford,2025,Pedestrian/vehicle,4,0,3
 New Milford,2025,Vehicle/vehicle,537,0,124
-NewBritain,2015,Pedestrian/vehicle,16,0,14
-NewBritain,2015,Vehicle/vehicle,273,0,87
-NewBritain,2016,Cyclist/vehicle,5,0,3
-NewBritain,2016,Pedestrian/vehicle,9,0,6
-NewBritain,2016,Vehicle/vehicle,280,0,44
-NewBritain,2017,Pedestrian/vehicle,15,0,5
-NewBritain,2017,Vehicle/vehicle,320,0,37
-NewBritain,2018,Pedestrian/vehicle,2,0,2
-NewBritain,2018,Vehicle/vehicle,27,0,2
-NewCanaan,2015,Pedestrian/vehicle,2,0,2
-NewCanaan,2015,Vehicle/vehicle,82,0,18
-NewCanaan,2016,Pedestrian/vehicle,1,0,1
-NewCanaan,2016,Vehicle/vehicle,98,0,11
-NewCanaan,2017,Vehicle/vehicle,92,0,9
-NewCanaan,2018,Vehicle/vehicle,1,0,0
-NewFairfield,2015,Vehicle/vehicle,24,1,7
-NewFairfield,2016,Vehicle/vehicle,22,0,4
-NewFairfield,2017,Vehicle/vehicle,12,0,1
-NewHartford,2015,Vehicle/vehicle,24,0,6
-NewHartford,2016,Vehicle/vehicle,17,0,3
-NewHartford,2017,Vehicle/vehicle,24,0,3
-NewHartford,2018,Vehicle/vehicle,1,0,0
-NewHaven,2015,Cyclist/vehicle,23,0,17
-NewHaven,2015,Pedestrian/vehicle,36,0,27
-NewHaven,2015,Vehicle/vehicle,1658,0,391
-NewHaven,2016,Cyclist/vehicle,12,0,7
-NewHaven,2016,Pedestrian/vehicle,33,0,26
-NewHaven,2016,Vehicle/vehicle,1426,0,211
-NewHaven,2017,Cyclist/vehicle,7,0,5
-NewHaven,2017,Pedestrian/vehicle,15,0,11
-NewHaven,2017,Vehicle/vehicle,1641,0,129
-NewHaven,2018,Vehicle/vehicle,6,0,0
-NewHaven,2019,Pedestrian/vehicle,1,0,0
-NewHaven,2019,Vehicle/vehicle,1,0,0
-NewHaven,2020,Vehicle/vehicle,1,0,0
-NewLondon,2015,Cyclist/vehicle,5,0,3
-NewLondon,2015,Pedestrian/vehicle,6,0,3
-NewLondon,2015,Vehicle/vehicle,176,0,37
-NewLondon,2016,Cyclist/vehicle,1,0,1
-NewLondon,2016,Pedestrian/vehicle,6,0,5
-NewLondon,2016,Vehicle/vehicle,165,0,16
-NewLondon,2017,Pedestrian/vehicle,1,0,1
-NewLondon,2017,Vehicle/vehicle,212,0,19
-NewLondon,2018,Vehicle/vehicle,2,0,0
-NewLondon,2019,Vehicle/vehicle,2,0,0
-NewMilford,2015,Vehicle/vehicle,115,0,25
-NewMilford,2016,Pedestrian/vehicle,1,0,1
-NewMilford,2016,Vehicle/vehicle,83,0,17
-NewMilford,2017,Cyclist/vehicle,1,0,0
-NewMilford,2017,Pedestrian/vehicle,1,0,1
-NewMilford,2017,Vehicle/vehicle,88,0,19
-NewMilford,2019,Vehicle/vehicle,1,0,0
 Newington,2015,Cyclist/vehicle,1,0,1
 Newington,2015,Pedestrian/vehicle,5,2,4
 Newington,2015,Vehicle/vehicle,758,3,196
@@ -2391,12 +2299,12 @@ Norfolk,2024,Vehicle/vehicle,35,1,11
 Norfolk,2025,Vehicle/vehicle,34,1,5
 North Branford,2015,Cyclist/vehicle,1,0,0
 North Branford,2015,Pedestrian/vehicle,1,0,1
-North Branford,2015,Vehicle/vehicle,201,1,50
+North Branford,2015,Vehicle/vehicle,256,1,70
 North Branford,2016,Cyclist/vehicle,1,0,0
-North Branford,2016,Pedestrian/vehicle,1,0,1
-North Branford,2016,Vehicle/vehicle,206,1,71
+North Branford,2016,Pedestrian/vehicle,2,0,2
+North Branford,2016,Vehicle/vehicle,249,1,80
 North Branford,2017,Pedestrian/vehicle,1,0,1
-North Branford,2017,Vehicle/vehicle,185,0,59
+North Branford,2017,Vehicle/vehicle,242,0,67
 North Branford,2018,Vehicle/vehicle,263,3,65
 North Branford,2019,Cyclist/vehicle,3,0,1
 North Branford,2019,Pedestrian/vehicle,1,0,1
@@ -2413,10 +2321,10 @@ North Branford,2024,Pedestrian/vehicle,1,1,1
 North Branford,2024,Vehicle/vehicle,216,0,64
 North Branford,2025,Vehicle/vehicle,244,2,81
 North Canaan,2015,Pedestrian/vehicle,1,1,1
-North Canaan,2015,Vehicle/vehicle,50,1,10
-North Canaan,2016,Vehicle/vehicle,42,1,17
+North Canaan,2015,Vehicle/vehicle,60,1,14
+North Canaan,2016,Vehicle/vehicle,54,1,17
 North Canaan,2017,Pedestrian/vehicle,1,0,0
-North Canaan,2017,Vehicle/vehicle,48,0,10
+North Canaan,2017,Vehicle/vehicle,57,0,12
 North Canaan,2018,Vehicle/vehicle,63,1,16
 North Canaan,2019,Cyclist/vehicle,1,0,0
 North Canaan,2019,Vehicle/vehicle,71,1,18
@@ -2432,15 +2340,15 @@ North Canaan,2024,Pedestrian/vehicle,1,0,1
 North Canaan,2024,Vehicle/vehicle,66,0,10
 North Canaan,2025,Cyclist/vehicle,1,0,1
 North Canaan,2025,Vehicle/vehicle,59,0,5
-North Haven,2015,Cyclist/vehicle,3,0,1
-North Haven,2015,Pedestrian/vehicle,7,1,7
-North Haven,2015,Vehicle/vehicle,1013,1,234
+North Haven,2015,Cyclist/vehicle,4,0,2
+North Haven,2015,Pedestrian/vehicle,12,1,12
+North Haven,2015,Vehicle/vehicle,1274,1,295
 North Haven,2016,Cyclist/vehicle,3,0,0
 North Haven,2016,Pedestrian/vehicle,3,0,3
-North Haven,2016,Vehicle/vehicle,1099,4,263
+North Haven,2016,Vehicle/vehicle,1285,4,303
 North Haven,2017,Cyclist/vehicle,3,0,2
 North Haven,2017,Pedestrian/vehicle,7,0,7
-North Haven,2017,Vehicle/vehicle,1003,3,304
+North Haven,2017,Vehicle/vehicle,1222,3,320
 North Haven,2018,Cyclist/vehicle,2,0,2
 North Haven,2018,Pedestrian/vehicle,4,3,4
 North Haven,2018,Vehicle/vehicle,1303,2,301
@@ -2465,11 +2373,11 @@ North Haven,2024,Vehicle/vehicle,1332,2,284
 North Haven,2025,Cyclist/vehicle,2,0,1
 North Haven,2025,Pedestrian/vehicle,3,1,3
 North Haven,2025,Vehicle/vehicle,1208,4,269
-North Stonington,2015,Vehicle/vehicle,139,2,34
+North Stonington,2015,Vehicle/vehicle,159,2,38
 North Stonington,2016,Cyclist/vehicle,1,0,1
-North Stonington,2016,Vehicle/vehicle,113,0,24
+North Stonington,2016,Vehicle/vehicle,137,0,28
 North Stonington,2017,Pedestrian/vehicle,2,1,2
-North Stonington,2017,Vehicle/vehicle,126,0,35
+North Stonington,2017,Vehicle/vehicle,144,0,36
 North Stonington,2018,Pedestrian/vehicle,1,1,1
 North Stonington,2018,Vehicle/vehicle,127,3,28
 North Stonington,2019,Vehicle/vehicle,125,3,24
@@ -2483,21 +2391,6 @@ North Stonington,2023,Vehicle/vehicle,131,0,35
 North Stonington,2024,Pedestrian/vehicle,2,0,2
 North Stonington,2024,Vehicle/vehicle,142,0,29
 North Stonington,2025,Vehicle/vehicle,127,0,35
-NorthBranford,2015,Vehicle/vehicle,55,0,20
-NorthBranford,2016,Pedestrian/vehicle,1,0,1
-NorthBranford,2016,Vehicle/vehicle,43,0,9
-NorthBranford,2017,Vehicle/vehicle,57,0,8
-NorthCanaan,2015,Vehicle/vehicle,10,0,4
-NorthCanaan,2016,Vehicle/vehicle,12,0,0
-NorthCanaan,2017,Vehicle/vehicle,9,0,2
-NorthHaven,2015,Cyclist/vehicle,1,0,1
-NorthHaven,2015,Pedestrian/vehicle,5,0,5
-NorthHaven,2015,Vehicle/vehicle,261,0,61
-NorthHaven,2016,Vehicle/vehicle,186,0,40
-NorthHaven,2017,Vehicle/vehicle,219,0,16
-NorthStonington,2015,Vehicle/vehicle,20,0,4
-NorthStonington,2016,Vehicle/vehicle,24,0,4
-NorthStonington,2017,Vehicle/vehicle,18,0,1
 Norwalk,2015,Cyclist/vehicle,11,0,11
 Norwalk,2015,Pedestrian/vehicle,31,0,30
 Norwalk,2015,Vehicle/vehicle,2523,7,469
@@ -2564,11 +2457,11 @@ Norwich,2025,Cyclist/vehicle,2,0,2
 Norwich,2025,Pedestrian/vehicle,13,0,13
 Norwich,2025,Vehicle/vehicle,1327,0,252
 Old Lyme,2015,Pedestrian/vehicle,2,0,2
-Old Lyme,2015,Vehicle/vehicle,187,2,34
+Old Lyme,2015,Vehicle/vehicle,218,2,43
 Old Lyme,2016,Pedestrian/vehicle,3,1,3
-Old Lyme,2016,Vehicle/vehicle,156,2,37
+Old Lyme,2016,Vehicle/vehicle,179,2,39
 Old Lyme,2017,Pedestrian/vehicle,1,1,1
-Old Lyme,2017,Vehicle/vehicle,181,2,39
+Old Lyme,2017,Vehicle/vehicle,230,2,43
 Old Lyme,2018,Pedestrian/vehicle,3,0,3
 Old Lyme,2018,Vehicle/vehicle,151,0,45
 Old Lyme,2019,Cyclist/vehicle,1,0,1
@@ -2590,13 +2483,13 @@ Old Lyme,2025,Pedestrian/vehicle,2,0,2
 Old Lyme,2025,Vehicle/vehicle,157,0,39
 Old Saybrook,2015,Cyclist/vehicle,3,0,1
 Old Saybrook,2015,Pedestrian/vehicle,2,0,2
-Old Saybrook,2015,Vehicle/vehicle,225,1,38
-Old Saybrook,2016,Cyclist/vehicle,4,0,4
+Old Saybrook,2015,Vehicle/vehicle,279,1,49
+Old Saybrook,2016,Cyclist/vehicle,5,0,5
 Old Saybrook,2016,Pedestrian/vehicle,4,1,4
-Old Saybrook,2016,Vehicle/vehicle,253,1,42
-Old Saybrook,2017,Cyclist/vehicle,2,0,2
-Old Saybrook,2017,Pedestrian/vehicle,2,0,2
-Old Saybrook,2017,Vehicle/vehicle,254,0,66
+Old Saybrook,2016,Vehicle/vehicle,315,1,56
+Old Saybrook,2017,Cyclist/vehicle,3,0,2
+Old Saybrook,2017,Pedestrian/vehicle,3,0,2
+Old Saybrook,2017,Vehicle/vehicle,326,0,67
 Old Saybrook,2018,Cyclist/vehicle,5,0,5
 Old Saybrook,2018,Pedestrian/vehicle,1,0,1
 Old Saybrook,2018,Vehicle/vehicle,349,0,51
@@ -2619,15 +2512,6 @@ Old Saybrook,2024,Pedestrian/vehicle,2,0,2
 Old Saybrook,2024,Vehicle/vehicle,260,0,50
 Old Saybrook,2025,Cyclist/vehicle,5,0,2
 Old Saybrook,2025,Vehicle/vehicle,258,2,41
-OldLyme,2015,Vehicle/vehicle,31,0,9
-OldLyme,2016,Vehicle/vehicle,23,0,2
-OldLyme,2017,Vehicle/vehicle,49,0,4
-OldSaybrook,2015,Vehicle/vehicle,54,0,11
-OldSaybrook,2016,Cyclist/vehicle,1,0,1
-OldSaybrook,2016,Vehicle/vehicle,62,0,14
-OldSaybrook,2017,Cyclist/vehicle,1,0,0
-OldSaybrook,2017,Pedestrian/vehicle,1,0,0
-OldSaybrook,2017,Vehicle/vehicle,72,0,1
 Orange,2015,Cyclist/vehicle,4,0,4
 Orange,2015,Pedestrian/vehicle,6,0,6
 Orange,2015,Vehicle/vehicle,1093,1,274
@@ -2908,13 +2792,13 @@ Ridgefield,2025,Cyclist/vehicle,1,0,1
 Ridgefield,2025,Pedestrian/vehicle,5,0,5
 Ridgefield,2025,Vehicle/vehicle,379,0,76
 Rocky Hill,2015,Cyclist/vehicle,1,0,1
-Rocky Hill,2015,Vehicle/vehicle,474,0,114
+Rocky Hill,2015,Vehicle/vehicle,586,0,142
 Rocky Hill,2016,Cyclist/vehicle,1,0,1
 Rocky Hill,2016,Pedestrian/vehicle,6,1,5
-Rocky Hill,2016,Vehicle/vehicle,544,3,157
+Rocky Hill,2016,Vehicle/vehicle,662,3,176
 Rocky Hill,2017,Cyclist/vehicle,1,0,1
-Rocky Hill,2017,Pedestrian/vehicle,5,0,5
-Rocky Hill,2017,Vehicle/vehicle,510,3,162
+Rocky Hill,2017,Pedestrian/vehicle,8,0,8
+Rocky Hill,2017,Vehicle/vehicle,641,3,173
 Rocky Hill,2018,Pedestrian/vehicle,3,0,3
 Rocky Hill,2018,Vehicle/vehicle,650,1,162
 Rocky Hill,2019,Pedestrian/vehicle,5,0,4
@@ -2935,10 +2819,6 @@ Rocky Hill,2024,Vehicle/vehicle,554,4,126
 Rocky Hill,2025,Cyclist/vehicle,5,0,4
 Rocky Hill,2025,Pedestrian/vehicle,5,1,4
 Rocky Hill,2025,Vehicle/vehicle,582,0,113
-RockyHill,2015,Vehicle/vehicle,112,0,28
-RockyHill,2016,Vehicle/vehicle,118,0,19
-RockyHill,2017,Pedestrian/vehicle,3,0,3
-RockyHill,2017,Vehicle/vehicle,131,0,11
 Roxbury,2015,Vehicle/vehicle,40,0,8
 Roxbury,2016,Vehicle/vehicle,49,0,11
 Roxbury,2017,Vehicle/vehicle,56,0,11
@@ -3140,12 +3020,12 @@ Somers,2024,Vehicle/vehicle,115,0,29
 Somers,2025,Cyclist/vehicle,1,0,1
 Somers,2025,Vehicle/vehicle,119,4,32
 South Windsor,2015,Cyclist/vehicle,1,0,1
-South Windsor,2015,Vehicle/vehicle,394,0,129
+South Windsor,2015,Vehicle/vehicle,472,0,149
 South Windsor,2016,Cyclist/vehicle,1,0,1
 South Windsor,2016,Pedestrian/vehicle,8,0,8
-South Windsor,2016,Vehicle/vehicle,388,0,126
+South Windsor,2016,Vehicle/vehicle,465,0,144
 South Windsor,2017,Pedestrian/vehicle,4,0,4
-South Windsor,2017,Vehicle/vehicle,457,0,151
+South Windsor,2017,Vehicle/vehicle,462,0,151
 South Windsor,2018,Pedestrian/vehicle,3,0,3
 South Windsor,2018,Vehicle/vehicle,431,0,134
 South Windsor,2019,Pedestrian/vehicle,4,0,4
@@ -3166,9 +3046,6 @@ South Windsor,2024,Vehicle/vehicle,437,0,125
 South Windsor,2025,Cyclist/vehicle,3,0,3
 South Windsor,2025,Pedestrian/vehicle,2,0,2
 South Windsor,2025,Vehicle/vehicle,445,0,112
-SouthWindsor,2015,Vehicle/vehicle,78,0,20
-SouthWindsor,2016,Vehicle/vehicle,77,0,18
-SouthWindsor,2017,Vehicle/vehicle,5,0,0
 Southbury,2015,Cyclist/vehicle,1,0,1
 Southbury,2015,Pedestrian/vehicle,1,0,1
 Southbury,2015,Vehicle/vehicle,547,2,110
@@ -3751,15 +3628,15 @@ Watertown,2024,Vehicle/vehicle,362,0,77
 Watertown,2025,Cyclist/vehicle,1,0,1
 Watertown,2025,Pedestrian/vehicle,2,0,2
 Watertown,2025,Vehicle/vehicle,374,2,100
-West Hartford,2015,Cyclist/vehicle,4,0,2
-West Hartford,2015,Pedestrian/vehicle,23,1,23
-West Hartford,2015,Vehicle/vehicle,1324,0,440
-West Hartford,2016,Cyclist/vehicle,7,0,7
-West Hartford,2016,Pedestrian/vehicle,24,1,21
-West Hartford,2016,Vehicle/vehicle,1499,2,455
-West Hartford,2017,Cyclist/vehicle,12,0,11
+West Hartford,2015,Cyclist/vehicle,6,0,4
+West Hartford,2015,Pedestrian/vehicle,29,1,29
+West Hartford,2015,Vehicle/vehicle,1665,0,551
+West Hartford,2016,Cyclist/vehicle,8,0,8
+West Hartford,2016,Pedestrian/vehicle,26,1,22
+West Hartford,2016,Vehicle/vehicle,1790,2,507
+West Hartford,2017,Cyclist/vehicle,16,0,15
 West Hartford,2017,Pedestrian/vehicle,28,1,25
-West Hartford,2017,Vehicle/vehicle,1560,1,473
+West Hartford,2017,Vehicle/vehicle,1919,1,506
 West Hartford,2018,Cyclist/vehicle,13,0,12
 West Hartford,2018,Pedestrian/vehicle,31,1,29
 West Hartford,2018,Vehicle/vehicle,1974,0,521
@@ -3784,21 +3661,21 @@ West Hartford,2024,Vehicle/vehicle,1730,2,423
 West Hartford,2025,Cyclist/vehicle,9,0,6
 West Hartford,2025,Pedestrian/vehicle,19,1,17
 West Hartford,2025,Vehicle/vehicle,1717,1,368
-West Haven,2015,Cyclist/vehicle,6,0,6
-West Haven,2015,Pedestrian/vehicle,18,0,14
-West Haven,2015,Vehicle/vehicle,1151,1,283
-West Haven,2016,Cyclist/vehicle,8,0,5
-West Haven,2016,Pedestrian/vehicle,21,1,17
-West Haven,2016,Vehicle/vehicle,1583,3,364
-West Haven,2017,Cyclist/vehicle,12,0,12
-West Haven,2017,Pedestrian/vehicle,27,2,22
-West Haven,2017,Vehicle/vehicle,1529,4,389
+West Haven,2015,Cyclist/vehicle,9,0,8
+West Haven,2015,Pedestrian/vehicle,20,0,16
+West Haven,2015,Vehicle/vehicle,1462,1,374
+West Haven,2016,Cyclist/vehicle,9,0,5
+West Haven,2016,Pedestrian/vehicle,24,1,20
+West Haven,2016,Vehicle/vehicle,1869,3,407
+West Haven,2017,Cyclist/vehicle,13,0,13
+West Haven,2017,Pedestrian/vehicle,28,2,23
+West Haven,2017,Vehicle/vehicle,1905,4,427
 West Haven,2018,Cyclist/vehicle,11,0,7
 West Haven,2018,Pedestrian/vehicle,36,2,33
 West Haven,2018,Vehicle/vehicle,1869,3,402
 West Haven,2019,Cyclist/vehicle,17,0,14
 West Haven,2019,Pedestrian/vehicle,33,2,30
-West Haven,2019,Vehicle/vehicle,1815,0,411
+West Haven,2019,Vehicle/vehicle,1816,0,412
 West Haven,2020,Cyclist/vehicle,12,0,9
 West Haven,2020,Pedestrian/vehicle,30,1,26
 West Haven,2020,Vehicle/vehicle,1399,3,345
@@ -3817,24 +3694,6 @@ West Haven,2024,Vehicle/vehicle,1674,3,435
 West Haven,2025,Cyclist/vehicle,7,0,6
 West Haven,2025,Pedestrian/vehicle,27,0,25
 West Haven,2025,Vehicle/vehicle,1752,1,428
-WestHartford,2015,Cyclist/vehicle,2,0,2
-WestHartford,2015,Pedestrian/vehicle,6,0,6
-WestHartford,2015,Vehicle/vehicle,341,0,111
-WestHartford,2016,Cyclist/vehicle,1,0,1
-WestHartford,2016,Pedestrian/vehicle,2,0,1
-WestHartford,2016,Vehicle/vehicle,291,0,52
-WestHartford,2017,Cyclist/vehicle,4,0,4
-WestHartford,2017,Vehicle/vehicle,359,0,33
-WestHaven,2015,Cyclist/vehicle,3,0,2
-WestHaven,2015,Pedestrian/vehicle,2,0,2
-WestHaven,2015,Vehicle/vehicle,311,0,91
-WestHaven,2016,Cyclist/vehicle,1,0,0
-WestHaven,2016,Pedestrian/vehicle,3,0,3
-WestHaven,2016,Vehicle/vehicle,286,0,43
-WestHaven,2017,Cyclist/vehicle,1,0,1
-WestHaven,2017,Pedestrian/vehicle,1,0,1
-WestHaven,2017,Vehicle/vehicle,376,0,38
-WestHaven,2019,Vehicle/vehicle,1,0,1
 Westbrook,2015,Cyclist/vehicle,1,0,0
 Westbrook,2015,Pedestrian/vehicle,3,0,3
 Westbrook,2015,Vehicle/vehicle,156,2,39
@@ -4071,17 +3930,17 @@ Windsor,2025,Cyclist/vehicle,2,0,1
 Windsor,2025,Pedestrian/vehicle,7,0,5
 Windsor,2025,Vehicle/vehicle,1104,0,246
 Windsor Locks,2015,Pedestrian/vehicle,5,0,3
-Windsor Locks,2015,Vehicle/vehicle,249,0,43
-Windsor Locks,2016,Cyclist/vehicle,1,0,1
-Windsor Locks,2016,Pedestrian/vehicle,10,1,8
-Windsor Locks,2016,Vehicle/vehicle,303,1,66
+Windsor Locks,2015,Vehicle/vehicle,311,0,54
+Windsor Locks,2016,Cyclist/vehicle,2,0,2
+Windsor Locks,2016,Pedestrian/vehicle,11,1,9
+Windsor Locks,2016,Vehicle/vehicle,356,1,72
 Windsor Locks,2017,Cyclist/vehicle,1,0,1
 Windsor Locks,2017,Pedestrian/vehicle,3,0,3
-Windsor Locks,2017,Vehicle/vehicle,299,0,62
+Windsor Locks,2017,Vehicle/vehicle,326,0,67
 Windsor Locks,2018,Pedestrian/vehicle,8,2,6
 Windsor Locks,2018,Vehicle/vehicle,336,0,78
 Windsor Locks,2019,Pedestrian/vehicle,6,0,6
-Windsor Locks,2019,Vehicle/vehicle,380,0,87
+Windsor Locks,2019,Vehicle/vehicle,381,0,87
 Windsor Locks,2020,Pedestrian/vehicle,2,0,2
 Windsor Locks,2020,Vehicle/vehicle,217,0,59
 Windsor Locks,2021,Pedestrian/vehicle,2,0,2
@@ -4098,12 +3957,6 @@ Windsor Locks,2024,Vehicle/vehicle,420,1,86
 Windsor Locks,2025,Cyclist/vehicle,3,0,3
 Windsor Locks,2025,Pedestrian/vehicle,9,0,7
 Windsor Locks,2025,Vehicle/vehicle,369,1,93
-WindsorLocks,2015,Vehicle/vehicle,62,0,11
-WindsorLocks,2016,Cyclist/vehicle,1,0,1
-WindsorLocks,2016,Pedestrian/vehicle,1,0,1
-WindsorLocks,2016,Vehicle/vehicle,53,0,6
-WindsorLocks,2017,Vehicle/vehicle,27,0,5
-WindsorLocks,2019,Vehicle/vehicle,1,0,0
 Wolcott,2015,Vehicle/vehicle,231,0,68
 Wolcott,2016,Cyclist/vehicle,1,0,0
 Wolcott,2016,Pedestrian/vehicle,2,0,2

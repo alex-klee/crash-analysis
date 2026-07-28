@@ -23,6 +23,47 @@
 library(tidyverse)
 library(tidycensus)   # Census API access for population denominators
 
+# Town-name normalisation
+#
+# Town names are not spelled consistently in the raw export. Through 2017 a
+# sizeable minority of records drop the space in multi-word names, so
+# "NewHaven" appears as a separate town from "New Haven"; 27 towns are split
+# this way. Any filter on a spaced name (report_towns, focus_towns, the
+# five-cities aggregate) silently drops the no-space rows: for New Haven that
+# is ~1,500-1,700 crashes a year in 2015-2017, about 21% of the city's total,
+# which by itself manufactures an apparent jump in 2018.
+#
+# Statewide totals were never affected -- they sum every town, so both
+# spellings were already included -- and the fatality files are effectively
+# unaffected (one death, in New Fairfield). The damage was to the individual
+# city series and the five-largest-cities benchmark.
+#
+# Fix once, here, at the compiled-data boundary: fold each no-space spelling
+# into its spaced twin and re-sum. Applied to every compiled dataset below, so
+# nothing downstream has to know about it.
+
+# Map a no-space spelling back to the spaced name, when a spaced twin exists in
+# the data. Towns that genuinely have no space (Hartford, Waterbury) pass
+# through untouched.
+standardize_town <- function(town) {
+  spaced <- unique(town[str_detect(town, "\\s")])
+  lookup <- setNames(spaced, str_remove_all(spaced, "\\s+"))
+  coalesce(unname(lookup[town]), town)
+}
+
+# Collapse the split spellings and re-aggregate. Idempotent: running it on
+# already-clean data is a no-op.
+collapse_town_spellings <- function(df, keys, values) {
+  before <- nrow(df)
+  out <- df |>
+    mutate(town = standardize_town(town)) |>
+    group_by(across(all_of(c("town", keys)))) |>
+    summarise(across(all_of(values), sum), .groups = "drop")
+  if (nrow(out) < before)
+    message("  collapsed ", before - nrow(out), " split town-spelling rows")
+  out
+}
+
 # Compile-once analysis dataset
 
 # The raw csv exports total are too big to uplaod to git
@@ -89,7 +130,10 @@ build_town_counts <- function() {
     )
 }
 
-if (file.exists(compiled_file)) {
+counts_built <- !file.exists(compiled_file)
+if (counts_built) {
+  town_counts <- build_town_counts()
+} else {
   message("Using existing ", compiled_file, " (delete it to rebuild from raw).")
   town_counts <- read_csv(
     compiled_file, show_col_types = FALSE,
@@ -97,8 +141,12 @@ if (file.exists(compiled_file)) {
                      total_crashes = "i", fatal_crashes = "i",
                      injury_or_fatal_crashes = "i")
   )
-} else {
-  town_counts <- build_town_counts()
+}
+# Normalise before writing, so the committed CSV is clean for other scripts too
+town_counts <- collapse_town_spellings(
+  town_counts, c("year", "group"),
+  c("total_crashes", "fatal_crashes", "injury_or_fatal_crashes"))
+if (counts_built) {
   write_csv(town_counts, compiled_file)
   message("Wrote ", compiled_file, " (", nrow(town_counts), " rows, ",
           min(town_counts$year), "-", max(town_counts$year), ").")
@@ -158,12 +206,17 @@ build_fatalities <- function() {
     summarise(deaths = n(), .groups = "drop")
 }
 
-if (file.exists(fatalities_file)) {
+fatal_built <- !file.exists(fatalities_file)
+if (fatal_built) {
+  fatal_counts <- build_fatalities()
+} else {
   message("Using existing ", fatalities_file, " (delete it to rebuild from raw).")
   fatal_counts <- read_csv(fatalities_file, show_col_types = FALSE,
     col_types = cols(town = "c", year = "i", group = "c", deaths = "i"))
-} else {
-  fatal_counts <- build_fatalities()
+}
+fatal_counts <- collapse_town_spellings(fatal_counts, c("year", "group"),
+                                        "deaths")
+if (fatal_built) {
   write_csv(fatal_counts, fatalities_file)
   message("Wrote ", fatalities_file, " (", nrow(fatal_counts), " rows, ",
           sum(fatal_counts$deaths), " deaths ",
@@ -240,7 +293,12 @@ build_bytype <- function() {
   list(crashes = crash_counts, deaths = deaths)
 }
 
-if (file.exists(bytype_crash_file) && file.exists(bytype_fatal_file)) {
+bytype_built <- !(file.exists(bytype_crash_file) && file.exists(bytype_fatal_file))
+if (bytype_built) {
+  bt <- build_bytype()
+  bytype_crashes <- bt$crashes
+  bytype_deaths  <- bt$deaths
+} else {
   message("Using existing by-type compiled files (delete to rebuild from raw).")
   bytype_crashes <- read_csv(bytype_crash_file, show_col_types = FALSE,
     col_types = cols(town = "c", year = "i", crash_type = "c",
@@ -248,10 +306,13 @@ if (file.exists(bytype_crash_file) && file.exists(bytype_fatal_file)) {
                      injury_or_fatal_crashes = "i"))
   bytype_deaths <- read_csv(bytype_fatal_file, show_col_types = FALSE,
     col_types = cols(town = "c", year = "i", crash_type = "c", deaths = "i"))
-} else {
-  bt <- build_bytype()
-  bytype_crashes <- bt$crashes
-  bytype_deaths  <- bt$deaths
+}
+bytype_crashes <- collapse_town_spellings(
+  bytype_crashes, c("year", "crash_type"),
+  c("total_crashes", "fatal_crashes", "injury_or_fatal_crashes"))
+bytype_deaths <- collapse_town_spellings(bytype_deaths,
+                                         c("year", "crash_type"), "deaths")
+if (bytype_built) {
   write_csv(bytype_crashes, bytype_crash_file)
   write_csv(bytype_deaths,  bytype_fatal_file)
   message("Wrote by-type files (", sum(bytype_deaths$deaths), " deaths).")

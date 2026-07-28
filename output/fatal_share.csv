@@ -65,33 +65,33 @@ Connecticut (statewide),2022,Pedestrian/Cyclist/Other,1714,77,4.492415402567095
 Connecticut (statewide),2023,Pedestrian/Cyclist/Other,1733,59,3.4045008655510673
 Connecticut (statewide),2024,Pedestrian/Cyclist/Other,1998,65,3.2532532532532534
 Connecticut (statewide),2025,Pedestrian/Cyclist/Other,1836,60,3.2679738562091507
-Five largest cities,2015,All road users,29317,37,0.12620663778694954
-Five largest cities,2016,All road users,31843,56,0.17586282699494393
-Five largest cities,2017,All road users,30590,55,0.17979731938542007
-Five largest cities,2018,All road users,31930,66,0.2067021609771375
-Five largest cities,2019,All road users,31559,49,0.15526474222884123
-Five largest cities,2020,All road users,24724,65,0.26290244297039317
+Five largest cities,2015,All road users,31034,37,0.11922407681897274
+Five largest cities,2016,All road users,33314,56,0.16809749654799783
+Five largest cities,2017,All road users,32253,55,0.17052677270331443
+Five largest cities,2018,All road users,31936,66,0.2066633266533066
+Five largest cities,2019,All road users,31561,49,0.15525490320332055
+Five largest cities,2020,All road users,24725,65,0.26289180990899896
 Five largest cities,2021,All road users,27619,57,0.20637966617183826
 Five largest cities,2022,All road users,27132,74,0.2727406752174554
 Five largest cities,2023,All road users,26468,57,0.21535439020704247
 Five largest cities,2024,All road users,26815,64,0.2386723848592206
 Five largest cities,2025,All road users,27212,43,0.15801852124062912
-Five largest cities,2015,Driver/Passenger,28557,26,0.0910459782190006
-Five largest cities,2016,Driver/Passenger,30910,38,0.1229375606599806
-Five largest cities,2017,Driver/Passenger,29647,36,0.12142881235875469
-Five largest cities,2018,Driver/Passenger,31092,45,0.14473176379776148
-Five largest cities,2019,Driver/Passenger,30618,30,0.09798157946306094
-Five largest cities,2020,Driver/Passenger,24049,39,0.16216890515198137
+Five largest cities,2015,Driver/Passenger,30215,26,0.08604997517789179
+Five largest cities,2016,Driver/Passenger,32336,38,0.11751608114794657
+Five largest cities,2017,Driver/Passenger,31288,36,0.1150600869342879
+Five largest cities,2018,Driver/Passenger,31098,45,0.1447038394752074
+Five largest cities,2019,Driver/Passenger,30619,30,0.0979783794376041
+Five largest cities,2020,Driver/Passenger,24050,39,0.16216216216216214
 Five largest cities,2021,Driver/Passenger,26988,37,0.13709796946791167
 Five largest cities,2022,Driver/Passenger,26421,48,0.18167366867264675
 Five largest cities,2023,Driver/Passenger,25776,34,0.1319056486654252
 Five largest cities,2024,Driver/Passenger,25990,40,0.15390534821085033
 Five largest cities,2025,Driver/Passenger,26442,28,0.10589214129037139
-Five largest cities,2015,Pedestrian/Cyclist/Other,760,11,1.4473684210526316
-Five largest cities,2016,Pedestrian/Cyclist/Other,933,18,1.929260450160772
-Five largest cities,2017,Pedestrian/Cyclist/Other,943,19,2.014846235418876
+Five largest cities,2015,Pedestrian/Cyclist/Other,819,11,1.3431013431013432
+Five largest cities,2016,Pedestrian/Cyclist/Other,978,18,1.8404907975460123
+Five largest cities,2017,Pedestrian/Cyclist/Other,965,19,1.9689119170984457
 Five largest cities,2018,Pedestrian/Cyclist/Other,838,21,2.5059665871121717
-Five largest cities,2019,Pedestrian/Cyclist/Other,941,19,2.0191285866099893
+Five largest cities,2019,Pedestrian/Cyclist/Other,942,19,2.0169851380042463
 Five largest cities,2020,Pedestrian/Cyclist/Other,675,26,3.851851851851852
 Five largest cities,2021,Pedestrian/Cyclist/Other,631,20,3.1695721077654517
 Five largest cities,2022,Pedestrian/Cyclist/Other,711,26,3.6568213783403656
@@ -131,33 +131,33 @@ Hartford,2022,Pedestrian/Cyclist/Other,115,7,6.086956521739131
 Hartford,2023,Pedestrian/Cyclist/Other,146,6,4.10958904109589
 Hartford,2024,Pedestrian/Cyclist/Other,191,7,3.664921465968586
 Hartford,2025,Pedestrian/Cyclist/Other,189,5,2.6455026455026456
-New Haven,2015,All road users,6463,7,0.10830883490639022
-New Haven,2016,All road users,6318,15,0.23741690408357075
-New Haven,2017,All road users,6171,11,0.17825311942959002
-New Haven,2018,All road users,7369,19,0.25783688424480933
-New Haven,2019,All road users,7556,17,0.2249867654843833
-New Haven,2020,All road users,5739,17,0.29621885345879073
+New Haven,2015,All road users,8180,7,0.08557457212713936
+New Haven,2016,All road users,7789,15,0.19257927846963666
+New Haven,2017,All road users,7834,11,0.1404135818228236
+New Haven,2018,All road users,7375,19,0.2576271186440678
+New Haven,2019,All road users,7558,17,0.22492722942577403
+New Haven,2020,All road users,5740,17,0.2961672473867596
 New Haven,2021,All road users,6781,23,0.33918301135525736
 New Haven,2022,All road users,6947,18,0.25910464948898804
 New Haven,2023,All road users,6819,15,0.21997360316761988
 New Haven,2024,All road users,6619,14,0.21151231303822327
 New Haven,2025,All road users,6797,11,0.16183610416360159
-New Haven,2015,Driver/Passenger,6298,7,0.11114639568116863
-New Haven,2016,Driver/Passenger,6106,12,0.1965280052407468
-New Haven,2017,Driver/Passenger,5917,8,0.13520365049856345
-New Haven,2018,Driver/Passenger,7147,16,0.22387015530992024
-New Haven,2019,Driver/Passenger,7269,9,0.12381345439537762
-New Haven,2020,Driver/Passenger,5545,6,0.10820559062218214
+New Haven,2015,Driver/Passenger,7956,7,0.08798391151332328
+New Haven,2016,Driver/Passenger,7532,12,0.15932023366967604
+New Haven,2017,Driver/Passenger,7558,8,0.10584810796507012
+New Haven,2018,Driver/Passenger,7153,16,0.22368237103313296
+New Haven,2019,Driver/Passenger,7270,9,0.12379642365887208
+New Haven,2020,Driver/Passenger,5546,6,0.10818608005769925
 New Haven,2021,Driver/Passenger,6600,12,0.18181818181818182
 New Haven,2022,Driver/Passenger,6737,13,0.19296422740092029
 New Haven,2023,Driver/Passenger,6617,8,0.12090071029167296
 New Haven,2024,Driver/Passenger,6406,9,0.1404932875429285
 New Haven,2025,Driver/Passenger,6604,5,0.07571168988491823
-New Haven,2015,Pedestrian/Cyclist/Other,165,0,0
-New Haven,2016,Pedestrian/Cyclist/Other,212,3,1.4150943396226416
-New Haven,2017,Pedestrian/Cyclist/Other,254,3,1.1811023622047243
+New Haven,2015,Pedestrian/Cyclist/Other,224,0,0
+New Haven,2016,Pedestrian/Cyclist/Other,257,3,1.1673151750972763
+New Haven,2017,Pedestrian/Cyclist/Other,276,3,1.0869565217391304
 New Haven,2018,Pedestrian/Cyclist/Other,222,3,1.3513513513513513
-New Haven,2019,Pedestrian/Cyclist/Other,287,8,2.7874564459930316
+New Haven,2019,Pedestrian/Cyclist/Other,288,8,2.7777777777777777
 New Haven,2020,Pedestrian/Cyclist/Other,194,11,5.670103092783505
 New Haven,2021,Pedestrian/Cyclist/Other,181,11,6.077348066298343
 New Haven,2022,Pedestrian/Cyclist/Other,210,5,2.380952380952381

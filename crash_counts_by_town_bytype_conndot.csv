@@ -1,0 +1,1933 @@
+town,year,crash_type,total_crashes,fatal_crashes,injury_or_fatal_crashes
+Andover,2010,Vehicle/vehicle,62,1,13
+Andover,2011,Vehicle/vehicle,53,0,13
+Andover,2012,Vehicle/vehicle,44,0,14
+Andover,2013,Cyclist/vehicle,1,0,0
+Andover,2013,Vehicle/vehicle,57,0,14
+Andover,2014,Vehicle/vehicle,49,1,11
+Ansonia,2010,Pedestrian/vehicle,4,0,2
+Ansonia,2010,Vehicle/vehicle,316,0,99
+Ansonia,2011,Cyclist/vehicle,1,0,1
+Ansonia,2011,Pedestrian/vehicle,3,0,3
+Ansonia,2011,Vehicle/vehicle,162,0,54
+Ansonia,2012,Cyclist/vehicle,5,0,5
+Ansonia,2012,Pedestrian/vehicle,4,0,4
+Ansonia,2012,Vehicle/vehicle,307,0,75
+Ansonia,2013,Pedestrian/vehicle,5,0,5
+Ansonia,2013,Vehicle/vehicle,363,0,81
+Ansonia,2014,Vehicle/vehicle,282,0,74
+Ashford,2010,Vehicle/vehicle,69,0,20
+Ashford,2011,Vehicle/vehicle,61,1,16
+Ashford,2012,Vehicle/vehicle,75,0,25
+Ashford,2013,Vehicle/vehicle,53,0,16
+Ashford,2014,Vehicle/vehicle,53,0,8
+Avon,2010,Cyclist/vehicle,1,0,1
+Avon,2010,Pedestrian/vehicle,1,0,1
+Avon,2010,Vehicle/vehicle,344,0,78
+Avon,2011,Cyclist/vehicle,5,0,5
+Avon,2011,Vehicle/vehicle,303,0,68
+Avon,2012,Cyclist/vehicle,1,0,1
+Avon,2012,Vehicle/vehicle,327,0,62
+Avon,2013,Cyclist/vehicle,3,0,3
+Avon,2013,Pedestrian/vehicle,3,0,3
+Avon,2013,Vehicle/vehicle,317,1,66
+Avon,2014,Cyclist/vehicle,1,0,0
+Avon,2014,Vehicle/vehicle,186,0,36
+Barkhamsted,2010,Vehicle/vehicle,77,1,20
+Barkhamsted,2011,Vehicle/vehicle,95,1,34
+Barkhamsted,2012,Vehicle/vehicle,79,1,23
+Barkhamsted,2013,Vehicle/vehicle,64,0,8
+Barkhamsted,2014,Vehicle/vehicle,76,1,20
+Beacon Falls,2010,Pedestrian/vehicle,1,0,1
+Beacon Falls,2010,Vehicle/vehicle,105,1,27
+Beacon Falls,2011,Vehicle/vehicle,97,0,27
+Beacon Falls,2012,Pedestrian/vehicle,1,0,1
+Beacon Falls,2012,Vehicle/vehicle,91,1,22
+Beacon Falls,2013,Cyclist/vehicle,1,0,1
+Beacon Falls,2013,Pedestrian/vehicle,1,0,1
+Beacon Falls,2013,Vehicle/vehicle,105,0,28
+Beacon Falls,2014,Pedestrian/vehicle,1,1,1
+Beacon Falls,2014,Vehicle/vehicle,88,0,25
+Berlin,2010,Cyclist/vehicle,2,0,1
+Berlin,2010,Pedestrian/vehicle,5,0,5
+Berlin,2010,Vehicle/vehicle,625,0,154
+Berlin,2011,Cyclist/vehicle,1,0,1
+Berlin,2011,Pedestrian/vehicle,3,0,3
+Berlin,2011,Vehicle/vehicle,523,4,138
+Berlin,2012,Cyclist/vehicle,4,0,3
+Berlin,2012,Vehicle/vehicle,642,3,147
+Berlin,2013,Cyclist/vehicle,4,0,4
+Berlin,2013,Pedestrian/vehicle,3,2,3
+Berlin,2013,Vehicle/vehicle,616,2,153
+Berlin,2014,Cyclist/vehicle,3,0,2
+Berlin,2014,Pedestrian/vehicle,1,0,1
+Berlin,2014,Vehicle/vehicle,672,2,158
+Bethany,2010,Cyclist/vehicle,1,0,1
+Bethany,2010,Pedestrian/vehicle,1,0,1
+Bethany,2010,Vehicle/vehicle,87,0,29
+Bethany,2011,Pedestrian/vehicle,3,0,3
+Bethany,2011,Vehicle/vehicle,71,0,38
+Bethany,2012,Vehicle/vehicle,72,0,14
+Bethany,2013,Cyclist/vehicle,1,0,1
+Bethany,2013,Vehicle/vehicle,76,0,24
+Bethany,2014,Cyclist/vehicle,1,0,0
+Bethany,2014,Vehicle/vehicle,82,0,35
+Bethel,2010,Cyclist/vehicle,6,0,6
+Bethel,2010,Pedestrian/vehicle,3,0,3
+Bethel,2010,Vehicle/vehicle,415,1,87
+Bethel,2011,Cyclist/vehicle,3,0,3
+Bethel,2011,Pedestrian/vehicle,2,0,1
+Bethel,2011,Vehicle/vehicle,363,1,85
+Bethel,2012,Cyclist/vehicle,2,0,2
+Bethel,2012,Pedestrian/vehicle,2,0,2
+Bethel,2012,Vehicle/vehicle,468,1,102
+Bethel,2013,Cyclist/vehicle,7,1,7
+Bethel,2013,Pedestrian/vehicle,3,0,3
+Bethel,2013,Vehicle/vehicle,415,0,83
+Bethel,2014,Cyclist/vehicle,2,0,2
+Bethel,2014,Pedestrian/vehicle,2,0,2
+Bethel,2014,Vehicle/vehicle,426,1,73
+Bethlehem,2010,Vehicle/vehicle,26,0,10
+Bethlehem,2011,Vehicle/vehicle,20,0,10
+Bethlehem,2012,Vehicle/vehicle,25,0,9
+Bethlehem,2013,Vehicle/vehicle,31,0,11
+Bethlehem,2014,Vehicle/vehicle,31,0,4
+Bloomfield,2010,Cyclist/vehicle,3,0,3
+Bloomfield,2010,Pedestrian/vehicle,7,0,7
+Bloomfield,2010,Vehicle/vehicle,603,0,157
+Bloomfield,2011,Cyclist/vehicle,5,0,5
+Bloomfield,2011,Pedestrian/vehicle,8,1,7
+Bloomfield,2011,Vehicle/vehicle,558,0,148
+Bloomfield,2012,Cyclist/vehicle,3,0,3
+Bloomfield,2012,Pedestrian/vehicle,3,0,2
+Bloomfield,2012,Vehicle/vehicle,515,2,137
+Bloomfield,2013,Cyclist/vehicle,5,0,5
+Bloomfield,2013,Pedestrian/vehicle,4,1,3
+Bloomfield,2013,Vehicle/vehicle,590,3,161
+Bloomfield,2014,Cyclist/vehicle,6,1,6
+Bloomfield,2014,Pedestrian/vehicle,9,1,7
+Bloomfield,2014,Vehicle/vehicle,579,3,146
+Bolton,2010,Pedestrian/vehicle,1,0,1
+Bolton,2010,Vehicle/vehicle,131,1,34
+Bolton,2011,Vehicle/vehicle,114,3,43
+Bolton,2012,Cyclist/vehicle,1,0,1
+Bolton,2012,Vehicle/vehicle,121,0,29
+Bolton,2013,Pedestrian/vehicle,1,0,1
+Bolton,2013,Vehicle/vehicle,131,0,30
+Bolton,2014,Cyclist/vehicle,1,0,1
+Bolton,2014,Pedestrian/vehicle,1,0,1
+Bolton,2014,Vehicle/vehicle,96,2,25
+Bozrah,2010,Cyclist/vehicle,1,0,1
+Bozrah,2010,Vehicle/vehicle,73,0,16
+Bozrah,2011,Vehicle/vehicle,40,0,13
+Bozrah,2012,Pedestrian/vehicle,1,0,1
+Bozrah,2012,Vehicle/vehicle,72,1,18
+Bozrah,2013,Vehicle/vehicle,58,0,7
+Bozrah,2014,Vehicle/vehicle,50,1,7
+Branford,2010,Cyclist/vehicle,9,0,9
+Branford,2010,Pedestrian/vehicle,8,0,6
+Branford,2010,Vehicle/vehicle,784,2,203
+Branford,2011,Cyclist/vehicle,4,0,4
+Branford,2011,Pedestrian/vehicle,11,0,10
+Branford,2011,Vehicle/vehicle,703,0,190
+Branford,2012,Cyclist/vehicle,8,0,7
+Branford,2012,Pedestrian/vehicle,6,0,3
+Branford,2012,Vehicle/vehicle,767,0,194
+Branford,2013,Cyclist/vehicle,6,0,5
+Branford,2013,Pedestrian/vehicle,8,0,8
+Branford,2013,Vehicle/vehicle,780,2,177
+Branford,2014,Cyclist/vehicle,5,0,5
+Branford,2014,Pedestrian/vehicle,8,0,8
+Branford,2014,Vehicle/vehicle,699,1,189
+Bridgeport,2010,Cyclist/vehicle,46,2,41
+Bridgeport,2010,Pedestrian/vehicle,108,0,105
+Bridgeport,2010,Vehicle/vehicle,4547,6,1167
+Bridgeport,2011,Cyclist/vehicle,46,0,45
+Bridgeport,2011,Pedestrian/vehicle,91,4,89
+Bridgeport,2011,Vehicle/vehicle,3037,3,1142
+Bridgeport,2012,Cyclist/vehicle,46,0,42
+Bridgeport,2012,Pedestrian/vehicle,101,3,98
+Bridgeport,2012,Vehicle/vehicle,4210,0,1118
+Bridgeport,2013,Cyclist/vehicle,48,0,42
+Bridgeport,2013,Pedestrian/vehicle,108,1,104
+Bridgeport,2013,Vehicle/vehicle,4333,6,1178
+Bridgeport,2014,Cyclist/vehicle,50,0,43
+Bridgeport,2014,Pedestrian/vehicle,100,3,93
+Bridgeport,2014,Vehicle/vehicle,4411,6,1138
+Bridgewater,2010,Vehicle/vehicle,35,0,11
+Bridgewater,2011,Vehicle/vehicle,26,0,11
+Bridgewater,2012,Cyclist/vehicle,1,0,1
+Bridgewater,2012,Vehicle/vehicle,25,0,11
+Bridgewater,2013,Cyclist/vehicle,1,0,1
+Bridgewater,2013,Pedestrian/vehicle,1,0,1
+Bridgewater,2013,Vehicle/vehicle,21,0,3
+Bridgewater,2014,Vehicle/vehicle,24,0,7
+Bristol,2010,Cyclist/vehicle,21,0,14
+Bristol,2010,Pedestrian/vehicle,21,1,20
+Bristol,2010,Vehicle/vehicle,1737,5,427
+Bristol,2011,Cyclist/vehicle,8,0,7
+Bristol,2011,Pedestrian/vehicle,23,1,23
+Bristol,2011,Vehicle/vehicle,1263,3,442
+Bristol,2012,Cyclist/vehicle,5,0,4
+Bristol,2012,Pedestrian/vehicle,17,0,17
+Bristol,2012,Vehicle/vehicle,1584,3,353
+Bristol,2013,Cyclist/vehicle,7,0,5
+Bristol,2013,Pedestrian/vehicle,17,0,14
+Bristol,2013,Vehicle/vehicle,1545,3,401
+Bristol,2014,Cyclist/vehicle,14,0,12
+Bristol,2014,Pedestrian/vehicle,10,1,10
+Bristol,2014,Vehicle/vehicle,1609,0,348
+Brookfield,2010,Cyclist/vehicle,1,0,1
+Brookfield,2010,Pedestrian/vehicle,1,0,1
+Brookfield,2010,Vehicle/vehicle,436,0,122
+Brookfield,2011,Cyclist/vehicle,1,0,1
+Brookfield,2011,Pedestrian/vehicle,2,0,2
+Brookfield,2011,Vehicle/vehicle,316,0,92
+Brookfield,2012,Cyclist/vehicle,1,0,0
+Brookfield,2012,Pedestrian/vehicle,2,0,1
+Brookfield,2012,Vehicle/vehicle,407,1,92
+Brookfield,2013,Cyclist/vehicle,1,0,0
+Brookfield,2013,Pedestrian/vehicle,4,1,3
+Brookfield,2013,Vehicle/vehicle,443,2,101
+Brookfield,2014,Cyclist/vehicle,1,0,1
+Brookfield,2014,Pedestrian/vehicle,1,0,0
+Brookfield,2014,Vehicle/vehicle,417,2,89
+Brooklyn,2010,Cyclist/vehicle,1,0,1
+Brooklyn,2010,Vehicle/vehicle,96,0,23
+Brooklyn,2011,Pedestrian/vehicle,1,1,1
+Brooklyn,2011,Vehicle/vehicle,97,0,29
+Brooklyn,2012,Vehicle/vehicle,120,1,30
+Brooklyn,2013,Cyclist/vehicle,1,0,1
+Brooklyn,2013,Pedestrian/vehicle,4,0,4
+Brooklyn,2013,Vehicle/vehicle,86,1,22
+Brooklyn,2014,Pedestrian/vehicle,3,0,2
+Brooklyn,2014,Vehicle/vehicle,108,1,34
+Burlington,2010,Pedestrian/vehicle,1,0,1
+Burlington,2010,Vehicle/vehicle,139,2,40
+Burlington,2011,Pedestrian/vehicle,1,0,1
+Burlington,2011,Vehicle/vehicle,99,0,30
+Burlington,2012,Pedestrian/vehicle,1,0,1
+Burlington,2012,Vehicle/vehicle,101,0,21
+Burlington,2013,Cyclist/vehicle,2,0,2
+Burlington,2013,Vehicle/vehicle,109,0,30
+Burlington,2014,Cyclist/vehicle,1,0,1
+Burlington,2014,Vehicle/vehicle,109,0,26
+Canaan,2010,Vehicle/vehicle,30,0,7
+Canaan,2011,Vehicle/vehicle,19,1,5
+Canaan,2012,Vehicle/vehicle,24,0,9
+Canaan,2013,Vehicle/vehicle,40,1,12
+Canaan,2014,Vehicle/vehicle,22,0,6
+Canterbury,2010,Pedestrian/vehicle,1,0,1
+Canterbury,2010,Vehicle/vehicle,54,1,8
+Canterbury,2011,Pedestrian/vehicle,1,0,1
+Canterbury,2011,Vehicle/vehicle,44,1,13
+Canterbury,2012,Vehicle/vehicle,66,1,17
+Canterbury,2013,Vehicle/vehicle,68,2,20
+Canterbury,2014,Vehicle/vehicle,71,0,22
+Canton,2010,Cyclist/vehicle,1,0,1
+Canton,2010,Pedestrian/vehicle,2,0,1
+Canton,2010,Vehicle/vehicle,222,1,64
+Canton,2011,Pedestrian/vehicle,2,0,2
+Canton,2011,Vehicle/vehicle,229,0,51
+Canton,2012,Cyclist/vehicle,3,0,3
+Canton,2012,Pedestrian/vehicle,2,0,2
+Canton,2012,Vehicle/vehicle,226,0,35
+Canton,2013,Cyclist/vehicle,1,0,0
+Canton,2013,Vehicle/vehicle,165,0,26
+Canton,2014,Vehicle/vehicle,150,0,28
+Chaplin,2010,Vehicle/vehicle,47,0,14
+Chaplin,2011,Vehicle/vehicle,36,0,10
+Chaplin,2012,Pedestrian/vehicle,3,0,2
+Chaplin,2012,Vehicle/vehicle,43,0,8
+Chaplin,2013,Vehicle/vehicle,45,0,11
+Chaplin,2014,Vehicle/vehicle,37,1,11
+Cheshire,2010,Cyclist/vehicle,2,0,2
+Cheshire,2010,Pedestrian/vehicle,3,1,3
+Cheshire,2010,Vehicle/vehicle,725,0,188
+Cheshire,2011,Cyclist/vehicle,2,0,2
+Cheshire,2011,Pedestrian/vehicle,3,0,3
+Cheshire,2011,Vehicle/vehicle,606,0,167
+Cheshire,2012,Cyclist/vehicle,4,0,4
+Cheshire,2012,Pedestrian/vehicle,1,0,1
+Cheshire,2012,Vehicle/vehicle,647,1,134
+Cheshire,2013,Pedestrian/vehicle,2,0,2
+Cheshire,2013,Vehicle/vehicle,623,2,158
+Cheshire,2014,Cyclist/vehicle,4,0,3
+Cheshire,2014,Pedestrian/vehicle,2,2,2
+Cheshire,2014,Vehicle/vehicle,485,0,101
+Chester,2010,Vehicle/vehicle,85,0,22
+Chester,2011,Cyclist/vehicle,1,0,1
+Chester,2011,Vehicle/vehicle,65,0,12
+Chester,2012,Cyclist/vehicle,2,0,2
+Chester,2012,Pedestrian/vehicle,1,0,1
+Chester,2012,Vehicle/vehicle,64,0,11
+Chester,2013,Pedestrian/vehicle,1,0,1
+Chester,2013,Vehicle/vehicle,68,0,19
+Chester,2014,Vehicle/vehicle,49,0,11
+Clinton,2010,Cyclist/vehicle,8,0,6
+Clinton,2010,Pedestrian/vehicle,1,0,1
+Clinton,2010,Vehicle/vehicle,284,1,65
+Clinton,2011,Cyclist/vehicle,5,0,4
+Clinton,2011,Pedestrian/vehicle,3,0,3
+Clinton,2011,Vehicle/vehicle,202,0,60
+Clinton,2012,Cyclist/vehicle,6,0,3
+Clinton,2012,Pedestrian/vehicle,1,0,1
+Clinton,2012,Vehicle/vehicle,269,0,58
+Clinton,2013,Cyclist/vehicle,1,0,0
+Clinton,2013,Pedestrian/vehicle,3,0,2
+Clinton,2013,Vehicle/vehicle,219,0,41
+Clinton,2014,Cyclist/vehicle,6,0,5
+Clinton,2014,Pedestrian/vehicle,2,0,2
+Clinton,2014,Vehicle/vehicle,241,1,55
+Colchester,2010,Cyclist/vehicle,1,0,0
+Colchester,2010,Pedestrian/vehicle,2,1,2
+Colchester,2010,Vehicle/vehicle,270,1,49
+Colchester,2011,Pedestrian/vehicle,2,0,2
+Colchester,2011,Vehicle/vehicle,276,1,67
+Colchester,2012,Pedestrian/vehicle,3,1,2
+Colchester,2012,Vehicle/vehicle,254,1,45
+Colchester,2013,Vehicle/vehicle,260,1,51
+Colchester,2014,Pedestrian/vehicle,4,0,3
+Colchester,2014,Vehicle/vehicle,226,1,41
+Colebrook,2010,Vehicle/vehicle,24,0,6
+Colebrook,2011,Vehicle/vehicle,20,0,7
+Colebrook,2012,Vehicle/vehicle,26,0,5
+Colebrook,2013,Vehicle/vehicle,28,0,8
+Colebrook,2014,Vehicle/vehicle,28,1,6
+Columbia,2010,Vehicle/vehicle,105,1,19
+Columbia,2011,Pedestrian/vehicle,2,1,2
+Columbia,2011,Vehicle/vehicle,89,0,27
+Columbia,2012,Vehicle/vehicle,97,1,28
+Columbia,2013,Cyclist/vehicle,1,0,0
+Columbia,2013,Vehicle/vehicle,101,0,25
+Columbia,2014,Cyclist/vehicle,1,0,0
+Columbia,2014,Pedestrian/vehicle,3,0,3
+Columbia,2014,Vehicle/vehicle,87,1,22
+Cornwall,2010,Vehicle/vehicle,24,1,6
+Cornwall,2011,Vehicle/vehicle,27,0,9
+Cornwall,2012,Vehicle/vehicle,35,0,11
+Cornwall,2013,Vehicle/vehicle,24,0,3
+Cornwall,2014,Vehicle/vehicle,28,0,5
+Coventry,2010,Cyclist/vehicle,1,0,1
+Coventry,2010,Pedestrian/vehicle,1,0,1
+Coventry,2010,Vehicle/vehicle,234,2,75
+Coventry,2011,Cyclist/vehicle,1,0,1
+Coventry,2011,Pedestrian/vehicle,3,0,3
+Coventry,2011,Vehicle/vehicle,179,0,59
+Coventry,2012,Cyclist/vehicle,1,0,1
+Coventry,2012,Pedestrian/vehicle,1,0,1
+Coventry,2012,Vehicle/vehicle,195,0,61
+Coventry,2013,Cyclist/vehicle,1,0,1
+Coventry,2013,Vehicle/vehicle,203,2,51
+Coventry,2014,Pedestrian/vehicle,1,0,1
+Coventry,2014,Vehicle/vehicle,129,1,24
+Cromwell,2010,Pedestrian/vehicle,3,0,3
+Cromwell,2010,Vehicle/vehicle,565,4,136
+Cromwell,2011,Cyclist/vehicle,2,0,1
+Cromwell,2011,Pedestrian/vehicle,3,0,3
+Cromwell,2011,Vehicle/vehicle,506,0,129
+Cromwell,2012,Cyclist/vehicle,1,0,1
+Cromwell,2012,Pedestrian/vehicle,2,0,2
+Cromwell,2012,Vehicle/vehicle,519,1,127
+Cromwell,2013,Cyclist/vehicle,1,0,1
+Cromwell,2013,Pedestrian/vehicle,2,0,2
+Cromwell,2013,Vehicle/vehicle,555,0,137
+Cromwell,2014,Cyclist/vehicle,2,0,2
+Cromwell,2014,Pedestrian/vehicle,1,0,1
+Cromwell,2014,Vehicle/vehicle,497,1,116
+Danbury,2010,Cyclist/vehicle,16,0,10
+Danbury,2010,Pedestrian/vehicle,39,1,32
+Danbury,2010,Vehicle/vehicle,2925,2,568
+Danbury,2011,Cyclist/vehicle,15,1,15
+Danbury,2011,Pedestrian/vehicle,34,1,33
+Danbury,2011,Vehicle/vehicle,2318,3,645
+Danbury,2012,Cyclist/vehicle,17,0,12
+Danbury,2012,Pedestrian/vehicle,31,0,31
+Danbury,2012,Vehicle/vehicle,2993,2,623
+Danbury,2013,Cyclist/vehicle,10,0,9
+Danbury,2013,Pedestrian/vehicle,28,0,26
+Danbury,2013,Vehicle/vehicle,2963,6,553
+Danbury,2014,Cyclist/vehicle,8,0,6
+Danbury,2014,Pedestrian/vehicle,45,2,40
+Danbury,2014,Vehicle/vehicle,2981,1,575
+Darien,2010,Cyclist/vehicle,1,0,1
+Darien,2010,Pedestrian/vehicle,5,1,5
+Darien,2010,Vehicle/vehicle,764,3,168
+Darien,2011,Cyclist/vehicle,3,0,3
+Darien,2011,Pedestrian/vehicle,6,0,6
+Darien,2011,Vehicle/vehicle,719,2,183
+Darien,2012,Vehicle/vehicle,500,0,126
+Darien,2013,Pedestrian/vehicle,6,0,6
+Darien,2013,Vehicle/vehicle,745,1,184
+Darien,2014,Pedestrian/vehicle,1,0,1
+Darien,2014,Vehicle/vehicle,711,1,155
+Deep River,2010,Pedestrian/vehicle,1,0,1
+Deep River,2010,Vehicle/vehicle,62,1,13
+Deep River,2011,Cyclist/vehicle,1,0,0
+Deep River,2011,Pedestrian/vehicle,1,0,1
+Deep River,2011,Vehicle/vehicle,72,0,27
+Deep River,2012,Cyclist/vehicle,1,0,1
+Deep River,2012,Pedestrian/vehicle,1,0,1
+Deep River,2012,Vehicle/vehicle,80,0,19
+Deep River,2013,Pedestrian/vehicle,1,0,1
+Deep River,2013,Vehicle/vehicle,76,0,12
+Deep River,2014,Pedestrian/vehicle,1,0,0
+Deep River,2014,Vehicle/vehicle,69,0,14
+Derby,2010,Cyclist/vehicle,1,0,1
+Derby,2010,Pedestrian/vehicle,10,0,9
+Derby,2010,Vehicle/vehicle,582,2,119
+Derby,2011,Pedestrian/vehicle,7,0,7
+Derby,2011,Vehicle/vehicle,523,0,122
+Derby,2012,Cyclist/vehicle,1,0,1
+Derby,2012,Pedestrian/vehicle,3,0,3
+Derby,2012,Vehicle/vehicle,544,1,113
+Derby,2013,Cyclist/vehicle,4,0,3
+Derby,2013,Pedestrian/vehicle,6,0,5
+Derby,2013,Vehicle/vehicle,548,1,104
+Derby,2014,Cyclist/vehicle,2,0,2
+Derby,2014,Pedestrian/vehicle,5,0,4
+Derby,2014,Vehicle/vehicle,524,0,102
+Durham,2010,Pedestrian/vehicle,1,0,1
+Durham,2010,Vehicle/vehicle,145,1,48
+Durham,2011,Pedestrian/vehicle,3,1,3
+Durham,2011,Vehicle/vehicle,153,0,45
+Durham,2012,Pedestrian/vehicle,1,1,1
+Durham,2012,Vehicle/vehicle,146,0,51
+Durham,2013,Cyclist/vehicle,1,0,1
+Durham,2013,Vehicle/vehicle,139,1,44
+Durham,2014,Cyclist/vehicle,1,0,1
+Durham,2014,Pedestrian/vehicle,2,0,2
+Durham,2014,Vehicle/vehicle,153,0,39
+East Granby,2010,Cyclist/vehicle,1,0,1
+East Granby,2010,Vehicle/vehicle,108,1,23
+East Granby,2011,Vehicle/vehicle,91,0,34
+East Granby,2012,Pedestrian/vehicle,1,0,1
+East Granby,2012,Vehicle/vehicle,95,3,28
+East Granby,2013,Vehicle/vehicle,109,0,32
+East Granby,2014,Cyclist/vehicle,1,0,1
+East Granby,2014,Vehicle/vehicle,142,1,36
+East Haddam,2010,Cyclist/vehicle,1,0,1
+East Haddam,2010,Pedestrian/vehicle,3,0,3
+East Haddam,2010,Vehicle/vehicle,76,0,25
+East Haddam,2011,Cyclist/vehicle,1,0,1
+East Haddam,2011,Vehicle/vehicle,78,2,22
+East Haddam,2012,Cyclist/vehicle,1,0,1
+East Haddam,2012,Pedestrian/vehicle,1,0,1
+East Haddam,2012,Vehicle/vehicle,94,0,25
+East Haddam,2013,Cyclist/vehicle,1,0,1
+East Haddam,2013,Vehicle/vehicle,103,0,27
+East Haddam,2014,Cyclist/vehicle,1,0,1
+East Haddam,2014,Pedestrian/vehicle,1,0,0
+East Haddam,2014,Vehicle/vehicle,89,1,22
+East Hampton,2010,Pedestrian/vehicle,3,0,2
+East Hampton,2010,Vehicle/vehicle,181,1,60
+East Hampton,2011,Cyclist/vehicle,1,0,1
+East Hampton,2011,Pedestrian/vehicle,1,1,1
+East Hampton,2011,Vehicle/vehicle,186,1,65
+East Hampton,2012,Cyclist/vehicle,2,0,2
+East Hampton,2012,Vehicle/vehicle,190,1,60
+East Hampton,2013,Pedestrian/vehicle,4,0,4
+East Hampton,2013,Vehicle/vehicle,174,3,58
+East Hampton,2014,Pedestrian/vehicle,5,1,5
+East Hampton,2014,Vehicle/vehicle,151,0,51
+East Hartford,2010,Cyclist/vehicle,10,1,10
+East Hartford,2010,Pedestrian/vehicle,20,0,19
+East Hartford,2010,Vehicle/vehicle,1543,2,394
+East Hartford,2011,Cyclist/vehicle,20,2,17
+East Hartford,2011,Pedestrian/vehicle,25,1,25
+East Hartford,2011,Vehicle/vehicle,1407,3,406
+East Hartford,2012,Cyclist/vehicle,17,1,15
+East Hartford,2012,Pedestrian/vehicle,22,1,17
+East Hartford,2012,Vehicle/vehicle,1583,3,374
+East Hartford,2013,Cyclist/vehicle,13,0,11
+East Hartford,2013,Pedestrian/vehicle,22,2,18
+East Hartford,2013,Vehicle/vehicle,1659,6,451
+East Hartford,2014,Cyclist/vehicle,12,0,8
+East Hartford,2014,Pedestrian/vehicle,21,4,19
+East Hartford,2014,Vehicle/vehicle,1682,3,400
+East Haven,2010,Cyclist/vehicle,4,0,3
+East Haven,2010,Pedestrian/vehicle,9,0,8
+East Haven,2010,Vehicle/vehicle,652,0,151
+East Haven,2011,Cyclist/vehicle,7,0,6
+East Haven,2011,Pedestrian/vehicle,12,1,11
+East Haven,2011,Vehicle/vehicle,547,1,170
+East Haven,2012,Cyclist/vehicle,4,1,4
+East Haven,2012,Pedestrian/vehicle,7,0,7
+East Haven,2012,Vehicle/vehicle,610,1,164
+East Haven,2013,Cyclist/vehicle,7,0,5
+East Haven,2013,Pedestrian/vehicle,4,0,4
+East Haven,2013,Vehicle/vehicle,687,2,184
+East Haven,2014,Cyclist/vehicle,2,0,1
+East Haven,2014,Pedestrian/vehicle,5,0,4
+East Haven,2014,Vehicle/vehicle,618,2,176
+East Lyme,2010,Cyclist/vehicle,1,0,1
+East Lyme,2010,Pedestrian/vehicle,2,0,2
+East Lyme,2010,Vehicle/vehicle,416,0,72
+East Lyme,2011,Cyclist/vehicle,3,0,3
+East Lyme,2011,Pedestrian/vehicle,8,0,7
+East Lyme,2011,Vehicle/vehicle,429,1,68
+East Lyme,2012,Cyclist/vehicle,2,0,2
+East Lyme,2012,Pedestrian/vehicle,3,0,3
+East Lyme,2012,Vehicle/vehicle,421,3,90
+East Lyme,2013,Cyclist/vehicle,1,0,1
+East Lyme,2013,Pedestrian/vehicle,2,0,2
+East Lyme,2013,Vehicle/vehicle,361,1,72
+East Lyme,2014,Cyclist/vehicle,1,0,1
+East Lyme,2014,Pedestrian/vehicle,2,1,2
+East Lyme,2014,Vehicle/vehicle,362,1,71
+East Windsor,2010,Cyclist/vehicle,6,0,6
+East Windsor,2010,Pedestrian/vehicle,9,1,9
+East Windsor,2010,Vehicle/vehicle,315,3,94
+East Windsor,2011,Cyclist/vehicle,1,0,1
+East Windsor,2011,Pedestrian/vehicle,1,0,1
+East Windsor,2011,Vehicle/vehicle,338,0,108
+East Windsor,2012,Cyclist/vehicle,2,1,2
+East Windsor,2012,Pedestrian/vehicle,2,0,2
+East Windsor,2012,Vehicle/vehicle,301,1,78
+East Windsor,2013,Cyclist/vehicle,1,0,1
+East Windsor,2013,Pedestrian/vehicle,1,0,1
+East Windsor,2013,Vehicle/vehicle,306,3,66
+East Windsor,2014,Cyclist/vehicle,1,0,1
+East Windsor,2014,Pedestrian/vehicle,1,0,1
+East Windsor,2014,Vehicle/vehicle,345,0,96
+Eastford,2010,Vehicle/vehicle,30,1,6
+Eastford,2011,Vehicle/vehicle,29,2,8
+Eastford,2012,Vehicle/vehicle,24,0,4
+Eastford,2013,Vehicle/vehicle,27,0,5
+Eastford,2014,Vehicle/vehicle,29,0,9
+Easton,2010,Cyclist/vehicle,2,0,2
+Easton,2010,Pedestrian/vehicle,1,0,0
+Easton,2010,Vehicle/vehicle,146,0,35
+Easton,2011,Pedestrian/vehicle,1,1,1
+Easton,2011,Vehicle/vehicle,86,0,27
+Easton,2012,Cyclist/vehicle,1,0,1
+Easton,2012,Vehicle/vehicle,87,0,15
+Easton,2013,Cyclist/vehicle,1,0,1
+Easton,2013,Vehicle/vehicle,141,0,38
+Easton,2014,Vehicle/vehicle,155,0,34
+Ellington,2010,Cyclist/vehicle,3,1,3
+Ellington,2010,Pedestrian/vehicle,1,0,0
+Ellington,2010,Vehicle/vehicle,159,0,45
+Ellington,2011,Cyclist/vehicle,1,0,1
+Ellington,2011,Pedestrian/vehicle,3,0,3
+Ellington,2011,Vehicle/vehicle,153,3,52
+Ellington,2012,Cyclist/vehicle,1,0,1
+Ellington,2012,Pedestrian/vehicle,3,0,3
+Ellington,2012,Vehicle/vehicle,152,1,45
+Ellington,2013,Cyclist/vehicle,2,0,1
+Ellington,2013,Vehicle/vehicle,190,0,48
+Ellington,2014,Cyclist/vehicle,2,0,1
+Ellington,2014,Pedestrian/vehicle,1,1,1
+Ellington,2014,Vehicle/vehicle,187,1,62
+Enfield,2010,Cyclist/vehicle,10,0,7
+Enfield,2010,Pedestrian/vehicle,12,0,12
+Enfield,2010,Vehicle/vehicle,947,6,270
+Enfield,2011,Cyclist/vehicle,8,0,8
+Enfield,2011,Pedestrian/vehicle,10,0,10
+Enfield,2011,Vehicle/vehicle,754,3,255
+Enfield,2012,Cyclist/vehicle,11,0,7
+Enfield,2012,Pedestrian/vehicle,6,0,6
+Enfield,2012,Vehicle/vehicle,739,5,253
+Enfield,2013,Cyclist/vehicle,8,1,7
+Enfield,2013,Pedestrian/vehicle,7,0,7
+Enfield,2013,Vehicle/vehicle,714,5,210
+Enfield,2014,Cyclist/vehicle,7,0,4
+Enfield,2014,Pedestrian/vehicle,6,1,6
+Enfield,2014,Vehicle/vehicle,786,2,192
+Essex,2010,Cyclist/vehicle,1,0,1
+Essex,2010,Pedestrian/vehicle,1,0,1
+Essex,2010,Vehicle/vehicle,87,0,18
+Essex,2011,Cyclist/vehicle,1,0,1
+Essex,2011,Vehicle/vehicle,112,1,32
+Essex,2012,Cyclist/vehicle,1,0,1
+Essex,2012,Pedestrian/vehicle,2,0,2
+Essex,2012,Vehicle/vehicle,84,1,18
+Essex,2013,Cyclist/vehicle,2,0,2
+Essex,2013,Vehicle/vehicle,90,0,23
+Essex,2014,Vehicle/vehicle,89,1,20
+Fairfield,2010,Cyclist/vehicle,9,0,8
+Fairfield,2010,Pedestrian/vehicle,20,1,20
+Fairfield,2010,Vehicle/vehicle,1213,3,380
+Fairfield,2011,Cyclist/vehicle,7,1,7
+Fairfield,2011,Pedestrian/vehicle,13,0,13
+Fairfield,2011,Vehicle/vehicle,1143,2,362
+Fairfield,2012,Cyclist/vehicle,10,0,8
+Fairfield,2012,Pedestrian/vehicle,13,1,13
+Fairfield,2012,Vehicle/vehicle,1191,5,333
+Fairfield,2013,Cyclist/vehicle,7,0,6
+Fairfield,2013,Pedestrian/vehicle,15,0,14
+Fairfield,2013,Vehicle/vehicle,1220,2,335
+Fairfield,2014,Cyclist/vehicle,7,0,7
+Fairfield,2014,Pedestrian/vehicle,13,0,9
+Fairfield,2014,Vehicle/vehicle,1512,2,340
+Farmington,2010,Cyclist/vehicle,4,0,4
+Farmington,2010,Pedestrian/vehicle,5,0,5
+Farmington,2010,Vehicle/vehicle,1031,3,212
+Farmington,2011,Cyclist/vehicle,1,0,0
+Farmington,2011,Pedestrian/vehicle,4,0,4
+Farmington,2011,Vehicle/vehicle,898,3,199
+Farmington,2012,Cyclist/vehicle,3,0,1
+Farmington,2012,Pedestrian/vehicle,7,2,7
+Farmington,2012,Vehicle/vehicle,911,4,215
+Farmington,2013,Cyclist/vehicle,1,0,1
+Farmington,2013,Pedestrian/vehicle,6,0,5
+Farmington,2013,Vehicle/vehicle,987,7,213
+Farmington,2014,Cyclist/vehicle,4,0,3
+Farmington,2014,Pedestrian/vehicle,3,0,3
+Farmington,2014,Vehicle/vehicle,943,3,183
+Franklin,2010,Vehicle/vehicle,77,0,20
+Franklin,2011,Pedestrian/vehicle,2,0,2
+Franklin,2011,Vehicle/vehicle,65,0,12
+Franklin,2012,Pedestrian/vehicle,1,0,1
+Franklin,2012,Vehicle/vehicle,73,2,22
+Franklin,2013,Vehicle/vehicle,86,1,28
+Franklin,2014,Cyclist/vehicle,1,0,1
+Franklin,2014,Vehicle/vehicle,62,1,15
+Glastonbury,2010,Cyclist/vehicle,5,1,4
+Glastonbury,2010,Pedestrian/vehicle,4,1,4
+Glastonbury,2010,Vehicle/vehicle,672,1,158
+Glastonbury,2011,Cyclist/vehicle,5,0,5
+Glastonbury,2011,Pedestrian/vehicle,2,0,1
+Glastonbury,2011,Vehicle/vehicle,562,2,157
+Glastonbury,2012,Cyclist/vehicle,3,0,3
+Glastonbury,2012,Pedestrian/vehicle,2,0,2
+Glastonbury,2012,Vehicle/vehicle,724,1,159
+Glastonbury,2013,Cyclist/vehicle,5,0,5
+Glastonbury,2013,Pedestrian/vehicle,5,0,5
+Glastonbury,2013,Vehicle/vehicle,814,1,191
+Glastonbury,2014,Cyclist/vehicle,3,0,2
+Glastonbury,2014,Pedestrian/vehicle,7,0,6
+Glastonbury,2014,Vehicle/vehicle,765,0,160
+Goshen,2010,Vehicle/vehicle,37,0,4
+Goshen,2011,Vehicle/vehicle,32,1,13
+Goshen,2012,Vehicle/vehicle,37,0,10
+Goshen,2013,Cyclist/vehicle,1,0,1
+Goshen,2013,Vehicle/vehicle,43,0,11
+Goshen,2014,Vehicle/vehicle,44,1,12
+Granby,2010,Cyclist/vehicle,2,0,2
+Granby,2010,Vehicle/vehicle,178,1,33
+Granby,2011,Cyclist/vehicle,3,0,3
+Granby,2011,Pedestrian/vehicle,2,0,2
+Granby,2011,Vehicle/vehicle,119,2,24
+Granby,2012,Cyclist/vehicle,2,0,1
+Granby,2012,Vehicle/vehicle,123,0,32
+Granby,2013,Pedestrian/vehicle,1,0,1
+Granby,2013,Vehicle/vehicle,102,1,21
+Granby,2014,Cyclist/vehicle,1,0,1
+Granby,2014,Pedestrian/vehicle,1,0,1
+Granby,2014,Vehicle/vehicle,166,1,29
+Greenwich,2010,Cyclist/vehicle,11,0,9
+Greenwich,2010,Pedestrian/vehicle,24,1,23
+Greenwich,2010,Vehicle/vehicle,2021,1,396
+Greenwich,2011,Cyclist/vehicle,12,0,12
+Greenwich,2011,Pedestrian/vehicle,13,0,13
+Greenwich,2011,Vehicle/vehicle,1383,3,328
+Greenwich,2012,Cyclist/vehicle,14,0,12
+Greenwich,2012,Pedestrian/vehicle,22,1,19
+Greenwich,2012,Vehicle/vehicle,1975,1,370
+Greenwich,2013,Cyclist/vehicle,8,0,6
+Greenwich,2013,Pedestrian/vehicle,9,2,7
+Greenwich,2013,Vehicle/vehicle,1971,2,328
+Greenwich,2014,Cyclist/vehicle,7,0,4
+Greenwich,2014,Pedestrian/vehicle,16,0,12
+Greenwich,2014,Vehicle/vehicle,1954,0,321
+Griswold,2010,Pedestrian/vehicle,1,0,1
+Griswold,2010,Vehicle/vehicle,211,3,62
+Griswold,2011,Cyclist/vehicle,1,0,1
+Griswold,2011,Pedestrian/vehicle,1,0,1
+Griswold,2011,Vehicle/vehicle,142,1,33
+Griswold,2012,Vehicle/vehicle,234,1,38
+Griswold,2013,Pedestrian/vehicle,1,0,1
+Griswold,2013,Vehicle/vehicle,192,4,46
+Griswold,2014,Cyclist/vehicle,1,0,1
+Griswold,2014,Pedestrian/vehicle,2,0,2
+Griswold,2014,Vehicle/vehicle,181,0,41
+Groton,2010,Cyclist/vehicle,3,0,2
+Groton,2010,Pedestrian/vehicle,7,0,7
+Groton,2010,Vehicle/vehicle,878,1,165
+Groton,2011,Cyclist/vehicle,13,0,8
+Groton,2011,Pedestrian/vehicle,6,1,4
+Groton,2011,Vehicle/vehicle,751,4,163
+Groton,2012,Cyclist/vehicle,12,0,7
+Groton,2012,Pedestrian/vehicle,6,0,5
+Groton,2012,Vehicle/vehicle,827,2,120
+Groton,2013,Cyclist/vehicle,9,0,7
+Groton,2013,Pedestrian/vehicle,9,0,6
+Groton,2013,Vehicle/vehicle,968,0,153
+Groton,2014,Cyclist/vehicle,5,0,4
+Groton,2014,Pedestrian/vehicle,3,0,3
+Groton,2014,Vehicle/vehicle,900,0,146
+Guilford,2010,Cyclist/vehicle,3,0,3
+Guilford,2010,Pedestrian/vehicle,5,0,4
+Guilford,2010,Vehicle/vehicle,465,2,105
+Guilford,2011,Cyclist/vehicle,2,0,2
+Guilford,2011,Pedestrian/vehicle,3,0,3
+Guilford,2011,Vehicle/vehicle,409,1,105
+Guilford,2012,Cyclist/vehicle,1,0,1
+Guilford,2012,Pedestrian/vehicle,6,1,5
+Guilford,2012,Vehicle/vehicle,471,1,120
+Guilford,2013,Cyclist/vehicle,1,0,1
+Guilford,2013,Vehicle/vehicle,451,2,88
+Guilford,2014,Cyclist/vehicle,4,1,3
+Guilford,2014,Pedestrian/vehicle,2,0,2
+Guilford,2014,Vehicle/vehicle,458,1,74
+Haddam,2010,Cyclist/vehicle,1,0,1
+Haddam,2010,Vehicle/vehicle,147,3,43
+Haddam,2011,Cyclist/vehicle,1,0,0
+Haddam,2011,Vehicle/vehicle,136,1,46
+Haddam,2012,Cyclist/vehicle,2,0,2
+Haddam,2012,Pedestrian/vehicle,1,0,1
+Haddam,2012,Vehicle/vehicle,130,1,36
+Haddam,2013,Pedestrian/vehicle,1,0,1
+Haddam,2013,Vehicle/vehicle,153,1,37
+Haddam,2014,Cyclist/vehicle,1,0,1
+Haddam,2014,Pedestrian/vehicle,1,0,1
+Haddam,2014,Vehicle/vehicle,179,0,44
+Hamden,2010,Cyclist/vehicle,18,0,16
+Hamden,2010,Pedestrian/vehicle,16,0,14
+Hamden,2010,Vehicle/vehicle,1694,1,352
+Hamden,2011,Cyclist/vehicle,8,0,8
+Hamden,2011,Pedestrian/vehicle,13,0,13
+Hamden,2011,Vehicle/vehicle,1341,3,318
+Hamden,2012,Cyclist/vehicle,16,0,14
+Hamden,2012,Pedestrian/vehicle,16,1,16
+Hamden,2012,Vehicle/vehicle,1483,0,344
+Hamden,2013,Cyclist/vehicle,9,0,6
+Hamden,2013,Pedestrian/vehicle,20,0,19
+Hamden,2013,Vehicle/vehicle,1582,3,343
+Hamden,2014,Cyclist/vehicle,4,0,4
+Hamden,2014,Pedestrian/vehicle,16,1,14
+Hamden,2014,Vehicle/vehicle,1424,1,314
+Hampton,2010,Vehicle/vehicle,32,3,10
+Hampton,2011,Vehicle/vehicle,18,0,4
+Hampton,2012,Vehicle/vehicle,32,0,9
+Hampton,2013,Vehicle/vehicle,25,0,7
+Hampton,2014,Vehicle/vehicle,32,0,5
+Hartford,2010,Cyclist/vehicle,59,0,51
+Hartford,2010,Pedestrian/vehicle,128,4,119
+Hartford,2010,Vehicle/vehicle,5573,9,1432
+Hartford,2011,Cyclist/vehicle,42,1,41
+Hartford,2011,Pedestrian/vehicle,128,1,128
+Hartford,2011,Vehicle/vehicle,3595,4,1389
+Hartford,2012,Cyclist/vehicle,67,0,55
+Hartford,2012,Pedestrian/vehicle,106,1,103
+Hartford,2012,Vehicle/vehicle,5537,11,1414
+Hartford,2013,Cyclist/vehicle,40,0,34
+Hartford,2013,Pedestrian/vehicle,122,3,114
+Hartford,2013,Vehicle/vehicle,5780,8,1421
+Hartford,2014,Cyclist/vehicle,59,0,51
+Hartford,2014,Pedestrian/vehicle,128,0,118
+Hartford,2014,Vehicle/vehicle,5992,3,1380
+Hartland,2010,Vehicle/vehicle,11,0,5
+Hartland,2011,Vehicle/vehicle,14,0,2
+Hartland,2012,Vehicle/vehicle,21,0,2
+Hartland,2013,Vehicle/vehicle,10,1,3
+Hartland,2014,Vehicle/vehicle,22,0,9
+Harwinton,2010,Vehicle/vehicle,134,2,35
+Harwinton,2011,Cyclist/vehicle,1,0,1
+Harwinton,2011,Vehicle/vehicle,104,2,23
+Harwinton,2012,Vehicle/vehicle,102,1,28
+Harwinton,2013,Cyclist/vehicle,2,0,2
+Harwinton,2013,Vehicle/vehicle,116,3,28
+Harwinton,2014,Vehicle/vehicle,114,1,19
+Hebron,2010,Vehicle/vehicle,106,2,26
+Hebron,2011,Cyclist/vehicle,1,0,1
+Hebron,2011,Vehicle/vehicle,102,1,30
+Hebron,2012,Cyclist/vehicle,1,0,1
+Hebron,2012,Vehicle/vehicle,105,1,28
+Hebron,2013,Cyclist/vehicle,2,0,2
+Hebron,2013,Pedestrian/vehicle,1,0,1
+Hebron,2013,Vehicle/vehicle,116,4,27
+Hebron,2014,Cyclist/vehicle,1,0,1
+Hebron,2014,Pedestrian/vehicle,1,1,1
+Hebron,2014,Vehicle/vehicle,100,2,34
+Kent,2010,Vehicle/vehicle,63,2,20
+Kent,2011,Vehicle/vehicle,54,0,21
+Kent,2012,Vehicle/vehicle,64,1,23
+Kent,2013,Cyclist/vehicle,1,0,1
+Kent,2013,Vehicle/vehicle,59,0,13
+Kent,2014,Vehicle/vehicle,47,0,17
+Killingly,2010,Cyclist/vehicle,1,0,0
+Killingly,2010,Pedestrian/vehicle,5,0,4
+Killingly,2010,Vehicle/vehicle,350,4,71
+Killingly,2011,Cyclist/vehicle,5,0,5
+Killingly,2011,Pedestrian/vehicle,5,0,5
+Killingly,2011,Vehicle/vehicle,284,0,73
+Killingly,2012,Cyclist/vehicle,3,0,2
+Killingly,2012,Pedestrian/vehicle,3,0,3
+Killingly,2012,Vehicle/vehicle,356,0,74
+Killingly,2013,Cyclist/vehicle,4,0,4
+Killingly,2013,Pedestrian/vehicle,2,0,2
+Killingly,2013,Vehicle/vehicle,334,2,56
+Killingly,2014,Cyclist/vehicle,4,0,4
+Killingly,2014,Vehicle/vehicle,313,4,73
+Killingworth,2010,Vehicle/vehicle,74,1,22
+Killingworth,2011,Cyclist/vehicle,1,0,1
+Killingworth,2011,Vehicle/vehicle,74,0,30
+Killingworth,2012,Vehicle/vehicle,80,1,27
+Killingworth,2013,Cyclist/vehicle,1,0,1
+Killingworth,2013,Vehicle/vehicle,68,0,23
+Killingworth,2014,Vehicle/vehicle,67,1,24
+Lebanon,2010,Vehicle/vehicle,103,0,28
+Lebanon,2011,Vehicle/vehicle,72,0,20
+Lebanon,2012,Vehicle/vehicle,94,2,20
+Lebanon,2013,Cyclist/vehicle,3,0,2
+Lebanon,2013,Vehicle/vehicle,87,0,20
+Lebanon,2014,Vehicle/vehicle,95,1,28
+Ledyard,2010,Cyclist/vehicle,1,0,1
+Ledyard,2010,Pedestrian/vehicle,1,0,1
+Ledyard,2010,Vehicle/vehicle,257,1,53
+Ledyard,2011,Cyclist/vehicle,1,0,1
+Ledyard,2011,Pedestrian/vehicle,1,0,1
+Ledyard,2011,Vehicle/vehicle,198,0,58
+Ledyard,2012,Cyclist/vehicle,2,0,1
+Ledyard,2012,Pedestrian/vehicle,1,0,0
+Ledyard,2012,Vehicle/vehicle,268,0,51
+Ledyard,2013,Cyclist/vehicle,2,0,1
+Ledyard,2013,Pedestrian/vehicle,4,0,4
+Ledyard,2013,Vehicle/vehicle,281,1,68
+Ledyard,2014,Cyclist/vehicle,1,0,1
+Ledyard,2014,Pedestrian/vehicle,1,0,0
+Ledyard,2014,Vehicle/vehicle,252,3,62
+Lisbon,2010,Vehicle/vehicle,133,3,31
+Lisbon,2011,Vehicle/vehicle,101,1,23
+Lisbon,2012,Pedestrian/vehicle,1,0,0
+Lisbon,2012,Vehicle/vehicle,114,0,21
+Lisbon,2013,Cyclist/vehicle,1,0,1
+Lisbon,2013,Vehicle/vehicle,129,0,35
+Lisbon,2014,Vehicle/vehicle,88,0,17
+Litchfield,2010,Pedestrian/vehicle,3,0,3
+Litchfield,2010,Vehicle/vehicle,226,0,54
+Litchfield,2011,Cyclist/vehicle,1,0,1
+Litchfield,2011,Pedestrian/vehicle,1,0,1
+Litchfield,2011,Vehicle/vehicle,193,0,59
+Litchfield,2012,Cyclist/vehicle,1,0,1
+Litchfield,2012,Vehicle/vehicle,191,0,46
+Litchfield,2013,Vehicle/vehicle,214,2,58
+Litchfield,2014,Pedestrian/vehicle,1,0,0
+Litchfield,2014,Vehicle/vehicle,200,2,47
+Lyme,2010,Pedestrian/vehicle,1,0,1
+Lyme,2010,Vehicle/vehicle,19,0,6
+Lyme,2011,Vehicle/vehicle,13,0,6
+Lyme,2012,Vehicle/vehicle,27,0,8
+Lyme,2013,Vehicle/vehicle,26,1,8
+Lyme,2014,Vehicle/vehicle,29,0,8
+Madison,2010,Cyclist/vehicle,3,0,2
+Madison,2010,Pedestrian/vehicle,5,1,4
+Madison,2010,Vehicle/vehicle,278,1,53
+Madison,2011,Cyclist/vehicle,7,0,5
+Madison,2011,Pedestrian/vehicle,2,1,2
+Madison,2011,Vehicle/vehicle,207,1,53
+Madison,2012,Cyclist/vehicle,4,0,3
+Madison,2012,Pedestrian/vehicle,1,0,1
+Madison,2012,Vehicle/vehicle,282,0,51
+Madison,2013,Cyclist/vehicle,5,0,3
+Madison,2013,Pedestrian/vehicle,1,0,1
+Madison,2013,Vehicle/vehicle,310,0,68
+Madison,2014,Cyclist/vehicle,3,0,2
+Madison,2014,Pedestrian/vehicle,2,0,2
+Madison,2014,Vehicle/vehicle,292,0,73
+Manchester,2010,Cyclist/vehicle,19,0,16
+Manchester,2010,Pedestrian/vehicle,17,0,16
+Manchester,2010,Vehicle/vehicle,1919,1,464
+Manchester,2011,Cyclist/vehicle,12,1,11
+Manchester,2011,Pedestrian/vehicle,16,0,14
+Manchester,2011,Vehicle/vehicle,1394,3,510
+Manchester,2012,Cyclist/vehicle,22,0,15
+Manchester,2012,Pedestrian/vehicle,25,1,23
+Manchester,2012,Vehicle/vehicle,1644,1,412
+Manchester,2013,Cyclist/vehicle,17,1,16
+Manchester,2013,Pedestrian/vehicle,23,1,21
+Manchester,2013,Vehicle/vehicle,1701,1,391
+Manchester,2014,Cyclist/vehicle,15,0,9
+Manchester,2014,Pedestrian/vehicle,24,1,22
+Manchester,2014,Vehicle/vehicle,1731,4,407
+Mansfield,2010,Cyclist/vehicle,1,0,1
+Mansfield,2010,Pedestrian/vehicle,7,0,7
+Mansfield,2010,Vehicle/vehicle,411,3,110
+Mansfield,2011,Cyclist/vehicle,1,0,1
+Mansfield,2011,Pedestrian/vehicle,7,1,7
+Mansfield,2011,Vehicle/vehicle,368,0,74
+Mansfield,2012,Cyclist/vehicle,1,0,1
+Mansfield,2012,Pedestrian/vehicle,4,1,4
+Mansfield,2012,Vehicle/vehicle,407,2,73
+Mansfield,2013,Cyclist/vehicle,2,0,1
+Mansfield,2013,Pedestrian/vehicle,3,0,2
+Mansfield,2013,Vehicle/vehicle,432,1,70
+Mansfield,2014,Cyclist/vehicle,4,0,4
+Mansfield,2014,Pedestrian/vehicle,4,1,3
+Mansfield,2014,Vehicle/vehicle,392,1,66
+Marlborough,2010,Cyclist/vehicle,1,0,1
+Marlborough,2010,Pedestrian/vehicle,1,0,1
+Marlborough,2010,Vehicle/vehicle,149,2,38
+Marlborough,2011,Vehicle/vehicle,134,1,39
+Marlborough,2012,Vehicle/vehicle,135,2,28
+Marlborough,2013,Vehicle/vehicle,172,1,34
+Marlborough,2014,Vehicle/vehicle,122,2,29
+Meriden,2010,Cyclist/vehicle,22,0,15
+Meriden,2010,Pedestrian/vehicle,33,3,31
+Meriden,2010,Vehicle/vehicle,1749,4,414
+Meriden,2011,Cyclist/vehicle,7,0,6
+Meriden,2011,Pedestrian/vehicle,30,1,30
+Meriden,2011,Vehicle/vehicle,1304,2,432
+Meriden,2012,Cyclist/vehicle,7,0,7
+Meriden,2012,Pedestrian/vehicle,19,1,19
+Meriden,2012,Vehicle/vehicle,1272,3,352
+Meriden,2013,Cyclist/vehicle,11,0,8
+Meriden,2013,Pedestrian/vehicle,17,0,15
+Meriden,2013,Vehicle/vehicle,1438,2,428
+Meriden,2014,Cyclist/vehicle,7,0,5
+Meriden,2014,Pedestrian/vehicle,22,0,22
+Meriden,2014,Vehicle/vehicle,1684,3,463
+Middlebury,2010,Pedestrian/vehicle,1,0,1
+Middlebury,2010,Vehicle/vehicle,298,1,68
+Middlebury,2011,Cyclist/vehicle,1,0,1
+Middlebury,2011,Pedestrian/vehicle,2,0,1
+Middlebury,2011,Vehicle/vehicle,264,1,59
+Middlebury,2012,Cyclist/vehicle,1,0,1
+Middlebury,2012,Vehicle/vehicle,275,1,77
+Middlebury,2013,Pedestrian/vehicle,1,0,1
+Middlebury,2013,Vehicle/vehicle,308,2,70
+Middlebury,2014,Cyclist/vehicle,2,0,2
+Middlebury,2014,Pedestrian/vehicle,2,0,1
+Middlebury,2014,Vehicle/vehicle,291,2,65
+Middlefield,2010,Vehicle/vehicle,70,0,17
+Middlefield,2011,Cyclist/vehicle,2,0,2
+Middlefield,2011,Vehicle/vehicle,74,0,22
+Middlefield,2012,Cyclist/vehicle,2,0,2
+Middlefield,2012,Pedestrian/vehicle,2,0,2
+Middlefield,2012,Vehicle/vehicle,94,1,28
+Middlefield,2013,Vehicle/vehicle,87,0,25
+Middlefield,2014,Pedestrian/vehicle,1,0,1
+Middlefield,2014,Vehicle/vehicle,76,0,24
+Middletown,2010,Cyclist/vehicle,1,0,1
+Middletown,2010,Pedestrian/vehicle,12,1,12
+Middletown,2010,Vehicle/vehicle,566,1,241
+Middletown,2011,Cyclist/vehicle,1,0,1
+Middletown,2011,Pedestrian/vehicle,3,0,3
+Middletown,2011,Vehicle/vehicle,527,3,195
+Middletown,2012,Cyclist/vehicle,5,0,5
+Middletown,2012,Pedestrian/vehicle,5,3,5
+Middletown,2012,Vehicle/vehicle,466,3,187
+Middletown,2013,Cyclist/vehicle,3,0,3
+Middletown,2013,Pedestrian/vehicle,11,2,11
+Middletown,2013,Vehicle/vehicle,460,1,163
+Middletown,2014,Cyclist/vehicle,5,0,5
+Middletown,2014,Pedestrian/vehicle,15,3,14
+Middletown,2014,Vehicle/vehicle,613,1,206
+Milford,2010,Cyclist/vehicle,14,0,12
+Milford,2010,Pedestrian/vehicle,12,1,11
+Milford,2010,Vehicle/vehicle,1287,4,401
+Milford,2011,Cyclist/vehicle,8,0,7
+Milford,2011,Pedestrian/vehicle,14,0,13
+Milford,2011,Vehicle/vehicle,974,1,349
+Milford,2012,Cyclist/vehicle,5,0,5
+Milford,2012,Pedestrian/vehicle,14,0,11
+Milford,2012,Vehicle/vehicle,1104,3,350
+Milford,2013,Cyclist/vehicle,4,0,4
+Milford,2013,Pedestrian/vehicle,2,1,2
+Milford,2013,Vehicle/vehicle,1132,2,339
+Milford,2014,Cyclist/vehicle,10,0,7
+Milford,2014,Pedestrian/vehicle,8,1,8
+Milford,2014,Vehicle/vehicle,974,3,302
+Monroe,2010,Pedestrian/vehicle,2,0,2
+Monroe,2010,Vehicle/vehicle,458,0,118
+Monroe,2011,Cyclist/vehicle,1,0,0
+Monroe,2011,Pedestrian/vehicle,2,0,2
+Monroe,2011,Vehicle/vehicle,383,0,97
+Monroe,2012,Pedestrian/vehicle,4,0,4
+Monroe,2012,Vehicle/vehicle,428,2,96
+Monroe,2013,Cyclist/vehicle,1,0,1
+Monroe,2013,Pedestrian/vehicle,1,0,1
+Monroe,2013,Vehicle/vehicle,375,1,91
+Monroe,2014,Pedestrian/vehicle,2,0,1
+Monroe,2014,Vehicle/vehicle,442,1,90
+Montville,2010,Cyclist/vehicle,1,0,1
+Montville,2010,Pedestrian/vehicle,3,0,3
+Montville,2010,Vehicle/vehicle,507,1,121
+Montville,2011,Cyclist/vehicle,2,0,2
+Montville,2011,Pedestrian/vehicle,3,0,3
+Montville,2011,Vehicle/vehicle,376,0,89
+Montville,2012,Cyclist/vehicle,3,0,3
+Montville,2012,Pedestrian/vehicle,4,1,3
+Montville,2012,Vehicle/vehicle,473,2,115
+Montville,2013,Cyclist/vehicle,2,0,1
+Montville,2013,Pedestrian/vehicle,5,0,5
+Montville,2013,Vehicle/vehicle,442,2,99
+Montville,2014,Pedestrian/vehicle,3,0,3
+Montville,2014,Vehicle/vehicle,443,2,89
+Morris,2010,Cyclist/vehicle,1,0,1
+Morris,2010,Vehicle/vehicle,33,0,5
+Morris,2011,Cyclist/vehicle,1,0,1
+Morris,2011,Vehicle/vehicle,32,0,8
+Morris,2012,Vehicle/vehicle,26,0,6
+Morris,2013,Vehicle/vehicle,32,0,11
+Morris,2014,Vehicle/vehicle,31,1,7
+Naugatuck,2010,Cyclist/vehicle,8,0,6
+Naugatuck,2010,Pedestrian/vehicle,9,0,8
+Naugatuck,2010,Vehicle/vehicle,729,3,200
+Naugatuck,2011,Cyclist/vehicle,4,0,3
+Naugatuck,2011,Pedestrian/vehicle,4,0,4
+Naugatuck,2011,Vehicle/vehicle,512,1,148
+Naugatuck,2012,Cyclist/vehicle,6,0,5
+Naugatuck,2012,Pedestrian/vehicle,4,0,2
+Naugatuck,2012,Vehicle/vehicle,663,1,139
+Naugatuck,2013,Cyclist/vehicle,1,0,0
+Naugatuck,2013,Pedestrian/vehicle,1,0,1
+Naugatuck,2013,Vehicle/vehicle,648,1,146
+Naugatuck,2014,Cyclist/vehicle,4,0,3
+Naugatuck,2014,Pedestrian/vehicle,7,0,7
+Naugatuck,2014,Vehicle/vehicle,674,1,109
+New Britain,2010,Cyclist/vehicle,23,0,19
+New Britain,2010,Pedestrian/vehicle,35,2,33
+New Britain,2010,Vehicle/vehicle,1439,2,395
+New Britain,2011,Cyclist/vehicle,16,0,15
+New Britain,2011,Pedestrian/vehicle,47,0,45
+New Britain,2011,Vehicle/vehicle,1027,3,442
+New Britain,2012,Cyclist/vehicle,11,0,11
+New Britain,2012,Pedestrian/vehicle,32,3,29
+New Britain,2012,Vehicle/vehicle,1170,2,358
+New Britain,2013,Cyclist/vehicle,11,0,11
+New Britain,2013,Pedestrian/vehicle,28,1,26
+New Britain,2013,Vehicle/vehicle,1028,2,263
+New Britain,2014,Cyclist/vehicle,16,0,15
+New Britain,2014,Pedestrian/vehicle,28,0,27
+New Britain,2014,Vehicle/vehicle,1131,4,265
+New Canaan,2010,Cyclist/vehicle,3,0,3
+New Canaan,2010,Pedestrian/vehicle,8,1,7
+New Canaan,2010,Vehicle/vehicle,430,1,94
+New Canaan,2011,Cyclist/vehicle,5,0,5
+New Canaan,2011,Pedestrian/vehicle,5,0,5
+New Canaan,2011,Vehicle/vehicle,322,3,85
+New Canaan,2012,Cyclist/vehicle,4,0,4
+New Canaan,2012,Pedestrian/vehicle,5,0,5
+New Canaan,2012,Vehicle/vehicle,437,1,91
+New Canaan,2013,Cyclist/vehicle,4,0,4
+New Canaan,2013,Pedestrian/vehicle,2,0,2
+New Canaan,2013,Vehicle/vehicle,396,0,100
+New Canaan,2014,Cyclist/vehicle,1,0,1
+New Canaan,2014,Pedestrian/vehicle,6,1,5
+New Canaan,2014,Vehicle/vehicle,427,0,87
+New Fairfield,2010,Vehicle/vehicle,138,0,27
+New Fairfield,2011,Pedestrian/vehicle,1,0,1
+New Fairfield,2011,Vehicle/vehicle,113,0,24
+New Fairfield,2012,Cyclist/vehicle,1,0,1
+New Fairfield,2012,Pedestrian/vehicle,1,0,1
+New Fairfield,2012,Vehicle/vehicle,137,0,30
+New Fairfield,2013,Pedestrian/vehicle,1,0,0
+New Fairfield,2013,Vehicle/vehicle,140,1,34
+New Fairfield,2014,Pedestrian/vehicle,1,0,1
+New Fairfield,2014,Vehicle/vehicle,143,0,34
+New Hartford,2010,Cyclist/vehicle,1,0,1
+New Hartford,2010,Pedestrian/vehicle,1,0,0
+New Hartford,2010,Vehicle/vehicle,140,1,33
+New Hartford,2011,Cyclist/vehicle,2,0,2
+New Hartford,2011,Pedestrian/vehicle,2,0,2
+New Hartford,2011,Vehicle/vehicle,110,0,35
+New Hartford,2012,Cyclist/vehicle,1,0,1
+New Hartford,2012,Vehicle/vehicle,126,0,31
+New Hartford,2013,Cyclist/vehicle,1,0,1
+New Hartford,2013,Vehicle/vehicle,98,0,20
+New Hartford,2014,Vehicle/vehicle,129,1,32
+New Haven,2010,Cyclist/vehicle,81,0,64
+New Haven,2010,Pedestrian/vehicle,125,3,111
+New Haven,2010,Vehicle/vehicle,6700,10,1659
+New Haven,2011,Cyclist/vehicle,60,1,52
+New Haven,2011,Pedestrian/vehicle,82,1,80
+New Haven,2011,Vehicle/vehicle,3902,4,1356
+New Haven,2012,Cyclist/vehicle,77,0,55
+New Haven,2012,Pedestrian/vehicle,130,0,119
+New Haven,2012,Vehicle/vehicle,5389,5,1356
+New Haven,2013,Cyclist/vehicle,82,0,63
+New Haven,2013,Pedestrian/vehicle,103,1,94
+New Haven,2013,Vehicle/vehicle,5255,7,1266
+New Haven,2014,Cyclist/vehicle,84,0,51
+New Haven,2014,Pedestrian/vehicle,140,3,123
+New Haven,2014,Vehicle/vehicle,6437,8,1502
+New London,2010,Cyclist/vehicle,8,0,6
+New London,2010,Pedestrian/vehicle,21,1,21
+New London,2010,Vehicle/vehicle,836,2,162
+New London,2011,Cyclist/vehicle,10,0,10
+New London,2011,Pedestrian/vehicle,14,0,11
+New London,2011,Vehicle/vehicle,555,1,143
+New London,2012,Cyclist/vehicle,9,0,8
+New London,2012,Pedestrian/vehicle,14,0,13
+New London,2012,Vehicle/vehicle,838,0,145
+New London,2013,Cyclist/vehicle,10,0,6
+New London,2013,Pedestrian/vehicle,17,0,17
+New London,2013,Vehicle/vehicle,870,1,165
+New London,2014,Cyclist/vehicle,9,0,7
+New London,2014,Pedestrian/vehicle,21,0,19
+New London,2014,Vehicle/vehicle,824,2,173
+New Milford,2010,Cyclist/vehicle,2,1,2
+New Milford,2010,Pedestrian/vehicle,3,0,3
+New Milford,2010,Vehicle/vehicle,658,0,177
+New Milford,2011,Cyclist/vehicle,7,0,7
+New Milford,2011,Pedestrian/vehicle,3,0,3
+New Milford,2011,Vehicle/vehicle,545,0,172
+New Milford,2012,Cyclist/vehicle,2,0,2
+New Milford,2012,Pedestrian/vehicle,5,0,5
+New Milford,2012,Vehicle/vehicle,632,3,185
+New Milford,2013,Cyclist/vehicle,2,0,2
+New Milford,2013,Pedestrian/vehicle,7,0,6
+New Milford,2013,Vehicle/vehicle,605,3,153
+New Milford,2014,Cyclist/vehicle,1,1,1
+New Milford,2014,Pedestrian/vehicle,9,0,9
+New Milford,2014,Vehicle/vehicle,552,1,133
+Newington,2010,Cyclist/vehicle,9,0,9
+Newington,2010,Pedestrian/vehicle,5,1,5
+Newington,2010,Vehicle/vehicle,803,1,231
+Newington,2011,Cyclist/vehicle,3,0,3
+Newington,2011,Pedestrian/vehicle,5,1,5
+Newington,2011,Vehicle/vehicle,835,1,225
+Newington,2012,Cyclist/vehicle,8,0,5
+Newington,2012,Pedestrian/vehicle,7,0,7
+Newington,2012,Vehicle/vehicle,869,2,207
+Newington,2013,Cyclist/vehicle,3,0,2
+Newington,2013,Pedestrian/vehicle,3,0,3
+Newington,2013,Vehicle/vehicle,861,0,217
+Newington,2014,Cyclist/vehicle,4,0,4
+Newington,2014,Pedestrian/vehicle,3,0,2
+Newington,2014,Vehicle/vehicle,848,2,204
+Newtown,2010,Cyclist/vehicle,1,0,1
+Newtown,2010,Pedestrian/vehicle,2,1,2
+Newtown,2010,Vehicle/vehicle,392,1,104
+Newtown,2011,Pedestrian/vehicle,2,0,2
+Newtown,2011,Vehicle/vehicle,383,1,126
+Newtown,2012,Cyclist/vehicle,1,0,1
+Newtown,2012,Pedestrian/vehicle,1,1,1
+Newtown,2012,Vehicle/vehicle,416,1,129
+Newtown,2013,Pedestrian/vehicle,3,0,3
+Newtown,2013,Vehicle/vehicle,450,1,136
+Newtown,2014,Vehicle/vehicle,445,1,125
+Norfolk,2010,Vehicle/vehicle,36,0,7
+Norfolk,2011,Vehicle/vehicle,28,0,5
+Norfolk,2012,Vehicle/vehicle,47,0,8
+Norfolk,2013,Vehicle/vehicle,29,1,8
+Norfolk,2014,Cyclist/vehicle,1,0,1
+Norfolk,2014,Vehicle/vehicle,32,0,7
+North Branford,2010,Cyclist/vehicle,1,0,0
+North Branford,2010,Vehicle/vehicle,215,0,62
+North Branford,2011,Cyclist/vehicle,2,0,1
+North Branford,2011,Pedestrian/vehicle,1,0,1
+North Branford,2011,Vehicle/vehicle,327,0,72
+North Branford,2012,Cyclist/vehicle,1,0,1
+North Branford,2012,Vehicle/vehicle,279,1,80
+North Branford,2013,Cyclist/vehicle,1,0,1
+North Branford,2013,Pedestrian/vehicle,1,0,1
+North Branford,2013,Vehicle/vehicle,298,0,64
+North Branford,2014,Vehicle/vehicle,242,2,55
+North Canaan,2010,Pedestrian/vehicle,2,0,1
+North Canaan,2010,Vehicle/vehicle,72,2,17
+North Canaan,2011,Pedestrian/vehicle,1,0,1
+North Canaan,2011,Vehicle/vehicle,61,0,16
+North Canaan,2012,Pedestrian/vehicle,1,0,1
+North Canaan,2012,Vehicle/vehicle,46,1,12
+North Canaan,2013,Pedestrian/vehicle,1,0,1
+North Canaan,2013,Vehicle/vehicle,62,1,15
+North Canaan,2014,Cyclist/vehicle,1,0,0
+North Canaan,2014,Pedestrian/vehicle,1,0,1
+North Canaan,2014,Vehicle/vehicle,60,0,17
+North Haven,2010,Cyclist/vehicle,3,0,2
+North Haven,2010,Pedestrian/vehicle,4,1,4
+North Haven,2010,Vehicle/vehicle,745,6,189
+North Haven,2011,Cyclist/vehicle,1,0,0
+North Haven,2011,Pedestrian/vehicle,1,0,1
+North Haven,2011,Vehicle/vehicle,570,1,152
+North Haven,2012,Cyclist/vehicle,9,1,6
+North Haven,2012,Pedestrian/vehicle,8,1,8
+North Haven,2012,Vehicle/vehicle,1115,6,248
+North Haven,2013,Cyclist/vehicle,5,0,3
+North Haven,2013,Pedestrian/vehicle,7,1,5
+North Haven,2013,Vehicle/vehicle,1097,4,271
+North Haven,2014,Cyclist/vehicle,2,0,1
+North Haven,2014,Pedestrian/vehicle,3,1,3
+North Haven,2014,Vehicle/vehicle,985,1,230
+North Stonington,2010,Vehicle/vehicle,162,2,31
+North Stonington,2011,Vehicle/vehicle,183,2,56
+North Stonington,2012,Vehicle/vehicle,167,0,33
+North Stonington,2013,Cyclist/vehicle,1,0,1
+North Stonington,2013,Pedestrian/vehicle,1,0,0
+North Stonington,2013,Vehicle/vehicle,183,3,33
+North Stonington,2014,Cyclist/vehicle,2,0,2
+North Stonington,2014,Pedestrian/vehicle,1,1,1
+North Stonington,2014,Vehicle/vehicle,144,0,41
+Norwalk,2010,Cyclist/vehicle,16,0,12
+Norwalk,2010,Pedestrian/vehicle,41,1,38
+Norwalk,2010,Vehicle/vehicle,2635,5,532
+Norwalk,2011,Cyclist/vehicle,26,0,25
+Norwalk,2011,Pedestrian/vehicle,43,1,42
+Norwalk,2011,Vehicle/vehicle,2412,2,641
+Norwalk,2012,Cyclist/vehicle,22,0,11
+Norwalk,2012,Pedestrian/vehicle,53,3,47
+Norwalk,2012,Vehicle/vehicle,3247,3,584
+Norwalk,2013,Cyclist/vehicle,19,0,15
+Norwalk,2013,Pedestrian/vehicle,38,1,35
+Norwalk,2013,Vehicle/vehicle,3062,4,613
+Norwalk,2014,Cyclist/vehicle,15,0,9
+Norwalk,2014,Pedestrian/vehicle,35,1,33
+Norwalk,2014,Vehicle/vehicle,3253,3,585
+Norwich,2010,Cyclist/vehicle,17,0,13
+Norwich,2010,Pedestrian/vehicle,10,0,10
+Norwich,2010,Vehicle/vehicle,1455,3,292
+Norwich,2011,Cyclist/vehicle,7,0,5
+Norwich,2011,Pedestrian/vehicle,14,0,13
+Norwich,2011,Vehicle/vehicle,1079,1,271
+Norwich,2012,Cyclist/vehicle,7,0,7
+Norwich,2012,Pedestrian/vehicle,17,0,15
+Norwich,2012,Vehicle/vehicle,1258,2,253
+Norwich,2013,Cyclist/vehicle,5,0,5
+Norwich,2013,Pedestrian/vehicle,20,0,19
+Norwich,2013,Vehicle/vehicle,1250,4,227
+Norwich,2014,Cyclist/vehicle,8,0,8
+Norwich,2014,Pedestrian/vehicle,19,1,15
+Norwich,2014,Vehicle/vehicle,1186,2,212
+Old Lyme,2010,Cyclist/vehicle,1,0,1
+Old Lyme,2010,Vehicle/vehicle,150,2,42
+Old Lyme,2011,Cyclist/vehicle,1,0,1
+Old Lyme,2011,Pedestrian/vehicle,1,0,1
+Old Lyme,2011,Vehicle/vehicle,169,1,50
+Old Lyme,2012,Cyclist/vehicle,1,0,1
+Old Lyme,2012,Pedestrian/vehicle,2,0,1
+Old Lyme,2012,Vehicle/vehicle,161,1,45
+Old Lyme,2013,Cyclist/vehicle,1,0,1
+Old Lyme,2013,Vehicle/vehicle,181,2,45
+Old Lyme,2014,Vehicle/vehicle,154,1,34
+Old Saybrook,2010,Cyclist/vehicle,4,0,3
+Old Saybrook,2010,Pedestrian/vehicle,2,0,2
+Old Saybrook,2010,Vehicle/vehicle,300,0,67
+Old Saybrook,2011,Cyclist/vehicle,6,0,6
+Old Saybrook,2011,Pedestrian/vehicle,5,0,5
+Old Saybrook,2011,Vehicle/vehicle,285,0,77
+Old Saybrook,2012,Cyclist/vehicle,4,0,3
+Old Saybrook,2012,Pedestrian/vehicle,3,1,2
+Old Saybrook,2012,Vehicle/vehicle,294,0,66
+Old Saybrook,2013,Cyclist/vehicle,1,0,1
+Old Saybrook,2013,Pedestrian/vehicle,1,0,1
+Old Saybrook,2013,Vehicle/vehicle,291,3,69
+Old Saybrook,2014,Cyclist/vehicle,4,0,2
+Old Saybrook,2014,Pedestrian/vehicle,1,0,1
+Old Saybrook,2014,Vehicle/vehicle,295,1,53
+Orange,2010,Cyclist/vehicle,3,0,1
+Orange,2010,Pedestrian/vehicle,2,0,2
+Orange,2010,Vehicle/vehicle,962,2,241
+Orange,2011,Cyclist/vehicle,2,0,1
+Orange,2011,Pedestrian/vehicle,2,1,2
+Orange,2011,Vehicle/vehicle,802,2,221
+Orange,2012,Cyclist/vehicle,1,0,1
+Orange,2012,Pedestrian/vehicle,7,0,6
+Orange,2012,Vehicle/vehicle,838,2,213
+Orange,2013,Cyclist/vehicle,1,0,1
+Orange,2013,Pedestrian/vehicle,7,0,7
+Orange,2013,Vehicle/vehicle,958,2,255
+Orange,2014,Cyclist/vehicle,3,0,1
+Orange,2014,Pedestrian/vehicle,4,0,4
+Orange,2014,Vehicle/vehicle,966,3,245
+Oxford,2010,Cyclist/vehicle,2,0,2
+Oxford,2010,Vehicle/vehicle,208,3,56
+Oxford,2011,Pedestrian/vehicle,1,0,1
+Oxford,2011,Vehicle/vehicle,171,1,58
+Oxford,2012,Pedestrian/vehicle,1,0,1
+Oxford,2012,Vehicle/vehicle,192,1,50
+Oxford,2013,Vehicle/vehicle,206,2,64
+Oxford,2014,Vehicle/vehicle,183,0,42
+Plainfield,2010,Cyclist/vehicle,2,0,2
+Plainfield,2010,Pedestrian/vehicle,1,0,1
+Plainfield,2010,Vehicle/vehicle,336,1,100
+Plainfield,2011,Cyclist/vehicle,1,0,1
+Plainfield,2011,Pedestrian/vehicle,1,0,1
+Plainfield,2011,Vehicle/vehicle,274,1,91
+Plainfield,2012,Cyclist/vehicle,1,0,0
+Plainfield,2012,Pedestrian/vehicle,3,0,3
+Plainfield,2012,Vehicle/vehicle,313,2,106
+Plainfield,2013,Pedestrian/vehicle,1,1,1
+Plainfield,2013,Vehicle/vehicle,304,1,76
+Plainfield,2014,Cyclist/vehicle,3,0,3
+Plainfield,2014,Pedestrian/vehicle,3,0,3
+Plainfield,2014,Vehicle/vehicle,246,1,71
+Plainville,2010,Cyclist/vehicle,6,0,6
+Plainville,2010,Pedestrian/vehicle,5,0,5
+Plainville,2010,Vehicle/vehicle,724,2,205
+Plainville,2011,Cyclist/vehicle,3,0,3
+Plainville,2011,Pedestrian/vehicle,5,0,5
+Plainville,2011,Vehicle/vehicle,577,2,181
+Plainville,2012,Cyclist/vehicle,9,0,6
+Plainville,2012,Pedestrian/vehicle,5,0,5
+Plainville,2012,Vehicle/vehicle,628,0,190
+Plainville,2013,Cyclist/vehicle,6,0,6
+Plainville,2013,Pedestrian/vehicle,6,0,5
+Plainville,2013,Vehicle/vehicle,614,0,147
+Plainville,2014,Cyclist/vehicle,3,0,3
+Plainville,2014,Pedestrian/vehicle,3,0,3
+Plainville,2014,Vehicle/vehicle,647,1,165
+Plymouth,2010,Cyclist/vehicle,1,0,1
+Plymouth,2010,Pedestrian/vehicle,1,0,1
+Plymouth,2010,Vehicle/vehicle,271,0,62
+Plymouth,2011,Cyclist/vehicle,3,0,1
+Plymouth,2011,Pedestrian/vehicle,1,0,1
+Plymouth,2011,Vehicle/vehicle,206,0,56
+Plymouth,2012,Cyclist/vehicle,1,0,0
+Plymouth,2012,Pedestrian/vehicle,2,0,2
+Plymouth,2012,Vehicle/vehicle,214,0,51
+Plymouth,2013,Cyclist/vehicle,2,0,2
+Plymouth,2013,Vehicle/vehicle,228,0,50
+Plymouth,2014,Cyclist/vehicle,2,0,2
+Plymouth,2014,Vehicle/vehicle,229,0,48
+Pomfret,2010,Vehicle/vehicle,94,0,19
+Pomfret,2011,Vehicle/vehicle,51,1,13
+Pomfret,2012,Vehicle/vehicle,67,0,12
+Pomfret,2013,Vehicle/vehicle,71,1,18
+Pomfret,2014,Vehicle/vehicle,52,1,14
+Portland,2010,Pedestrian/vehicle,2,0,2
+Portland,2010,Vehicle/vehicle,162,2,51
+Portland,2011,Cyclist/vehicle,1,0,1
+Portland,2011,Pedestrian/vehicle,1,0,1
+Portland,2011,Vehicle/vehicle,176,1,47
+Portland,2012,Cyclist/vehicle,1,0,1
+Portland,2012,Pedestrian/vehicle,1,0,1
+Portland,2012,Vehicle/vehicle,179,0,40
+Portland,2013,Vehicle/vehicle,120,3,24
+Portland,2014,Vehicle/vehicle,118,1,31
+Preston,2010,Pedestrian/vehicle,1,1,1
+Preston,2010,Vehicle/vehicle,174,1,59
+Preston,2011,Pedestrian/vehicle,1,0,1
+Preston,2011,Vehicle/vehicle,160,1,44
+Preston,2012,Vehicle/vehicle,181,0,44
+Preston,2013,Pedestrian/vehicle,2,1,2
+Preston,2013,Vehicle/vehicle,164,1,43
+Preston,2014,Vehicle/vehicle,152,1,42
+Prospect,2010,Cyclist/vehicle,1,0,0
+Prospect,2010,Pedestrian/vehicle,2,0,2
+Prospect,2010,Vehicle/vehicle,187,3,55
+Prospect,2011,Vehicle/vehicle,115,1,31
+Prospect,2012,Pedestrian/vehicle,2,0,2
+Prospect,2012,Vehicle/vehicle,145,0,41
+Prospect,2013,Cyclist/vehicle,1,0,1
+Prospect,2013,Pedestrian/vehicle,3,1,3
+Prospect,2013,Vehicle/vehicle,190,0,56
+Prospect,2014,Pedestrian/vehicle,1,0,1
+Prospect,2014,Vehicle/vehicle,168,1,36
+Putnam,2010,Cyclist/vehicle,1,0,1
+Putnam,2010,Pedestrian/vehicle,1,0,1
+Putnam,2010,Vehicle/vehicle,270,2,59
+Putnam,2011,Pedestrian/vehicle,2,0,1
+Putnam,2011,Vehicle/vehicle,219,2,38
+Putnam,2012,Cyclist/vehicle,3,0,3
+Putnam,2012,Pedestrian/vehicle,2,0,2
+Putnam,2012,Vehicle/vehicle,245,0,44
+Putnam,2013,Cyclist/vehicle,1,0,1
+Putnam,2013,Pedestrian/vehicle,6,1,4
+Putnam,2013,Vehicle/vehicle,240,0,45
+Putnam,2014,Cyclist/vehicle,2,0,2
+Putnam,2014,Pedestrian/vehicle,2,0,2
+Putnam,2014,Vehicle/vehicle,211,1,45
+Redding,2010,Vehicle/vehicle,191,1,35
+Redding,2011,Cyclist/vehicle,1,0,1
+Redding,2011,Pedestrian/vehicle,1,0,1
+Redding,2011,Vehicle/vehicle,149,1,34
+Redding,2012,Cyclist/vehicle,1,0,1
+Redding,2012,Vehicle/vehicle,167,2,32
+Redding,2013,Cyclist/vehicle,3,0,2
+Redding,2013,Pedestrian/vehicle,1,0,0
+Redding,2013,Vehicle/vehicle,132,0,27
+Redding,2014,Cyclist/vehicle,2,0,2
+Redding,2014,Pedestrian/vehicle,1,0,1
+Redding,2014,Vehicle/vehicle,164,0,28
+Ridgefield,2010,Cyclist/vehicle,5,0,4
+Ridgefield,2010,Pedestrian/vehicle,4,0,4
+Ridgefield,2010,Vehicle/vehicle,496,1,83
+Ridgefield,2011,Cyclist/vehicle,2,0,2
+Ridgefield,2011,Pedestrian/vehicle,6,0,6
+Ridgefield,2011,Vehicle/vehicle,419,1,85
+Ridgefield,2012,Cyclist/vehicle,1,0,1
+Ridgefield,2012,Pedestrian/vehicle,5,0,5
+Ridgefield,2012,Vehicle/vehicle,462,1,84
+Ridgefield,2013,Pedestrian/vehicle,3,0,3
+Ridgefield,2013,Vehicle/vehicle,460,1,60
+Ridgefield,2014,Cyclist/vehicle,4,0,3
+Ridgefield,2014,Pedestrian/vehicle,1,1,1
+Ridgefield,2014,Vehicle/vehicle,478,0,53
+Rocky Hill,2010,Pedestrian/vehicle,1,0,1
+Rocky Hill,2010,Vehicle/vehicle,531,0,127
+Rocky Hill,2011,Pedestrian/vehicle,1,0,1
+Rocky Hill,2011,Vehicle/vehicle,490,0,115
+Rocky Hill,2012,Cyclist/vehicle,1,0,0
+Rocky Hill,2012,Pedestrian/vehicle,3,1,2
+Rocky Hill,2012,Vehicle/vehicle,597,2,154
+Rocky Hill,2013,Pedestrian/vehicle,3,0,3
+Rocky Hill,2013,Vehicle/vehicle,521,0,128
+Rocky Hill,2014,Pedestrian/vehicle,5,0,5
+Rocky Hill,2014,Vehicle/vehicle,521,0,125
+Roxbury,2010,Vehicle/vehicle,46,0,15
+Roxbury,2011,Cyclist/vehicle,1,0,1
+Roxbury,2011,Vehicle/vehicle,36,0,9
+Roxbury,2012,Vehicle/vehicle,51,0,16
+Roxbury,2013,Vehicle/vehicle,47,1,10
+Roxbury,2014,Vehicle/vehicle,45,1,6
+Salem,2010,Cyclist/vehicle,1,0,1
+Salem,2010,Vehicle/vehicle,86,1,16
+Salem,2011,Vehicle/vehicle,61,0,21
+Salem,2012,Vehicle/vehicle,62,1,14
+Salem,2013,Vehicle/vehicle,67,1,18
+Salem,2014,Pedestrian/vehicle,1,0,1
+Salem,2014,Vehicle/vehicle,66,1,15
+Salisbury,2010,Cyclist/vehicle,1,0,1
+Salisbury,2010,Pedestrian/vehicle,2,0,2
+Salisbury,2010,Vehicle/vehicle,79,0,13
+Salisbury,2011,Vehicle/vehicle,66,0,15
+Salisbury,2012,Cyclist/vehicle,2,0,2
+Salisbury,2012,Pedestrian/vehicle,1,0,1
+Salisbury,2012,Vehicle/vehicle,99,1,18
+Salisbury,2013,Pedestrian/vehicle,1,0,1
+Salisbury,2013,Vehicle/vehicle,83,1,15
+Salisbury,2014,Cyclist/vehicle,1,0,1
+Salisbury,2014,Pedestrian/vehicle,1,0,1
+Salisbury,2014,Vehicle/vehicle,75,0,20
+Scotland,2010,Vehicle/vehicle,24,0,7
+Scotland,2011,Vehicle/vehicle,17,1,8
+Scotland,2012,Vehicle/vehicle,19,0,6
+Scotland,2013,Vehicle/vehicle,17,0,4
+Scotland,2014,Vehicle/vehicle,22,0,7
+Seymour,2010,Cyclist/vehicle,3,0,3
+Seymour,2010,Pedestrian/vehicle,5,0,5
+Seymour,2010,Vehicle/vehicle,409,1,108
+Seymour,2011,Cyclist/vehicle,3,0,2
+Seymour,2011,Vehicle/vehicle,367,1,110
+Seymour,2012,Pedestrian/vehicle,2,0,2
+Seymour,2012,Vehicle/vehicle,412,2,113
+Seymour,2013,Pedestrian/vehicle,4,0,4
+Seymour,2013,Vehicle/vehicle,424,1,104
+Seymour,2014,Cyclist/vehicle,2,0,2
+Seymour,2014,Pedestrian/vehicle,4,0,4
+Seymour,2014,Vehicle/vehicle,459,1,101
+Sharon,2010,Vehicle/vehicle,66,0,13
+Sharon,2011,Vehicle/vehicle,53,1,26
+Sharon,2012,Vehicle/vehicle,69,0,23
+Sharon,2013,Vehicle/vehicle,54,0,13
+Sharon,2014,Vehicle/vehicle,52,0,11
+Shelton,2010,Cyclist/vehicle,2,0,2
+Shelton,2010,Pedestrian/vehicle,11,1,11
+Shelton,2010,Vehicle/vehicle,930,4,205
+Shelton,2011,Cyclist/vehicle,2,0,2
+Shelton,2011,Pedestrian/vehicle,5,0,5
+Shelton,2011,Vehicle/vehicle,759,2,232
+Shelton,2012,Cyclist/vehicle,1,0,1
+Shelton,2012,Pedestrian/vehicle,5,0,5
+Shelton,2012,Vehicle/vehicle,833,3,208
+Shelton,2013,Cyclist/vehicle,3,0,2
+Shelton,2013,Pedestrian/vehicle,2,0,2
+Shelton,2013,Vehicle/vehicle,837,4,194
+Shelton,2014,Cyclist/vehicle,2,0,2
+Shelton,2014,Pedestrian/vehicle,6,0,5
+Shelton,2014,Vehicle/vehicle,668,1,149
+Sherman,2010,Vehicle/vehicle,31,0,9
+Sherman,2011,Vehicle/vehicle,34,1,12
+Sherman,2012,Vehicle/vehicle,41,0,13
+Sherman,2013,Vehicle/vehicle,38,0,5
+Sherman,2014,Vehicle/vehicle,36,0,9
+Simsbury,2010,Cyclist/vehicle,3,0,3
+Simsbury,2010,Pedestrian/vehicle,2,0,2
+Simsbury,2010,Vehicle/vehicle,366,1,74
+Simsbury,2011,Cyclist/vehicle,6,0,4
+Simsbury,2011,Pedestrian/vehicle,3,0,3
+Simsbury,2011,Vehicle/vehicle,343,1,81
+Simsbury,2012,Cyclist/vehicle,5,0,4
+Simsbury,2012,Vehicle/vehicle,342,0,85
+Simsbury,2013,Cyclist/vehicle,1,0,1
+Simsbury,2013,Vehicle/vehicle,348,1,85
+Simsbury,2014,Cyclist/vehicle,2,0,2
+Simsbury,2014,Pedestrian/vehicle,2,0,1
+Simsbury,2014,Vehicle/vehicle,348,0,70
+Somers,2010,Cyclist/vehicle,1,0,0
+Somers,2010,Vehicle/vehicle,128,0,40
+Somers,2011,Pedestrian/vehicle,1,0,1
+Somers,2011,Vehicle/vehicle,97,0,24
+Somers,2012,Pedestrian/vehicle,1,0,1
+Somers,2012,Vehicle/vehicle,124,2,34
+Somers,2013,Cyclist/vehicle,1,0,1
+Somers,2013,Vehicle/vehicle,129,0,34
+Somers,2014,Vehicle/vehicle,125,1,29
+South Windsor,2010,Cyclist/vehicle,2,0,1
+South Windsor,2010,Pedestrian/vehicle,2,0,2
+South Windsor,2010,Vehicle/vehicle,430,0,103
+South Windsor,2011,Cyclist/vehicle,5,0,5
+South Windsor,2011,Pedestrian/vehicle,1,0,1
+South Windsor,2011,Vehicle/vehicle,353,3,112
+South Windsor,2012,Cyclist/vehicle,1,0,0
+South Windsor,2012,Pedestrian/vehicle,1,0,1
+South Windsor,2012,Vehicle/vehicle,370,0,95
+South Windsor,2013,Pedestrian/vehicle,4,0,4
+South Windsor,2013,Vehicle/vehicle,414,1,131
+South Windsor,2014,Cyclist/vehicle,3,0,3
+South Windsor,2014,Pedestrian/vehicle,4,0,2
+South Windsor,2014,Vehicle/vehicle,393,2,115
+Southbury,2010,Vehicle/vehicle,475,2,90
+Southbury,2011,Cyclist/vehicle,2,0,2
+Southbury,2011,Pedestrian/vehicle,5,0,5
+Southbury,2011,Vehicle/vehicle,381,0,104
+Southbury,2012,Cyclist/vehicle,2,0,2
+Southbury,2012,Pedestrian/vehicle,3,0,2
+Southbury,2012,Vehicle/vehicle,521,0,112
+Southbury,2013,Cyclist/vehicle,1,0,1
+Southbury,2013,Pedestrian/vehicle,2,0,2
+Southbury,2013,Vehicle/vehicle,474,1,111
+Southbury,2014,Cyclist/vehicle,2,0,2
+Southbury,2014,Pedestrian/vehicle,2,0,2
+Southbury,2014,Vehicle/vehicle,438,1,105
+Southington,2010,Cyclist/vehicle,4,0,3
+Southington,2010,Pedestrian/vehicle,10,1,9
+Southington,2010,Vehicle/vehicle,1089,2,260
+Southington,2011,Cyclist/vehicle,7,0,6
+Southington,2011,Pedestrian/vehicle,6,0,5
+Southington,2011,Vehicle/vehicle,922,3,292
+Southington,2012,Cyclist/vehicle,5,0,3
+Southington,2012,Pedestrian/vehicle,5,0,5
+Southington,2012,Vehicle/vehicle,1026,2,253
+Southington,2013,Cyclist/vehicle,8,0,5
+Southington,2013,Pedestrian/vehicle,5,1,5
+Southington,2013,Vehicle/vehicle,1094,3,250
+Southington,2014,Cyclist/vehicle,6,0,5
+Southington,2014,Pedestrian/vehicle,5,0,5
+Southington,2014,Vehicle/vehicle,1026,3,222
+Sprague,2010,Vehicle/vehicle,29,0,7
+Sprague,2011,Cyclist/vehicle,1,0,0
+Sprague,2011,Vehicle/vehicle,24,0,8
+Sprague,2012,Cyclist/vehicle,2,0,1
+Sprague,2012,Vehicle/vehicle,31,1,9
+Sprague,2013,Vehicle/vehicle,32,0,5
+Sprague,2014,Cyclist/vehicle,1,0,1
+Sprague,2014,Vehicle/vehicle,28,1,8
+Stafford,2010,Cyclist/vehicle,3,0,2
+Stafford,2010,Pedestrian/vehicle,3,2,3
+Stafford,2010,Vehicle/vehicle,159,1,43
+Stafford,2011,Cyclist/vehicle,4,0,4
+Stafford,2011,Pedestrian/vehicle,3,0,2
+Stafford,2011,Vehicle/vehicle,134,0,40
+Stafford,2012,Pedestrian/vehicle,2,1,1
+Stafford,2012,Vehicle/vehicle,134,0,27
+Stafford,2013,Pedestrian/vehicle,3,0,3
+Stafford,2013,Vehicle/vehicle,148,0,35
+Stafford,2014,Cyclist/vehicle,1,0,1
+Stafford,2014,Vehicle/vehicle,143,0,31
+Stamford,2010,Cyclist/vehicle,18,0,16
+Stamford,2010,Pedestrian/vehicle,100,0,94
+Stamford,2010,Vehicle/vehicle,3728,7,739
+Stamford,2011,Cyclist/vehicle,21,0,21
+Stamford,2011,Pedestrian/vehicle,66,0,65
+Stamford,2011,Vehicle/vehicle,2441,2,771
+Stamford,2012,Cyclist/vehicle,15,0,12
+Stamford,2012,Pedestrian/vehicle,86,1,82
+Stamford,2012,Vehicle/vehicle,3856,2,737
+Stamford,2013,Cyclist/vehicle,21,0,19
+Stamford,2013,Pedestrian/vehicle,69,2,65
+Stamford,2013,Vehicle/vehicle,3500,4,684
+Stamford,2014,Cyclist/vehicle,21,0,18
+Stamford,2014,Pedestrian/vehicle,70,5,68
+Stamford,2014,Vehicle/vehicle,3067,5,622
+Sterling,2010,Pedestrian/vehicle,1,0,1
+Sterling,2010,Vehicle/vehicle,41,1,11
+Sterling,2011,Vehicle/vehicle,19,0,8
+Sterling,2012,Vehicle/vehicle,44,0,13
+Sterling,2013,Vehicle/vehicle,43,1,14
+Sterling,2014,Vehicle/vehicle,40,0,7
+Stonington,2010,Cyclist/vehicle,5,0,4
+Stonington,2010,Pedestrian/vehicle,7,1,6
+Stonington,2010,Vehicle/vehicle,507,2,106
+Stonington,2011,Cyclist/vehicle,4,0,1
+Stonington,2011,Pedestrian/vehicle,5,0,5
+Stonington,2011,Vehicle/vehicle,385,1,104
+Stonington,2012,Cyclist/vehicle,8,0,5
+Stonington,2012,Pedestrian/vehicle,3,0,1
+Stonington,2012,Vehicle/vehicle,471,0,95
+Stonington,2013,Cyclist/vehicle,8,0,7
+Stonington,2013,Pedestrian/vehicle,1,0,1
+Stonington,2013,Vehicle/vehicle,421,1,72
+Stonington,2014,Cyclist/vehicle,11,0,10
+Stonington,2014,Pedestrian/vehicle,5,1,4
+Stonington,2014,Vehicle/vehicle,492,3,83
+Stratford,2010,Cyclist/vehicle,20,0,18
+Stratford,2010,Pedestrian/vehicle,12,0,11
+Stratford,2010,Vehicle/vehicle,1616,1,357
+Stratford,2011,Cyclist/vehicle,11,0,9
+Stratford,2011,Pedestrian/vehicle,17,0,17
+Stratford,2011,Vehicle/vehicle,1201,3,354
+Stratford,2012,Cyclist/vehicle,6,0,6
+Stratford,2012,Pedestrian/vehicle,17,1,17
+Stratford,2012,Vehicle/vehicle,1397,1,308
+Stratford,2013,Cyclist/vehicle,13,0,9
+Stratford,2013,Pedestrian/vehicle,10,0,10
+Stratford,2013,Vehicle/vehicle,1297,2,304
+Stratford,2014,Cyclist/vehicle,17,0,14
+Stratford,2014,Pedestrian/vehicle,13,0,12
+Stratford,2014,Vehicle/vehicle,1452,2,319
+Suffield,2010,Cyclist/vehicle,1,0,0
+Suffield,2010,Vehicle/vehicle,208,1,56
+Suffield,2011,Cyclist/vehicle,2,0,2
+Suffield,2011,Vehicle/vehicle,166,0,53
+Suffield,2012,Cyclist/vehicle,3,0,3
+Suffield,2012,Pedestrian/vehicle,1,1,1
+Suffield,2012,Vehicle/vehicle,201,2,57
+Suffield,2013,Pedestrian/vehicle,2,0,2
+Suffield,2013,Vehicle/vehicle,180,0,52
+Suffield,2014,Cyclist/vehicle,2,1,2
+Suffield,2014,Pedestrian/vehicle,2,1,2
+Suffield,2014,Vehicle/vehicle,191,1,41
+Thomaston,2010,Cyclist/vehicle,2,0,0
+Thomaston,2010,Pedestrian/vehicle,1,0,1
+Thomaston,2010,Vehicle/vehicle,236,1,39
+Thomaston,2011,Vehicle/vehicle,106,2,18
+Thomaston,2012,Cyclist/vehicle,2,0,2
+Thomaston,2012,Pedestrian/vehicle,2,0,2
+Thomaston,2012,Vehicle/vehicle,230,0,34
+Thomaston,2013,Vehicle/vehicle,244,0,53
+Thomaston,2014,Cyclist/vehicle,1,0,0
+Thomaston,2014,Vehicle/vehicle,220,0,51
+Thompson,2010,Vehicle/vehicle,166,0,42
+Thompson,2011,Pedestrian/vehicle,1,0,1
+Thompson,2011,Vehicle/vehicle,130,1,33
+Thompson,2012,Cyclist/vehicle,2,0,2
+Thompson,2012,Vehicle/vehicle,145,0,36
+Thompson,2013,Vehicle/vehicle,147,1,32
+Thompson,2014,Pedestrian/vehicle,1,0,1
+Thompson,2014,Vehicle/vehicle,147,2,42
+Tolland,2010,Vehicle/vehicle,315,1,80
+Tolland,2011,Cyclist/vehicle,1,0,1
+Tolland,2011,Vehicle/vehicle,245,0,63
+Tolland,2012,Pedestrian/vehicle,1,0,1
+Tolland,2012,Vehicle/vehicle,288,2,71
+Tolland,2013,Vehicle/vehicle,259,1,56
+Tolland,2014,Cyclist/vehicle,1,0,1
+Tolland,2014,Vehicle/vehicle,264,1,67
+Torrington,2010,Cyclist/vehicle,13,0,9
+Torrington,2010,Pedestrian/vehicle,13,0,12
+Torrington,2010,Vehicle/vehicle,881,6,195
+Torrington,2011,Cyclist/vehicle,10,0,9
+Torrington,2011,Pedestrian/vehicle,14,0,13
+Torrington,2011,Vehicle/vehicle,691,3,184
+Torrington,2012,Cyclist/vehicle,15,0,13
+Torrington,2012,Pedestrian/vehicle,13,0,12
+Torrington,2012,Vehicle/vehicle,753,5,172
+Torrington,2013,Cyclist/vehicle,7,0,7
+Torrington,2013,Pedestrian/vehicle,18,0,18
+Torrington,2013,Vehicle/vehicle,779,1,150
+Torrington,2014,Cyclist/vehicle,11,0,10
+Torrington,2014,Pedestrian/vehicle,9,1,9
+Torrington,2014,Vehicle/vehicle,869,2,181
+Trumbull,2010,Cyclist/vehicle,4,0,3
+Trumbull,2010,Pedestrian/vehicle,6,0,6
+Trumbull,2010,Vehicle/vehicle,1194,3,284
+Trumbull,2011,Cyclist/vehicle,2,0,2
+Trumbull,2011,Pedestrian/vehicle,6,0,6
+Trumbull,2011,Vehicle/vehicle,993,4,280
+Trumbull,2012,Cyclist/vehicle,4,0,4
+Trumbull,2012,Pedestrian/vehicle,3,0,3
+Trumbull,2012,Vehicle/vehicle,1085,5,247
+Trumbull,2013,Cyclist/vehicle,2,0,2
+Trumbull,2013,Pedestrian/vehicle,4,0,3
+Trumbull,2013,Vehicle/vehicle,955,2,234
+Trumbull,2014,Cyclist/vehicle,1,0,1
+Trumbull,2014,Pedestrian/vehicle,5,0,5
+Trumbull,2014,Vehicle/vehicle,868,2,209
+Union,2010,Vehicle/vehicle,84,1,16
+Union,2011,Vehicle/vehicle,69,2,20
+Union,2012,Pedestrian/vehicle,1,0,0
+Union,2012,Vehicle/vehicle,75,1,15
+Union,2013,Vehicle/vehicle,59,0,10
+Union,2014,Vehicle/vehicle,54,0,15
+Vernon,2010,Cyclist/vehicle,4,0,3
+Vernon,2010,Pedestrian/vehicle,2,0,2
+Vernon,2010,Vehicle/vehicle,754,0,186
+Vernon,2011,Cyclist/vehicle,3,0,3
+Vernon,2011,Pedestrian/vehicle,6,0,6
+Vernon,2011,Vehicle/vehicle,685,0,169
+Vernon,2012,Cyclist/vehicle,4,0,4
+Vernon,2012,Pedestrian/vehicle,3,1,3
+Vernon,2012,Vehicle/vehicle,703,3,171
+Vernon,2013,Cyclist/vehicle,2,0,1
+Vernon,2013,Pedestrian/vehicle,6,2,6
+Vernon,2013,Vehicle/vehicle,662,1,186
+Vernon,2014,Cyclist/vehicle,6,0,5
+Vernon,2014,Pedestrian/vehicle,9,1,8
+Vernon,2014,Vehicle/vehicle,739,1,181
+Voluntown,2010,Vehicle/vehicle,43,1,20
+Voluntown,2011,Vehicle/vehicle,34,1,10
+Voluntown,2012,Vehicle/vehicle,38,0,9
+Voluntown,2013,Vehicle/vehicle,31,0,8
+Voluntown,2014,Vehicle/vehicle,34,0,11
+Wallingford,2010,Cyclist/vehicle,4,0,4
+Wallingford,2010,Pedestrian/vehicle,3,1,3
+Wallingford,2010,Vehicle/vehicle,1122,3,301
+Wallingford,2011,Cyclist/vehicle,2,0,2
+Wallingford,2011,Pedestrian/vehicle,3,0,2
+Wallingford,2011,Vehicle/vehicle,826,1,220
+Wallingford,2012,Cyclist/vehicle,1,0,1
+Wallingford,2012,Pedestrian/vehicle,5,0,5
+Wallingford,2012,Vehicle/vehicle,1299,0,330
+Wallingford,2013,Cyclist/vehicle,6,0,4
+Wallingford,2013,Pedestrian/vehicle,11,0,10
+Wallingford,2013,Vehicle/vehicle,1251,3,305
+Wallingford,2014,Cyclist/vehicle,5,0,5
+Wallingford,2014,Pedestrian/vehicle,12,0,12
+Wallingford,2014,Vehicle/vehicle,1289,3,345
+Warren,2010,Vehicle/vehicle,20,1,6
+Warren,2011,Vehicle/vehicle,19,0,9
+Warren,2012,Vehicle/vehicle,18,0,5
+Warren,2013,Vehicle/vehicle,13,0,6
+Warren,2014,Vehicle/vehicle,16,0,2
+Washington,2010,Pedestrian/vehicle,1,0,1
+Washington,2010,Vehicle/vehicle,82,1,18
+Washington,2011,Cyclist/vehicle,1,0,1
+Washington,2011,Pedestrian/vehicle,1,0,1
+Washington,2011,Vehicle/vehicle,71,0,17
+Washington,2012,Cyclist/vehicle,1,0,1
+Washington,2012,Vehicle/vehicle,73,1,15
+Washington,2013,Vehicle/vehicle,75,1,17
+Washington,2014,Vehicle/vehicle,61,0,12
+Waterbury,2010,Cyclist/vehicle,30,0,26
+Waterbury,2010,Pedestrian/vehicle,97,1,87
+Waterbury,2010,Vehicle/vehicle,4964,3,1215
+Waterbury,2011,Cyclist/vehicle,21,0,21
+Waterbury,2011,Pedestrian/vehicle,73,1,70
+Waterbury,2011,Vehicle/vehicle,3246,7,1193
+Waterbury,2012,Cyclist/vehicle,15,0,13
+Waterbury,2012,Pedestrian/vehicle,87,8,81
+Waterbury,2012,Vehicle/vehicle,4296,6,1054
+Waterbury,2013,Cyclist/vehicle,15,0,9
+Waterbury,2013,Pedestrian/vehicle,89,2,81
+Waterbury,2013,Vehicle/vehicle,4218,7,975
+Waterbury,2014,Cyclist/vehicle,26,0,21
+Waterbury,2014,Pedestrian/vehicle,85,2,77
+Waterbury,2014,Vehicle/vehicle,4730,4,1146
+Waterford,2010,Cyclist/vehicle,3,0,3
+Waterford,2010,Pedestrian/vehicle,2,1,2
+Waterford,2010,Vehicle/vehicle,603,0,129
+Waterford,2011,Cyclist/vehicle,2,0,2
+Waterford,2011,Pedestrian/vehicle,5,0,5
+Waterford,2011,Vehicle/vehicle,512,1,111
+Waterford,2012,Cyclist/vehicle,1,0,1
+Waterford,2012,Pedestrian/vehicle,3,0,3
+Waterford,2012,Vehicle/vehicle,616,1,129
+Waterford,2013,Cyclist/vehicle,2,0,1
+Waterford,2013,Pedestrian/vehicle,3,1,3
+Waterford,2013,Vehicle/vehicle,574,0,111
+Waterford,2014,Cyclist/vehicle,1,0,1
+Waterford,2014,Pedestrian/vehicle,1,0,1
+Waterford,2014,Vehicle/vehicle,539,2,115
+Watertown,2010,Cyclist/vehicle,2,0,1
+Watertown,2010,Pedestrian/vehicle,2,1,2
+Watertown,2010,Vehicle/vehicle,569,1,123
+Watertown,2011,Cyclist/vehicle,1,0,1
+Watertown,2011,Pedestrian/vehicle,4,0,4
+Watertown,2011,Vehicle/vehicle,466,1,165
+Watertown,2012,Cyclist/vehicle,3,0,3
+Watertown,2012,Pedestrian/vehicle,6,0,6
+Watertown,2012,Vehicle/vehicle,501,4,119
+Watertown,2013,Cyclist/vehicle,2,0,2
+Watertown,2013,Pedestrian/vehicle,4,0,2
+Watertown,2013,Vehicle/vehicle,485,0,88
+Watertown,2014,Pedestrian/vehicle,2,0,2
+Watertown,2014,Vehicle/vehicle,504,2,105
+West Hartford,2010,Cyclist/vehicle,18,0,13
+West Hartford,2010,Pedestrian/vehicle,18,0,15
+West Hartford,2010,Vehicle/vehicle,1727,0,438
+West Hartford,2011,Cyclist/vehicle,7,0,6
+West Hartford,2011,Pedestrian/vehicle,12,0,11
+West Hartford,2011,Vehicle/vehicle,1042,1,336
+West Hartford,2012,Cyclist/vehicle,19,0,16
+West Hartford,2012,Pedestrian/vehicle,15,0,13
+West Hartford,2012,Vehicle/vehicle,1811,0,470
+West Hartford,2013,Cyclist/vehicle,15,0,14
+West Hartford,2013,Pedestrian/vehicle,11,0,11
+West Hartford,2013,Vehicle/vehicle,1847,3,456
+West Hartford,2014,Cyclist/vehicle,15,0,12
+West Hartford,2014,Pedestrian/vehicle,17,0,17
+West Hartford,2014,Vehicle/vehicle,1663,4,434
+West Haven,2010,Cyclist/vehicle,16,0,13
+West Haven,2010,Pedestrian/vehicle,32,0,29
+West Haven,2010,Vehicle/vehicle,1890,0,424
+West Haven,2011,Cyclist/vehicle,7,0,7
+West Haven,2011,Pedestrian/vehicle,24,0,22
+West Haven,2011,Vehicle/vehicle,1357,3,416
+West Haven,2012,Cyclist/vehicle,14,0,11
+West Haven,2012,Pedestrian/vehicle,27,1,25
+West Haven,2012,Vehicle/vehicle,1606,4,382
+West Haven,2013,Cyclist/vehicle,14,0,11
+West Haven,2013,Pedestrian/vehicle,24,1,21
+West Haven,2013,Vehicle/vehicle,1674,4,397
+West Haven,2014,Cyclist/vehicle,17,0,16
+West Haven,2014,Pedestrian/vehicle,25,0,20
+West Haven,2014,Vehicle/vehicle,1716,0,412
+Westbrook,2010,Cyclist/vehicle,1,0,1
+Westbrook,2010,Pedestrian/vehicle,1,0,1
+Westbrook,2010,Vehicle/vehicle,150,2,37
+Westbrook,2011,Cyclist/vehicle,1,0,1
+Westbrook,2011,Pedestrian/vehicle,2,0,2
+Westbrook,2011,Vehicle/vehicle,138,1,42
+Westbrook,2012,Pedestrian/vehicle,2,0,2
+Westbrook,2012,Vehicle/vehicle,154,0,40
+Westbrook,2013,Cyclist/vehicle,1,0,1
+Westbrook,2013,Pedestrian/vehicle,1,0,1
+Westbrook,2013,Vehicle/vehicle,187,0,52
+Westbrook,2014,Cyclist/vehicle,3,0,2
+Westbrook,2014,Vehicle/vehicle,177,1,39
+Weston,2010,Cyclist/vehicle,2,0,2
+Weston,2010,Vehicle/vehicle,123,1,36
+Weston,2011,Cyclist/vehicle,1,0,1
+Weston,2011,Vehicle/vehicle,92,0,32
+Weston,2012,Vehicle/vehicle,85,1,26
+Weston,2013,Cyclist/vehicle,2,0,2
+Weston,2013,Vehicle/vehicle,76,0,19
+Weston,2014,Cyclist/vehicle,2,0,2
+Weston,2014,Pedestrian/vehicle,1,0,1
+Weston,2014,Vehicle/vehicle,63,0,20
+Westport,2010,Cyclist/vehicle,8,0,7
+Westport,2010,Pedestrian/vehicle,10,2,10
+Westport,2010,Vehicle/vehicle,1272,3,287
+Westport,2011,Cyclist/vehicle,6,0,6
+Westport,2011,Pedestrian/vehicle,5,0,4
+Westport,2011,Vehicle/vehicle,1124,2,295
+Westport,2012,Cyclist/vehicle,7,0,7
+Westport,2012,Pedestrian/vehicle,7,0,7
+Westport,2012,Vehicle/vehicle,1241,3,295
+Westport,2013,Cyclist/vehicle,3,0,3
+Westport,2013,Pedestrian/vehicle,9,1,7
+Westport,2013,Vehicle/vehicle,1284,2,283
+Westport,2014,Cyclist/vehicle,6,0,5
+Westport,2014,Pedestrian/vehicle,5,0,5
+Westport,2014,Vehicle/vehicle,1261,1,271
+Wethersfield,2010,Cyclist/vehicle,2,0,2
+Wethersfield,2010,Pedestrian/vehicle,2,0,2
+Wethersfield,2010,Vehicle/vehicle,773,1,173
+Wethersfield,2011,Cyclist/vehicle,5,0,3
+Wethersfield,2011,Pedestrian/vehicle,3,0,3
+Wethersfield,2011,Vehicle/vehicle,759,1,190
+Wethersfield,2012,Cyclist/vehicle,3,0,3
+Wethersfield,2012,Pedestrian/vehicle,5,1,5
+Wethersfield,2012,Vehicle/vehicle,803,2,173
+Wethersfield,2013,Cyclist/vehicle,3,0,1
+Wethersfield,2013,Pedestrian/vehicle,4,2,4
+Wethersfield,2013,Vehicle/vehicle,827,0,192
+Wethersfield,2014,Cyclist/vehicle,3,0,3
+Wethersfield,2014,Pedestrian/vehicle,1,0,1
+Wethersfield,2014,Vehicle/vehicle,828,1,163
+Willington,2010,Pedestrian/vehicle,1,0,1
+Willington,2010,Vehicle/vehicle,147,2,41
+Willington,2011,Vehicle/vehicle,123,1,28
+Willington,2012,Vehicle/vehicle,115,0,23
+Willington,2013,Vehicle/vehicle,127,5,30
+Willington,2014,Vehicle/vehicle,130,2,24
+Wilton,2010,Cyclist/vehicle,1,0,1
+Wilton,2010,Pedestrian/vehicle,1,0,1
+Wilton,2010,Vehicle/vehicle,450,0,110
+Wilton,2011,Cyclist/vehicle,2,0,2
+Wilton,2011,Pedestrian/vehicle,3,0,2
+Wilton,2011,Vehicle/vehicle,369,2,106
+Wilton,2012,Pedestrian/vehicle,3,0,3
+Wilton,2012,Vehicle/vehicle,433,2,90
+Wilton,2013,Cyclist/vehicle,3,0,3
+Wilton,2013,Pedestrian/vehicle,5,0,4
+Wilton,2013,Vehicle/vehicle,507,0,137
+Wilton,2014,Cyclist/vehicle,2,0,2
+Wilton,2014,Pedestrian/vehicle,2,0,2
+Wilton,2014,Vehicle/vehicle,508,1,81
+Winchester,2010,Cyclist/vehicle,2,0,1
+Winchester,2010,Pedestrian/vehicle,2,1,2
+Winchester,2010,Vehicle/vehicle,309,0,52
+Winchester,2011,Cyclist/vehicle,5,0,4
+Winchester,2011,Pedestrian/vehicle,4,1,4
+Winchester,2011,Vehicle/vehicle,234,0,58
+Winchester,2012,Cyclist/vehicle,2,0,0
+Winchester,2012,Pedestrian/vehicle,3,0,3
+Winchester,2012,Vehicle/vehicle,251,0,43
+Winchester,2013,Cyclist/vehicle,2,0,1
+Winchester,2013,Pedestrian/vehicle,1,0,1
+Winchester,2013,Vehicle/vehicle,260,0,39
+Winchester,2014,Cyclist/vehicle,2,0,2
+Winchester,2014,Pedestrian/vehicle,1,0,1
+Winchester,2014,Vehicle/vehicle,254,0,47
+Windham,2010,Cyclist/vehicle,7,0,5
+Windham,2010,Pedestrian/vehicle,13,0,13
+Windham,2010,Vehicle/vehicle,632,3,132
+Windham,2011,Cyclist/vehicle,11,1,8
+Windham,2011,Pedestrian/vehicle,3,0,2
+Windham,2011,Vehicle/vehicle,477,2,111
+Windham,2012,Cyclist/vehicle,6,0,6
+Windham,2012,Pedestrian/vehicle,7,0,6
+Windham,2012,Vehicle/vehicle,501,0,95
+Windham,2013,Cyclist/vehicle,3,0,2
+Windham,2013,Pedestrian/vehicle,5,0,5
+Windham,2013,Vehicle/vehicle,555,0,101
+Windham,2014,Cyclist/vehicle,8,0,8
+Windham,2014,Pedestrian/vehicle,4,0,3
+Windham,2014,Vehicle/vehicle,463,2,82
+Windsor,2010,Cyclist/vehicle,4,0,3
+Windsor,2010,Pedestrian/vehicle,10,2,10
+Windsor,2010,Vehicle/vehicle,941,3,218
+Windsor,2011,Cyclist/vehicle,3,0,3
+Windsor,2011,Pedestrian/vehicle,5,0,5
+Windsor,2011,Vehicle/vehicle,901,0,238
+Windsor,2012,Cyclist/vehicle,1,0,1
+Windsor,2012,Pedestrian/vehicle,7,0,7
+Windsor,2012,Vehicle/vehicle,922,3,235
+Windsor,2013,Cyclist/vehicle,5,0,4
+Windsor,2013,Pedestrian/vehicle,5,0,4
+Windsor,2013,Vehicle/vehicle,920,3,211
+Windsor,2014,Cyclist/vehicle,4,0,4
+Windsor,2014,Pedestrian/vehicle,3,0,3
+Windsor,2014,Vehicle/vehicle,888,0,192
+Windsor Locks,2010,Cyclist/vehicle,3,1,3
+Windsor Locks,2010,Pedestrian/vehicle,6,0,6
+Windsor Locks,2010,Vehicle/vehicle,263,0,64
+Windsor Locks,2011,Vehicle/vehicle,94,0,28
+Windsor Locks,2012,Cyclist/vehicle,1,0,1
+Windsor Locks,2012,Pedestrian/vehicle,2,0,2
+Windsor Locks,2012,Vehicle/vehicle,243,0,78
+Windsor Locks,2013,Cyclist/vehicle,9,0,8
+Windsor Locks,2013,Pedestrian/vehicle,2,0,2
+Windsor Locks,2013,Vehicle/vehicle,296,1,78
+Windsor Locks,2014,Cyclist/vehicle,2,0,2
+Windsor Locks,2014,Pedestrian/vehicle,6,0,5
+Windsor Locks,2014,Vehicle/vehicle,257,0,47
+Wolcott,2010,Pedestrian/vehicle,1,1,1
+Wolcott,2010,Vehicle/vehicle,268,1,66
+Wolcott,2011,Cyclist/vehicle,2,0,2
+Wolcott,2011,Vehicle/vehicle,222,0,73
+Wolcott,2012,Pedestrian/vehicle,1,0,1
+Wolcott,2012,Vehicle/vehicle,252,0,76
+Wolcott,2013,Pedestrian/vehicle,1,0,1
+Wolcott,2013,Vehicle/vehicle,239,1,65
+Wolcott,2014,Pedestrian/vehicle,2,0,1
+Wolcott,2014,Vehicle/vehicle,248,0,71
+Woodbridge,2010,Cyclist/vehicle,2,0,2
+Woodbridge,2010,Vehicle/vehicle,301,3,75
+Woodbridge,2011,Cyclist/vehicle,1,0,1
+Woodbridge,2011,Pedestrian/vehicle,1,0,1
+Woodbridge,2011,Vehicle/vehicle,272,1,97
+Woodbridge,2012,Cyclist/vehicle,1,0,1
+Woodbridge,2012,Vehicle/vehicle,261,1,60
+Woodbridge,2013,Cyclist/vehicle,2,0,2
+Woodbridge,2013,Pedestrian/vehicle,1,0,1
+Woodbridge,2013,Vehicle/vehicle,315,1,73
+Woodbridge,2014,Cyclist/vehicle,1,0,1
+Woodbridge,2014,Pedestrian/vehicle,1,0,1
+Woodbridge,2014,Vehicle/vehicle,310,0,78
+Woodbury,2010,Cyclist/vehicle,1,0,0
+Woodbury,2010,Vehicle/vehicle,195,0,44
+Woodbury,2011,Cyclist/vehicle,1,0,1
+Woodbury,2011,Vehicle/vehicle,134,0,37
+Woodbury,2012,Vehicle/vehicle,163,0,37
+Woodbury,2013,Cyclist/vehicle,1,0,1
+Woodbury,2013,Pedestrian/vehicle,1,0,1
+Woodbury,2013,Vehicle/vehicle,175,1,32
+Woodbury,2014,Pedestrian/vehicle,1,0,1
+Woodbury,2014,Vehicle/vehicle,161,0,36
+Woodstock,2010,Pedestrian/vehicle,1,1,1
+Woodstock,2010,Vehicle/vehicle,108,2,31
+Woodstock,2011,Pedestrian/vehicle,1,1,1
+Woodstock,2011,Vehicle/vehicle,69,0,21
+Woodstock,2012,Vehicle/vehicle,114,0,28
+Woodstock,2013,Cyclist/vehicle,3,0,2
+Woodstock,2013,Pedestrian/vehicle,1,0,1
+Woodstock,2013,Vehicle/vehicle,108,1,27
+Woodstock,2014,Pedestrian/vehicle,1,1,1
+Woodstock,2014,Vehicle/vehicle,80,0,19

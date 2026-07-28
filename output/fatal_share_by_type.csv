@@ -65,24 +65,24 @@ Connecticut (statewide),2024,Vehicle/vehicle,102266,226,0.22099231416110926
 Connecticut (statewide),2025,Cyclist/vehicle,461,5,1.0845986984815619
 Connecticut (statewide),2025,Pedestrian/vehicle,1375,55,4
 Connecticut (statewide),2025,Vehicle/vehicle,101598,172,0.16929467115494398
-Five largest cities,2015,Cyclist/vehicle,204,2,0.9803921568627451
-Five largest cities,2015,Pedestrian/vehicle,556,9,1.618705035971223
-Five largest cities,2015,Vehicle/vehicle,28557,26,0.0910459782190006
-Five largest cities,2016,Cyclist/vehicle,219,1,0.45662100456621
-Five largest cities,2016,Pedestrian/vehicle,688,17,2.4709302325581395
-Five largest cities,2016,Vehicle/vehicle,30936,38,0.12283423842772176
-Five largest cities,2017,Cyclist/vehicle,223,1,0.4484304932735426
-Five largest cities,2017,Pedestrian/vehicle,700,18,2.571428571428571
-Five largest cities,2017,Vehicle/vehicle,29667,36,0.12134695115785216
+Five largest cities,2015,Cyclist/vehicle,227,2,0.881057268722467
+Five largest cities,2015,Pedestrian/vehicle,592,9,1.5202702702702704
+Five largest cities,2015,Vehicle/vehicle,30215,26,0.08604997517789179
+Five largest cities,2016,Cyclist/vehicle,231,1,0.4329004329004329
+Five largest cities,2016,Pedestrian/vehicle,721,17,2.3578363384188625
+Five largest cities,2016,Vehicle/vehicle,32362,38,0.11742166738767691
+Five largest cities,2017,Cyclist/vehicle,230,1,0.43478260869565216
+Five largest cities,2017,Pedestrian/vehicle,715,18,2.5174825174825175
+Five largest cities,2017,Vehicle/vehicle,31308,36,0.11498658489842851
 Five largest cities,2018,Cyclist/vehicle,176,1,0.5681818181818182
 Five largest cities,2018,Pedestrian/vehicle,654,20,3.058103975535168
-Five largest cities,2018,Vehicle/vehicle,31100,45,0.14469453376205788
+Five largest cities,2018,Vehicle/vehicle,31106,45,0.14466662380248183
 Five largest cities,2019,Cyclist/vehicle,194,0,0
-Five largest cities,2019,Pedestrian/vehicle,747,19,2.5435073627844713
-Five largest cities,2019,Vehicle/vehicle,30618,30,0.09798157946306094
+Five largest cities,2019,Pedestrian/vehicle,748,19,2.5401069518716577
+Five largest cities,2019,Vehicle/vehicle,30619,30,0.0979783794376041
 Five largest cities,2020,Cyclist/vehicle,137,4,2.9197080291970803
 Five largest cities,2020,Pedestrian/vehicle,538,22,4.089219330855019
-Five largest cities,2020,Vehicle/vehicle,24049,39,0.16216890515198137
+Five largest cities,2020,Vehicle/vehicle,24050,39,0.16216216216216214
 Five largest cities,2021,Cyclist/vehicle,110,1,0.9090909090909091
 Five largest cities,2021,Pedestrian/vehicle,521,19,3.6468330134357005
 Five largest cities,2021,Vehicle/vehicle,26988,37,0.13709796946791167
@@ -131,24 +131,24 @@ Hartford,2024,Vehicle/vehicle,5915,9,0.1521555367709214
 Hartford,2025,Cyclist/vehicle,34,1,2.941176470588235
 Hartford,2025,Pedestrian/vehicle,155,4,2.5806451612903225
 Hartford,2025,Vehicle/vehicle,6233,10,0.16043638697256538
-New Haven,2015,Cyclist/vehicle,66,0,0
-New Haven,2015,Pedestrian/vehicle,99,0,0
-New Haven,2015,Vehicle/vehicle,6298,7,0.11114639568116863
-New Haven,2016,Cyclist/vehicle,69,0,0
-New Haven,2016,Pedestrian/vehicle,143,3,2.097902097902098
-New Haven,2016,Vehicle/vehicle,6106,12,0.1965280052407468
-New Haven,2017,Cyclist/vehicle,92,1,1.0869565217391304
-New Haven,2017,Pedestrian/vehicle,162,2,1.2345679012345678
-New Haven,2017,Vehicle/vehicle,5917,8,0.13520365049856345
+New Haven,2015,Cyclist/vehicle,89,0,0
+New Haven,2015,Pedestrian/vehicle,135,0,0
+New Haven,2015,Vehicle/vehicle,7956,7,0.08798391151332328
+New Haven,2016,Cyclist/vehicle,81,0,0
+New Haven,2016,Pedestrian/vehicle,176,3,1.7045454545454544
+New Haven,2016,Vehicle/vehicle,7532,12,0.15932023366967604
+New Haven,2017,Cyclist/vehicle,99,1,1.0101010101010102
+New Haven,2017,Pedestrian/vehicle,177,2,1.1299435028248588
+New Haven,2017,Vehicle/vehicle,7558,8,0.10584810796507012
 New Haven,2018,Cyclist/vehicle,89,0,0
 New Haven,2018,Pedestrian/vehicle,133,3,2.2556390977443606
-New Haven,2018,Vehicle/vehicle,7147,16,0.22387015530992024
+New Haven,2018,Vehicle/vehicle,7153,16,0.22368237103313296
 New Haven,2019,Cyclist/vehicle,85,0,0
-New Haven,2019,Pedestrian/vehicle,202,8,3.9603960396039604
-New Haven,2019,Vehicle/vehicle,7269,9,0.12381345439537762
+New Haven,2019,Pedestrian/vehicle,203,8,3.9408866995073892
+New Haven,2019,Vehicle/vehicle,7270,9,0.12379642365887208
 New Haven,2020,Cyclist/vehicle,61,2,3.278688524590164
 New Haven,2020,Pedestrian/vehicle,133,9,6.7669172932330826
-New Haven,2020,Vehicle/vehicle,5545,6,0.10820559062218214
+New Haven,2020,Vehicle/vehicle,5546,6,0.10818608005769925
 New Haven,2021,Cyclist/vehicle,42,1,2.380952380952381
 New Haven,2021,Pedestrian/vehicle,139,10,7.1942446043165464
 New Haven,2021,Vehicle/vehicle,6600,12,0.18181818181818182
