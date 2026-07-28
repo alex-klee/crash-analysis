@@ -1,8 +1,7 @@
 # Connecticut motor-vehicle crash & fatality trends, 2015-2025
-# Focus: New Haven & Waterbury vs. comparison cities and Connecticut overall
 
 # Geographies: New Haven, Waterbury, Hartford, Stamford, Bridgeport (the five largest CT cities)
-# plus two benchmark lines -- the five cities combined and the statewide total
+# plus two benchmark lines: the five cities combined and the statewide total
 
 # Data: raw exports from the CT Crash Data Repository (ctcrash.uconn.edu) are compiled 
 # into small, git-committed CSVs (see raw_data/ and the build_* functions)
@@ -76,6 +75,7 @@ build_town_counts <- function() {
       is_fatal        = severity == "K",
       is_injury_fatal = severity %in% c("A", "K")   # anything not "O"
     ) |>
+    
     # Query date-ranges overlap on boundary days (2020/2022/2025-01-01)
     # so a crash can appear in two exports -> de-duplicate on the crash id
     distinct(crash_id, .keep_all = TRUE) |>
@@ -148,7 +148,7 @@ build_fatalities <- function() {
                                     ptype = 9L, injury = 11L))) |>
     list_rbind() |>
     filter(injury == "K") |>
-    distinct(crash_id, person_id, .keep_all = TRUE) |>   # dedup boundary overlaps
+    distinct(crash_id, person_id, .keep_all = TRUE) |>
     mutate(group = case_when(ptype %in% motorist ~ "Driver/Passenger",
                              ptype %in% nonmotor ~ "Pedestrian/Cyclist/Other",
                              TRUE               ~ "Other/Unknown")) |>
@@ -170,9 +170,8 @@ if (file.exists(fatalities_file)) {
           min(fatal_counts$year), "-", max(fatal_counts$year), ").")
 }
 
-# Compile-once by-COLLISION-TYPE datasets
+# Compile-once by collision type data
 
-# Annual calculations by collision type. 
 # Each crash is from the people involved (person-level _2 files):
 #   Cyclist/vehicle    -> a cyclist was involved (Person Type 5,6)
 #   Pedestrian/vehicle -> a pedestrian / other non-motorist involved (3,4,8), no cyclist
@@ -261,7 +260,7 @@ if (file.exists(bytype_crash_file) && file.exists(bytype_fatal_file)) {
 # Geographies of interest
 
 # Focus on New Haven and Waterbury + comparison cities
-# report_towns are also the five most populous CT cities
+# report_towns are also the five biggest CT cities
 # Two aggregate benchmark lines are added: the five largest cities combined, and the statewide total
 focus_towns <- c("New Haven", "Waterbury")
 comparison_towns <- c("Hartford", "Stamford", "Bridgeport")
@@ -307,7 +306,7 @@ dir.create("output", showWarnings = FALSE)
 write_csv(indicators_long,  "output/crash_indicators_long.csv")
 write_csv(indicators_table, "output/crash_indicators_by_year_wide.csv")
 
-# Readable console view: one compact block per geography, year down the rows each of the six indicators as a labelled column
+# Readable view: one compact block per geography, year down the rows each of the six indicators as a labelled column
 print_geo <- function(geo) {
   message("\n--- ", geo, ": six indicators by year ---")
   indicators_long |>
